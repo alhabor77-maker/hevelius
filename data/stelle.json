@@ -1,0 +1,351 @@
+{
+ "orione": [
+  {
+   "id": "betelgeuse",
+   "nome": "Betelgeuse",
+   "bayer": "α Orionis",
+   "origine_nome": "Dall'arabo yad al-jawzāʾ, «mano di al-Jawzāʾ (il Gigante)», deformato nel Medioevo in «bayt al-jawzāʾ».",
+   "magnitudine": "≈0,50 (variabile, 0,0–1,6)",
+   "spettro": "M1–M2 Ia–ab",
+   "distanza_al": 548,
+   "curiosita": "Supergigante rossa semiregolare: tra fine 2019 e inizio 2020 subì un calo di luminosità eccezionale (Great Dimming), attribuito a una nube di polvere espulsa dalla stella. Le stime di distanza vanno da circa 408 a 548 anni luce.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Betelgeuse"
+  },
+  {
+   "id": "rigel",
+   "nome": "Rigel",
+   "bayer": "β Orionis",
+   "origine_nome": "Dall'arabo rijl, «piede», da rijl al-jawzāʾ al-yusrā, «piede sinistro del Gigante».",
+   "magnitudine": "0,13 (lievemente variabile)",
+   "spettro": "B8 Ia",
+   "distanza_al": 848,
+   "curiosita": "Supergigante blu-bianca: è la stella più luminosa della costellazione, benché designata «beta». È un sistema multiplo: la compagna più luminosa è visibile con un piccolo telescopio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Rigel"
+  },
+  {
+   "id": "bellatrix",
+   "nome": "Bellatrix",
+   "bayer": "γ Orionis",
+   "origine_nome": "Dal latino bellātrix, «guerriera»; è detta anche «Stella delle Amazzoni».",
+   "magnitudine": "1,64",
+   "spettro": "B2 III",
+   "distanza_al": 252,
+   "curiosita": "Gigante blu-bianca, la terza stella più luminosa di Orione; segna una delle spalle del Gigante (la spalla occidentale sulle carte normali).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Bellatrix"
+  },
+  {
+   "id": "mintaka",
+   "nome": "Mintaka",
+   "bayer": "δ Orionis",
+   "origine_nome": "Dall'arabo manṭaqa, «cintura».",
+   "magnitudine": "2,23 (lievemente variabile)",
+   "spettro": "O9.5 II + compagne (B1 V, B0 IV)",
+   "distanza_al": 1246,
+   "curiosita": "Si trova quasi esattamente sull'equatore celeste; è la più occidentale delle tre stelle della Cintura ed è un sistema multiplo con una binaria ad eclisse.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mintaka"
+  },
+  {
+   "id": "alnilam",
+   "nome": "Alnilam",
+   "bayer": "ε Orionis",
+   "origine_nome": "Dall'arabo al-niẓām, «il filo di perle (la collana)».",
+   "magnitudine": "1,69 (1,64–1,74)",
+   "spettro": "B0 Ia",
+   "distanza_al": 1252,
+   "curiosita": "Stella centrale della Cintura, la più luminosa delle tre; è una supergigante blu lontana circa 1250 anni luce (incertezza di qualche decina).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alnilam"
+  },
+  {
+   "id": "alnitak",
+   "nome": "Alnitak",
+   "bayer": "ζ Orionis",
+   "origine_nome": "Dall'arabo al-niṭāq, «la cintura (fascia)».",
+   "magnitudine": "1,77",
+   "spettro": "O9.5 Iab + compagne (B1 IV, B0 III)",
+   "distanza_al": 1262,
+   "curiosita": "Sistema triplo, è la stella più orientale della Cintura; vicino ad essa si trovano la Nebulosa Fiamma e la Nebulosa Testa di Cavallo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alnitak"
+  },
+  {
+   "id": "saiph",
+   "nome": "Saiph",
+   "bayer": "κ Orionis",
+   "origine_nome": "Dall'arabo saif al-jabbār, «la spada del gigante».",
+   "magnitudine": "2,09",
+   "spettro": "B0.5 Ia",
+   "distanza_al": 647,
+   "curiosita": "Supergigante blu di luminosità reale paragonabile a Rigel; appare più debole perché gran parte della sua radiazione è emessa nell'ultravioletto.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Saiph"
+  },
+  {
+   "id": "meissa",
+   "nome": "Meissa",
+   "bayer": "λ Orionis",
+   "origine_nome": "Dall'arabo al-maisān, «la splendente»; nome tradizionalmente legato alla «testa» del Gigante.",
+   "magnitudine": "3,33",
+   "spettro": "O9 III",
+   "distanza_al": 1258,
+   "curiosita": "Segna la «testa» di Orione; è circondata dall'ammasso aperto Collinder 69 e dalla nebulosa a emissione Sh2-264.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Meissa"
+  }
+ ],
+ "scorpione": [
+  {
+   "id": "antares",
+   "nome": "Antares",
+   "bayer": "α Scorpii",
+   "origine_nome": "Dal greco Antarēs, «anti-Ares», cioè «rivale di Marte» per il colore rossastro. Il nome latino è Cor Scorpii, «cuore dello Scorpione».",
+   "magnitudine": "≈1,06 (variabile, 0,6–1,6)",
+   "spettro": "M1.5 Iab–Ib (+ compagna B2.5 V)",
+   "distanza_al": 554,
+   "curiosita": "Supergigante rossa con un diametro circa 700 volte quello del Sole; la compagna blu è difficile da osservare per il bagliore della principale. È una delle quattro «stelle reali» persiane.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Antares"
+  },
+  {
+   "id": "shaula",
+   "nome": "Shaula",
+   "bayer": "λ Scorpii",
+   "origine_nome": "Dall'arabo al-shawlāʾ, «la (coda) alzata», cioè il pungiglione.",
+   "magnitudine": "1,63 (lievemente variabile)",
+   "spettro": "B1.5 IV + B2 IV (sistema triplo)",
+   "distanza_al": 571,
+   "curiosita": "Seconda stella più luminosa dello Scorpione, segna il pungiglione insieme a Lesath.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Scorpii"
+  },
+  {
+   "id": "sargas",
+   "nome": "Sargas",
+   "bayer": "θ Scorpii",
+   "origine_nome": "Nome di origine sumerica/babilonese (Sargas), di significato incerto.",
+   "magnitudine": "1,84",
+   "spettro": "F1 III",
+   "distanza_al": 329,
+   "curiosita": "Rara gigante di tipo F con luminosità elevata; secondo gli studi recenti è il prodotto della fusione di due stelle.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Scorpii"
+  },
+  {
+   "id": "dschubba",
+   "nome": "Dschubba",
+   "bayer": "δ Scorpii",
+   "origine_nome": "Dall'arabo al-jabhah, «la fronte» (dello Scorpione).",
+   "magnitudine": "≈2,3 (variabile, 1,59–2,32)",
+   "spettro": "B0.3 IV",
+   "distanza_al": 441,
+   "curiosita": "Nel 2000 passò improvvisamente da magnitudine 2,3 a circa 1,6 e da allora varia: il fenomeno è legato all'orbita molto eccentrica della compagna.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Scorpii"
+  },
+  {
+   "id": "graffias",
+   "nome": "Graffias (Acrab)",
+   "bayer": "β Scorpii",
+   "origine_nome": "Graffias dal greco/latino «artigli» (grapsos); Acrab dall'arabo ʿaqrab, «scorpione».",
+   "magnitudine": "2,6",
+   "spettro": "B1 V (sistema multiplo)",
+   "distanza_al": 466,
+   "curiosita": "Sistema multiplo con due componenti principali separabili con un piccolo telescopio; segna la testa/artigli dello Scorpione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Scorpii"
+  },
+  {
+   "id": "lesath",
+   "nome": "Lesath",
+   "bayer": "υ Scorpii",
+   "origine_nome": "Dall'arabo al-laʿṣa, «la puntura».",
+   "magnitudine": "2,70",
+   "spettro": "B2 IV",
+   "distanza_al": 576,
+   "curiosita": "Con Shaula forma la coppia detta «i Gatti» ai lati del pungiglione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Upsilon_Scorpii"
+  },
+  {
+   "id": "girtab",
+   "nome": "Girtab",
+   "bayer": "κ Scorpii",
+   "origine_nome": "Dal babilonese girtab, «scorpione».",
+   "magnitudine": "2,41–2,42",
+   "spettro": "B1.5 III",
+   "distanza_al": 480,
+   "curiosita": "Binaria spettroscopica con componente primaria pulsante (variabile di tipo Beta Cephei), con periodo orbitale di circa 195 giorni.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Scorpii"
+  }
+ ],
+ "cane_minore": [
+  {
+   "id": "procione",
+   "nome": "Procione",
+   "bayer": "α Canis Minoris",
+   "origine_nome": "Dal greco Prokyōn, «prima del cane», perché sorge poco prima di Sirio.",
+   "magnitudine": "0,34",
+   "spettro": "F5 IV–V",
+   "distanza_al": 11.5,
+   "curiosita": "Ottava stella più luminosa del cielo notturno e tra le più vicine al Sole; ha una compagna nana bianca (Procione B, magnitudine ≈10,7).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Procyon"
+  },
+  {
+   "id": "gomeisa",
+   "nome": "Gomeisa",
+   "bayer": "β Canis Minoris",
+   "origine_nome": "Dall'arabo al-ghumaiṣāʾ, «la dagli occhi cisposi (lacrimosi)».",
+   "magnitudine": "2,84–2,92",
+   "spettro": "B8 Ve",
+   "distanza_al": 162,
+   "curiosita": "Stella Be a rotazione rapida circondata da un disco di gas; è leggermente variabile.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Canis_Minoris"
+  }
+ ],
+ "toro": [
+  {
+   "id": "aldebaran",
+   "nome": "Aldebaran",
+   "bayer": "α Tauri",
+   "origine_nome": "Dall'arabo al-dabarān, «il seguace», perché segue le Pleiadi nel moto diurno.",
+   "magnitudine": "≈0,85 (lievemente variabile)",
+   "spettro": "K5+ III",
+   "distanza_al": 67,
+   "curiosita": "Gigante arancione, l'«occhio del Toro». Non fa parte delle Iadi: è solo nella stessa direzione, a circa metà distanza. La sonda Pioneer 10 è diretta approssimativamente verso di essa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Aldebaran"
+  },
+  {
+   "id": "elnath",
+   "nome": "Elnath",
+   "bayer": "β Tauri",
+   "origine_nome": "Dall'arabo al-nāṭiḥ, «colui che cozza (con le corna)».",
+   "magnitudine": "1,65",
+   "spettro": "B7 III",
+   "distanza_al": 134,
+   "curiosita": "Corno settentrionale del Toro; in passato era condivisa con l'Auriga, dove portava la designazione γ Aurigae.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Tauri"
+  },
+  {
+   "id": "zeta_tauri",
+   "nome": "Zeta Tauri (Tianguan)",
+   "bayer": "ζ Tauri",
+   "origine_nome": "Il nome tradizionale Tianguan deriva dal cinese 天關, «Porta del Cielo».",
+   "magnitudine": "3,01 (2,88–3,17)",
+   "spettro": "B2 IIIpe",
+   "distanza_al": 445,
+   "curiosita": "Binaria con un disco di gas (stella Be) di periodo 133 giorni; segna il corno meridionale del Toro, vicino alla Nebulosa del Granchio (M1).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Tauri"
+  },
+  {
+   "id": "ain",
+   "nome": "Ain (Epsilon Tauri)",
+   "bayer": "ε Tauri",
+   "origine_nome": "Dall'arabo ʿayn, «occhio» (del Toro).",
+   "magnitudine": "3,53",
+   "spettro": "K0 III",
+   "distanza_al": 146,
+   "curiosita": "Gigante arancione delle Iadi; nel 2007 è stato scoperto un pianeta gigante attorno ad essa (Amateru).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Tauri"
+  },
+  {
+   "id": "iadi",
+   "nome": "Iadi (Hyades)",
+   "bayer": "Melotte 25",
+   "origine_nome": "Dal greco Hyades, legato a hyein, «piovere»; nel mito le Iadi sono le sorelle di Iante e, in alcune versioni, delle Pleiadi.",
+   "magnitudine": "Stelle principali tra 3,5 e 4",
+   "spettro": "Prevalentemente giganti K0 e stelle A/F",
+   "distanza_al": 153,
+   "curiosita": "È l'ammasso aperto più vicino alla Terra (circa 153 anni luce); forma la «V» del muso del Toro.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Hyades_(star_cluster)"
+  },
+  {
+   "id": "alcyone",
+   "nome": "Alcyone",
+   "bayer": "η Tauri",
+   "origine_nome": "Da Alcione, una delle sette sorelle Pleiadi, figlia di Atlante e Pleione.",
+   "magnitudine": "2,87",
+   "spettro": "B7 IIIe",
+   "distanza_al": 444,
+   "curiosita": "La stella più brillante delle Pleiadi; in realtà è un sistema multiplo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alcyone_(star)"
+  },
+  {
+   "id": "atlas",
+   "nome": "Atlas",
+   "bayer": "27 Tauri",
+   "origine_nome": "Da Atlante, il Titano padre delle Pleiadi.",
+   "magnitudine": "3,63",
+   "spettro": "B8 III",
+   "distanza_al": 444,
+   "curiosita": "Sistema binario ravvicinato, circondato dalla nebulosità riflettente dell'ammasso.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Atlas_(star)"
+  },
+  {
+   "id": "electra",
+   "nome": "Electra",
+   "bayer": "17 Tauri",
+   "origine_nome": "Da Elettra, una delle sette sorelle.",
+   "magnitudine": "3,70",
+   "spettro": "B6 IIIe",
+   "distanza_al": 444,
+   "curiosita": "Stella Be a rotazione rapida circondata da un disco di gas.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Electra_(star)"
+  },
+  {
+   "id": "maia",
+   "nome": "Maia",
+   "bayer": "20 Tauri",
+   "origine_nome": "Da Maia, la maggiore delle Pleiadi e madre di Ermes.",
+   "magnitudine": "3,87",
+   "spettro": "B8 III",
+   "distanza_al": 444,
+   "curiosita": "Circondata dalla nebulosa a riflessione NGC 1432; ha una composizione chimica peculiare.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Maia_(star)"
+  },
+  {
+   "id": "merope",
+   "nome": "Merope",
+   "bayer": "23 Tauri",
+   "origine_nome": "Da Merope, la sorella che secondo il mito sposò un mortale (Sisifo).",
+   "magnitudine": "4,18",
+   "spettro": "B6 IV(e)",
+   "distanza_al": 444,
+   "curiosita": "È avvolta dalla Nebulosa di Merope (NGC 1435), scoperta da Wilhelm Tempel nel 1859.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Merope_(star)"
+  },
+  {
+   "id": "taygeta",
+   "nome": "Taygeta",
+   "bayer": "19 Tauri (q Tauri)",
+   "origine_nome": "Da Taigete, ninfa Pleiade amata da Zeus.",
+   "magnitudine": "4,30",
+   "spettro": "B6 IV",
+   "distanza_al": 444,
+   "curiosita": "Stella binaria o multipla della sequenza principale, tra le Pleiadi più luminose.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Taygeta"
+  },
+  {
+   "id": "pleione",
+   "nome": "Pleione",
+   "bayer": "28 Tauri (BU Tauri)",
+   "origine_nome": "Da Pleione, madre delle sette Pleiadi e sposa di Atlante.",
+   "magnitudine": "4,77–5,50 (variabile)",
+   "spettro": "B8 Vne",
+   "distanza_al": 444,
+   "curiosita": "Stella Be con guscio di gas e luminosità variabile; dista da Atlas solo pochi primi d'arco.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pleione_(star)"
+  },
+  {
+   "id": "celaeno",
+   "nome": "Celaeno",
+   "bayer": "16 Tauri",
+   "origine_nome": "Da Celeno, una delle Pleiadi (dal greco kelainos, «scuro»).",
+   "magnitudine": "5,45",
+   "spettro": "B7 V",
+   "distanza_al": 444,
+   "curiosita": "Tra le Pleiadi più deboli a occhio nudo; è vicina al limite di visibilità in cielo buio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Celaeno_(star)"
+  },
+  {
+   "id": "asterope",
+   "nome": "Asterope (Sterope)",
+   "bayer": "21 Tauri",
+   "origine_nome": "Da Asterope o Sterope, «lampo di luce», una delle Pleiadi.",
+   "magnitudine": "5,76",
+   "spettro": "B8 V",
+   "distanza_al": 444,
+   "curiosita": "Vicina a 22 Tauri (Sterope II): le due stelle formano una coppia ottica difficile da separare a occhio nudo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Asterope_(star)"
+  }
+ ]
+}
