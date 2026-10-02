@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hevelius, Firmamentum Sobiescianum · Orione, Scorpione, Cane Minore, Toro</title>
+  <meta name="description" content="Prototipo didattico: le tavole di Johannes Hevelius (1690) per Orione, Scorpione, Cane Minore e Toro con le Pleiadi, con stelle cliccabili, descrizioni e miti.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+  <header class="site-header" id="site-header"></header>
+  <main id="main">
+    <section class="hero wrap">
+      <p class="eyebrow">Johannes Hevelius · Danzica, 1690</p>
+      <h1>Il cielo di Hevelius</h1>
+      <p class="lead">Quattro tavole del <em>Firmamentum Sobiescianum</em>, l’atlante celeste più splendido del Seicento. Entra nelle costellazioni, tocca le stelle e scopri le storie che il cielo racconta.</p>
+      <div class="ornament" aria-hidden="true">✦ ✦ ✦</div>
+      <p class="muted small">Le tavole mostrano il cielo visto dall’esterno della sfera celeste: l’immagine è <strong>speculare</strong> rispetto a come lo vediamo da Terra.</p>
+    </section>
+
+    <section class="wrap" aria-labelledby="cost-h">
+      <h2 id="cost-h" class="sr-only">Le costellazioni</h2>
+      <div class="cards" id="cards">
+        <noscript><p class="notice">Serve JavaScript per mostrare le tavole. In alternativa: <a href="constellation.html?c=orione">Orione</a>, <a href="constellation.html?c=scorpione">Scorpione</a>, <a href="constellation.html?c=cane_minore">Cane Minore</a>, <a href="constellation.html?c=toro">Toro</a>.</p></noscript>
+      </div>
+    </section>
+
+    <section class="wrap section">
+      <div class="two-col">
+        <div class="panel-box">
+          <h3>Come si usa</h3>
+          <p>Apri una costellazione e tocca i cerchi dorati sulla tavola: ogni stella principale ha una scheda con magnitudine, distanza, origine del nome e curiosità. Puoi ingrandire la tavola e mostrare i nomi delle stelle.</p>
+        </div>
+        <div class="panel-box">
+          <h3>Chi era Hevelius</h3>
+          <p>Johannes Hevelius (Jan Heweliusz, 1611–1687), birraio e astronomo di Danzica, osservò il cielo a occhio nudo con strumenti di precisione. La sua <em>Uranographia</em> fu pubblicata nel 1690, tre anni dopo la sua morte, dalla vedova Elisabeth.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
