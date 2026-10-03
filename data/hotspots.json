@@ -62,5 +62,54 @@
    "r_pct": 1.2
   }
  ],
- "orsa_maggiore": []
+ "orsa_maggiore": [
+  {
+   "star_id": "dubhe",
+   "x_pct": 46.6,
+   "y_pct": 30.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "merak",
+   "x_pct": 50.6,
+   "y_pct": 39.4,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "phecda",
+   "x_pct": 60.9,
+   "y_pct": 35,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "megrez",
+   "x_pct": 61.2,
+   "y_pct": 26.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "alioth",
+   "x_pct": 67,
+   "y_pct": 20.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "alcor",
+   "x_pct": 72.1,
+   "y_pct": 17,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "mizar",
+   "x_pct": 74.1,
+   "y_pct": 14.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "alkaid",
+   "x_pct": 83,
+   "y_pct": 20.9,
+   "r_pct": 1.2
+  }
+ ]
 }
