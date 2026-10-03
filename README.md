@@ -1,6 +1,6 @@
 # Hevelius — Atlante delle costellazioni
 
-Piccolo sito statico che presenta quattro tavole dell'*Uranographia* di Johannes Hevelius (1690): Orione, Cane Minore, Toro e Scorpione. Ogni tavola ha punti cliccabili sulle stelle principali, con una scheda di approfondimento.
+Piccolo sito statico che presenta sei tavole dell'*Uranographia* di Johannes Hevelius (1690): Orione, Cane Minore, Toro, Scorpione, Cane Maggiore e Orsa Maggiore. Ogni tavola ha punti cliccabili sulle stelle principali, con una scheda di approfondimento.
 
 ## Come è fatto
 

@@ -347,5 +347,196 @@
    "curiosita": "Vicina a 22 Tauri (Sterope II): le due stelle formano una coppia ottica difficile da separare a occhio nudo.",
    "fonte_url": "https://en.wikipedia.org/wiki/Asterope_(star)"
   }
+ ],
+ "cane_maggiore": [
+  {
+   "id": "sirio",
+   "nome": "Sirio",
+   "bayer": "α Canis Majoris",
+   "origine_nome": "Dal latino Sīrius, a sua volta dal greco Σείριος (Seirios), «splendente, ardente».",
+   "magnitudine": "−1,46",
+   "spettro": "A0mA1 Va (sequenza principale; compagna Sirio B: nana bianca DA2)",
+   "distanza_al": 8.61,
+   "curiosita": "È la stella più brillante del cielo notturno, quasi il doppio di Canopo. Ha una compagna, Sirio B, una nana bianca osservata per la prima volta nel 1862 da Alvan Graham Clark. Nell'antico Egitto il suo sorgere eliaco annunciava la piena del Nilo (ciclo sotiaco, legato al calendario egizio); per i Greci segnava la stagione dei «giorni della canicola».",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sirius"
+  },
+  {
+   "id": "mirzam",
+   "nome": "Mirzam",
+   "bayer": "β Canis Majoris",
+   "origine_nome": "Dall'arabo al-murzim, «l'annunciatore», probabilmente perché sorge poco prima di Sirio. È detta anche Murzim.",
+   "magnitudine": "1,98 (lievemente variabile, 1,97–2,01)",
+   "spettro": "B1 II–III",
+   "distanza_al": 490,
+   "curiosita": "Gigante blu-bianca del tipo variabile β Cephei: pulsa con un'oscillazione di luminosità troppo piccola per essere notata a occhio nudo. Il suo sorgere precede quello di Sirio: da qui il nome di «annunciatore».",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Canis_Majoris"
+  },
+  {
+   "id": "adhara",
+   "nome": "Adhara",
+   "bayer": "ε Canis Majoris",
+   "origine_nome": "Dall'arabo ʿadhārā, «le vergini».",
+   "magnitudine": "1,50",
+   "spettro": "B2 II (oppure B2 III–II)",
+   "distanza_al": 405,
+   "curiosita": "È la seconda stella più luminosa della costellazione e la 22ª del cielo notturno. È la sorgente più brillante di ultravioletto estremo del cielo. Circa 4,7 milioni di anni fa, quando passò a una trentina di anni luce dal Sole, fu la stella più luminosa del cielo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Canis_Majoris"
+  },
+  {
+   "id": "wezen",
+   "nome": "Wezen",
+   "bayer": "δ Canis Majoris",
+   "origine_nome": "Dall'arabo medievale al-wazn, «il peso».",
+   "magnitudine": "1,82",
+   "spettro": "F8 Ia",
+   "distanza_al": "circa 1.600 anni luce (stima approssimata)",
+   "curiosita": "Supergigante gialla-bianca con un raggio di circa 188 volte quello del Sole. Il suo involucro ha iniziato a espandersi e a raffreddarsi: nei prossimi 100.000 anni diventerà una supergigante rossa e poi esploderà come supernova. La distanza è incerta e viene indicata come valore approssimato.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Canis_Majoris"
+  },
+  {
+   "id": "aludra",
+   "nome": "Aludra",
+   "bayer": "η Canis Majoris",
+   "origine_nome": "Dall'arabo al-ʿadhrāʾ, «la vergine».",
+   "magnitudine": "2,38–2,48 (variabile)",
+   "spettro": "B5 Ia",
+   "distanza_al": "circa 2.000 anni luce (stima approssimata)",
+   "curiosita": "Supergigante blu di tipo α Cygni, con una luminosità di oltre 160.000 volte quella del Sole, variabile di pochi decimi di magnitudine. La distanza è incerta e viene indicata come valore approssimato.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Canis_Majoris"
+  },
+  {
+   "id": "furud",
+   "nome": "Furud",
+   "bayer": "ζ Canis Majoris",
+   "origine_nome": "Dall'arabo al-furūd, «i solitari» (anche scritto Phurud).",
+   "magnitudine": "3,03",
+   "spettro": "B2.5 V",
+   "distanza_al": 362,
+   "curiosita": "Sistema binario con un periodo orbitale di circa 675 giorni. La componente principale è una stella blu-bianca della sequenza principale, di circa 7,7 masse solari, ed è classificata come variabile a pulsazione lenta (tipo SPB).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Canis_Majoris"
+  }
+ ],
+ "orsa_maggiore": [
+  {
+   "id": "dubhe",
+   "nome": "Dubhe",
+   "bayer": "α Ursae Majoris",
+   "origine_nome": "Dall'arabo ẓahr ad-dubb al-akbar, «il dorso dell'Orsa Maggiore».",
+   "magnitudine": "1,79",
+   "spettro": "K0 III + A5 V",
+   "distanza_al": 123,
+   "curiosita": "Con Merak forma le due «Guardie» (i puntatori) del Grande Carro: la retta che le unisce indica la Stella Polare. Benché designata «alfa», è la seconda stella più luminosa della costellazione. È un sistema multiplo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Dubhe"
+  },
+  {
+   "id": "merak",
+   "nome": "Merak",
+   "bayer": "β Ursae Majoris",
+   "origine_nome": "Dall'arabo al-marāqq, «i lombi» (dell'orsa).",
+   "magnitudine": "2,37",
+   "spettro": "A1 IVps",
+   "distanza_al": 79.7,
+   "curiosita": "Insieme a Dubhe indica la Stella Polare. Le osservazioni nell'infrarosso mostrano un eccesso di emissione, segno di un disco di polveri attorno alla stella, simile a quelli di Fomalhaut e di Vega.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Merak_(star)"
+  },
+  {
+   "id": "phecda",
+   "nome": "Phecda",
+   "bayer": "γ Ursae Majoris",
+   "origine_nome": "Dall'arabo fakhidh ad-dubb, «la coscia dell'orsa» (detta anche Phad).",
+   "magnitudine": "2,44",
+   "spettro": "A0 Ve + K2 V",
+   "distanza_al": 83.2,
+   "curiosita": "È una delle stelle del Grande Carro che appartengono al gruppo in movimento dell'Orsa Maggiore. È una binaria astrometrica: la compagna fa oscillare la stella principale attorno al centro di massa comune.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Phecda"
+  },
+  {
+   "id": "megrez",
+   "nome": "Megrez",
+   "bayer": "δ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-maghriz, «la base» (della coda dell'orsa).",
+   "magnitudine": "3,31",
+   "spettro": "A3 V",
+   "distanza_al": 80.5,
+   "curiosita": "È la più debole delle sette stelle del Grande Carro, le altre sei sono di seconda magnitudine. Segna il punto in cui il «manico» si attacca al «carro», cioè la radice della coda dell'orsa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Megrez"
+  },
+  {
+   "id": "alioth",
+   "nome": "Alioth",
+   "bayer": "ε Ursae Majoris",
+   "origine_nome": "Dall'arabo ʿalyat al-ḥamal, «la coda grassa della pecora».",
+   "magnitudine": "1,77",
+   "spettro": "A1 III–IVp kB9",
+   "distanza_al": 82.6,
+   "curiosita": "Benché designata «epsilon», è la stella più brillante dell'Orsa Maggiore. È la stella della coda più vicina al corpo dell'orsa, cioè la prima del «manico» del Grande Carro. Ha un campo magnetico 100 volte più intenso di quello terrestre, con poli magnetici quasi perpendicolari a quelli di rotazione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alioth"
+  },
+  {
+   "id": "mizar",
+   "nome": "Mizar",
+   "bayer": "ζ Ursae Majoris",
+   "origine_nome": "Dall'arabo miʾzar, «grembiule, veste».",
+   "magnitudine": "2,04 (luce combinata del sistema visibile)",
+   "spettro": "A2 Vp (componente A); sistema quadruplo",
+   "distanza_al": 82.9,
+   "curiosita": "Con la vicina Alcor forma una doppia visibile a occhio nudo, usata fin dall'antichità come prova della vista. Potrebbe essere stata la prima doppia telescopica nota agli europei (Castelli e Galileo, 1617); fu la prima doppia fotografata (Bond e Whipple, Harvard, 1857) e la prima binaria spettroscopica individuata (1890).",
+   "fonte_url": "https://skyandtelescope.org/astronomy-blogs/explore-night-bob-king/mizar-a-fresh-look-at-an-old-friend03252015/"
+  },
+  {
+   "id": "alcor",
+   "nome": "Alcor",
+   "bayer": "80 Ursae Majoris",
+   "origine_nome": "Dall'arabo al-khawwār, «la debole»; in arabo è anche detta suhā, «la dimenticata».",
+   "magnitudine": "3,99",
+   "spettro": "A5 Vn",
+   "distanza_al": 81.7,
+   "curiosita": "È la compagna debole di Mizar, a circa 12 primi d'arco da lei; con una vista normale le due stelle si separano appena. La coppia era chiamata «il Cavallo e il Cavaliere» ed è un classico test di acuità visiva. Nel 2009 si è scoperto che Alcor ha a sua volta una compagna, una nana rossa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alcor_(star)"
+  },
+  {
+   "id": "alkaid",
+   "nome": "Alkaid",
+   "bayer": "η Ursae Majoris",
+   "origine_nome": "Dall'arabo qāʾid banāt naʿsh, «il capo delle figlie della bara» (detta anche Benetnasch).",
+   "magnitudine": "1,86",
+   "spettro": "B3 V",
+   "distanza_al": 103.9,
+   "curiosita": "È la stella più orientale del Grande Carro, quella all'estremità del «manico». A differenza della maggior parte delle stelle del Carro non fa parte del gruppo in movimento dell'Orsa Maggiore.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alkaid"
+  },
+  {
+   "id": "talitha",
+   "nome": "Talitha",
+   "bayer": "ι Ursae Majoris",
+   "origine_nome": "Nome di tradizione araba; l'etimologia non è stata verificata per questa scheda.",
+   "magnitudine": "3,14",
+   "spettro": "A7 V(n) + M3 V + M4 V",
+   "distanza_al": 47.3,
+   "curiosita": "Sistema multiplo: una stella bianca di classe A7 e una coppia di nane rosse si orbitano a vicenda in circa 2.084 anni. È visibile a occhio nudo e fa parte delle stelle più brillanti della costellazione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Ursae_Majoris"
+  },
+  {
+   "id": "tania_australis",
+   "nome": "Tania Australis",
+   "bayer": "μ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-fiqra al-thāniya, «il secondo balzo (della gazzella)»; «Australis» è il latino per «meridionale».",
+   "magnitudine": "3,06",
+   "spettro": "M0 IIIab",
+   "distanza_al": 230,
+   "curiosita": "Gigante rossa di classe M0. Con Tania Borealis costituisce la coppia dei «Tania», il «secondo balzo» della gazzella nella tradizione araba.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Ursae_Majoris"
+  },
+  {
+   "id": "tania_borealis",
+   "nome": "Tania Borealis",
+   "bayer": "λ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-fiqra al-thāniya, «il secondo balzo (della gazzella)»; «Borealis» è il latino per «settentrionale».",
+   "magnitudine": "3,45",
+   "spettro": "A2 IV",
+   "distanza_al": 138,
+   "curiosita": "Stella bianca di classe A2, poco più debole di Tania Australis; con essa forma la coppia dei «Tania» nella tradizione araba.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Ursae_Majoris"
+  }
  ]
 }
