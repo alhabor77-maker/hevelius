@@ -1,19 +1,57 @@
-/* Hevelius - loader di app.js
- * Il codice dell'applicazione e' diviso in piu' parti (js/app.part1.js, js/app.part2.js, ...)
- * che, concatenate nell'ordine, formano il sorgente completo. Il loader le carica in modo
- * sincrono e le esegue come un unico script, cosi' le pagine HTML restano invariate.
- */
+// Hevelius - caricamento asincrono del codice dell'app.
+// Scarica le parti dell'applicazione in ordine, le unisce, le esegue
+// e poi segnala alla pagina che il caricamento e' completato.
+// Se una parte non si carica, mostra un avviso al posto della pagina vuota.
 (function () {
-  var parts = ["js/app.part1.js", "js/app.part2.js", "js/app.part3.js", "js/app.part4.js", "js/app.part5.js", "js/app.part6.js"];
-  var code = '';
-  for (var i = 0; i < parts.length; i++) {
-    var x = new XMLHttpRequest();
-    x.open('GET', parts[i], false);
-    x.send();
-    if (x.status !== 200 && x.status !== 0) { throw new Error('Impossibile caricare ' + parts[i]); }
-    code += x.responseText;
+  'use strict';
+
+  var PARTS = [
+    'js/app.part1.js',
+    'js/app.part2.js',
+    'js/app.part3.js',
+    'js/app.part4.js',
+    'js/app.part5.js',
+    'js/app.part6.js'
+  ];
+  var MSG = 'Errore nel caricamento: controlla la connessione e ricarica la pagina.';
+
+  function showError() {
+    var el = document.getElementById('app-error');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'app-error';
+      el.className = 'notice error';
+      el.setAttribute('role', 'alert');
+      el.style.margin = '1rem 0';
+      document.body.insertBefore(el, document.body.firstChild);
+    }
+    el.textContent = MSG;
   }
-  var s = document.createElement('script');
-  s.text = code;
-  document.head.appendChild(s);
+
+  function run(code) {
+    try {
+      var s = document.createElement('script');
+      s.text = code + '\n;document.dispatchEvent(new Event("DOMContentLoaded"));';
+      document.head.appendChild(s);
+    } catch (e) {
+      showError();
+    }
+  }
+
+  function step(i, code) {
+    if (i >= PARTS.length) {
+      run(code);
+      return;
+    }
+    fetch(PARTS[i], { cache: 'default' }).then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status + ' su ' + PARTS[i]);
+      return r.text();
+    }).then(function (t) {
+      step(i + 1, code + t);
+    }).catch(function () {
+      showError();
+    });
+  }
+
+  step(0, '');
 })();
