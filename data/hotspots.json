@@ -48,6 +48,13 @@
   }
  ],
  "cane_minore": [],
- "cane_maggiore": [],
+ "cane_maggiore": [
+  {
+   "star_id": "sirio",
+   "x_pct": 62.4,
+   "y_pct": 32.8,
+   "r_pct": 1.2
+  }
+ ],
  "orsa_maggiore": []
 }
