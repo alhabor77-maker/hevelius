@@ -24,6 +24,6 @@
 
   function loadAll() {
     var jobs = [
-      Promise.all([getJSON('data/stelle.json'), fetchConcat(STELLE_PERSEO_PARTS)]).then(function (ss) {
+      Promise.all([fetchConcat(['data/stelle_01.json', 'data/stelle_02.json', 'data/stelle_03.json', 'data/stelle_04.json', 'data/stelle_05.json', 'data/stelle_06.json', 'data/stelle_07.json', 'data/stelle_08.json', 'data/stelle_09.json', 'data/stelle_10.json', 'data/stelle_11.json', 'data/stelle_12.json', 'data/stelle_13.json', 'data/stelle_14.json', 'data/stelle_15.json', 'data/stelle_16.json']), fetchConcat(STELLE_PERSEO_PARTS)]).then(function (ss) {
         var merged = {};
         [ss[0], ss[
