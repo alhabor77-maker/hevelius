@@ -1,0 +1,23 @@
+{
+  "nota_generale": "Tavola di Johannes Hevelius, Firmamentum Sobiescianum sive Uranographia (Danzica, 1690). Le tavole sono in orientamento speculare (vista dall'esterno della sfera celeste, come su un globo). Opera e autore (m. 1687) in pubblico dominio.",
+  "immagini": [
+    {
+      "costellazione": "Orsa Maggiore (Ursa Major, con il Grande Carro)",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg/1920px-Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg",
+      "titolo_tavola": "Fig. D – Ursa Major (Firmamentum Sobiescianum sive Uranographia, 1690)",
+      "pagina_commons": "https://commons.wikimedia.org/wiki/File:Ursa_Major_constellation_-_Prodromus_astronomiae_1690_(5590247).jpg",
+      "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg",
+      "istituzione_origine": "Polona Digital Library (Biblioteka Narodowa, Polonia) – esemplare dell'edizione Gedani: typis Johannis Zachariae Stollii, 1690 (https://polona.pl/item/johannis-hevelii-prodromus-astronomiae-exhibens-fundamenta-quae-tam-ad-novum,NTU5MDc2MA/23/)",
+      "licenza": "Pubblico dominio (Public domain / Creative Commons Public Domain Mark 1.0, Wikimedia Commons; opera di autore morto da oltre 100 anni, riproduzione fedele di un originale bidimensionale)",
+      "attribuzione_richiesta": false,
+      "dimensioni_originale_px": "4391x3490",
+      "dimensioni_file_sito_px": "1920x1526",
+      "note_qualita": "Scansione ad alta risoluzione, incisione in bianco e nero su carta, non colorata. Mostrata a 1920 px di larghezza (miniatura 960 px) direttamente da Wikimedia Commons. Alternative scartate: File:Ursa_Major_constellation_-_Johannes_Hevelius_-_1690.jpg (4906x4028, e-rara, ETH-Bibliothek) e File:Ursa_Major_constellation_Hevelius.jpg (4354x3515), file equivalenti ma meno coerenti con le altre tavole del sito (Polona).",
+      "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg/960px-Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg",
+      "altre_figure_sulla_tavola": "Oltre all'Orsa Maggiore la tavola mostra: Draco (parte del Drago, in alto), Canes Venatici (i due Cani da caccia Asterion e Chara, a destra), Coma Berenices (la Chioma di Berenice, in basso a destra), Leo Minor (il Leone Minore, in basso) e Lynx (la Lince, in basso a sinistra).",
+      "nota_nome_tavola": "Nel Firmamentum Sobiescianum la tavola dell'Orsa Maggiore è la Fig. D; il titolo inciso è 'URSA MAJOR.'. Etichette presenti: Latitudo, Longitudo (bordi graduati), Fig. D.",
+      "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+    }
+  ],
+  "orientamento": "La tavola è speculare (vista dall'esterno della sfera celeste): l'Orsa Maggiore è rivolta verso sinistra, con la testa inclinata verso il basso e la lunga coda che si curva verso l'alto a destra. Draco compare in alto, i Cani da caccia (Asterion sopra, Chara sotto) sulla destra, Coma Berenices in basso a destra, Leo Minor in basso al centro e Lynx in basso a sinistra; etichette: URSA MAJOR, Latitudo, Longitudo, Fig. D. Il Grande Carro è formato dalle stelle del dorso, del fianco e della coda dell'orsa; essendo la tavola speculare, la sua disposizione appare invertita destra-sinistra rispetto al cielo visto da Terra."
+}

@@ -1,0 +1,35 @@
+ La distanza è incerta e viene indicata come valore approssimato.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Canis_Majoris"
+  },
+  {
+   "id": "aludra",
+   "nome": "Aludra",
+   "bayer": "η Canis Majoris",
+   "origine_nome": "Dall'arabo al-ʿadhrāʾ, «la vergine».",
+   "magnitudine": "2,38–2,48 (variabile)",
+   "spettro": "B5 Ia",
+   "distanza_al": "circa 2.000 anni luce (stima approssimata)",
+   "curiosita": "Supergigante blu di tipo α Cygni, con una luminosità di oltre 160.000 volte quella del Sole, variabile di pochi decimi di magnitudine. La distanza è incerta e viene indicata come valore approssimato.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Canis_Majoris"
+  },
+  {
+   "id": "furud",
+   "nome": "Furud",
+   "bayer": "ζ Canis Majoris",
+   "origine_nome": "Dall'arabo al-furūd, «i solitari» (anche scritto Phurud).",
+   "magnitudine": "3,03",
+   "spettro": "B2.5 V",
+   "distanza_al": 362,
+   "curiosita": "Sistema binario con un periodo orbitale di circa 675 giorni. La componente principale è una stella blu-bianca della sequenza principale, di circa 7,7 masse solari, ed è classificata come variabile a pulsazione lenta (tipo SPB).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Canis_Majoris"
+  }
+ ],
+ "orsa_maggiore": [
+  {
+   "id": "dubhe",
+   "nome": "Dubhe",
+   "bayer": "α Ursae Majoris",
+   "origine_nome": "Dall'arabo ẓahr ad-dubb al-akbar, «il dorso dell'Orsa Maggiore».",
+   "magnitudine": "1,79",
+   "spettro": "K0 III + A5 V",
+   "distanza_al": 

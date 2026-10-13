@@ -1,0 +1,27 @@
+   "magnitudine": "2,68",
+   "spettro": "A5 IV",
+   "distanza_al": 99,
+   "curiosita": "Probabile binaria ad eclisse con periodo di 759 giorni, anche se le variazioni sono minimissime. Attorno alla stella principale c'è un disco di detriti circostellare rilevato in infrarosso, freddo (circa 85 K), simile a una fascia di Kuiper; anche il Sole ne aveva una nella sua giovinezza.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Cassiopeiae"
+  },
+  {
+   "id": "segin",
+   "nome": "Segin",
+   "bayer": "ε Cassiopeiae",
+   "origine_nome": "Nome nato probabilmente da una trascrizione errata di Seginus, nome tradizionale di γ Boötis, di origine a sua volta incerta. Approvato dall'IAU nel 2017.",
+   "magnitudine": "3,37",
+   "spettro": "B3 V",
+   "distanza_al": 460,
+   "curiosita": "Stella blu-bianca della sequenza principale, circa 9 volte la massa del Sole e 3000 volte più luminosa; è il braccio orientale (a sinistra, nelle carte moderne) della «W». Mostra proprietà di stella Be, con un guscio di gas circumstellare, e una debole variabilità periodica scoperta da Hipparcos.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Cassiopeiae"
+  }
+ ],
+ "cefeo": [
+  {
+   "id": "alderamin",
+   "nome": "Alderamin",
+   "bayer": "α Cephei",
+   "origine_nome": "Contrazione dell'espressione araba al-dhirā‘ al-yamīn, «il braccio destro».",
+   "magnitudine": "2,46",
+   "spettro": "A8 V",
+   "distanza

@@ -1,0 +1,36 @@
+{
+  "nota_generale": "Tavole di Johannes Hevelius, Firmamentum Sobiescianum sive Uranographia (Danzica, 1690). Le tavole sono in orientamento speculare (vista dall'esterno della sfera celeste, come su un globo). Opera e autore (m. 1687) in pubblico dominio.",
+  "immagini": [
+    {
+      "costellazione": "Toro (Taurus, con Pleiadi e Iadi)",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg/1920px-Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg",
+      "titolo_tavola": "Fig. CC – Taurus (Firmamentum Sobiescianum sive Uranographia, 1690)",
+      "pagina_commons": "https://commons.wikimedia.org/wiki/File:Taurus_-_Prodromus_astronomiae_1690_(5590444).jpg",
+      "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg",
+      "istituzione_origine": "Polona Digital Library (Biblioteka Narodowa, Polonia) – esemplare dell'edizione Gedani: typis Johannis Zachariae Stollii, 1690",
+      "licenza": "Pubblico dominio (Public domain, Wikimedia Commons; opera di autore morto da oltre 100 anni, riproduzione fedele di un originale bidimensionale)",
+      "attribuzione_richiesta": false,
+      "dimensioni_originale_px": "4439x3476",
+      "dimensioni_file_sito_px": "1920x1503",
+      "note_qualita": "Scansione ad alta risoluzione, incisione in bianco e nero su carta ingiallita, non colorata. Mostrata a 1920 px di larghezza (miniatura 960 px) direttamente da Wikimedia Commons. Altra sorgente di qualità inferiore scartata: File:Taurus_by_Johannes_Hevelius.JPG (994x799, Linda Hall).",
+      "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg/960px-Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg",
+      "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+    },
+    {
+      "costellazione": "Scorpione (Scorpius)",
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Johannes_Hevelius_-_Scorpius.jpg/1920px-Johannes_Hevelius_-_Scorpius.jpg",
+      "titolo_tavola": "Fig. II – Scorpius (Firmamentum Sobiescianum sive Uranographia, 1690)",
+      "pagina_commons": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Scorpius.jpg",
+      "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Johannes_Hevelius_-_Scorpius.jpg",
+      "istituzione_origine": "Riproduzione da Barry Lawrence Ruderman Antique Maps (raremaps.com/gallery/detail/27970), esemplare colorato a mano con stelle rialzate in oro; caricata su Wikimedia Commons",
+      "licenza": "Pubblico dominio (Public domain, Wikimedia Commons; opera di autore morto da oltre 100 anni)",
+      "attribuzione_richiesta": false,
+      "dimensioni_originale_px": "3193x2606",
+      "dimensioni_file_sito_px": "1920x1567",
+      "note_qualita": "Alta risoluzione; mostrata a 1920 px da Wikimedia Commons. ATTENZIONE: è un esemplare colorato a mano (scorpione verde-azzurro, stelle dorate), non in bianco e nero come la tavola del Toro. Alternativa in b/n a bassa risoluzione: File:Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_..._Tavola_II_-_Scorpius.jpg (595x486, atlascoelestis.com).",
+      "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Johannes_Hevelius_-_Scorpius.jpg/960px-Johannes_Hevelius_-_Scorpius.jpg",
+      "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+    }
+  ],
+  "orientamento": "Entrambe le tavole sono speculari (vista dall'esterno). Nel Toro il toro guarda verso sinistra, con Orione in basso a destra, Auriga in alto a destra, Perseo in alto, Ariete a sinistra, Balena in basso a sinistra; etichette: Taurus, Ecliptica, Longitudo, Latitudo, Fig. CC. Nello Scorpione la didascalia riporta Libra a sinistra, Serpentarius in alto, Lupus in basso a sinistra, Sagittarius a destra; etichette: SCORPIUS, Ecliptica, Longitudo, Latitudo, Fig. II."
+}

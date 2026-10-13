@@ -1,0 +1,19 @@
+.site-header .wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .7rem 0; flex-wrap: wrap; }
+.brand { font-family: var(--font-serif); font-size: 1.35rem; color: var(--gold-bright); text-decoration: none; display: flex; align-items: center; gap: .55rem; }
+.brand .star { color: var(--gold); font-size: 1.1rem; }
+.brand small { color: var(--ink-dim); font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; font-family: var(--font-body); }
+.nav { display: flex; gap: .2rem 1.1rem; flex-wrap: wrap; }
+.nav a { color: var(--ink); text-decoration: none; font-size: .98rem; padding: .15rem 0; border-bottom: 1px solid transparent; }
+.nav a:hover, .nav a[aria-current="page"] { color: var(--gold-bright); border-bottom-color: var(--gold); }
+
+/* ---------- hero (home) ---------- */
+.hero { padding: clamp(3rem, 9vw, 6.5rem) 0 2.5rem; text-align: center; }
+.hero .eyebrow, .eyebrow { font-size: .85rem; letter-spacing: .32em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; }
+.hero h1 { margin-bottom: .3em; }
+.hero .lead { max-width: 46rem; margin: 0 auto 1.2rem; font-size: 1.3rem; color: var(--ink); }
+.ornament { color: var(--gold); letter-spacing: .6em; margin: 1.2rem 0; text-align: center; }
+
+/* ---------- cards home ---------- */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.6rem; margin: 1.5rem 0 3rem; }
+.card {
+  d

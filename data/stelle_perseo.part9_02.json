@@ -1,0 +1,24 @@
+greca, come per molte stelle deboli del cielo meridionale.",
+   "magnitudine": "3,50",
+   "spettro": "G8 V",
+   "distanza_al": 12,
+   "curiosita": "Stella della sequenza principale molto simile al Sole, leggermente più fredda e più piccola ma vicinissima: è la singola più vicina di tipo G. Ospita un disco di detriti dieci volte più massiccio del nostro sistema e almeno quattro pianeti di massa terrestre nel suo sistema planetario, scoperti nel 2012. È da decenni bersaglio storico delle ricerche di segnali extraterrestri (SETI), con un sondaggio radio già nel 1960 (progetto Ozma).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Tau_Ceti"
+  }
+ ],
+ "pegaso": [
+  {
+   "id": "enif",
+   "nome": "Enif",
+   "bayer": "ε Pegasi",
+   "origine_nome": "Dall'arabo anzam/al-anf, «il naso»: segna appunto il muso del cavallo, all'estremità occidentale della costellazione.",
+   "magnitudine": "2,39 (lievemente variabile)",
+   "spettro": "K2 Ib",
+   "distanza_al": 690,
+   "curiosita": "Supergigante arancione, circa 12 volte la massa del Sole e diverse migliaia di volte più luminosa: sta concludendo la sua vita e un giorno esploderà come supernova. Nel 1975 un'improvvisa fiammata la fece brillare brevemente come una stella di seconda grandezza; la sua natura variabile resta poco chiara. Nelle tavole antiche segna il muso del cavallo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Pegasi"
+  },
+  {
+   "id": "markab",
+   "nome": "Markab",
+   "bayer": "α Pegasi",

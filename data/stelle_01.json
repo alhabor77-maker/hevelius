@@ -1,0 +1,33 @@
+{
+ "orione": [
+  {
+   "id": "betelgeuse",
+   "nome": "Betelgeuse",
+   "bayer": "α Orionis",
+   "origine_nome": "Dall'arabo yad al-jawzāʾ, «mano di al-Jawzāʾ (il Gigante)», deformato nel Medioevo in «bayt al-jawzāʾ».",
+   "magnitudine": "≈0,50 (variabile, 0,0–1,6)",
+   "spettro": "M1–M2 Ia–ab",
+   "distanza_al": 548,
+   "curiosita": "Supergigante rossa semiregolare: tra fine 2019 e inizio 2020 subì un calo di luminosità eccezionale (Great Dimming), attribuito a una nube di polvere espulsa dalla stella. Le stime di distanza vanno da circa 408 a 548 anni luce.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Betelgeuse"
+  },
+  {
+   "id": "rigel",
+   "nome": "Rigel",
+   "bayer": "β Orionis",
+   "origine_nome": "Dall'arabo rijl, «piede», da rijl al-jawzāʾ al-yusrā, «piede sinistro del Gigante».",
+   "magnitudine": "0,13 (lievemente variabile)",
+   "spettro": "B8 Ia",
+   "distanza_al": 848,
+   "curiosita": "Supergigante blu-bianca: è la stella più luminosa della costellazione, benché designata «beta». È un sistema multiplo: la compagna più luminosa è visibile con un piccolo telescopio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Rigel"
+  },
+  {
+   "id": "bellatrix",
+   "nome": "Bellatrix",
+   "bayer": "γ Orionis",
+   "origine_nome": "Dal latino bellātrix, «guerriera»; è detta anche «Stella delle Amazzoni».",
+   "magnitudine": "1,64",
+   "spettro": "B2 III",
+   "distanza_al": 252,
+   "curiosita": "Gigante blu-bianca, la terza stella più luminosa di Orion

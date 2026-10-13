@@ -1,0 +1,43 @@
+
+  {
+   "id": "merope",
+   "nome": "Merope",
+   "bayer": "23 Tauri",
+   "origine_nome": "Da Merope, la sorella che secondo il mito sposò un mortale (Sisifo).",
+   "magnitudine": "4,18",
+   "spettro": "B6 IV(e)",
+   "distanza_al": 444,
+   "curiosita": "È avvolta dalla Nebulosa di Merope (NGC 1435), scoperta da Wilhelm Tempel nel 1859.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Merope_(star)"
+  },
+  {
+   "id": "taygeta",
+   "nome": "Taygeta",
+   "bayer": "19 Tauri (q Tauri)",
+   "origine_nome": "Da Taigete, ninfa Pleiade amata da Zeus.",
+   "magnitudine": "4,30",
+   "spettro": "B6 IV",
+   "distanza_al": 444,
+   "curiosita": "Stella binaria o multipla della sequenza principale, tra le Pleiadi più luminose.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Taygeta"
+  },
+  {
+   "id": "pleione",
+   "nome": "Pleione",
+   "bayer": "28 Tauri (BU Tauri)",
+   "origine_nome": "Da Pleione, madre delle sette Pleiadi e sposa di Atlante.",
+   "magnitudine": "4,77–5,50 (variabile)",
+   "spettro": "B8 Vne",
+   "distanza_al": 444,
+   "curiosita": "Stella Be con guscio di gas e luminosità variabile; dista da Atlas solo pochi primi d'arco.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pleione_(star)"
+  },
+  {
+   "id": "celaeno",
+   "nome": "Celaeno",
+   "bayer": "16 Tauri",
+   "origine_nome": "Da Celeno, una delle Pleiadi (dal greco kelainos, «scuro»).",
+   "magnitudine": "5,45",
+   "spettro": "B7 V",
+   "distanza_al": 444,
+   "curiosita": "Tra le Pleiadi più deboli a occhio nudo; è vicina al limite

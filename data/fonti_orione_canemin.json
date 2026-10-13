@@ -1,0 +1,56 @@
+{
+  "immagini": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg/1920px-Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg",
+      "costellazione": "Orione (Orion)",
+      "titolo_tavola": "Tavola QQ (Fig. QQ) - ORION, con Taurus, Gemini, Monoceros, Canis Major, Lepus, Cetus, Eridanus ai margini",
+      "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Orion_constellation_-_Prodromus_astronomiae_1690_(5590584).jpg",
+      "url_file_originale": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg",
+      "url_origine_polona": "https://polona.pl/item/johannis-hevelii-prodromus-astronomiae-exhibens-fundamenta-quae-tam-ad-novum,NTU5MDc2MA/95/",
+      "dimensioni_originale_px": {
+        "larghezza": 4416,
+        "altezza": 3482
+      },
+      "dimensioni_file_sito_px": {
+        "larghezza": 1920,
+        "altezza": 1514
+      },
+      "colore": "bianco e nero (incisione su carta ingiallita)",
+      "note": "Alternativa colorata a bassa risoluzione (1514x1250) su Commons: File:Johannes Hevelius - Prodromus Astronomia, volume III - Firmamentum Sobiescianum, sive Uranographia, table QQ - Orion, 1690.jpg (non usata).",
+      "opera": "Johannes Hevelius, Prodromus astronomiae ... (Gedani, typis Johannis Zachariae Stollii, 1690) - comprende Catalogus stellarum fixarum e Firmamentum Sobiescianum sive Uranographia (56 tavole doppie)",
+      "autore": "Johannes Hevelius (Jan Heweliusz, 1611-1687); incisioni della Uranographia pubblicate postume dalla vedova Elisabeth Hevelius nel 1690",
+      "licenza": "Pubblico dominio (opera del XVII secolo; Creative Commons Public Domain Mark 1.0 / tag PD-old-100-expired su Wikimedia Commons)",
+      "attribuzione_richiesta": false,
+      "provenienza_scansione": "Biblioteka Narodowa (Biblioteca Nazionale di Polonia), Biblioteca digitale Polona, caricata su Wikimedia Commons",
+      "orientamento": "Speculare: la sfera celeste e' vista dall'esterno, come su un globo (le figure mostrano spesso la schiena).",
+      "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg/960px-Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg",
+      "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg/1920px-Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg",
+      "costellazione": "Cane Minore (Canis Minor)",
+      "titolo_tavola": "Tavola SS (Fig. SS) - CANIS MINOR, con Monoceros, Orion, Gemini, Cancer, Hydra, Lepus, Canis Major ai margini",
+      "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Canis_Minor_-_Prodromus_astronomiae_1690_(5590605).jpg",
+      "url_file_originale": "https://upload.wikimedia.org/wikipedia/commons/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg",
+      "url_origine_polona": "https://polona.pl/item/johannis-hevelii-prodromus-astronomiae-exhibens-fundamenta-quae-tam-ad-novum,NTU5MDc2MA/99/",
+      "dimensioni_originale_px": {
+        "larghezza": 4395,
+        "altezza": 3459
+      },
+      "dimensioni_file_sito_px": {
+        "larghezza": 1920,
+        "altezza": 1511
+      },
+      "colore": "bianco e nero (incisione su carta ingiallita)",
+      "note": "Alternativa a bassa risoluzione (578x479) su Commons: File:Johannes Hevelius - Prodromus Astronomia - Volume III ... Tavola SS - Canis Minor.jpg (non usata).",
+      "opera": "Johannes Hevelius, Prodromus astronomiae ... (Gedani, typis Johannis Zachariae Stollii, 1690) - comprende Catalogus stellarum fixarum e Firmamentum Sobiescianum sive Uranographia (56 tavole doppie)",
+      "autore": "Johannes Hevelius (Jan Heweliusz, 1611-1687); incisioni della Uranographia pubblicate postume dalla vedova Elisabeth Hevelius nel 1690",
+      "licenza": "Pubblico dominio (opera del XVII secolo; Creative Commons Public Domain Mark 1.0 / tag PD-old-100-expired su Wikimedia Commons)",
+      "attribuzione_richiesta": false,
+      "provenienza_scansione": "Biblioteka Narodowa (Biblioteca Nazionale di Polonia), Biblioteca digitale Polona, caricata su Wikimedia Commons",
+      "orientamento": "Speculare: la sfera celeste e' vista dall'esterno, come su un globo (le figure mostrano spesso la schiena).",
+      "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg/960px-Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg",
+      "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+    }
+  ]
+}

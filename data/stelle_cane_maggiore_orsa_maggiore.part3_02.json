@@ -1,0 +1,22 @@
+l Grande Carro. Ha un campo magnetico 100 volte più intenso di quello terrestre, con poli magnetici quasi perpendicolari a quelli di rotazione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alioth"
+  },
+  {
+   "id": "mizar",
+   "nome": "Mizar",
+   "bayer": "ζ Ursae Majoris",
+   "origine_nome": "Dall'arabo miʾzar, «grembiule, veste».",
+   "magnitudine": "2,04 (luce combinata del sistema visibile)",
+   "spettro": "A2 Vp (componente A); sistema quadruplo",
+   "distanza_al": 82.9,
+   "curiosita": "Con la vicina Alcor forma una doppia visibile a occhio nudo, usata fin dall'antichità come prova della vista. Potrebbe essere stata la prima doppia telescopica nota agli europei (Castelli e Galileo, 1617); fu la prima doppia fotografata (Bond e Whipple, Harvard, 1857) e la prima binaria spettroscopica individuata (1890).",
+   "fonte_url": "https://skyandtelescope.org/astronomy-blogs/explore-night-bob-king/mizar-a-fresh-look-at-an-old-friend03252015/"
+  },
+  {
+   "id": "alcor",
+   "nome": "Alcor",
+   "bayer": "80 Ursae Majoris",
+   "origine_nome": "Dall'arabo al-khawwār, «la debole»; in arabo è anche detta suhā, «la dimenticata».",
+   "magnitudine": "3,99",
+   "spettro": "A5 Vn",
+   "distanza_al": 81.7,

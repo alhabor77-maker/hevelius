@@ -1,0 +1,44 @@
+/* Hevelius – Firmamentum Sobiescianum · tema notte */
+:root {
+  --night-0: #050a1a;
+  --night-1: #0a1430;
+  --night-2: #101d44;
+  --night-3: #1a2a5c;
+  --gold: #d4af6a;
+  --gold-bright: #f0d089;
+  --gold-dim: #8f7640;
+  --ink: #e9e4d4;
+  --ink-dim: #a9adc0;
+  --paper: #e7d9b4;
+  --danger: #e08a7a;
+  --radius: 10px;
+  --maxw: 1180px;
+  --font-serif: 'Cormorant Garamond', 'EB Garamond', Garamond, 'Palatino Linotype', Georgia, serif;
+  --font-body: 'EB Garamond', 'Cormorant Garamond', Garamond, Georgia, serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: 19px;
+  line-height: 1.65;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 600px at 80% -10%, rgba(60, 80, 160, .35), transparent 60%),
+    radial-gradient(900px 500px at 0% 20%, rgba(40, 50, 110, .35), transparent 60%),
+    linear-gradient(180deg, var(--night-1), var(--night-0) 70%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+body::before { /* stelline di sfondo */
+  content: "";
+  position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  background-image:
+    radial-gradient(1px 1px at 12% 18%, #fff8, transparent),
+    radial-gradient(1px 1px at 28% 72%, #fff6, transparent),
+    radial-gradient(1.5px 1.5px at 44% 34%, #ffe9b8aa, transparent),
+    radial-gradient(1px 1px at 63% 1

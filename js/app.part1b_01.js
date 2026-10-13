@@ -1,0 +1,5 @@
+      blurb: 'Il cacciatore del cielo invernale, con la Cintura e la grande nebulosa M42.' },
+    { id: 'scorpione', nome: 'Scorpione', latino: 'Scorpius', tavola: 'Tavola II', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Johannes_Hevelius_-_Scorpius.jpg/1920px-Johannes_Hevelius_-_Scorpius.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Johannes_Hevelius_-_Scorpius.jpg/960px-Johannes_Hevelius_-_Scorpius.jpg', w: 1920, h: 1567,
+      blurb: 'Il rivale di Orione, con il cuore rosso di Antares. Esemplare colorato a mano.' },
+    { id: 'cane_minore', nome: 'Cane Minore', latino: 'Canis Minor', tavola: 'Tavola SS', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg/1920px-Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg/960px-Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg', w: 1920, h: 1511,
+      blurb: 'Il piccolo cane di Orione, guidato da Procione, vicina ste

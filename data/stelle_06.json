@@ -1,0 +1,36 @@
+a stella più luminosa del cielo notturno e tra le più vicine al Sole; ha una compagna nana bianca (Procione B, magnitudine ≈10,7).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Procyon"
+  },
+  {
+   "id": "gomeisa",
+   "nome": "Gomeisa",
+   "bayer": "β Canis Minoris",
+   "origine_nome": "Dall'arabo al-ghumaiṣāʾ, «la dagli occhi cisposi (lacrimosi)».",
+   "magnitudine": "2,84–2,92",
+   "spettro": "B8 Ve",
+   "distanza_al": 162,
+   "curiosita": "Stella Be a rotazione rapida circondata da un disco di gas; è leggermente variabile.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Canis_Minoris"
+  }
+ ],
+ "toro": [
+  {
+   "id": "aldebaran",
+   "nome": "Aldebaran",
+   "bayer": "α Tauri",
+   "origine_nome": "Dall'arabo al-dabarān, «il seguace», perché segue le Pleiadi nel moto diurno.",
+   "magnitudine": "≈0,85 (lievemente variabile)",
+   "spettro": "K5+ III",
+   "distanza_al": 67,
+   "curiosita": "Gigante arancione, l'«occhio del Toro». Non fa parte delle Iadi: è solo nella stessa direzione, a circa metà distanza. La sonda Pioneer 10 è diretta approssimativamente verso di essa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Aldebaran"
+  },
+  {
+   "id": "elnath",
+   "nome": "Elnath",
+   "bayer": "β Tauri",
+   "origine_nome": "Dall'arabo al-nāṭiḥ, «colui che cozza (con le corna)».",
+   "magnitudine": "1,65",
+   "spettro": "B7 III",
+   "distanza_al": 134,
+   "curiosita": "Corno settentrionale del Toro; in passato era condivisa con l'Auriga, dove portava la designaz

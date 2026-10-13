@@ -1,0 +1,32 @@
+ di visibilità in cielo buio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Celaeno_(star)"
+  },
+  {
+   "id": "asterope",
+   "nome": "Asterope (Sterope)",
+   "bayer": "21 Tauri",
+   "origine_nome": "Da Asterope o Sterope, «lampo di luce», una delle Pleiadi.",
+   "magnitudine": "5,76",
+   "spettro": "B8 V",
+   "distanza_al": 444,
+   "curiosita": "Vicina a 22 Tauri (Sterope II): le due stelle formano una coppia ottica difficile da separare a occhio nudo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Asterope_(star)"
+  }
+ ],
+ "cane_maggiore": [
+  {
+   "id": "sirio",
+   "nome": "Sirio",
+   "bayer": "α Canis Majoris",
+   "origine_nome": "Dal latino Sīrius, a sua volta dal greco Σείριος (Seirios), «splendente, ardente».",
+   "magnitudine": "−1,46",
+   "spettro": "A0mA1 Va (sequenza principale; compagna Sirio B: nana bianca DA2)",
+   "distanza_al": 8.61,
+   "curiosita": "È la stella più brillante del cielo notturno, quasi il doppio di Canopo. Ha una compagna, Sirio B, una nana bianca osservata per la prima volta nel 1862 da Alvan Graham Clark. Nell'antico Egitto il suo sorgere eliaco annunciava la piena del Nilo (ciclo sotiaco, legato al calendario egizio); per i Greci segnava la stagione dei «giorni della canicola».",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sirius"
+  },
+  {
+   "id": "mirzam",
+   "nome": "Mirzam",
+   "bayer": "β Canis Majoris",
+   "origine_nome": "Dall'arabo al-murzim, «l'annunciatore», probabilmente perché sorge poco prima di Sirio. È detta anche M

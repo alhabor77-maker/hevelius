@@ -1,0 +1,14 @@
+/* ---------- pagina stella ---------- */
+.star-layout { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 2rem; align-items: start; margin: 1rem 0 2rem; }
+.crop { width: 100%; aspect-ratio: 1 / 1; border: 1px solid var(--gold); border-radius: var(--radius); background-color: #1b1709; background-repeat: no-repeat; box-shadow: 0 8px 30px rgba(0, 0, 0, .55); position: relative; overflow: hidden; }
+.crop .mark { position: absolute; transform: translate(-50%, -50%); border: 2px solid var(--gold-bright); border-radius: 50%; box-shadow: 0 0 0 1px rgba(5, 10, 26, .6), 0 0 14px rgba(240, 208, 137, .6); pointer-events: none; }
+.crop-wrap figcaption { font-size: .88rem; color: var(--ink-dim); margin-top: .5rem; line-height: 1.45; }
+.crop-empty { padding: 1.4rem; text-align: center; color: var(--ink-dim); border: 1px dashed rgba(212, 175, 106, .4); border-radius: var(--radius); line-height: 1.5; }
+.pager { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin: 2rem 0; }
+
+/* ---------- notice / errori ---------- */
+.notice { border: 1px dashed rgba(212, 175, 106, .5); border-radius: var(--radius); padding: .9rem 1.2rem; color: var(--ink-dim); background: rgba(212, 175, 106, .05); margin: 1rem 0; }
+.notice.error { border-color: var(--danger); color: #f3cfc7; }
+
+/* ---------- footer ---------- */
+.site-footer { margin-top: auto; border-top: 1px solid rgba(212, 175, 106, .25); 

@@ -1,0 +1,35 @@
+ttps://en.wikipedia.org/wiki/Alnitak"
+  },
+  {
+   "id": "saiph",
+   "nome": "Saiph",
+   "bayer": "κ Orionis",
+   "origine_nome": "Dall'arabo saif al-jabbār, «la spada del gigante».",
+   "magnitudine": "2,09",
+   "spettro": "B0.5 Ia",
+   "distanza_al": 647,
+   "curiosita": "Supergigante blu di luminosità reale paragonabile a Rigel; appare più debole perché gran parte della sua radiazione è emessa nell'ultravioletto.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Saiph"
+  },
+  {
+   "id": "meissa",
+   "nome": "Meissa",
+   "bayer": "λ Orionis",
+   "origine_nome": "Dall'arabo al-maisān, «la splendente»; nome tradizionalmente legato alla «testa» del Gigante.",
+   "magnitudine": "3,33",
+   "spettro": "O9 III",
+   "distanza_al": 1258,
+   "curiosita": "Segna la «testa» di Orione; è circondata dall'ammasso aperto Collinder 69 e dalla nebulosa a emissione Sh2-264.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Meissa"
+  }
+ ],
+ "scorpione": [
+  {
+   "id": "antares",
+   "nome": "Antares",
+   "bayer": "α Scorpii",
+   "origine_nome": "Dal greco Antarēs, «anti-Ares», cioè «rivale di Marte» per il colore rossastro. Il nome latino è Cor Scorpii, «cuore dello Scorpione».",
+   "magnitudine": "≈1,06 (variabile, 0,6–1,6)",
+   "spettro": "M1.5 Iab–Ib (+ compagna B2.5 V)",
+   "distanza_al": 554,
+   "curiosita": "Supergigante rossa con un diametro circa 700 volte quello del Sole; la compagna blu è difficile da osservare per il bagliore della principale. È una delle quattro «stelle 

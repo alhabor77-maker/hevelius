@@ -1,0 +1,32 @@
+123,
+   "curiosita": "Con Merak forma le due «Guardie» (i puntatori) del Grande Carro: la retta che le unisce indica la Stella Polare. Benché designata «alfa», è la seconda stella più luminosa della costellazione. È un sistema multiplo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Dubhe"
+  },
+  {
+   "id": "merak",
+   "nome": "Merak",
+   "bayer": "β Ursae Majoris",
+   "origine_nome": "Dall'arabo al-marāqq, «i lombi» (dell'orsa).",
+   "magnitudine": "2,37",
+   "spettro": "A1 IVps",
+   "distanza_al": 79.7,
+   "curiosita": "Insieme a Dubhe indica la Stella Polare. Le osservazioni nell'infrarosso mostrano un eccesso di emissione, segno di un disco di polveri attorno alla stella, simile a quelli di Fomalhaut e di Vega.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Merak_(star)"
+  },
+  {
+   "id": "phecda",
+   "nome": "Phecda",
+   "bayer": "γ Ursae Majoris",
+   "origine_nome": "Dall'arabo fakhidh ad-dubb, «la coscia dell'orsa» (detta anche Phad).",
+   "magnitudine": "2,44",
+   "spettro": "A0 Ve + K2 V",
+   "distanza_al": 83.2,
+   "curiosita": "È una delle stelle del Grande Carro che appartengono al gruppo in movimento dell'Orsa Maggiore. È una binaria astrometrica: la compagna fa oscillare la stella principale attorno al centro di massa comune.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Phecda"
+  },
+  {
+   "id": "megrez",
+   "nome": "Megrez",
+   "bayer": "δ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-maghriz, «la base» (della coda dell'orsa).",
+   "magnitudine": "3,

@@ -1,0 +1,20 @@
+.hs .lbl { font-family: var(--font-serif); font-size: 15px; font-weight: 600; fill: #fff8e0; paint-order: stroke; stroke: rgba(5, 10, 26, .95); stroke-width: 5px; stroke-linejoin: round; pointer-events: none; display: none; }
+.show-labels .hs .lbl, .hs:hover .lbl, .hs:focus-visible .lbl, .hs.active .lbl { display: block; }
+.hide-hotspots .hs:not(.active) { opacity: 0; pointer-events: none; }
+.hide-hotspots .hs .pulse { animation: none; }
+@keyframes pulse { 0% { opacity: .9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.1); } }
+@media (prefers-reduced-motion: reduce) { .hs .pulse { animation: none; } * { transition: none !important; scroll-behavior: auto !important; } }
+
+.plate-caption { font-size: .9rem; color: var(--ink-dim); margin-top: .7rem; line-height: 1.5; }
+.mirror-note { font-size: .95rem; }
+
+/* elenco stelle */
+.star-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: .8rem 0 0; padding: 0; list-style: none; }
+.star-chips button, .star-chips a {
+  font: inherit; font-size: .98rem; cursor: pointer; text-decoration: none;
+  color: var(--ink); background: var(--night-2);
+  border: 1px solid rgba(212, 175, 106, .35); border-radius: 999px; padding: .2rem .85rem;
+}
+.star-chips button:hover, .star-chips a:hover, .star-chips .active { border-color: var(--gold-bright); color: #fff; background: var(--night-3); }
+.star-chips .nospot { opacity: .8; border-style: dashed; }
+.chip-group { width: 100%; m

@@ -1,0 +1,27 @@
+rosse si orbitano a vicenda in circa 2.084 anni. È visibile a occhio nudo e fa parte delle stelle più brillanti della costellazione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Ursae_Majoris"
+  },
+  {
+   "id": "tania_australis",
+   "nome": "Tania Australis",
+   "bayer": "μ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-fiqra al-thāniya, «il secondo balzo (della gazzella)»; «Australis» è il latino per «meridionale».",
+   "magnitudine": "3,06",
+   "spettro": "M0 IIIab",
+   "distanza_al": 230,
+   "curiosita": "Gigante rossa di classe M0. Con Tania Borealis costituisce la coppia dei «Tania», il «secondo balzo» della gazzella nella tradizione araba.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Ursae_Majoris"
+  },
+  {
+   "id": "tania_borealis",
+   "nome": "Tania Borealis",
+   "bayer": "λ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-fiqra al-thāniya, «il secondo balzo (della gazzella)»; «Borealis» è il latino per «settentrionale».",
+   "magnitudine": "3,45",
+   "spettro": "A2 IV",
+   "distanza_al": 138,
+   "curiosita": "Stella bianca di classe A2, poco più debole di Tania Australis; con essa forma la coppia dei «Tania» nella tradizione araba.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Ursae_Majoris"
+  }
+ ]
+}

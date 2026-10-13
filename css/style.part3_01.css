@@ -1,0 +1,24 @@
+.callout { border-left: 3px solid var(--gold); padding: .6rem 1.1rem; background: rgba(212, 175, 106, .08); border-radius: 0 var(--radius) var(--radius) 0; margin: 1.2rem 0; }
+.two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; }
+.prose p { text-align: left; hyphens: auto; }
+.prose h2 { margin-top: 1.6em; padding-bottom: .25em; border-bottom: 1px solid rgba(212, 175, 106, .25); }
+.prose h2:first-child { margin-top: 0; }
+
+/* ---------- pagina costellazione ---------- */
+.page-head { padding: 2.2rem 0 1rem; }
+.crumbs { font-size: .9rem; color: var(--ink-dim); margin-bottom: .8rem; }
+.crumbs a { color: var(--ink-dim); }
+.page-head h1 { margin-bottom: .1em; }
+.page-head .sub { color: var(--gold); font-style: italic; font-size: 1.15rem; margin: 0; }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin: 1rem 0 .7rem; }
+.btn {
+  font: inherit; font-size: .95rem; cursor: pointer;
+  color: var(--ink); background: var(--night-2);
+  border: 1px solid rgba(212, 175, 106, .4); border-radius: 999px;
+  padding: .3rem .95rem; line-height: 1.4; text-decoration: none; display: inline-block;
+}
+.btn:hover { border-color: var(--gold-bright); color: #fff; }
+.btn[aria-pressed="true"] { background: var(--gold); color: var(--night-0); border-color: var(--gold); }
+.btn.primary { background: var(--gold); color: var(--night-0); border-color: var(--gold); font-weight: 600; }
+.btn.primary:hover { background: var(--g

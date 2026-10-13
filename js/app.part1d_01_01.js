@@ -1,0 +1,7 @@
+      blurb: 'Il re d\u2019Etiopia, con Delta Cephei il faro che misura l\u2019universo.' },
+    { id: 'balena', nome: 'Balena', latino: 'Cetus', tavola: 'Fig. OO', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg/1920px-Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg/960px-Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg', w: 1920, h: 1511,
+      blurb: 'Il mostro marino del mito, con Mira, la stella che scompare e rinasce.' },
+    { id: 'pegaso', nome: 'Pegaso', latino: 'Pegasus', tavola: 'Fig. T', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg/1920px-Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg/960px-Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg', w: 1920, h: 1507,
+      blurb: 'Il cavallo alato con il Grande Quadrato, porta d\u2019accesso al cielo autunnale.' }
+  ];
+  var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori

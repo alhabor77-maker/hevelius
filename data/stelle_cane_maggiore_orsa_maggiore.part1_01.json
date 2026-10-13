@@ -1,0 +1,22 @@
+{
+ "cane_maggiore": [
+  {
+   "id": "sirio",
+   "nome": "Sirio",
+   "bayer": "α Canis Majoris",
+   "origine_nome": "Dal latino Sīrius, a sua volta dal greco Σείριος (Seirios), «splendente, ardente».",
+   "magnitudine": "−1,46",
+   "spettro": "A0mA1 Va (sequenza principale; compagna Sirio B: nana bianca DA2)",
+   "distanza_al": 8.61,
+   "curiosita": "È la stella più brillante del cielo notturno, quasi il doppio di Canopo. Ha una compagna, Sirio B, una nana bianca osservata per la prima volta nel 1862 da Alvan Graham Clark. Nell'antico Egitto il suo sorgere eliaco annunciava la piena del Nilo (ciclo sotiaco, legato al calendario egizio); per i Greci segnava la stagione dei «giorni della canicola».",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sirius"
+  },
+  {
+   "id": "mirzam",
+   "nome": "Mirzam",
+   "bayer": "β Canis Majoris",
+   "origine_nome": "Dall'arabo al-murzim, «l'annunciatore», probabilmente perché sorge poco prima di Sirio. È detta anche Murzim.",
+   "magnitudine": "1,98 (lievemente variabile, 1,97–2,01)",
+   "spettro": "B1 II–III",
+   "distanza_al": 490,
+   "curiosita": "Gigante blu-bianca del tipo variabile β Cephei: pulsa con un'oscillazione di luminosità troppo piccola per essere notata a occhio nudo. Il suo sorgere precede quel

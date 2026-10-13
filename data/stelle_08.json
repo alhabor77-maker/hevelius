@@ -1,0 +1,46 @@
+ster)"
+  },
+  {
+   "id": "alcyone",
+   "nome": "Alcyone",
+   "bayer": "η Tauri",
+   "origine_nome": "Da Alcione, una delle sette sorelle Pleiadi, figlia di Atlante e Pleione.",
+   "magnitudine": "2,87",
+   "spettro": "B7 IIIe",
+   "distanza_al": 444,
+   "curiosita": "La stella più brillante delle Pleiadi; in realtà è un sistema multiplo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alcyone_(star)"
+  },
+  {
+   "id": "atlas",
+   "nome": "Atlas",
+   "bayer": "27 Tauri",
+   "origine_nome": "Da Atlante, il Titano padre delle Pleiadi.",
+   "magnitudine": "3,63",
+   "spettro": "B8 III",
+   "distanza_al": 444,
+   "curiosita": "Sistema binario ravvicinato, circondato dalla nebulosità riflettente dell'ammasso.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Atlas_(star)"
+  },
+  {
+   "id": "electra",
+   "nome": "Electra",
+   "bayer": "17 Tauri",
+   "origine_nome": "Da Elettra, una delle sette sorelle.",
+   "magnitudine": "3,70",
+   "spettro": "B6 IIIe",
+   "distanza_al": 444,
+   "curiosita": "Stella Be a rotazione rapida circondata da un disco di gas.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Electra_(star)"
+  },
+  {
+   "id": "maia",
+   "nome": "Maia",
+   "bayer": "20 Tauri",
+   "origine_nome": "Da Maia, la maggiore delle Pleiadi e madre di Ermes.",
+   "magnitudine": "3,87",
+   "spettro": "B8 III",
+   "distanza_al": 444,
+   "curiosita": "Circondata dalla nebulosa a riflessione NGC 1432; ha una composizione chimica peculiare.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Maia_(star)"
+  },

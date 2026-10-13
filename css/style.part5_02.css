@@ -1,0 +1,16 @@
+background: rgba(5, 10, 26, .85); padding: 2rem 0 2.4rem; font-size: .9rem; color: var(--ink-dim); }
+.site-footer h4 { font-size: 1.05rem; margin-bottom: .4rem; }
+.site-footer .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.6rem; }
+.site-footer ul { margin: 0; padding-left: 1.1rem; }
+.site-footer li { margin-bottom: .35rem; }
+.site-footer .legal { margin-top: 1.4rem; padding-top: 1rem; border-top: 1px solid rgba(212, 175, 106, .15); font-size: .82rem; }
+
+/* ---------- lista laterale costellazioni ---------- */
+.const-layout { display: grid; grid-template-columns: minmax(0, 1fr) 235px; gap: 2rem; align-items: start; }
+.const-side { position: sticky; top: 84px; align-self: start; background: rgba(16, 29, 68, .55); border: 1px solid rgba(212, 175, 106, .25); border-radius: var(--radius); padding: 1.1rem 1.2rem 1.3rem; }
+.const-side h2 { font-size: 1.15rem; margin-bottom: .6rem; letter-spacing: .06em; }
+.const-side ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.const-side li + li { border-top: 1px solid rgba(212, 175, 106, .15); }
+.const-side a { display: block; padding: .45rem .35rem; color: var(--ink); text-decoration: none; border-radius: 6px; }
+.const-side a small { display: block; color: var(--ink-dim); font-style: italic; font-size: .82rem; }
+.const-side a:hover { color: var(--gold-bright); background: rgba(212, 175, 106, .07); }

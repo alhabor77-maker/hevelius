@@ -1,0 +1,41 @@
+bayer": "β Scorpii",
+   "origine_nome": "Graffias dal greco/latino «artigli» (grapsos); Acrab dall'arabo ʿaqrab, «scorpione».",
+   "magnitudine": "2,6",
+   "spettro": "B1 V (sistema multiplo)",
+   "distanza_al": 466,
+   "curiosita": "Sistema multiplo con due componenti principali separabili con un piccolo telescopio; segna la testa/artigli dello Scorpione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Scorpii"
+  },
+  {
+   "id": "lesath",
+   "nome": "Lesath",
+   "bayer": "υ Scorpii",
+   "origine_nome": "Dall'arabo al-laʿṣa, «la puntura».",
+   "magnitudine": "2,70",
+   "spettro": "B2 IV",
+   "distanza_al": 576,
+   "curiosita": "Con Shaula forma la coppia detta «i Gatti» ai lati del pungiglione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Upsilon_Scorpii"
+  },
+  {
+   "id": "girtab",
+   "nome": "Girtab",
+   "bayer": "κ Scorpii",
+   "origine_nome": "Dal babilonese girtab, «scorpione».",
+   "magnitudine": "2,41–2,42",
+   "spettro": "B1.5 III",
+   "distanza_al": 480,
+   "curiosita": "Binaria spettroscopica con componente primaria pulsante (variabile di tipo Beta Cephei), con periodo orbitale di circa 195 giorni.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Scorpii"
+  }
+ ],
+ "cane_minore": [
+  {
+   "id": "procione",
+   "nome": "Procione",
+   "bayer": "α Canis Minoris",
+   "origine_nome": "Dal greco Prokyōn, «prima del cane», perché sorge poco prima di Sirio.",
+   "magnitudine": "0,34",
+   "spettro": "F5 IV–V",
+   "distanza_al": 11.5,
+   "curiosita": "Ottav

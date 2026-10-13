@@ -1,0 +1,16 @@
+.ed-lens span::after { top: 50%; left: 0; height: 1px; width: 100%; }
+.ed-lens.empty span { display: none; }
+.ed-row { display: flex; flex-wrap: wrap; gap: .45rem; }
+.ed-row .btn { min-height: 44px; min-width: 44px; padding: .4rem .8rem; touch-action: manipulation; }
+.ed-bar .ed-row:first-of-type .btn { flex: 1 1 auto; }
+.ed-msg { min-height: 1.2em; font-size: .92rem; color: var(--gold-bright); }
+.ed-msg:empty { display: none; }
+.ed-msg.bad { color: var(--danger); }
+.ed-fallback p { margin: 0 0 .4rem; font-size: .88rem; color: var(--ink-dim); }
+.ed-fallback textarea { width: 100%; font: 14px/1.35 ui-monospace, Menlo, monospace; background: var(--night-0); color: var(--ink); border: 1px solid var(--gold-dim); border-radius: 8px; padding: .5rem; }
+.ed-details summary { cursor: pointer; color: var(--gold); font-size: .95rem; padding: .3rem 0; min-height: 32px; }
+.ed-details .ed-row { margin-top: .4rem; }
+.ed-list { list-style: none; margin: .3rem 0 0; padding: 0; max-height: 28vh; overflow: auto; }
+.ed-list li { display: flex; gap: .4rem; align-items: stretch; margin-bottom: .3rem; }
+.ed-list .ed-pick { flex: 1; text-align: left; font: inherit; font-size: .95rem; color: var(--ink); background: var(--night-2); border: 1px solid var(--gold-dim); border-radius: 8px; padding: .4rem .6rem; min-height: 40px; }
+.ed-list .ed-del { font: inherit; font-size: 1.3rem; width: 44px; color: var(--danger); background: var(--night-2); border: 

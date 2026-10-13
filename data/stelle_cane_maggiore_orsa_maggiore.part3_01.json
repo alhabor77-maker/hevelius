@@ -1,0 +1,24 @@
+   "distanza_al": 83.2,
+   "curiosita": "È una delle stelle del Grande Carro che appartengono al gruppo in movimento dell'Orsa Maggiore. È una binaria astrometrica: la compagna fa oscillare la stella principale attorno al centro di massa comune.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Phecda"
+  },
+  {
+   "id": "megrez",
+   "nome": "Megrez",
+   "bayer": "δ Ursae Majoris",
+   "origine_nome": "Dall'arabo al-maghriz, «la base» (della coda dell'orsa).",
+   "magnitudine": "3,31",
+   "spettro": "A3 V",
+   "distanza_al": 80.5,
+   "curiosita": "È la più debole delle sette stelle del Grande Carro, le altre sei sono di seconda magnitudine. Segna il punto in cui il «manico» si attacca al «carro», cioè la radice della coda dell'orsa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Megrez"
+  },
+  {
+   "id": "alioth",
+   "nome": "Alioth",
+   "bayer": "ε Ursae Majoris",
+   "origine_nome": "Dall'arabo ʿalyat al-ḥamal, «la coda grassa della pecora».",
+   "magnitudine": "1,77",
+   "spettro": "A1 III–IVp kB9",
+   "distanza_al": 82.6,
+   "curiosita": "Benché designata «epsilon», è la stella più brillante dell'Orsa Maggiore. È la stella della coda più vicina al corpo dell'orsa, cioè la prima del «manico» de

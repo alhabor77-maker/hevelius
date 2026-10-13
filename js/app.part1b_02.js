@@ -1,0 +1,5 @@
+lla d\u2019inverno.' },
+    { id: 'toro', nome: 'Toro', latino: 'Taurus', tavola: 'Tavola CC', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg/1920px-Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg/960px-Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg', w: 1920, h: 1503,
+      blurb: 'Il toro di Zeus con Aldebaran, le Iadi e le Pleiadi.' },
+    { id: 'cane_maggiore', nome: 'Cane Maggiore', latino: 'Canis Major', tavola: 'Fig. DDd', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg/1920px-Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg/960px-Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg', w: 1920, h: 1512,
+      blurb: 'Il cane di Orione, con Sirio, la stella pi\u00f9 luminosa del cielo notturno.' },
