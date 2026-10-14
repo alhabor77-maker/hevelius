@@ -1,0 +1,36 @@
+{
+ "nota_generale": "Tavole di Johannes Hevelius, Firmamentum Sobiescianum sive Uranographia (Danzica, 1690). Le tavole sono in orientamento speculare (vista dall'esterno della sfera celeste, come su un globo). Opera e autore (m. 1687) in pubblico dominio.",
+ "orientamento": "Cielo visto dall'esterno della sfera celeste: le figure sono in orientamento speculare rispetto a quanto appare a occhio nudo (est e ovest invertiti).",
+ "immagini": [
+  {
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lyra_Hevelius1690.jpg/1920px-Lyra_Hevelius1690.jpg",
+   "titolo_tavola": "Fig. I – Lyra (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Lyra_Hevelius1690.jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lyra_Hevelius1690.jpg",
+   "istituzione_origine": "e-rara.ch (Zürich), riproduzione digitale dell'edizione 1690",
+   "licenza": "Pubblico dominio (Public Domain Mark, Wikimedia Commons; opera di autore morto da oltre 100 anni, riproduzione fedele di un originale bidimensionale)",
+   "dimensioni_originale_px": "4820x3615",
+   "dimensioni_file_sito_px": "960x720 (miniatura) / 1920x1440 (thumb 1920)",
+   "note_qualita": "Scansione ad alta risoluzione dell'incisione in bianco e nero su carta, non colorata. Il thumb 1920 (HTTP 200, 1920x1440) e il thumb 960 (HTTP 200, 960x720) sono stati verificati raggiungibili (image/jpeg).",
+   "miniatura_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Lyra_Hevelius1690.jpg/960px-Lyra_Hevelius1690.jpg",
+   "altre_figure_sulla_tavola": "Il Cerberus (l'annesso di Hevelius, oggi obsoleto) accanto alla lira; Draco in alto, Hercules a destra, Cygnus a sinistra, Vulpecula cum Anser in basso.",
+   "nota_nome_tavola": "Il titolo inciso è 'LYRA'. Nel Firmamentum Sobiescianum la tavola è la Fig. I; etichette presenti: Latitudo, Longitudo, Fig. I.",
+   "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+  },
+  {
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg/1920px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg",
+   "titolo_tavola": "Fig. R – Aquila et Antinous (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum,_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg",
+   "istituzione_origine": "atlascoelestis.com, tavola R dell'edizione 1690",
+   "licenza": "Pubblico dominio (Public Domain Mark, Wikimedia Commons; opera di autore morto da oltre 100 anni, riproduzione fedele di un originale bidimensionale)",
+   "dimensioni_originale_px": "571x472",
+   "dimensioni_file_sito_px": "960x794 (miniatura) / 1920x1587 (thumb 1920, upscaling della scansione originale più piccola)",
+   "note_qualita": "Scansione dell'incisione in bianco e nero su carta, non colorata. ATTENZIONE: il file originale su Commons è piccolo (571x472), quindi i thumb 960 e 1920 sono ingrandimenti generati da Wikimedia (blurring minimo, accettabile a schermo). Il thumb 1920 (HTTP 200, 1920x1587) e il thumb 960 (HTTP 200) sono stati verificati raggiungibili.",
+   "miniatura_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg",
+   "altre_figure_sulla_tavola": "L'Antinoo in basso, sotto gli artigli dell'aquila; Sagitta, Vulpecula, Scutum Sobiesci (lo Scudo di Sobieski introdotto da Hevelius), Delphinus, Equuleus, Serpens/Ophiuchus sul bordo.",
+   "nota_nome_tavola": "Il titolo inciso è 'AQVILA et ANTINOVS'. Nel Firmamentum Sobiescianum la tavola è la Fig. R; etichette presenti: Latitudo, Longitudo, Fig. R.",
+   "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "cigno": [
+  {
+   "id": "deneb",
+   "nome": "Deneb",
+   "bayer": "α Cygni",
+   "origine_nome": "Dall'arabo Dhanab al-Dajājah, «la coda della gallina»: gli astronomi arabi vedevano nel Cigno una grande gallina o uccello, e Deneb ne segna la coda.",
+   "magnitudine": "1,25",
+   "spettro": "A2Ia",
+   "distanza_al": 1400,
+   "curiosita": "Supergigante bianca, una delle stelle più luminose conosciute: oltre 50.000 volte più luminosa del Sole. Vertice del Triangolo Estivo insieme a Vega e Altair.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Deneb"
+  },
+  {
+   "id": "sadr",
+   "nome": "Sadr",
+   "bayer": "γ Cygni",
+   "origine_nome": "Dall'arabo al-Sadr al-Dajājah, «il petto della gallina»: segna il centro del corpo della figura, l'incrocio della Croce del Nord.",
+   "magnitudine": "2,23",
+   "spettro": "F8Ib",
+   "distanza_al": 1830,
+   "curiosita": "Supergigante gialla al centro della Croce del Nord. Attorno ad essa si estende la nebulosa diffusa IC 1318, la 'Nebulosa Sadr'.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sadr"
+  },
+  {
+   "id": "aljanah",
+   "nome": "Aljanah",
+   "bayer": "ε Cygni",
+   "origine_nome": "Dall'arabo al-'Anwā', «l'ala»: la designazione moderna (adottata dall'IAU nel 2017) richiama l'ala della figura del cigno.",
+   "magnitudine": "2,48",
+   "spettro": "K0III",
+   "distanza_al": 73,
+   "curiosita": "Gigante arancione relativamente vicina e ben studiata. Il nome Aljanah deriva dall'arabo al-'anwa', 'l'ala'.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Aljanah"
+  },
+  {
+   "id": "albireo",
+   "nome": "Albireo",
+   "bayer": "β¹ Cygni",
+   "origine_nome": "Nome di etimologia incerta: probabilmente nasce da un refuso arabo-italiano («ab ireo», il glossario medievale di Alfragano); l'assonanza con «iris» è fortuita ma consolidata.",
+   "magnitudine": "3,08",
+   "spettro": "K3II + B9.5V",
+   "distanza_al": 363,
+   "curiosita": "Sistema doppio tra i più amati dagli astrofili: una componente dorata e una azzurra, separabili anche con binocolo. Il contrasto di colori è spettacolare.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Albireo"
+  },
+  {
+   "id": "fawaris",
+   "nome": "Fawaris",
+   "bayer": "δ Cygni",
+   "origine_nome": "Dall'arabo al-Fawāris, «i cavalieri»: il nome antico della coppia δ/ε Cygni, poi rimasto alla sola δ.",
+   "magnitudine": "2,87",
+   "spettro": "B9.5IV",
+   "distanza_al": 154,
+   "curiosita": "Sistema triplo: la componente principale è una subgigante blu con una compagna ravvicinata. Il nome tradizionale Fawaris deriva dall'araco e significa 'i cavalieri'.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Cygni"
+  },
+  {
+   "id": "xi_cygni",
+   "nome": "Xi Cygni",
+   "bayer": "ξ Cygni",
+   "origine_nome": "La stella non ha nome tradizionale proprio; la designazione è la lettera di Bayer ξ (xi), introdotta nel catalogo di Bayer del 1603.",
+   "magnitudine": "3,73",
+   "spettro": "K4.5Ib-II",
+   "distanza_al": 1150,
+   "curiosita": "Supergigante/arancio brillante variabile. Fa parte della scia di stelle che rappresenta il collo lungo del cigno.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Xi_Cygni"
+  }
+ ],
+ "lira": [
+  {
+   "id": "vega",
+   "nome": "Vega",
+   "bayer": "α Lyrae",
+   "origine_nome": "Dall'arabo al-Nasr al-Wāqi', «l'aquila che piomba»: gli astronomi arabi vedevano nella Lira un grande uccello rapace con le ali chiuse; la V iniziale è una trascrizione medievale.",
+   "magnitudine": "0,03",
+   "spettro": "A0V",
+   "distanza_al": 25,
+   "curiosita": "La quinta stella più brillante del cielo e la seconda dell'emisfero boreale. Prima stella mai fotografata (1850) e prima a cui sia stato registrato uno spettro. Sarà la stella polare intorno al 14.000 d.C.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Vega"
+  },
+  {
+   "id": "sheliak",
+   "nome": "Sheliak",
+   "bayer": "β Lyrae",
+   "origine_nome": "Dall'arabo al-Shilyāq, «la cetra» (dall'aramaico shelyā, «arpa»): il nome arabo dell'intera costellazione attribuito a questa stella.",
+   "magnitudine": "3,42",
+   "spettro": "B8.5Ib-II",
+   "distanza_al": 906,
+   "curiosita": "Sistema binario a eclisse prototipo della classe 'variabili Beta Lyrae': le due componenti sono così vicine da essere deformate a ellissoide e la luminosità varia continuamente.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sheliak"
+  },
+  {
+   "id": "sulafat",
+   "nome": "Sulafat",
+   "bayer": "γ Lyrae",
+   "origine_nome": "Dal greco Sulaphatos, «la testuggine» (lira di Hermes: guscio di tartaruga con le corde); il nome arabo conserva il termine greco.",
+   "magnitudine": "3,25",
+   "spettro": "B9.5II-III",
+   "distanza_al": 657,
+   "curiosita": "Gigante blu nel vertice opposto a Vega della piccola parallelogramma della lira. Vicino ad essa si trova la famosa Nebulosa ad Anello (M57).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sulafat"
+  },
+  {
+   "id": "delta_lyrae",
+   "nome": "Delta Lyrae",
+   "bayer":

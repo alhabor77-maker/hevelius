@@ -1,0 +1,100 @@
+ "δ¹ Lyrae",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione è la lettera di Bayer δ¹ (delta-1) per la componente principale della coppia visiva.",
+   "magnitudine": "4,3",
+   "spettro": "M4II",
+   "distanza_al": 770,
+   "curiosita": "Coppia ottica ben visibile: la componente principale è una gigante rossa (δ¹, mag 4.3) affiancata dalla blu δ² (mag 4.5). Fa parte dell'ammasso aperto Stephenson 1.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Lyrae"
+  },
+  {
+   "id": "zeta_lyrae",
+   "nome": "Zeta Lyrae",
+   "bayer": "ζ Lyrae",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione è la lettera di Bayer ζ (zeta) assegnata da Bayer nel 1603 alla coppia.",
+   "magnitudine": "4,36",
+   "spettro": "kA5hF0VmF3 (Am) + F1V",
+   "distanza_al": 157,
+   "curiosita": "Doppia ampia visibile anche con binocolo: ζ¹ (mag 4.36) e ζ² (mag 5.6) separate da ~44 secondi d'arco. Ogni componente è a sua volta un sistema multiplo.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Lyrae"
+  },
+  {
+   "id": "epsilon_lyrae",
+   "nome": "Epsilon Lyrae",
+   "bayer": "ε Lyrae",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione è la lettera di Bayer ε (epsilon). L'appellativo popolare «Double-Double» descrive la risoluzione delle due coppie al telescopio.",
+   "magnitudine": "4,66",
+   "spettro": "A3V+F0V / A6Vn+A7Vn",
+   "distanza_al": 160,
+   "curiosita": "Il celebre 'Doppio Doppio': due coppie di stelle (ε¹ ed ε²) separate a occhio nudo sotto ottimo cielo; con un telescopio ogni coppia si risolve a sua volta in due stelle.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Lyrae"
+  }
+ ],
+ "aquila": [
+  {
+   "id": "altair",
+   "nome": "Altair",
+   "bayer": "α Aquilae",
+   "origine_nome": "Dall'arabo al-Nasr al-Ṭā'ir, «l'aquila volante»: il nome arabo della costellazione attribuito alla stella principale, in contrasto con Vega, «l'aquila che piomba».",
+   "magnitudine": "0,76",
+   "spettro": "A7Vn",
+   "distanza_al": 17,
+   "curiosita": "Dodicesima stella più brillante del cielo e una delle più vicine. Ruota su se stessa velocissimamente: un giro in circa 9 ore, al punto che il suo profilo è schiacciato ai poli.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Altair"
+  },
+  {
+   "id": "tarazed",
+   "nome": "Tarazed",
+   "bayer": "γ Aquilae",
+   "origine_nome": "Dal persiano Shāhīn-e Tarāzū, «l'avvoltoio della bilancia»: le tre stelle Altair-Tarazed-Alshain formavano per i Persiani l'asterismo della bilancia.",
+   "magnitudine": "2,72",
+   "spettro": "K3II",
+   "distanza_al": 583,
+   "curiosita": "Gigante arancione molto luminosa, circa 2500 volte più luminosa del Sole. Il nome Tarazed deriva dal persiano shāhin-e tarāzū, 'l'avvoltoio che bilancia'.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Tarazed"
+  },
+  {
+   "id": "alshain",
+   "nome": "Alshain",
+   "bayer": "β Aquilae",
+   "origine_nome": "Dal persiano Shāhīn, «l'uccello rapace» (falcone o avvoltoio), radice comune con Tarazed per la stessa coppia di stelle.",
+   "magnitudine": "3,71",
+   "spettro": "G8IV",
+   "distanza_al": 44,
+   "curiosita": "Sottogigante gialla simile al Sole, in coppia visuale con Altair e Tarazed. Il nome deriva anch'esso dal persiano shāhin, 'l'uccello rapace'.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Aquilae"
+  },
+  {
+   "id": "delta_aquilae",
+   "nome": "Delta Aquilae",
+   "bayer": "δ Aquilae",
+   "origine_nome": "Nome tradizionale Okab (dall'arabo al-'Uqāb, «l'aquila»), talvolta scritto Murgab; la designazione principale resta la lettera di Bayer δ (delta).",
+   "magnitudine": "3,36",
+   "spettro": "F1IV-V(n)",
+   "distanza_al": 50,
+   "curiosita": "Sistema triplo a soli ~50 anni luce: la componente principale è una sottogigante gialla, con due compagne deboli. Nome tradizionale: Murgab o Okab.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Aquilae"
+  },
+  {
+   "id": "zeta_aquilae",
+   "nome": "Zeta Aquilae",
+   "bayer": "ζ Aquilae",
+   "origine_nome": "Nome tradizionale Okab (dall'arabo al-'Uqāb, «l'aquila»), condiviso con la vicina δ Aquilae.",
+   "magnitudine": "2,99",
+   "spettro": "A0IV-Vnn",
+   "distanza_al": 85,
+   "curiosita": "Stella bianca con una compagna di magnitudine 12 a ~6 secondi d'arco. Nome tradizionale: Okab, dall'arabo al-'awkab, 'il rapace'.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Aquilae"
+  },
+  {
+   "id": "theta_aquilae",
+   "nome": "Theta Aquilae",
+   "bayer": "θ Aquilae",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione è la lettera di Bayer θ (theta), assegnata da Bayer nel 1603.",
+   "magnitudine": "3,22",
+   "spettro": "B9.5III",
+   "distanza_al": 228,
+   "curiosita": "Gigante bianca-azzurra, sistema binario spettroscopico: le due componenti orbitano a brevissima distanza e non sono risolvibili al telescopio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Aquilae"
+  }
+ ]
+}

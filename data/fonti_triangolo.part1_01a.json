@@ -1,0 +1,21 @@
+{
+ "nota_generale": "Tavole di Johannes Hevelius, Firmamentum Sobiescianum sive Uranographia (Danzica, 1690). Le tavole sono in orientamento speculare (vista dall'esterno della sfera celeste, come su un globo). Opera e autore (m. 1687) in pubblico dominio.",
+ "orientamento": "Cielo visto dall'esterno della sfera celeste: le figure sono in orientamento speculare rispetto a quanto appare a occhio nudo (est e ovest invertiti).",
+ "immagini": [
+  {
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cygnus.jpg/1920px-Cygnus.jpg",
+   "titolo_tavola": "Fig. K – Cygnus (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Cygnus.jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cygnus.jpg",
+   "istituzione_origine": "Linda Hall Library, Atlas Coelestis; scansione di Torsten Bronger (2003)",
+   "licenza": "Pubblico dominio (Public Domain Mark, Wikimedia Commons; opera di autore morto da oltre 100 anni, riproduzione fedele di un originale bidimensionale)",
+   "dimensioni_originale_px": "992x801",
+   "dimensioni_file_sito_px": "960x775 (miniatura) / 1920x1550 (thumb 1920)",
+   "note_qualita": "Scansione dell'incisione in bianco e nero su carta, non colorata. Il thumb 1920 (HTTP 200, 1920x1550) e il thumb 960 (HTTP 200, 960x775) sono stati verificati raggiungibili (image/jpeg).",
+   "miniatura_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Cygnus.jpg/960px-Cygnus.jpg",
+   "altre_figure_sulla_tavola": "La Lira (Fig. I) in basso a sinistra, con il Cerbero di Orfeo annotato; Lacerta (la Lucertola), Vulpecula cum Anser (la volpe e l'oca di Hevelius), Sagitta (la Freccia); sul bordo l'Aquila e Cassiopea. Il corpo del cigno è attraversato dalla scritta 'via lactea'.",
+   "nota_nome_tavola": "Il titolo inciso è 'CYGNUS'. Nel Firmamentum Sobiescianum la tavola è la Fig. K; la stessa tavola mostra in basso a sinistra anche la Lira (Fig. I). Etichette presenti: Latitudo, Longitudo, Fig. K.",
+   "nota_hosting": "Immagine caricata da Wikimedia Commons (upload.wikimedia.org), non ospitata in questo sito."
+  }
+ ]
+}
