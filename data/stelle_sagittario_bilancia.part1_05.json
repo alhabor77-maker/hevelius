@@ -1,0 +1,26 @@
+  "magnitudine": "2,75 (combinata; 2,8 e 5,2 le due componenti principali)",
+   "spettro": "A3IV (subgigante bianca) + F4IV, sistema quadruplo",
+   "distanza_al": 77,
+   "curiosita": "La seconda stella della costellazione nonostante la lettera alfa: un sistema multiplo di almeno quattro stelle, con due componenti visibili separate da 231 secondi d'arco (circa 5500 unit\u00e0 astronomiche) e ciascuna a sua volta binaria spettroscopica; una quinta stella, KU Librae, potrebbe completare un sistema quintuplo. Essendo a un terzo di grado dall'eclittica, \u00e8 occultata di frequente dalla Luna e molto raramente dai pianeti: la prossima occultazione planetaria sar\u00e0 di Mercurio nel 2052.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zubenelgenubi"
+  },
+  {
+   "id": "zubenelhakrabi",
+   "nome": "Zubenelhakrabi",
+   "bayer": "\u03c3 Librae (gi\u00e0 \u03b3 Scorpii)",
+   "origine_nome": "Dall'arabo \u0632\u0628\u0627\u0646\u0649 \u0627\u0644\u0639\u0642\u0631\u0628 zub\u0101n al-\u02bdaqrab, \u00abla chela dello scorpione\u00bb: nome condiviso in passato con Gamma Librae ed Eta Librae. Per Sigma Librae la UAI ha invece approvato nel 2017 il nome latino Brachium, \u00abbraccio\u00bb (detta anche Cornu, \u00abcorno\u00bb).",
+   "magnitudine": "3,29",
+   "spettro": "M2.5III (gigante rossa, variabile semiregolare)",
+   "distanza_al": 260,
+   "curiosita": "Una fredda gigante rossa con un raggio di circa 110 volte quello del Sole e 1900 volte la luminosit\u00e0: al posto del Sole arriverebbe a met\u00e0 strada fra Terra e Sole. \u00c8 una variabile semiregolare con oscillazioni di circa 0,1-0,15 magnitudini su cicli di poche ore e una pulsazione principale di 20 giorni, probabilmente in transizione verso il ramo asintotico delle giganti. Bayer la design\u00f2 \u03b3 Scorpii e solo nel 1930 la UAI la assegn\u00f2 definitivamente alla Bilancia. Sulla distanza le stime variano ancora: le misure di parallasse pi\u00f9 recenti indicano circa 260 anni luce, fonti precedenti anche 290.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sigma_Librae"
+  },
+  {
+   "id": "upsilon_librae",
+   "nome": "Upsilon Librae",
+   "bayer": "\u03c5 Librae",
+   "origine_nome": "Semplice designazione di Bayer latinizzata; occasionalmente indicata come Derakrab Borealis, \u00abla spalla nord dello scorpione\u00bb, dal colore della sua tradizionale appartenenza alle antiche chele.",
+   "magnitudine": "3,61",
+   "spettro": "K3III (gigante arancione) + nana rossa, binaria",
+   "distanza_al": 224,
+   "curiosita": "Una gigante arancione di 1,67 masse solari e circa 31 raggi solari, che irradia 309 volte la luce del Sole: la compagna, di magnitudine 10,8 e separata da 2 secondi d'arco, \u00e8 probabilmente 

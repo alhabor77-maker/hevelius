@@ -1,0 +1,29 @@
+{
+ "sagittario": [
+  {
+   "id": "kaus_australis",
+   "nome": "Kaus Australis",
+   "bayer": "\u03b5 Sagittarii",
+   "origine_nome": "Dall'arabo qaws, \u00abarco\u00bb, e dal latino austr\u0101lis, \u00abdel sud\u00bb: \u00e8 la parte meridionale dell'arco dell'Arciere. Nome approvato dalla UAI nel 2016. \u00c8 anche nota come Epsilon Sagittarii.",
+   "magnitudine": "1,85 (combinata; 1,80 la principale)",
+   "spettro": "B9.5IVp (subgigante bianco-azzurra, peculiare, forse stella \u03bb Bo\u00f6tis)",
+   "distanza_al": 143,
+   "curiosita": "La stella pi\u00f9 brillante della costellazione, la trentaquattresima del cielo: pur con la lettera epsilon di Bayer \u00e8 la prima per luminosit\u00e0. Ruota su s\u00e9 stessa a 236 km/s, al 95% della velocit\u00e0 di rottura \u2014 il valore pi\u00f9 alto mai misurato per una stella della Via Lattea \u2014 e ne risulta schiacciata ai poli, con un disco di gas equatoriale. \u00c8 un sistema multiplo: una compagna di magnitudine 8,4 a 2,4 secondi d'arco (circa 106 unit\u00e0 astronomiche) e una terza debolissima a 32 secondi d'arco. Fa parte dell'asterismo della Teiera e dell'arco con Kaus Media e Kaus Borealis.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kaus_Australis"
+  },
+  {
+   "id": "nunki",
+   "nome": "Nunki",
+   "bayer": "\u03c3 Sagittarii",
+   "origine_nome": "Nome di origine assira o babilonese, non araba: sembra derivare dalla \u00abTavola delle trenta stelle\u00bb, dove era la \u00abstella della proclamazione del mare\u00bb; potrebbe anche risalire a Enki, dio sumero delle acque. Approvato dalla UAI nel 2016.",
+   "magnitudine": "2,05 (combinata)",
+   "spettro": "B2.5V + B2.5V (due nane azzurre di sequenza principale, binaria spettroscopica)",
+   "distanza_al": 228,
+   "curiosita": "La seconda stella della costellazione e componente della Teiera: una binaria stretta di due azzurre di quasi 6,5 masse solari ciascuna, con orbite di circa 135 giorni risolte solo con l'interferometria. Entro 25 milioni di anni le due componenti si fonderanno in una stella di oltre 10 masse solari, destinata a esplodere in supernova: \u00e8 la stella pi\u00f9 vicina a noi per cui ci\u00f2 \u00e8 previsto. Il nome Nunki non \u00e8 arabo ma assiro-babilonese: deriverebbe dalla \u00abTavola delle trenta stelle\u00bb, dove era la \u00abstella della proclamazione del mare\u00bb, e si collega a Eridu, la citt\u00e0 sacra sumera. Le stime sulla distanza variano tra 225 anni luce (parallasse dinamica della binaria) e 228 (parallasse Hipparcos).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Nunki"
+  },
+  {
+   "id": "ascella",
+   "nome": "Ascella",
+   "bayer": "\u03b6 Sagittarii",
+   "origine_nome": "Dal tardo latino ascella, \u00abascella\u00bb,

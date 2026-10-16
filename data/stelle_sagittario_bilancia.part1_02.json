@@ -1,0 +1,27 @@
+ perch\u00e9 segna l'ascella dell'Arciere. Nel Calendarium di Al Achsasi al Mouakket era Thalath al Sadirah, \u00abla terza struzzo che ritorna\u00bb. Nome approvato dalla UAI nel 2016 per Zeta Sagittarii A.",
+   "magnitudine": "2,60 (combinata)",
+   "spettro": "A2Va + A2V + A2V (sistema triplo di nane bianche di classe A)",
+   "distanza_al": 88,
+   "curiosita": "La terza stella della costellazione: un sistema triplo in cui la coppia interna Aa-Ab, quasi gemella (1,8 masse solari ciascuna), orbita in circa un mese separata da appena 0,3 unit\u00e0 astronomiche, mentre una terza componente, la pi\u00f9 massiccia con 2 masse solari, le gira intorno in 21 anni a 13 unit\u00e0 astronomiche. Circa un milione di anni fa il sistema pass\u00f2 a soli 36 anni luce dal Sole: secondo le prime misure Hipparcos in quell'epoca sarebbe stata la stella pi\u00f9 brillante del cielo, ma un'analisi del 2023 ha scartato l'ipotesi ricalcolando la distanza minima.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Sagittarii"
+  },
+  {
+   "id": "kaus_media",
+   "nome": "Kaus Media",
+   "bayer": "\u03b4 Sagittarii",
+   "origine_nome": "Dall'arabo qaws, \u00abarco\u00bb, e dal latino media, \u00abdel mezzo\u00bb: sta al centro dell'arco dell'Arciere, tra Kaus Australis a sud e Kaus Borealis a nord. Approvato dalla UAI nel 2016. Un altro nome tradizionale \u00e8 Kaus Meridionalis.",
+   "magnitudine": "2,70",
+   "spettro": "K3III (gigante arancione) + probabile nana bianca, sistema binario",
+   "distanza_al": 348,
+   "curiosita": "La quarta stella della costellazione (anche qui Bayer non aveva assegnato le lettere per luminosit\u00e0): una gigante arancione con un raggio di 62 volte quello solare, quasi i tre quarti dell'orbita di Mercurio, in piena fusione dell'elio nel nucleo. Con essa sono catalogate tre deboli compagne di magnitudine 13-15, ma non \u00e8 certo che siano fisicamente legate: potrebbero essere solo un allineamento sulla linea di vista. Su di essa la direzione che parte da Kaus Media verso Nash indica il centro della Galassia.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kaus_Media"
+  },
+  {
+   "id": "kaus_borealis",
+   "nome": "Kaus Borealis",
+   "bayer": "\u03bb Sagittarii",
+   "origine_nome": "Dall'arabo qaws, \u00abarco\u00bb, e dal latino bore\u0101lis, \u00abdel nord\u00bb: segna l'estremit\u00e0 settentrionale dell'arco dell'Arciere e il coperchio della Teiera. Approvato dalla UAI nel 2016.",
+   "magnitudine": "2,81",
+   "spettro": "K1IIIb (gigante arancione)",
+   "distanza_al": 78,
+   "curiosita": "Una gigante arancione con circa 1,8 masse solari e 11 raggi solari, che fonde l'elio nel nucleo: secondo alcuni studi sarebbe ancora una subgigante appena 
