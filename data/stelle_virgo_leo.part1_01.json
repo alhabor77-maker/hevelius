@@ -1,0 +1,33 @@
+{
+ "vergine": [
+  {
+   "id": "spica",
+   "nome": "Spica",
+   "bayer": "\u03b1 Virginis",
+   "origine_nome": "Dal latino sp\u012bca virginis, \u00abspiga di grano della Vergine\u00bb, in riferimento alla pianta che la Vergine regge in mano nelle rappresentazioni canoniche dello zodiaco. \u00c8 anche detta Spiga.",
+   "magnitudine": "1,04 (variabile, componente principale)",
+   "spettro": "B1III-IV (gigante blu) + B2V (compagna, binaria spettroscopica)",
+   "distanza_al": 250,
+   "curiosita": "La stella pi\u00f9 brillante della costellazione e la quindicesima del cielo notturno: in realt\u00e0 un sistema multiplo formato da una binaria spettroscopica stretta di due giganti azzurre di classe B, le cui componenti, cos\u00ec vicine da non essere risolvibili nemmeno con i pi\u00f9 grandi telescopi, sono deformate dalle forze mareali fino ad assumere forma ellissoidale. La primaria \u00e8 inoltre una variabile Beta Cephei. Con Arturo e Denebola forma il Triangolo di Primavera. Nel 2016 la UAI ha approvato ufficialmente il nome Spica.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Spica"
+  },
+  {
+   "id": "porrima",
+   "nome": "Porrima",
+   "bayer": "\u03b3 Virginis",
+   "origine_nome": "Da Porrima (o Antevorta), una delle Camene, divinit\u00e0 romane della profezia. Il nome fu approvato ufficialmente dalla UAI nel 2016 per Gamma Virginis A.",
+   "magnitudine": "2,74 (combinata)",
+   "spettro": "F0V + F0V (due nane bianco-gialle quasi gemelle)",
+   "distanza_al": 38,
+   "curiosita": "La seconda stella della costellazione, un sistema binario di due componenti quasi identiche, tra le prime stelle multiple scoperte: fu osservata come doppia dal gesuita Jean Richaud in India nel 1689 e William Herschel ne misur\u00f2 l'angolo di posizione nel 1781, mentre John Herschel ne calcol\u00f2 l'orbita nel 1833. La separazione apparente tra le due stelle diminu\u00ec fino al 2007, quando le componenti erano indistinguibili anche nei grandi telescopi, per poi tornare ad allargarsi: nel decenni a venire torner\u00e0 una delle coppie classiche per gli amatori.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Porrima"
+  },
+  {
+   "id": "vindemiatrix",
+   "nome": "Vindemiatrix",
+   "bayer": "\u03b5 Virginis",
+   "origine_nome": "Dal latino, \u00abla vendemmiatrice\u00bb: secondo la tradizione rappresenta Ampelo, figlio di Bacco e della ninfa Criti, che cadde da un albero di vite mentre raccoglieva l'uva, e fu trasformato in stella dalla madre. Il nome italiano \u00e8 Vendemmiatrice.",
+   "magnitudine": "2,83",
+   "spettro": "G8III (gigante gialla, red clump)",
+   "distanza_al": 110,
+   "curiosita": "La terza stella della costellazione: una gigante gialla che ha da poco esaurito 

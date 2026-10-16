@@ -1,4 +1,4 @@
-], ss[3], ss[4]].forEach(function (src) {
+], ss[3], ss[4], ss[5]].forEach(function (src) {
           if (src && typeof src === 'object') {
             Object.keys(src).forEach(function (k) { merged[k] = src[k]; });
           }

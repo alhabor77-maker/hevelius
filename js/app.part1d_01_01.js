@@ -17,5 +17,9 @@
       blurb: 'Il custode dell’Orsa con Arturo, la quarta stella più brillante del cielo.' },
     { id: 'corona_boreale', nome: 'Corona Boreale', latino: 'Corona Borealis', tavola: 'Fig. G', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hev_10_fig_G_corona.jpg/960px-Hev_10_fig_G_corona.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hev_10_fig_G_corona.jpg/960px-Hev_10_fig_G_corona.jpg', w: 960, h: 797,
       blurb: 'La corona di Arianna, il diadema d’oro di Efesto fra Boote ed Ercole.' },
+    { id: 'vergine', nome: 'Vergine', latino: 'Virgo', tavola: 'Fig. GG', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_GG_-_Virgo.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_GG_-_Virgo.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_GG_-_Virgo.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_GG_-_Virgo.jpg', w: 960, h: 789,
+      blurb: 'La dea della giustizia con la spiga di grano, fra il Leone e la Bilancia, attraversata dall’eclittica.' },
+    { id: 'leone', nome: 'Leone', latino: 'Leo', tavola: 'Fig. FF', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_Hevelius.jpg/960px-Leo_Hevelius.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_Hevelius.jpg/960px-Leo_Hevelius.jpg', w: 960, h: 773,
+      blurb: 'Il leone di Nemea, con Regolo sul cuore e Denebola sulla coda: una zodiacale d’estate.' },
   ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori
