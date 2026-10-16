@@ -1,0 +1,32 @@
+ncri"
+  },
+  {
+   "id": "nahn",
+   "nome": "Nahn (Xi Cancri)",
+   "bayer": "\u03be Cancri",
+   "origine_nome": "La UAI le ha approvato nel 2018 il nome Nahn, \u00abil naso\u00bb: insieme a Lambda Leonis (Alterf) formava l'asterismo lunare persiano di Nahn, e i Copti chiamavano l'altro membro Piautos, \u00abl'occhio\u00bb.",
+   "magnitudine": "5,15 (combinata)",
+   "spettro": "G9III Fe-1 CH-0.5 (gigante gialla) + binaria spettroscopica",
+   "distanza_al": 410,
+   "curiosita": "Un sistema binario spettroscopico con periodo di 4,66 anni, la cui variazione di velocit\u00e0 radiale fu scoperta gi\u00e0 nel 1922: la gigante gialla principale, con 3,4 masse solari espanse in 16 raggi solari, mostra un'atmosfera povera di ferro e cianuro rispetto a stelle simili. La voce italiana riporta 381 anni luce contro i 410 di quella inglese; esiste, ma \u00e8 breve e non copre i dettagli dello spettro.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Cancri"
+  },
+  {
+   "id": "piautos",
+   "nome": "Piautos (Lambda Cancri)",
+   "bayer": "\u03bb Cancri",
+   "origine_nome": "La UAI le ha approvato nel 2018 il nome Piautos, tratto da una lista copta di stazioni lunari: la parola combina il determinante copto pi- col greco autos, \u00ablo stesso, l'unico\u00bb. In astronomia cinese \u00e8 la seconda stella dell'asterismo del Fuoco di segnale (Gu\u00e0n).",
+   "magnitudine": "5,93 (combinata)",
+   "spettro": "B9.5V (nana blu di sequenza principale) + binaria spettroscopica",
+   "distanza_al": 569,
+   "curiosita": "La stella pi\u00f9 lontana della costellazione tra quelle nominate: una nana blu di 2,6 masse solari e 131 luminosit\u00e0 solari, con appena 105 milioni di anni, che ruota a 188 km/s. La natura binaria \u00e8 stata annunciata solo nel 2016 da K. Gullikson e collaboratori: la compagna B ha l'80% della massa del Sole. La voce italiana riporta 419 anni luce, un valore notevolmente divergente dai 569 di quella inglese, basati sulla parallasse Gaia: la scelta cade su quest'ultimo, pi\u00f9 recente e basato sulla parallasse Gaia. La voce italiana esiste ma \u00e8 molto breve.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Cancri"
+  }
+ ],
+ "capricorno": [
+  {
+   "id": "deneb_algedi",
+   "nome": "Deneb Algedi",
+   "bayer": "\u03b4 Capricorni",
+   "origine_nome": "Dall'arabo \u00f0anab al-jady (\u0630\u0646\u0628 \u0627\u0644\u062c\u062f\u064a), \u00abla coda della capra\u00bb: segna la coda del Capricorno, la met\u00e0 ittico del capricorno marino. Nome alternativo Scheddi. Nome approvato dalla UAI il 1\u00b0 febbraio 2017 per la componente Aa. In astronomia cinese \u00e8 la quarta stella della Linea di Bastioni.",
+   "magnitudine": "2,81 (massima; eclisse pri

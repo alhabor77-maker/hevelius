@@ -1,0 +1,27 @@
+seconda stella dell'asterismo del Bue.",
+   "magnitudine": "3,58 (\u03b1\u00b2); 4,27 (\u03b1\u00b9)",
+   "spettro": "G9III (gigante gialla, \u03b1\u00b2); G3Ibp (supergigante gialla, \u03b1\u00b9): doppia ottica",
+   "distanza_al": 109,
+   "curiosita": "Una delle pi\u00f9 celebri doppie ottiche del cielo: due stelle senza alcun legame fisico, separate da 0,11 gradi, risolvibili a occhio nudo come Mizar e Alcor. \u03b1\u00b2, l'Algedi ufficiale, \u00e8 una gigante gialla a 109 anni luce; \u03b1\u00b9, una supergigante gialla ben pi\u00f9 lontana, a circa 686 anni luce. Il nome Algedi fu storicamente condiviso anche con Beta Capricorni, motivo per cui la designazione di Bayer \u00e8 la pi\u00f9 affidabile per evitare ambiguit\u00e0. La distanza di \u03b1\u00b2 adottata qui (109 anni luce) \u00e8 quella della voce italiana; quella inglese non riporta un valore per la singola componente.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Algedi"
+  },
+  {
+   "id": "nashira",
+   "nome": "Nashira",
+   "bayer": "\u03b3 Capricorni",
+   "origine_nome": "Dall'arabo sa\u02bfd n\u0101shirah (\u0633\u0639\u062f \u0646\u0627\u0634\u0631\u0629), \u00abla fortunata\u00bb o \u00abla portatrice di buone notizie\u00bb. Nome approvato dalla UAI il 21 agosto 2016. In astronomia cinese \u00e8 la terza stella della Linea di Bastioni.",
+   "magnitudine": "3,67",
+   "spettro": "kA2hA4mA7III/IV (stella Am bianca, variabile \u03b1\u00b2 Canum Venaticorum)",
+   "distanza_al": 171,
+   "curiosita": "Quarta stella della costellazione: una stella Am con anomalie di stronzio, cromo ed europio nello spettro, classificata a volte come Ap, a volte come Am. \u00c8 una variabile \u03b1\u00b2 Canum Venaticorum con oscillazioni di appena 0,03 magnitudini in 2,78 giorni, ma nessun campo magnetico \u00e8 stato rilevato, il che orienterebbe verso la classe Am. Le grandi variazioni di velocit\u00e0 radiale potrebbero dipendere dalle macchie stellari e dalla rotazione, oppure da un'orbita di binaria spettroscopica vista quasi di taglio. Con 2,44 masse solari e 2,35 raggi solari, fa parte della corrente delle Iadi secondo Eggen. La voce italiana riporta 157 anni luce contro i 171 di quella inglese.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Nashira"
+  },
+  {
+   "id": "omega_capricorni",
+   "nome": "Omega Capricorni",
+   "bayer": "\u03c9 Capricorni",
+   "origine_nome": "Semplice designazione di Bayer latinizzata. In astronomia cinese \u00e8 la seconda stella dell'asterismo Ti\u0101n Ti\u00e1n, \u00abil Campo Celeste\u00bb.",
+   "magnitudine": "4,11",
+   "spettro": "K4III (gigante arancione, stella al bario)",
+   "distanza_al": 550,
+   "curiosita": "Una gigante al bario massiccia: 7,6 masse sola
