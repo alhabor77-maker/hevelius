@@ -1,0 +1,31 @@
+
+   "bayer": "\u03b8 Geminorum",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione \u00e8 la lettera di Bayer \u03b8 (theta). Nella tradizione cinese fa parte dell'asterismo dei \u00abCinque re feudali\u00bb.",
+   "magnitudine": "3,59",
+   "spettro": "A2IVs (subgigante bianca, sistema binario)",
+   "distanza_al": 190,
+   "curiosita": "Subgigante bianca di classe A circa 1,8 volte pi\u00f9 massiccia del Sole e 5 volte pi\u00f9 larga, con una luminosit\u00e0 di circa 93 Soli. Ruota rapidamente, a circa 133 km/s, una velocit\u00e0 tale da deformatarla in uno sferoide oblato con l'equatore pi\u00f9 largo dell'11% rispetto ai poli. Ha un'et\u00e0 stimata di circa 250 milioni di anni. Il catalogo delle doppie visuali elenca diverse compagne ottiche entro 100 secondi d'arco: la pi\u00f9 vicina, di magnitudine 8,6, \u00e8 a soli 2,4 secondi d'arco. Nella tradizione cinese fa parte dell'asterismo dei \u00abCinque re feudali\u00bb.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Geminorum"
+  },
+  {
+   "id": "lambda_gemini",
+   "nome": "Lambda Geminorum",
+   "bayer": "\u03bb Geminorum",
+   "origine_nome": "Senza nome tradizionale consolidato; la designazione \u00e8 la lettera di Bayer \u03bb (lambda), assegnata da Bayer nel 1603.",
+   "magnitudine": "3,57",
+   "spettro": "A3V (nana bianca di sequenza principale)",
+   "distanza_al": 101,
+   "curiosita": "Sistema multiplo candidato: la principale bianca di classe A \u00e8 affiancata da una compagna di magnitudine 10,7 separata di circa 9 secondi d'arco, e presenta inoltre una seconda compagna stretta individuata durante un'occultazione lunare. \u00c8 un membro della scia delle Iadi, un flusso di stelle legato cinematicamente all'antico ammasso del Toro. Fa parte dell'asterismo cinese Jing Su, \u00abil Pozzo\u00bb.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Geminorum"
+  }
+ ],
+ "auriga": [
+  {
+   "id": "capella",
+   "nome": "Capella",
+   "bayer": "\u03b1 Aurigae",
+   "origine_nome": "Dal latino Capella, \u00abla capretta\u00bb: la stella rappresenta Amaltea, la capra che allatt\u00f2 il piccolo Zeus nella mitologia greca. Il nome latino traduce l'immagine greca della capra sulla spalla dell'Auriga.",
+   "magnitudine": "0,08 (combinata)",
+   "spettro": "G8III + G0III (due giganti gialle; sistema quadruplo con due nane rosse)",
+   "distanza_al": 43,
+   "curiosita": "A occhio nudo una stella, in realt\u00e0 un sistema di quattro stelle organizzato in due coppie: le primarie Capella Aa e Ab sono due giganti gialle di circa 2,5 masse solari che orbitano a vicenda in 104 giorni, mentre la seconda coppia, due nane rosse deboli e fredde, le accompagna a circa 10.000 unit\u00e0 astronomiche 

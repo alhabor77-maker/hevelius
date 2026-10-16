@@ -1,0 +1,33 @@
+{
+ "gemelli": [
+  {
+   "id": "castore",
+   "nome": "Castore",
+   "bayer": "\u03b1 Geminorum",
+   "origine_nome": "Dal greco \u039a\u03ac\u03c3\u03c4\u03c9\u03c1 (K\u00e1st\u014dr), nome del gemello mortale dei Dioscuri, i fratelli di Sparta figli di Zeus e Leda, gi\u00e0 citati da Omero; il nome potrebbe risalire alla radice greca che indica il castoro.",
+   "magnitudine": "1,58 (combinata)",
+   "spettro": "A1V (componente principale; sistema sestuplo)",
+   "distanza_al": 51,
+   "curiosita": "A occhio nudo una stella, in realt\u00e0 un sistema sestuplo: tre coppie legate gravitazionalmente. Castore A e Castore B sono due binarie spettroscopiche di stelle bianche di classe A, ciascuna con una vicina nana rossa; la coppia pi\u00f9 debole, Castore C (detta YY Geminorum), \u00e8 una binaria a eclisse di due nane rosse gemelle che si eclissano a vicenda ogni 19,5 ore e sono attive stelle a brillamento. L'intero sistema ha circa 290-300 milioni di anni. Nonostante la lettera \u00abalfa\u00bb, oggi Polluce appare pi\u00f9 brillante.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Castore_(astronomia)"
+  },
+  {
+   "id": "polluce",
+   "nome": "Polluce",
+   "bayer": "\u03b2 Geminorum",
+   "origine_nome": "Dal greco \u03a0\u03bf\u03bb\u03c5\u03b4\u03b5\u03cd\u03ba\u03b7\u03c2 (Polyde\u00fak\u0113s), trasmesso al latino come Pollux: il gemello immortale dei Dioscuri, al quale Zeus concesse di condividere l'eternit\u00e0 con il fratello Castore.",
+   "magnitudine": "1,15",
+   "spettro": "K0IIIb (gigante arancione)",
+   "distanza_al": 34,
+   "curiosita": "La stella pi\u00f9 brillante della costellazione, pur designata \u00abbeta\u00bb. \u00c8 un gigante arancione di circa 8 volte il raggio solare e 43 volte pi\u00f9 luminoso, con una lenta rotazione di circa 660 giorni e un debole campo magnetico. Nel 2006 \u00e8 stato confermato un esopianeta di massa simile a circa 2-3 volte quella di Giove, battezzato Thestias, che le orbita attorno in circa 590 giorni. A soli 34 anni luce \u00e8 una delle giganti pi\u00f9 vicine al Sole.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Polluce_(astronomia)"
+  },
+  {
+   "id": "alhena",
+   "nome": "Alhena",
+   "bayer": "\u03b3 Geminorum",
+   "origine_nome": "Dall'arabo al-Han\u02bfah, \u00abil marchio\u00bb (bruciato) sul collo del cammello: gli astronomi arabi vedevano la stella come il segno al collo dell'animale; forma alternativa Almeisan, \u00abla gemma luminosa\u00bb.",
+   "magnitudine": "1,90",
+   "spettro": "A0IVm (subgigante bianca di classe Am)",
+   "distanza_al": 105,
+   "curiosita": "Terza stella della costellazione, segna il piede di Castore. \u00c8 una subgigante bianca circa 3,4 volte pi\u00f9 massiccia e 6 volte pi\u00f9 
