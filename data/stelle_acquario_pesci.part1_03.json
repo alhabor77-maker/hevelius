@@ -1,0 +1,25 @@
+
+   "distanza_al": 95,
+   "curiosita": "La stella centrale dell'asterismo dell'Urna e una delle doppie preferite dagli amatori: due componenti di magnitudine quasi identica (4,42 e 4,51) separate da meno di 2 secondi d'arco, risolvibili con un telescopio di media apertura. Le due orbitano una attorno all'altra in circa 587 anni, e ciascuna nasconde un segreto: la principale A \u00e8 a sua volta una binaria astrometrica con un periodo di 26 anni, mentre la terza stella, Zeta Aquarii Ab, fu individuata solo nel 2009 dal telescopio SOAR dopo decenni di rivendicazioni contrastanti.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Aquarii"
+  },
+  {
+   "id": "eta_aquarii",
+   "nome": "Fenmu (Eta Aquarii)",
+   "bayer": "\u03b7 Aquarii",
+   "origine_nome": "Il nome tradizionale Hydria, dal greco \u1f51\u03b4\u03c1\u03af\u03b1, \u00abidria, vaso per l'acqua\u00bb, non \u00e8 mai stato approvato dalla UAI; nel 2026 il gruppo di lavoro sui nomi stellari le ha invece approvato il nome cinese Fenmu, \u00abtomba\u00bb, dal nome dell'asterismo di cui fa parte insieme a \u03b3, \u03b6 e \u03c0 Aquarii.",
+   "magnitudine": "4,02",
+   "spettro": "B9IV-Vn (subgigante bianco-azzurra, ruota rapidamente)",
+   "distanza_al": 168,
+   "curiosita": "Una bianco-azzurra di quasi 3 masse solari che ruota su s\u00e9 stessa a 271 km/s: la rotazione la rende visibilmente schiacciata all'equatore, con un raggio ivi del 24% pi\u00f9 ampio che ai poli, e sfuma le righe del suo spettro. \u00c8 la stella che d\u00e0 il nome alle Eta Aquariidi, lo sciame di meteore generato dalla famosa cometa di Halley, il cui radiante le sta accanto: ogni anno, ai primi di maggio, gli osservatori dell'emisfero australe possono contare fino a 50 meteore l'ora.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Eta_Aquarii"
+  },
+  {
+   "id": "hydor",
+   "nome": "Hydor",
+   "bayer": "\u03bb Aquarii",
+   "origine_nome": "Dal greco antico \u1f55\u03b4\u03c9\u03c1, \u00abacqua\u00bb: nome dato da Proclo. L'altro nome greco \u00e8 Ekkhysis, \u00abeffusione\u00bb. Nell'astronomia indiana \u00e8 la stella principale del nakshatra Shatabhisha, \u00abi cento medici\u00bb; la UAI ha approvato proprio il nome Shatabhisha nel 2025, mentre Hydor \u00e8 stato assegnato alla stella 2 Ceti.",
+   "magnitudine": "3,74 (variabile tra 3,57 e 3,80)",
+   "spettro": "M2.5IIIa Fe-1 (gigante rossa, povera di ferro)",
+   "distanza_al": 365,
+   "curiosita": "Una gigante rossa in piena fase finale: con 3,6 masse solari \u00e8 espansa fino a 100 raggi solari, e fonde idrogeno ed elio in gusci concentrici attorno a un nucleo inerte di carbonio e ossigeno, sul ramo asintotico delle giganti. \u00c8 una variabile irregolare lenta con pulsazioni 

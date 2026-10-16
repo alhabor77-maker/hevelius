@@ -1,0 +1,29 @@
+{
+ "acquario": [
+  {
+   "id": "sadalsuud",
+   "nome": "Sadalsuud",
+   "bayer": "\u03b2 Aquarii",
+   "origine_nome": "Dall'espressione araba sa\u02bfd al-su\u02bf\u016bd, \u00abla fortuna delle fortune\u00bb (\u0633\u0639\u062f \u0627\u0644\u0633\u0639\u0648\u062f): nel Calendarium di Al Achsasi al Mouakket era Nir Saad al Saaoud, tradotto in latino come Lucida Fortun\u00e6 Fortunarum. Nome approvato dalla UAI nel 2016.",
+   "magnitudine": "2,90",
+   "spettro": "G0Ib (supergigante gialla)",
+   "distanza_al": 540,
+   "curiosita": "La stella pi\u00f9 brillante della costellazione e uno dei rari esempi di supergigante gialla visibili a occhio nudo: con i suoi 6 masse solari espansa fino a 50 raggi solari, irradia circa 2 300 volte la luce del Sole fondendo l'elio nel nucleo. Dal telescopio spaziale Chandra proviene la prima emissione di raggi X mai rilevata da una supergigante gialla. Le due deboli compagne visibili al telescopio non sono legate gravitazionalmente: i dati di Gaia mostrano che si trovano a circa il doppio della sua distanza. Nell'antichit\u00e0 il suo sorgere eliocrono coincidesse con il passaggio all'equinozio di primavera: per questo era il \u00abportafortuna\u00bb degli agricoltori, annunciatrice della stagione delle piogge.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sadalsuud"
+  },
+  {
+   "id": "sadalmelik",
+   "nome": "Sadalmelik",
+   "bayer": "\u03b1 Aquarii",
+   "origine_nome": "Dall'espressione araba sa\u02bfd al-malik, \u00abla fortuna del re\u00bb (\u0633\u0639\u062f \u0627\u0644\u0645\u0644\u0643). Portava anche il nome Rucbah, condiviso con Delta Cassiopeiae. Nome approvato dalla UAI nel 2016. \u00c8 una delle due sole stelle con nome proprio antico attraversate dall'equatore celeste.",
+   "magnitudine": "2,94",
+   "spettro": "G2Ib (supergigante gialla)",
+   "distanza_al": 660,
+   "curiosita": "La seconda stella della costellazione, appena pi\u00f9 debole di Sadalsuud: un'altra supergigante gialla, con un raggio di circa 70 raggi solari e quasi 4 000 volte la luminosit\u00e0 del Sole. Si trova vicino al bordo freddo della fascia di instabilit\u00e0 delle Cefeidi ma non \u00e8 classificata come variabile. La sua distanza \u00e8 tra le pi\u00f9 incerte fra le stelle brillanti del cielo: le misure Hipparcos del 1997 davano 760 anni luce, la riduzione del 2007 solo 520, e il rilascio Gaia DR3 del 2022 indica circa 660 anni luce con un margine d'errore ancora notevole (circa il 10%).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sadalmelik"
+  },
+  {
+   "id": "skat",
+   "nome": "Skat",
+   "bayer": "\u03b4 Aquarii",
+   "origine_nome": "Dall'arabo al-s\u0101q (\u0627\u0644\u0633\u0627\u0642), \u00abgamba\u00bb o \u00abtibia\u00bb: 

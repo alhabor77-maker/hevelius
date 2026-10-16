@@ -1,0 +1,28 @@
+Piscium",
+   "origine_nome": "Porta il nome tradizionale Torcularis Septentrionalis, \u00abil torchio del nord\u00bb, tratto dall'Almagesto del 1515: deriva dal greco \u03bb\u03b7\u03bd\u03cc\u03c2, \u00abtorchio\u00bb, scritto per errore al posto di \u03bb\u03af\u03bd\u03bf\u03c2, \u00ablino\u00bb. La UAI ha approvato nel 2017 il nome Torcular per la componente A.",
+   "magnitudine": "4,27",
+   "spettro": "K0III (gigante arancione, red clump)",
+   "distanza_al": 280,
+   "curiosita": "Una gigante arancione evoluta, con 3 masse solari espanse fino a 14-15 raggi solari e 130 volte la luminosit\u00e0 del Sole: con il 76% di probabilit\u00e0 \u00e8 una stella del ramo orizzontale, cio\u00e8 in fusione dell'elio nel nucleo, e ha un'et\u00e0 di circa 390 milioni di anni. \u00c8 un probabile sistema binario astrometrico, ma la compagna non \u00e8 mai stata vista direttamente. Vicina all'eclittica, viene occasionalmente occultata dalla Luna: il 13 maggio 2027 Venere la occulther\u00e0 per gli osservatori di Terranova e dell'Atlantico.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Omicron_Piscium"
+  },
+  {
+   "id": "tau_piscium",
+   "nome": "Tau Piscium",
+   "bayer": "\u03c4 Piscium",
+   "origine_nome": "Semplice designazione di Bayer latinizzata; in cinese fa parte dell'asterismo delle \u00abGambe\u00bb (Ku\u00ed S\u00f9), insieme a diverse stelle di Andromeda.",
+   "magnitudine": "4,52",
+   "spettro": "K0.5IIIb (gigante arancione, red clump)",
+   "distanza_al": 169,
+   "curiosita": "Una gigante arancione di 1,7 masse solari, espansa fino a 10 raggi solari: con il 96% di probabilit\u00e0 appartiene alla popolazione del disco sottile della Galassia, e ha circa 2,3 miliardi di anni. \u00c8 una stella del ramo orizzontale, in fusione dell'elio nel nucleo, che irradia 45 volte la luce del Sole a una temperatura di 4 624 K, da cui il colore arancio. In italiano non esiste una voce dedicata: quella inglese \u00e8 l'unica enciclopedica.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Tau_Piscium"
+  },
+  {
+   "id": "delta_piscium",
+   "nome": "Waiping (Delta Piscium)",
+   "bayer": "\u03b4 Piscium",
+   "origine_nome": "La UAI le ha approvato nel 2026 il nome cinese Waiping, \u00abrecinto esterno\u00bb, dall'asterismo di cui \u00e8 la prima stella insieme ad \u03b1, \u03b5, \u03b6, \u03bc, \u03bd e \u03be Piscium.",
+   "magnitudine": "4,40",
+   "spettro": "K4IIIb (gigante arancione)",
+   "distanza_al": 300,
+   "curiosita": "Una gigante arancione di 1,65 masse solari che, in 3 miliardi di anni, si \u00e8 espansa fino a 38 raggi solari, irradiando 292 volte la luce del Sole a una temperatura di 3 868 K. Situata quasi sull'eclittica, \u00e8 soggetta a occultazioni lunari,
