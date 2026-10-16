@@ -13,5 +13,9 @@
       blurb: 'Castore e Polluce, i due fratelli che condividono l’immortalità a metà: un giorno fra le stelle, un giorno negli inferi.' },
     { id: 'auriga', nome: 'Auriga', latino: 'Auriga', tavola: 'Fig. X', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_X_-_Auriga.jpg/1920px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_X_-_Auriga.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_X_-_Auriga.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_X_-_Auriga.jpg', w: 1920, h: 1521,
       blurb: 'Il cocchiere con la capra Capella sulla spalla, fra il Toro, i Gemelli e Perseo.' },
+    { id: 'boote', nome: 'Boote', latino: 'Boötes', tavola: 'Fig. F', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bootes.jpg/1920px-Bootes.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bootes.jpg/960px-Bootes.jpg', w: 1920, h: 1571,
+      blurb: 'Il custode dell’Orsa con Arturo, la quarta stella più brillante del cielo.' },
+    { id: 'corona_boreale', nome: 'Corona Boreale', latino: 'Corona Borealis', tavola: 'Fig. G', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hev_10_fig_G_corona.jpg/960px-Hev_10_fig_G_corona.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hev_10_fig_G_corona.jpg/960px-Hev_10_fig_G_corona.jpg', w: 960, h: 797,
+      blurb: 'La corona di Arianna, il diadema d’oro di Efesto fra Boote ed Ercole.' },
   ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori

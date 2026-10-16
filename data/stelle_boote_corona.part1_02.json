@@ -1,0 +1,29 @@
+"Muphrid",
+   "bayer": "\u03b7 Bo\u00f6tis",
+   "origine_nome": "Dall'arabo, forse da al-Mufris o Mufrid, \u00abil (singolo) solitario\u00bb: nome che richiama la posizione isolata della stella, poco distante dal piede del Boote, vicino alla costellazione dell'Ercole.",
+   "magnitudine": "2,68",
+   "spettro": "G0IV (subgigante gialla)",
+   "distanza_al": 37,
+   "curiosita": "Subgigante gialla a soli 37 anni luce, in rapida evoluzione: ha gi\u00e0 esaurito l'idrogeno nel nucleo e si sta allontanando dalla sequenza principale, con circa 1,7 masse solari. Dal 1943 il suo spettro \u00e8 uno dei punti di riferimento stabili con cui gli astronomi classificano le altre stelle. \u00c8 una candidata binaria spettroscopica e, ai fini del catalogo delle doppie, forma una coppia visuale con la stella BD+19 2726, a due primi d'arco, che per\u00f2 \u00e8 un oggetto molto pi\u00f9 distante e a essa non legato. \u00c8 la seconda stella della costellazione dopo Arturo, da cui dista in cielo pochi gradi.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Bo%C3%B6tis"
+  },
+  {
+   "id": "seginus",
+   "nome": "Seginus",
+   "bayer": "\u03b3 Bo\u00f6tis",
+   "origine_nome": "Seginus \u00e8 una latinizzazione di Theguius, il nome greco della costellazione; il nome alternativo Haris deriva dall'arabo Al \u1e24\u0101ris al S\u0101ma\u02bf, \u00abil guardiano\u00bb.",
+   "magnitudine": "3,03",
+   "spettro": "A7IV (subgigante bianca)",
+   "distanza_al": 86,
+   "curiosita": "Sistema binario che segna la spalla sinistra del Boote: la principale \u00e8 una subgigante bianca di classe A, la cui doppia natura fu scoperta da S. W. Burnham nel 1878. La coppia \u00e8 risolta con separazione di 33,4 secondi d'arco e un salto di 9,7 magnitudini, mentre la principale \u00e8 a sua volta una coppia stretta di soli 0,069 secondi d'arco, individuata con tecniche di interferometria nel 1975. Si trova a circa 86 anni luce e si avvicina al Sole a circa 32 km/s. Nella tradizione araba era una delle \u00abguardie del nord\u00bb insieme alla vicina Mufrid.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Seginus"
+  },
+  {
+   "id": "nekkar",
+   "nome": "Nekkar",
+   "bayer": "\u03b2 Bo\u00f6tis",
+   "origine_nome": "Il nome Nekkar (o Nakkar) deriva dall'arabo Al Baqq\u0101r, \u00abil conducente di buoi\u00bb: \u00e8 una traslitterazione imperfetta del nome arabo dell'intera costellazione. Fu approvato ufficialmente dalla UAI nel 2016.",
+   "magnitudine": "3,50 (variabile)",
+   "spettro": "G8III (gigante gialla, variabile)",
+   "distanza_al": 219,
+   "curiosita": "Segna la testa del Boote ed \u00e8 una variabile di tipo flare: nel 1975, e in altre occasioni, le sono state osservate improvvise fugaci brillanze 

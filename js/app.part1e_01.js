@@ -23,8 +23,9 @@
   var DATA = { stelle: null, hotspots: null, testi: null, fonti: [] };
 
   var STELLE_GEMELLI_AURIGA_PARTS = ['data/stelle_gemelli_auriga.part1_01.json', 'data/stelle_gemelli_auriga.part1_02.json', 'data/stelle_gemelli_auriga.part1_03.json', 'data/stelle_gemelli_auriga.part1_04.json', 'data/stelle_gemelli_auriga.part1_05.json', 'data/stelle_gemelli_auriga.part1_06.json', 'data/stelle_gemelli_auriga.part1_07.json', 'data/stelle_gemelli_auriga.part1_08.json'];
+  var STELLE_BOOTE_CORONA_PARTS = ['data/stelle_boote_corona.part1_01.json', 'data/stelle_boote_corona.part1_02.json', 'data/stelle_boote_corona.part1_03.json', 'data/stelle_boote_corona.part1_04.json', 'data/stelle_boote_corona.part1_05.json', 'data/stelle_boote_corona.part1_06.json', 'data/stelle_boote_corona.part1_07.json'];
   function loadAll() {
     var jobs = [
-      Promise.all([fetchConcat(['data/stelle_01.json', 'data/stelle_02.json', 'data/stelle_03.json', 'data/stelle_04.json', 'data/stelle_05.json', 'data/stelle_06.json', 'data/stelle_07.json', 'data/stelle_08.json', 'data/stelle_09.json', 'data/stelle_10.json', 'data/stelle_11.json', 'data/stelle_12.json', 'data/stelle_13.json', 'data/stelle_14.json', 'data/stelle_15.json', 'data/stelle_16.json']), fetchConcat(STELLE_PERSEO_PARTS), fetchMulti(['data/stelle_triangolo.part1_01.json', 'data/stelle_triangolo.part1_02.json']), fetchMulti(STELLE_GEMELLI_AURIGA_PARTS)]).then(function (ss) {
+      Promise.all([fetchConcat(['data/stelle_01.json', 'data/stelle_02.json', 'data/stelle_03.json', 'data/stelle_04.json', 'data/stelle_05.json', 'data/stelle_06.json', 'data/stelle_07.json', 'data/stelle_08.json', 'data/stelle_09.json', 'data/stelle_10.json', 'data/stelle_11.json', 'data/stelle_12.json', 'data/stelle_13.json', 'data/stelle_14.json', 'data/stelle_15.json', 'data/stelle_16.json']), fetchConcat(STELLE_PERSEO_PARTS), fetchMulti(['data/stelle_triangolo.part1_01.json', 'data/stelle_triangolo.part1_02.json']), fetchMulti(STELLE_GEMELLI_AURIGA_PARTS), fetchMulti(STELLE_BOOTE_CORONA_PARTS)]).then(function (ss) {
         var merged = {};
         [ss[0], ss[1], ss[2

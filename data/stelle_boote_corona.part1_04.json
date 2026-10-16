@@ -1,0 +1,30 @@
+ },
+  {
+   "id": "xenia",
+   "nome": "39 Bo\u00f6tis",
+   "bayer": "39 Bo\u00f6tis (o Bo\u00f6tis)",
+   "origine_nome": "Il nome Xenia, con cui la stella \u00e8 talvolta indicata, non ha una fonte storica consolidata; la designazione consueta \u00e8 il numero di Flamsteed 39. La stella fu trasferita da J\u00e9r\u00f4me Lalande alla costellazione ormai scomparsa del Quadrante da Muro (Quadrans Muralis), e torn\u00f2 al Boote quando la costellazione fu abolita.",
+   "magnitudine": "5,68 (combinata)",
+   "spettro": "F8V + F7V (due nane giallo-bianche)",
+   "distanza_al": 224,
+   "curiosita": "Sistema triplo a 224 anni luce: le due componenti principali formano a loro volta una binaria spettroscopica a doppia riga con periodo di 12,8 giorni, mentre la terza stella le accompagna a 2,9 secondi d'arco su un'orbita di oltre mille anni. Tutto il sistema emette raggi X, un indizio dell'attivit\u00e0 magnetica delle sue componenti di classe F, simili a un Sole un po' pi\u00f9 grande e pi\u00f9 caldo. \u00c8 visibile a occhio nudo in condizioni di cielo buio, con una luminosit\u00e0 combinata di quinta-sesta magnitudine.",
+   "fonte_url": "https://en.wikipedia.org/wiki/39_Bo%C3%B6tis"
+  }
+ ],
+ "corona_boreale": [
+  {
+   "id": "alphecca",
+   "nome": "Gemma (Alphecca)",
+   "bayer": "\u03b1 Coronae Borealis",
+   "origine_nome": "Alphecca dall'arabo al-n\u0101\u02beir al-fakkah, \u00abla (stella) brillante nell'anello rotto\u00bb; il nome Gemma, \u00abla gemma\u00bb, \u00e8 un riferimento alla posizione della stella al centro della corona di Arianna.",
+   "magnitudine": "2,21 (variabile, 2,21\u20132,32)",
+   "spettro": "A0V (nana bianca) + G7V (compagna gialla simile al Sole)",
+   "distanza_al": 75,
+   "curiosita": "Binaria a eclisse di tipo Algol: una nana bianca di classe A e una compagna gialla simile al Sole orbitano ogni 17,36 giorni su un'orbita inclinata di 88,2\u00b0 rispetto alla linea di vista, cos\u00ec che si eclissano a vicenda, facendo oscillare la magnitudine tra 2,21 e 2,32, un calo appena percettibile a occhio nudo. Attorno alla principale \u00e8 stato rilevato un eccesso di radiazione infrarossa indizio di un disco di detriti, come quello che ha circondato il giovane Sole. Il suo colore bianco-gemma al centro della corona le \u00e8 valso il nome con cui \u00e8 nota in italiano.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alfa_Coronae_Borealis"
+  },
+  {
+   "id": "nusakan",
+   "nome": "Nusakan",
+   "bayer": "\u03b2 Coronae Borealis",
+   "origine_nome": "Dall'arabo al-nasaq\u0101n, \u00able due linee (di stelle)\u00bb: nella tradizione araba indicava una coppia di asterismi, uno settentrionale in gran parte nell'Ercole e uno meridionale tra Ofiuco e 
