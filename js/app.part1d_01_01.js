@@ -45,5 +45,9 @@
       blurb: 'La costellazione che Hevelius creò nel 1687: per vederla servono «occhi di lince».' },
     { id: 'giraffa', nome: 'Giraffa', latino: 'Camelopardalis', tavola: 'Fig. O', img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/Johannes_Hevelius_-_Camelo_Pardalus.jpg', thumb: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/960px-Johannes_Hevelius_-_Camelo_Pardalus.jpg', w: 960, h: 793,
       blurb: 'Il cammello leopardo di Plancio e Hevelius, la costellazione più povera di stelle brillanti.' },
+    { id: 'ercole', nome: 'Ercole', latino: 'Hercules', tavola: 'Fig. H', img: 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Hercules_et_Cerberus_-_Prodromus_astronomiae_1690_%28436025%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hercules_et_Cerberus_-_Prodromus_astronomiae_1690_%28436025%29.jpg/960px-Hercules_et_Cerberus_-_Prodromus_astronomiae_1690_%28436025%29.jpg', w: 960, h: 756,
+      blurb: 'L’eroe in ginocchio con la clava, il più grande del cielo dopo le stelle di prima magnitudine.' },
+    { id: 'sestante', nome: 'Sestante', latino: 'Sextans', tavola: 'Fig. VV', img: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg/960px-Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg', w: 960, h: 754,
+      blurb: 'Il Sestante di Urania, creato da Hevelius in memoria dello strumento perso nell’incendio del 1679.' },
   ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori
