@@ -1,0 +1,25 @@
+
+   "curiosita": "A 14,6 anni luce \u00e8 una delle stelle pi\u00f9 vicine al Sole dell'intera costellazione, ma \u00e8 invisibile a occhio nudo: una piccola nana rossa che di tanto in tanto esplode in brillamenti, guadagnando pi\u00f9 di una magnitudine. Attorno orbita un pianeta confermato con un anno di 770 giorni: la sua storia \u00e8 stata contesa, con candidati annuncati nel 2019 e poi ritirati, finch\u00e9 il 2022 non ha portato la conferma indipendente. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/TZ_Arietis"
+  },
+  {
+   "id": "teegarden",
+   "nome": "Stella di Teegarden",
+   "bayer": "Nessuna designazione di Bayer (2MASS J02530084+1652532)",
+   "origine_nome": "Nome \u00abda scopritore\u00bb, non tradizionale: porta il nome di Bonnard J. Teegarden, capo del team della NASA che l'ha individuata nel 2003.",
+   "magnitudine": "15,10",
+   "spettro": "M7 V (nana rossa)",
+   "distanza_al": 13,
+   "curiosita": "A 12,5 anni luce \u00e8 la stella pi\u00f9 vicina al Sole dell'intera costellazione, eppure fu scoperta solo nel 2003: il team non punt\u00f2 alcun telescopio, ma ri-analizz\u00f2 gli archivi fotografici del programma NEAT di tracciamento degli asteroidi. Con appena il 9% della massa solare, emette la quasi totalit\u00e0 della sua energia nell'infrarosso ed \u00e8 visibile solo con grandi telescopi. Il sistema planetario \u00e8 eccezionale: due pianeti di massa terrestre nella zona abitabile (CARMENES, 2019) e un terzo annuncio nel 2024. Vista da un suo pianeta, la Terra transiterebbe davanti al Sole dal 2044 al 2496. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Teegarden%27s_Star"
+  }
+ ],
+ "triangolo": [
+  {
+   "id": "mothallah",
+   "nome": "Mothallah",
+   "bayer": "\u03b1 Trianguli",
+   "origine_nome": "Dall'arabo ra's al-muthallath, \u00abla testa del triangolo\u00bb, di cui Caput Trianguli \u00e8 la traduzione latina. Nome approvato dalla UAI. Con \u03b2 Tri formava la coppia araba Al Mizan, \u00abl'asta della bilancia\u00bb; nell'astronomia babilonese l'area \u00e8 UR.BAR.RA, \u00abil Lupo\u00bb, \u00abil seminatore dell'aratro\u00bb nel MUL.APIN.",
+   "magnitudine": "3,42",
+   "spettro": "F5III\u2013F6IV (subgigante/gigante gialla)",
+   "distanza_al": 63,

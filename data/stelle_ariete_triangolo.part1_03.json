@@ -1,0 +1,27 @@
+
+   "origine_nome": "Dall'induismo: Bharani \u00e8 il secondo nakshatra (mansioni lunari), che comprende le stelle 35, 39 e 41 Arietis. Nome approvato dalla UAI il 30 giugno 2017 per la componente principale. Prima Lacaille l'aveva chiamata Liliii Australis, \u00abmeridionale del Giglio\u00bb, dall'effimera costellazione del Lilium.",
+   "magnitudine": "3,63",
+   "spettro": "B8 Vn (sequenza principale di tipo B)",
+   "distanza_al": 166,
+   "curiosita": "Ruota a 175 km/s all'equatore, talmente velocemente che il rigonfiamento equatoriale supera del 12% il raggio polare: le righe del suo spettro sono \u00abnebulose\u00bb proprio per la rotazione rapida. \u00c8 una stella di tipo B giovane e massiccia, la quarta pi\u00f9 luminosa della costellazione, con un sistema triplo di cui la compagna stretta si vede a 0,3 secondi d'arco. Johann Elert Bode la considerava parte della \u00abMusca Borealis\u00bb, la mosca disegnata \u00abdentro\u00bb l'Ariete nelle carte del Settecento. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/41_Arietis"
+  },
+  {
+   "id": "lambda_arietis",
+   "nome": "Lambda Arietis",
+   "bayer": "\u03bb Arietis",
+   "origine_nome": "Nessun nome proprio: porta solo la lettera greca assegnata da Johann Bayer nel 1603, in ordine di luminosit\u00e0 tra le stelle catalogate nella costellazione.",
+   "magnitudine": "4,79",
+   "spettro": "F0V + G1V (doppia ampia)",
+   "distanza_al": 129,
+   "curiosita": "Una vera coppia fisica, non un casuale allineamento: le due stelle condividono lo stesso moto proprio e sono separate in cielo da 37 secondi d'arco, oltre 1.600 unit\u00e0 astronomiche. \u00c8 un ottimo obiettivo per il binocolo: con un 7\u00d750 lo sdoppiamento \u00e8 difficile (la compagna \u00e8 quasi 3 magnitudini pi\u00f9 debole), con un 10\u00d750 facile. La primaria \u00e8 una nana bianco-gialla che ruota a 107 km/s, pi\u00f9 massiccia e pi\u00f9 giovane del Sole (circa 600 milioni di anni). Le voci italiana e inglese danno distanze leggermente diverse (133 contro 129 anni luce).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Lambda_Arietis"
+  },
+  {
+   "id": "tz_arietis",
+   "nome": "TZ Arietis",
+   "bayer": "Nessuna designazione di Bayer (Gliese 83.1)",
+   "origine_nome": "Nessun nome proprio: il nome deriva dalla designazione di stella variabile TZ Arietis; il numero Gliese 83.1 la colloca nel catalogo delle stelle vicine.",
+   "magnitudine": "12,30",
+   "spettro": "M5 V (nana rossa, flare star)",
+   "distanza_al": 15,

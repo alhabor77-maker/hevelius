@@ -1,0 +1,28 @@
+{
+ "ariete": [
+  {
+   "id": "hamal",
+   "nome": "Hamal",
+   "bayer": "\u03b1 Arietis",
+   "origine_nome": "Dall'arabo Al \u1e24amal, \u00abl'Ariete\u00bb: era il nome dell'intera costellazione, e per indicare la singola stella si diceva r\u0101s al-\u1e25amal, \u00abla testa dell'Ariete\u00bb. Nome approvato dalla UAI nel luglio 2016. Una variante storica \u00e8 El Nath, \u00abil Corno\u00bb, titolo oggi assegnato a \u03b2 Tauri.",
+   "magnitudine": "2,01",
+   "spettro": "K2 IIICa-1 (gigante arancione)",
+   "distanza_al": 66,
+   "curiosita": "Quattromila anni fa il punto dell'equinozio di primavera \u2014 il \u00abPrimo Punto d'Ariete\u00bb che d\u00e0 il nome al primo segno zodiacale \u2014 si trovava a circa 9 gradi a sud di Hamal: per la precessione oggi \u00e8 migrato nella costellazione dei Pesci. \u00c8 una gigante arancione di circa 1,5 masse solari, espansa fino a 15 raggi solari, con un'et\u00e0 stimata di quasi 9 miliardi di anni: pulsa lentamente con periodi di 0,571 e 0,190 giorni. Nel 2011 \u00e8 stato annunciato un esopianeta, Hamal b (o Alpha Arietis b), con massa minima di circa 1,8 masse gioviane e un anno di 381 giorni. Tra le 50 stelle pi\u00f9 luminose del cielo, il suo spettro dal 1943 \u00e8 uno dei punti di ancoraggio della classificazione stellare.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Hamal"
+  },
+  {
+   "id": "sheratan",
+   "nome": "Sheratan",
+   "bayer": "\u03b2 Arietis",
+   "origine_nome": "Dall'arabo a\u0161-\u0161ara\u0163\u0101n, \u00abi due segni\u00bb: migliaia di anni fa la stella segnava l'equinozio di primavera boreale insieme a Gamma Arietis, e il nome ne conserva la memoria. Nome approvato dalla UAI il 21 agosto 2016. Varianti storiche: Sharatan, Al Sharatan.",
+   "magnitudine": "2,65",
+   "spettro": "A3V + G2V (binaria spettroscopica)",
+   "distanza_al": 58,
+   "curiosita": "Le due componenti di questo sistema orbitano in soli 107 giorni su un'orbita fortemente ellittica (e = 0,88): la gigante arancione in cui diventer\u00e0 la primaria nei prossimi milioni di anni le far\u00e0 trasferire massa significativa alla compagna. Con Mesarthim era una delle \u00abdue segnature\u00bb del punto equinoziale, da qui il nome; nell'astronomia cinese \u00e8 la Prima Stella del Laccio, nell'induismo \u03b2 e \u03b3 Arietis sono gli Ashvins, i gemelli medici divini del Rigveda. Dalla stella, il Sole sarebbe appena visibile a occhio nudo, e Hamal dista da lei soltanto una decina di anni luce.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sheratan"
+  },
+  {
+   "id": "mesarthim",
+   "nome": "Mesarthim",
+   "bayer": "\u03b3 Arietis",

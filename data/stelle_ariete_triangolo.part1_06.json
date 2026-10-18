@@ -1,0 +1,33 @@
+
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Trianguli"
+  },
+  {
+   "id": "deltoton",
+   "nome": "Deltoton",
+   "bayer": "\u03b4 Trianguli",
+   "origine_nome": "Deltoton era il nome greco antico dell'intera costellazione, che somiglia alla lettera delta maiuscola \u0394; il nome \u00e8 stato scelto per la stella anche per il gioco di parole con la sua lettera di Bayer. Nome approvato dalla UAI il 17 giugno 2025. In cinese \u00e8 l'undicesima stella del \u00abGrande Generale del Cielo\u00bb.",
+   "magnitudine": "4,87",
+   "spettro": "G0V + G9V\u2013K4V (nana gialla + nana arancione)",
+   "distanza_al": 35,
+   "curiosita": "A 35 anni luce \u00e8 il sistema pi\u00f9 vicino alla Terra dell'intera costellazione: una nana gialla quasi identica al Sole, con una compagna che le orbita accanto in soli 10 giorni, a un terzo della distanza di Mercurio, su un'orbita quasi perfettamente circolare. Appartiene all'associazione stellare di Zeta Herculis, una famiglia di giovani stelle nate insieme. La ricerca di un eventuale terzo corpo (VLT, 2008) non ha dato esiti. \u00c8 una delle poche stelle il cui nome UAI nasce da un gioco di parole.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Trianguli"
+  },
+  {
+   "id": "epsilon_trianguli",
+   "nome": "Epsilon Trianguli",
+   "bayer": "\u03b5 Trianguli",
+   "origine_nome": "Nessun nome proprio: porta solo la lettera greca assegnata da Johann Bayer nel 1603, quinta in ordine di luminosit\u00e0 tra le stelle catalogate.",
+   "magnitudine": "5,50",
+   "spettro": "A2 V (sequenza principale di tipo A)",
+   "distanza_al": 390,
+   "curiosita": "Un sistema binario: la secondaria, di magnitudine 11,4, si vede a 3,9 secondi d'arco dalla primaria. Attorno alla stella gira un disco di detriti con raggio medio di circa 105 unit\u00e0 astronomiche, rivelato dal suo eccesso infrarosso. Probabile membro del gruppo mobile dell'Orsa Maggiore: si muove nello spazio insieme alle stelle del Grande Carro, a oltre 390 anni luce da noi. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Trianguli"
+  },
+  {
+   "id": "triminus",
+   "nome": "Triminus",
+   "bayer": "\u03b9 Trianguli (Flamsteed 6 Trianguli)",
+   "origine_nome": "Dal latino Tri (abbreviazione IAU di Triangulum) pi\u00f9 Minus: memoria della costellazione obsoleta \u00abTriangulum Minus\u00bb creata da Johannes Hevelius nel Firmamentum Sobiescianum del 1690 con le stelle \u03b9, 10 e 12 Trianguli. Nome approvato dalla UAI il 25 agosto 2025 per la componente principale.",
+   "magnitudine": "4,95",
+   "spettro": "Sistema quadruplo di stelle di tipo G",
+   "distanza_al": 290,
