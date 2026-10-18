@@ -1,0 +1,50 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Orsa Minore (Ursa Minor)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg/960px-Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg",
+   "titolo_tavola": "Fig. A \u2013 Orsa Minore (Ursa Minor) (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Ursa_Minor_-_Prodromus_astronomiae_1690_(5590209).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare 'Gedani: typis Johannis Zachariae Stollii, 1690' \u2014 serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain / PD-old-100; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg/960px-Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    753
+   ],
+   "dimensioni_originale_px": [
+    4416,
+    3465
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. A",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Ursa_Minor_-_Prodromus_astronomiae_1690_(5590209).jpg",
+   "note_qualita": "Scansione ad alta risoluzione (4400+ px): thumb 960 in downscaling, qualit\u00e0 ottima; stile coerente con le altre tavole del sito"
+  },
+  {
+   "costellazione": "Drago (Draco)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg/960px-Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg",
+   "titolo_tavola": "Fig. B \u2013 Drago (Draco) (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Draco_Hevelius_-_Prodromus_astronomiae_1690_(5590223).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare 'Gedani: typis Johannis Zachariae Stollii, 1690' \u2014 serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain / PD-old-100; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg/960px-Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    758
+   ],
+   "dimensioni_originale_px": [
+    4400,
+    3474
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. B",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Draco_Hevelius_-_Prodromus_astronomiae_1690_(5590223).jpg",
+   "note_qualita": "Scansione ad alta risoluzione (4400+ px): thumb 960 in downscaling, qualit\u00e0 ottima; stile coerente con le altre tavole del sito"
+  }
+ ]
+}

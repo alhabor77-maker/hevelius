@@ -1,0 +1,182 @@
+{
+ "orsa_minore": [
+  {
+   "id": "polaris",
+   "nome": "Polaris",
+   "bayer": "\u03b1 Ursae Minoris (\u03b1 UMi)",
+   "origine_nome": "Dal latino medievale stella polaris, \u00abstella del polo\u00bb: la chiamata cos\u00ec perch\u00e9 si trova quasi esattamente sulla proiezione dell'asse di rotazione terrestre verso il polo nord celeste. In italiano \u00e8 nota come Stella Polare o Stella del Nord. Nome Polaris approvato dalla UAI.",
+   "magnitudine": "1,98",
+   "spettro": "F7 Ib (supergigante gialla, componente principale Polaris Aa)",
+   "distanza_al": 447,
+   "curiosita": "\u00c8 la stella polare attuale: dista meno di 1 grado dal polo nord celeste e tutte le stelle dell'emisfero boreale sembrano ruotarle intorno; per trovarla basta prolungare la linea Merak\u2013Dubhe del Grande Carro. \u00c8 la Cefeide pi\u00f9 vicina a noi e un gradino fondamentale della \u00abscaletta delle distanze cosmiche\u00bb: la sua parallasse \u00e8 stata contesa per decenni (Hipparcos ~433 anni luce, BTA ~325, Hubble/Bond 2018), finch\u00e9 Gaia DR3 non ha dato 446,5\u00b11,1 anni luce; nel 2024 il team di Nancy Evans (CHARA) ne ha fissato la massa in 5,13\u00b10,28 masse solari e il raggio in circa 46 raggi solari. Secondo ricerche pubblicate su Science, oggi \u00e8 2,5 volte pi\u00f9 luminosa che ai tempi di Tolomeo, che la registrava di una magnitudine pi\u00f9 debole: un cambio cento volte superiore alle previsioni delle teorie evolutive. \u00c8 un sistema triplo: Polaris B fu scoperta da William Herschel nel 1780, la vicina Polaris Ab fu risolta da Hubble nel 2006. Entro il 2100 il polo le si avviciner\u00e0 a meno di 0,5 gradi, poi migrer\u00e0 verso Gamma Cephei tra circa duemila anni.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Polaris"
+  },
+  {
+   "id": "kochab",
+   "nome": "Kochab",
+   "bayer": "\u03b2 Ursae Minoris (\u03b2 UMi)",
+   "origine_nome": "Forse dall'arabo al-kawkab, \u00abla stella\u00bb, oppure dall'ebraico k\u014dkh\u0101v, \u00abstella\u00bb. Gli antichi astronomi arabi la chiamavano Al Kaukab al Shamaliyy, \u00abla stella del nord\u00bb. Nome approvato dalla UAI nel primo bollettino del WGSN, luglio 2016.",
+   "magnitudine": "2,08",
+   "spettro": "K4 III (gigante arancione)",
+   "distanza_al": 131,
+   "curiosita": "\u00c8 la seconda stella pi\u00f9 luminosa della costellazione e la pi\u00f9 brillante della \u00abtazza\u00bb del Piccolo Carro. Con Pherkad \u00e8 una delle \u00abGuardiane del Polo\u00bb: dal 2500 a.C. circa fino a dopo il 300 d.C. le due, girando attorno al polo, servirono da stelle polari \u00abgemelle\u00bb, anche se nessuna fu mai cos\u00ec vicina al polo come lo \u00e8 oggi Polaris. Gli Egizi, insieme a Mizar, la chiamavano \u00abgli Indistruttibili\u00bb: nel 2467 a.C. il nord vero si determinava tracciando una piombino fra Mizar e Kochab. Ha un pianeta extrasolare annunciato, una compagna di circa 6,1 masse gioviane con orbita di 522 giorni, e un'et\u00e0 stimata di quasi 3 miliardi di anni. Gli astronomi amatoriali la usano ancora per allineare le montature equatoriali: il polo celeste nord sta a 38 minuti d'arco da Polaris, quasi sulla linea Polaris\u2013Kochab.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kochab"
+  },
+  {
+   "id": "pherkad",
+   "nome": "Pherkad",
+   "bayer": "\u03b3 Ursae Minoris (\u03b3 UMi)",
+   "origine_nome": "Dall'arabo farqad, \u00abvitello\u00bb, abbreviazione di a\u1e2bfa al-farkadayn, \u00abla pi\u00f9 fioca dei due vitelli\u00bb (l'altro \u00abvitello\u00bb \u00e8 Kochab); il nome completo pass\u00f2 poi a \u03b6 UMi. Era detta anche Pherkad Major, per distinguerla da Pherkad Minor (11 UMi). Nome approvato dalla UAI il 21 agosto 2016.",
+   "magnitudine": "3,00",
+   "spettro": "A2 III (gigante bianca)",
+   "distanza_al": 487,
+   "curiosita": "Con Kochab forma l'estremit\u00e0 della tazza del Piccolo Carro: le due sono le \u00abGuardiane del Polo\u00bb e furono le stelle polari dell'epoca faraonica, tra il 1700 a.C. e il 300 d.C. circa. \u00c8 classificata come variabile Delta Scuti, con luminosit\u00e0 che varia di 0,05 magnitudini in 3,43 ore, ed \u00e8 anche una stella a guscio con rotazione rapida, un tipo peculiare tra le stelle di classe A. La voce italiana la classifica come A3 Iab (o II-III), quella inglese come gigante A2 III: qui si segue la classificazione inglese, pi\u00f9 in linea con le pubblicazioni di riferimento. Dista quasi 490 anni luce: tra le otto stelle scelte dell'Orsa Minore \u00e8 la pi\u00f9 lontana dopo Lambda UMi. Il suo nome, in origine, apparteneva alla coppia \u00abdei due vitelli\u00bb insieme a quello di Zeta Ursae Minoris.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Pherkad"
+  },
+  {
+   "id": "yildun",
+   "nome": "Yildun",
+   "bayer": "\u03b4 Ursae Minoris (\u03b4 UMi)",
+   "origine_nome": "Dal turco Y\u0131ld\u0131z, \u00abstella\u00bb, variante diffusa dai cataloghi moderni per questa stella del Piccolo Carro. Nome approvato dalla UAI il 1 ottobre 2016 (WGSN, secondo bollettino).",
+   "magnitudine": "4,35",
+   "spettro": "A1 Vn (nana bianca di sequenza principale, righe larghe per rapida rotazione)",
+   "distanza_al": 172,
+   "curiosita": "Si trova a soli 3,5 gradi dal polo nord celeste: se non ci fosse Polaris, potrebbe fare da stella polare. \u00c8 la seconda stella della coda dell'orsa, lungo il timone del Piccolo Carro. Ruota a circa 180 km/s completando un giro in 19 ore: la rotazione cos\u00ec rapida la schiaccia, con un rigonfiamento equatoriale stimato del 7 per cento pi\u00f9 grande del raggio polare. \u00c8 una stella giovane, circa 327 milioni di anni, con 2,35 masse solari. Le voci italiane e inglesi divergono sulla distanza (183 contro 172 anni luce): qui si usa il valore inglese, ricavato dalla parallasse parallax 18,95 mas. Ha una compagna di magnitudine 12 con moto proprio comune, risolta con ottica adattiva a 4,5 secondi d'arco, circa 237 unit\u00e0 astronomiche.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Yildun"
+  },
+  {
+   "id": "epsilon_umi",
+   "nome": "Urodelus",
+   "bayer": "\u03b5 Ursae Minoris (\u03b5 UMi)",
+   "origine_nome": "Dal greco our\u00f3delos, \u00abla coda dell'orsa\u00bb: il nome tradizionale ricorda la posizione della stella lungo la coda dell'Orsa Minore. \u00c8 un nome tradizionale, non approvato dalla UAI; nell'antichit\u00e0 \u03b1, \u03b2, \u03b3, \u03b4, \u03b5 UMi erano dette collettivamente Circitores.",
+   "magnitudine": "4,21",
+   "spettro": "G5 III (gigante gialla primaria; compagna A8\u2013F0 V)",
+   "distanza_al": 304,
+   "curiosita": "\u00c8 un sistema triplo: la primaria \u00e8 una binaria a eclisse spettroscopica con periodo orbitale di 39,45 giorni, scoperta come binaria spettroscopica da W. W. Campbell nel 1899 e con prima soluzione orbitale di J. S. Plaskett nel 1910; il comportamento a eclisse fu scoperto da P. Guthnick con osservazioni del 1946-47. \u00c8 anche una variabile RS Canum Venaticorum: la luminosit\u00e0 varia con lo stesso periodo dell'orbita, e la rotazione veloce della primaria (25,6 km/s) \u00e8 probabilmente dovuta alla sincronizzazione mareale con la compagna. La terza componente \u00e8 una nana arancione di magnitudine 11-12 a 77 secondi d'arco dalla coppia, fisicamente legata al sistema. La voce italiana riporta \u00abcirca 330 anni luce\u00bb, quella inglese 303,6 dalla parallasse: qui si usa il valore da parallasse. Non esiste una voce italiana col titolo Epsilon Ursae Minoris: la scheda si basa anche sulla voce inglese dedicata.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Urodelus"
+  },
+  {
+   "id": "zeta_umi",
+   "nome": "Alifa al Farkadain",
+   "bayer": "\u03b6 Ursae Minoris (\u03b6 UMi)",
+   "origine_nome": "Dall'arabo a\u1e2bfa al-farkadayn, \u00abla pi\u00f9 debole dei due vitelli\u00bb; il nome era in origine applicato a Pherkad (\u03b3 UMi), in contrapposizione ad Anwar al Farkadain (\u00abil pi\u00f9 brillante dei due vitelli\u00bb) per Kochab, oggi attribuito invece a \u03b7 UMi. Nome tradizionale, non nella lista UAI.",
+   "magnitudine": "4,30",
+   "spettro": "A3 Vn (nana bianca; la \u00abn\u00bb indica larghe righe da rapida rotazione, v\u00b7sin i \u2248 210 km/s)",
+   "distanza_al": 359,
+   "curiosita": "\u00c8 una delle sette stelle che compongono il Piccolo Carro: occupa il vertice del quadrilatero, la \u00abtazza\u00bb, da cui parte il timone. Ha circa 3,4 masse solari, un raggio di 6,15 soli, 227 volte la luminosit\u00e0 del Sole e un'et\u00e0 di circa 180 milioni di anni: sta per evolvere in subgigante e poi in gigante. Dopo decenni di dubbio (Baker 1926, Frolov 1970, Hipparcos inconclusivo), TESS ha confermato che \u00e8 una variabile: varia di 0,007 magnitudini in 15,826 ore, e il 12 luglio 2021 ha registrato un'eclissi di 22,32 ore dovuta a una compagna mai identificata prima. Nel 2006 Spitzer ha rilevato un eccesso infrarosso: attorno alla stella c'\u00e8 un disco circumstellare a 42,5 unit\u00e0 astronomiche con temperatura della polvere di 160 K. La distanza scelta qui \u00e8 quella di Gaia DR3 (parallasse 9,0827 mas, 359,1 anni luce): le voci riportano anche 376 e 369 anni luce.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alifa_al_Farkadain"
+  },
+  {
+   "id": "eta_umi",
+   "nome": "Anwar al Farkadain",
+   "bayer": "\u03b7 Ursae Minoris (\u03b7 UMi)",
+   "origine_nome": "Dall'arabo \u02bcanwar al-farqadayn, \u00abil pi\u00f9 brillante dei due vitelli\u00bb; era in origine applicato a Kochab, in contrapposizione ad a\u1e2bfa al-farkadayn (\u00abil pi\u00f9 debole dei due vitelli\u00bb) per Pherkad. Secondo la voce inglese i nomi potrebbero riferirsi in origine a una coppia di stambi. Nome tradizionale, non UAI; ha anche il nome Alasco.",
+   "magnitudine": "4,95",
+   "spettro": "F5 V (nana bianco-gialla di sequenza principale)",
+   "distanza_al": 98,
+   "curiosita": "\u00c8 una delle stelle pi\u00f9 vicine dell'Orsa Minore, a quasi 100 anni luce, e la meno luminosa delle otto qui raccolte: appena visibile a occhio nudo. Giovane e veloce: circa 1,7 miliardi di anni, 1,54 masse solari (la voce italiana d\u00e0 1,4), rotazione proiettata di 84,8 km/s; \u00e8 una sorgente di emissione X. Si muove verso di noi a \u221211 km/s con un moto proprio relativamente alto, 0,271 secondi d'arco all'anno. Potrebbe formare un sistema binario largo con una compagna di magnitudine 15,3 a 228,5 secondi d'arco. Il suo nome faceva coppia con quello di \u03b6 UMi: i due \u00abvitelli\u00bb (in origine, forse, due stambi) erano \u03b2 e \u03b3 UMi, le stelle pi\u00f9 brillanti del quadrilatero dell'Orsa Minore.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Eta_Ursae_Minoris"
+  },
+  {
+   "id": "lambda_umi",
+   "nome": "Lambda Ursae Minoris",
+   "bayer": "\u03bb Ursae Minoris (\u03bb UMi)",
+   "origine_nome": "Nessun nome proprio storico: la stella \u00e8 nota con la designazione di lettera greca assegnata da Johann Bayer nel 1603, ottava in ordine di luminosit\u00e0 tra le stelle catalogate.",
+   "magnitudine": "6,35",
+   "spettro": "M1 III (gigante rossa, ramo asintotico delle giganti \u2014 AGB)",
+   "distanza_al": 880,
+   "curiosita": "Gigante rossa semiregolare pulsante: la luminosit\u00e0 varia di circa 0,1 magnitudini; la variabilit\u00e0 fu scoperta dal satellite Hipparcos e la stella entr\u00f2 nel General Catalogue of Variable Stars nel 1999. Oggi dista meno di 1 grado dal polo nord celeste, tra le stelle la pi\u00f9 vicina dopo Polaris: per la precessione degli equinozi il polo passer\u00e0 proprio fra Polaris e Lambda UMi nel 2060, e la stella sar\u00e0 quindi la prossima candidata \u00abstella polare\u00bb quando Polaris si allontaner\u00e0. Fu usata dal 1882 come riferimento per misurare le magnitudini delle stelle boreali nel catalogo Revised Harvard Photometry del 1908, con Sigma Octantis per l'emisfero sud. Nel 2023 i dati TESS l'hanno segnalata come candidata binaria, con una compagna in orbita stretta di appena 7,3 giorni; a 55 secondi d'arco c'\u00e8 anche una stella di magnitudine 14, possibile compagna larga a circa 15.000 unit\u00e0 astronomiche.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Lambda_Ursae_Minoris"
+  }
+ ],
+ "drago": [
+  {
+   "id": "eltanin",
+   "nome": "Eltanin",
+   "bayer": "\u03b3 Draconis (\u03b3 Dra, Flamsteed 33 Draconis)",
+   "origine_nome": "Dall'arabo At-Tinnin, \u00abil grande serpente\u00bb. Il nome Rastaban era inizialmente usato per Eltanin: i due termini condividono la radice araba \u00abserpente/drago\u00bb. Nome approvato dalla UAI il 21 agosto 2016; varianti storiche: Etamin, Etanin.",
+   "magnitudine": "2,23",
+   "spettro": "K5 III (gigante arancione; spettro standard di riferimento della classe dal 1943)",
+   "distanza_al": 154,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa del Dragone nonostante la lettera \u00abgamma\u00bb: Bayer la classific\u00f2 di terza magnitudine, ma oggi supera \u03b2 Draconis di quasi mezza magnitudine. \u00c8 la \u00abStella dello Zenit\u00bb: passa quasi allo zenit visto da Greenwich; nel 1728 James Bradley, cercando invano di misurarne la parallasse, scopr\u00ec l'aberrazione della luce \u2014 prova del movimento della Terra \u2014 e Airy la chiam\u00f2 \u00abstella natale dell'astronomia moderna\u00bb. Ha circa 2,1 masse solari, un raggio di 50 soli e brilla di quasi 600 soli a una temperatura di circa 3.964 K. Tra circa 1,5 milioni di anni passer\u00e0 a 28 anni luce dalla Terra e sar\u00e0 la stella pi\u00f9 brillante del cielo notturno, quasi come Sirio oggi. La voce italiana riporta 148 anni luce e magnitudine 2,24: qui si usano 154 e 2,23, da parallasse Hipparcos (21,14 mas).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Eltanin"
+  },
+  {
+   "id": "rastaban",
+   "nome": "Rastaban",
+   "bayer": "\u03b2 Draconis (\u03b2 Dra, Flamsteed 23 Draconis)",
+   "origine_nome": "Dall'arabo Al-R\u0101s al-Thub\u0101n, \u00abla testa del serpente\u00bb. Nome ufficiale UAI della componente A; varianti: Alwaid, Asuia, Rastaben.",
+   "magnitudine": "2,79",
+   "spettro": "G2 Ib-IIa (gigante brillante gialla; la voce italiana d\u00e0 G2Iab)",
+   "distanza_al": 380,
+   "curiosita": "\u00c8 un sistema binario: la principale, una gigante brillante gialla di circa 5-6 masse solari e 40 raggi solari, \u00e8 accompagnata da una compagna debole, circa 11 magnitudini pi\u00f9 fioca, che le ruota attorno in circa 4.000 anni a 4,2 secondi d'arco. \u00c8 una variabile micro-variabile, confermata con dati TESS e Hipparcos, con ampiezza di circa un centesimo di magnitudine: giace vicino alla striscia di instabilit\u00e0 delle Cefeidi. In Cina, insieme a \u03b3 Draconis, formava l'asterismo Tien Kae; in astronomia araba \u03b2, \u03b3, \u03bc, \u03bd e \u03be Draconis erano le \u00abMadri Cammelle\u00bb (Al \u02bdAw\u0101\u00efd). La classificazione spettrale qui usata \u00e8 quella inglese, G2 Ib-IIa, che \u00e8 lo standard della classe; la voce italiana d\u00e0 G2Iab.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Rastaban"
+  },
+  {
+   "id": "thuban",
+   "nome": "Thuban",
+   "bayer": "\u03b1 Draconis (\u03b1 Dra, Flamsteed 11 Draconis)",
+   "origine_nome": "Dall'arabo Thu\u02bfb\u0101n, \u00abil basilisco/serpente\u00bb: era il nome arabo dell'intera costellazione. Nome approvato dalla UAI; variante storica: Adib.",
+   "magnitudine": "3,67",
+   "spettro": "A0 IV + A1 V (binaria spettroscopica ed eclissante; la voce italiana d\u00e0 A0III)",
+   "distanza_al": 303,
+   "curiosita": "Fu la STELLA POLARE dell'antichit\u00e0: per la precessione degli equinozi fu il riferimento del polo nord dal 3942 al 1793 a.C., con la minima distanza dal polo (2,5 gradi) nel 2787 a.C. \u2014 l'epoca in cui, si ritiene, gli osservatori dell'et\u00e0 delle piramidi la usavano come polo; rimase il riferimento fino a circa il 1900 a.C., quando la pi\u00f9 brillante Kochab entr\u00f2 nella zona polare. Per la stessa precessione torner\u00e0 a essere la stella polare nell'anno 20346. \u00c8 una binaria spettroscopica ed eclissante con periodo di 51,4 giorni, scoperta come tale nel 2022: la componente principale ha circa 3,2 masse solari e una superficie a 10.225 K. Bench\u00e9 porti la lettera \u00abalfa\u00bb di Bayer, \u00e8 solo terza o quarta per luminosit\u00e0: Bayer la scelse come unica stella di seconda magnitudine della costellazione secondo la sua scala storica; oggi Eltanin \u00e8 circa 3,7 volte pi\u00f9 brillante. La distanza qui scelta \u00e8 quella da parallasse Hipparcos (10,76 mas, circa 303 anni luce); la voce italiana d\u00e0 309.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Thuban"
+  },
+  {
+   "id": "aldhibah",
+   "nome": "Aldhibah",
+   "bayer": "\u03b6 Draconis (\u03b6 Dra, Flamsteed 22 Draconis)",
+   "origine_nome": "Dall'arabo al-Dhi\u02bcbah, \u00abla iena\u00bb (o \u00abil lupo\u00bb, al-dhi\u02bcb); la forma duale al-dhi\u02bcbayn \u00e8 condivisa con \u03b7 Draconis. Nome approvato dalla UAI il 5 settembre 2017; varianti: Eldsib, Nodus I / Nodus III.",
+   "magnitudine": "3,17",
+   "spettro": "B6 III (gigante blu; la voce italiana d\u00e0 B9 III)",
+   "distanza_al": 330,
+   "curiosita": "Segna il Nodus III, il \u00abterzo nodo\u00bb dell'anello della coda del Dragone disegnato da Bayer. Il polo nord dell'eclittica (ascensione retta 18h, declinazione +66,5 gradi) cade quasi a met\u00e0 strada tra \u03b4 e \u03b6 Draconis: \u03b6 Dra segnala la regione in cui l'asse terrestre punta \u00abdi lato\u00bb rispetto all'orbita. \u00c8 la stella polare di Giove: per la piccola inclinazione dell'asse del pianeta, \u03b6 Dra indica approssimativamente il suo polo nord celeste. \u00c8 una binaria: gigante blu di circa 6 masse solari, quasi 900 soli di luminosit\u00e0 e rotazione di almeno 55 km/s. La distanza scelta qui \u00e8 quella inglese da parallasse (9,93 mas, 330 anni luce); la voce italiana d\u00e0 300 anni luce (340 nell'infobox). Anche la classe spettrale segue la starbox inglese con fonte MNRAS: B6 III contro il B9 III italiano.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Draconis"
+  },
+  {
+   "id": "edasich",
+   "nome": "Edasich",
+   "bayer": "\u03b9 Draconis (\u03b9 Dra, Flamsteed 12 Draconis)",
+   "origine_nome": "Trascrizione dell'arabo Al dh\u012bkh / Al dh\u012bl\u012b, \u00abiena (maschio)\u00bb. Nome approvato dalla UAI nel primo bollettino del WGSN, luglio 2016.",
+   "magnitudine": "3,31",
+   "spettro": "K2 III (gigante arancione)",
+   "distanza_al": 101,
+   "curiosita": "Ha un pianeta: Edasich b (Iota Draconis b), scoperto nel 2002, uno dei primi esopianeti scoperti attorno a una stella gigante \u2014 un gigante gassoso in orbita a circa 1,5 anni dalla stella. Nel contesto NameExoWorlds 2019 il pianeta \u00e8 stato ufficialmente battezzato Hypatia, in onore dell'astronoma e filosofa alessandrina. \u00c8 una gigante arancione di circa 1,5 masse solari e 12 raggi solari, con un'et\u00e0 di circa 2,5 miliardi di anni. La stella \u00e8 stata anche un falso positivo tipo per la ricerca dei pianeti: le oscillazioni atmosferiche dei giganti imitano i segnali planetari nelle misure di velocit\u00e0 radiale. La distanza qui scelta \u00e8 quella inglese da parallasse (101,2 anni luce); la voce italiana d\u00e0 102,7-103.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Iota_Draconis"
+  },
+  {
+   "id": "grumium",
+   "nome": "Grumium",
+   "bayer": "\u03be Draconis (\u03be Dra, Flamsteed 32 Draconis)",
+   "origine_nome": "Dal latino, \u00abgrugno (del maiale)\u00bb; alcune fonti lo collegano alla \u00abmandibola\u00bb del Drago. Nome ufficiale UAI della componente A.",
+   "magnitudine": "3,75",
+   "spettro": "K2 III (gigante arancione)",
+   "distanza_al": 113,
+   "curiosita": "\u00c8 una doppia/binaria: la componente A \u00e8 Grumium, con una compagna B; fa parte delle \u00abMadri Cammelle\u00bb arabe insieme a \u03b2, \u03b3, \u03bc e \u03bd Draconis. In astronomia cinese \u00e8 una delle stelle dell'asterismo del \u00abFlagello Celestiale\u00bb (Ti\u0101n B\u00e0ng), insieme a \u03b3, \u03bd e \u03b2 Draconis e a \u03b9 Herculis. Ha lasciato la sequenza principale solo circa 160 milioni di anni fa: \u00e8 una gigante \u00abfresca\u00bb, da poco uscita dalla fase di combustione dell'idrogeno nel nucleo. Ha circa 1,45 masse solari e 47 soli di luminosit\u00e0. Nota: la voce italiana d\u00e0 un raggio di 40 raggi solari, refuso verosimilmente copiato da Rastaban; il valore interferometrico inglese \u00e8 11,4 R\u2609, qui seguito, coerente con una gigante K2 di 47 L\u2609. La distanza, 112,5 anni luce, \u00e8 concorde nelle due voci.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Xi_Draconis"
+  },
+  {
+   "id": "altais",
+   "nome": "Altais",
+   "bayer": "\u03b4 Draconis (\u03b4 Dra, Flamsteed 57 Draconis)",
+   "origine_nome": "Dall'arabo Al T\u0101is, \u00abla capra\u00bb; Nodus Secundus, \u00absecondo nodo\u00bb della figura del Dragone (latino). Nome approvato dalla UAI il 21 agosto 2016; variante: Aldib.",
+   "magnitudine": "3,08",
+   "spettro": "G9 III (gigante gialla)",
+   "distanza_al": 98,
+   "curiosita": "Circa 750.000 anni fa Altais pass\u00f2 a soli 59 anni luce dalla Terra, brillando di magnitudine +1,97: era una delle stelle pi\u00f9 vistose del cielo. \u00c8 la stella polare del pianeta nano Cerere: dista solo 1,5 gradi dal suo polo nord celeste. In astronomia cinese \u00e8 la prima stella della \u00abCucina Celestiale\u00bb (Ti\u0101n Ch\u00fa), asterismo che comprende anche \u03b5, \u03c3, \u03c1, \u03c0 e 64 Draconis. \u00c8 una gigante gialla di circa 10-11 raggi solari e 59 soli di luminosit\u00e0, con et\u00e0 stimata tra 0,8 e 1,7 miliardi di anni a seconda degli studi. La magnitudine qui scelta \u00e8 3,08 della voce italiana; la starbox inglese d\u00e0 3,07, e la distanza di 98 anni luce viene dalla parallasse Gaia (33,35 mas).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Draconis"
+  },
+  {
+   "id": "kappa_draconis",
+   "nome": "Kappa Draconis",
+   "bayer": "\u03ba Draconis (\u03ba Dra, Flamsteed 5 Draconis)",
+   "origine_nome": "Nessun nome proprio ufficiale UAI n\u00e9 etimologia tradizionale consolidata; in alcune fonti arabe antiche \u00e8 legata al gruppo del \u00abcammello/polo\u00bb insieme a Kochab.",
+   "magnitudine": "3,88",
+   "spettro": "B6 IIIe (gigante blu con linee di emissione, stella Be)",
+   "distanza_al": 457,
+   "curiosita": "Fu quasi stella polare: per la precessione, dal 1793 a.C. a circa il 1000 a.C. fu la stella visibile a occhio nudo pi\u00f9 vicina al polo nord celeste, ma a circa 6 gradi dal polo esatto \u2014 un \u00abpolo approssimativo\u00bb, in affiancamento alla pi\u00f9 brillante Kochab. \u00c8 una variabile Gamma Cassiopeiae: stella Be che ruota fortissimo (circa 230 km/s) ed \u00e8 circondata da un disco di materia espulsa, che ne fa oscillare la magnitudine tra 3,82 e 4,01. Nonostante sia potentissima, circa 1.400 soli di luminosit\u00e0, \u00e8 al limite della visibilit\u00e0 a occhio nudo perch\u00e9 dista quasi 460 anni luce; sta per terminare l'idrogeno nel nucleo e tra circa 500.000 anni diventer\u00e0 una gigante rossa. La distanza qui scelta \u00e8 quella da parallasse Gaia (7,14 mas, circa 457 anni luce); la voce italiana d\u00e0 489. La magnitudine 3,88 \u00e8 il valore di catalogo per una stella variabile.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kappa_Draconis"
+  }
+ ]
+}
