@@ -45,5 +45,5 @@
       blurb: 'La costellazione che Hevelius creò nel 1687: per vederla servono «occhi di lince».' },
     { id: 'giraffa', nome: 'Giraffa', latino: 'Camelopardalis', tavola: 'Fig. O', img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/Johannes_Hevelius_-_Camelo_Pardalus.jpg', thumb: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/960px-Johannes_Hevelius_-_Camelo_Pardalus.jpg', w: 960, h: 793,
       blurb: 'Il cammello leopardo di Plancio e Hevelius, la costellazione più povera di stelle brillanti.' },
-  ];  ];
+  ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori
