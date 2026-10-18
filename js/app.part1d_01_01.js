@@ -41,5 +41,9 @@
       blurb: 'La Piccola Orsa col Piccolo Carro e Polaris, la stella polare che guida i navigatori da millenni.' },
     { id: 'drago', nome: 'Drago', latino: 'Draco', tavola: 'Fig. B', img: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg/960px-Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg', w: 960, h: 758,
       blurb: 'Il serpente che avvolge il polo, un tempo centro del cielo con Thuban stella polare.' },
-  ];
+    { id: 'lince', nome: 'Lince', latino: 'Lynx', tavola: 'Fig. Y', img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg/Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg', thumb: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg/960px-Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg', w: 960, h: 755,
+      blurb: 'La costellazione che Hevelius creò nel 1687: per vederla servono «occhi di lince».' },
+    { id: 'giraffa', nome: 'Giraffa', latino: 'Camelopardalis', tavola: 'Fig. O', img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/Johannes_Hevelius_-_Camelo_Pardalus.jpg', thumb: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/960px-Johannes_Hevelius_-_Camelo_Pardalus.jpg', w: 960, h: 793,
+      blurb: 'Il cammello leopardo di Plancio e Hevelius, la costellazione più povera di stelle brillanti.' },
+  ];  ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori

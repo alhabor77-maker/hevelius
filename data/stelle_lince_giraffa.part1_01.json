@@ -1,0 +1,182 @@
+{
+ "lince": [
+  {
+   "id": "alpha_lyn",
+   "nome": "Alfa Lyncis",
+   "bayer": "\u03b1 Lyncis (\u03b1 Lyn)",
+   "origine_nome": "Nessun nome ufficiale UAI; tradizione non ufficiale \"Elvashak\" o \"Alvashak\", dall'arabo al-washaq, \u00abgatto selvaggio\u00bb (fonte: Richard Hinckley Allen, Star Names), poco usato. \u00c8 l'unica stella della Lince con lettera greca di Bayer, assegnata da Francis Baily nel 1845.",
+   "magnitudine": "3,13",
+   "spettro": "K7 III (gigante arancione, ~3880 K)",
+   "distanza_al": 203,
+   "curiosita": "\u00c8 la stella pi\u00f9 brillante della Lince e una delle pochissime a superare la quarta magnitudine, eppure si trova sul bordo sudorientale della costellazione, verso il Cancro e il Leone. \u00c8 una sospetta variabile di piccola ampiezza (3,12\u20133,17): probabilmente sta iniziando l'evoluzione verso variabile Mira, con un nucleo inerte di carbonio. Con circa 2 masse solari, un raggio di 55-58 soli e 620-700 luminosit\u00e0 solari, irradia soprattutto nell'infrarosso. La distanza \u00e8 contesa tra le fonti: 203\u00b12 anni luce (riduzione Hipparcos/Gaia riportata dalla voce inglese della costellazione) contro i 220 della voce italiana dedicata; qui si usa il valore da parallasse. Il genitivo Lyncis \u00e8 unico nel cielo ufficiale.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alfa_Lyncis"
+  },
+  {
+   "id": "38_lyn",
+   "nome": "38 Lyncis",
+   "bayer": "38 Lyncis",
+   "origine_nome": "Nessun nome proprio, n\u00e9 storico n\u00e9 UAI: solo la numerazione di Flamsteed, come quasi tutte le stelle della Lince.",
+   "magnitudine": "3,82",
+   "spettro": "A3 V (sistema combinato; componente A ~A1V, B ~A4V)",
+   "distanza_al": 125,
+   "curiosita": "\u00c8 la seconda stella della Lince e un sistema multiplo a 4 corpi, uno dei pi\u00f9 apprezzati dai telescopi amatoriali: la coppia principale, una bianco-azzurra di magnitudine 3,9 e una compagna descritta come lilla di magnitudine 6,1, si separa con 2,6 secondi d'arco (periodo orbitale di circa 429 anni), ma la compagna \u00e8 essa stessa una binaria stretta (separazione da 0,06 a 0,24 secondi d'arco, periodo ~2,1 anni) con una terza compagna rossa di 15\u00aa magnitudine. Fu una delle stelle standard per la classe A3 V quando il sistema Morgan-Keenan fu definito nel 1943. Dista 125 anni luce secondo la voce inglese (122 secondo la voce italiana della costellazione): qui si usa il valore da parallasse della voce dedicata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/38_Lyncis"
+  },
+  {
+   "id": "31_lyn",
+   "nome": "Alsciaukat",
+   "bayer": "31 Lyncis",
+   "origine_nome": "Dall'arabo a\u0161-\u0161awkat, \u00abla spina\u00bb, e al-mabs\u016btah, \u00abl'allungata / la zampa distesa\u00bb; tradizionale anche Mabsuthat. Nome approvato dalla UAI (WGSN) il 30 giugno 2017 \u2014 \u00e8 l'unico nome UAI fra le stelle brillanti della Lince.",
+   "magnitudine": "4,25",
+   "spettro": "K4+ III (gigante arancione, ~3920-3930 K)",
+   "distanza_al": 380,
+   "curiosita": "\u00c8 una variabile semiregolare con designazione BN Lyncis: oscilla di 0,05 magnitudini, con periodi proposti di 25-30 giorni (1993) e di 3,5 giorni (Hipparcos 2002); sta evolvendo verso lo stato di variabile Mira. Gigante evoluta di circa 2 masse solari, con raggio tra 53 e 75 raggi solari e ~700-780 luminosit\u00e0 solari, ha lasciato la sequenza principale circa 300 milioni di anni fa, con un'et\u00e0 stimata di 1,3-1,4 miliardi di anni. Le fonti divergono sulla distanza: 390 anni luce nella voce italiana, 380\u00b110 in quella inglese (da parallasse); qui si usa il valore da parallasse. Nel cielo profondo poco a nord-ovest si trova la galassia Orsa d'Orso (NGC 2537).",
+   "fonte_url": "https://it.wikipedia.org/wiki/31_Lyncis"
+  },
+  {
+   "id": "10_uma",
+   "nome": "10 Ursae Majoris",
+   "bayer": "10 Ursae Majoris (Flamsteed; Flamsteed 10 Lyncis)",
+   "origine_nome": "Nessun nome proprio. Il nome \u00e8 un \u00abfossile storico\u00bb: Flamsteed la catalog\u00f2 per errore come parte dell'Orsa Maggiore mentre stava ancora osservando la Lince nuova, e la designazione 10 UMa \u00e8 rimasta anche se la stella ricade nei confini della Lince (fissati da Delporte nel 1930).",
+   "magnitudine": "3,96",
+   "spettro": "F5 V + compagna K (nana giallo-bianca; 1,44 + 0,89 masse solari)",
+   "distanza_al": 53,
+   "curiosita": "\u00c8 il terzo oggetto pi\u00f9 luminoso della Lince e porta il nome di un'altra costellazione: Flamsteed la numer\u00f2 \u00ab10 Ursae Majoris\u00bb ritenendola parte dell'Orsa, ma oggi sta nei confini della Lince, e alcune carte la indicano come 10 Lyncis. \u00c8 una binaria spettroscopica risolvibile anche per astrometria differenziale, con periodo di 21,057 anni ed eccentricit\u00e0 0,15: la primaria \u00e8 una nana giallo-bianca F5V (4,3 luminosit\u00e0 solari), la secondaria una nana arancione K-type (0,6). \u00c8 probabilmente membro del flusso delle Iadi (Hyades Stream). La voce italiana della costellazione la descrive come \u00abnana gialla\u00bb: qui si segue la classificazione inglese F5V+K, pi\u00f9 precisa. Dista appena 53 anni luce, tra le otto schede della Lince \u00e8 la pi\u00f9 vicina.",
+   "fonte_url": "https://en.wikipedia.org/wiki/10_Ursae_Majoris"
+  },
+  {
+   "id": "12_lyn",
+   "nome": "12 Lyncis",
+   "bayer": "12 Lyncis",
+   "origine_nome": "Nessun nome proprio: solo la numerazione di Flamsteed.",
+   "magnitudine": "4,87",
+   "spettro": "Sistema triplo con componenti bianche (classificazione spettrale non riportata nelle voci)",
+   "distanza_al": 210,
+   "curiosita": "\u00c8 il triplo sistema classico della Lince per i telescopi amatoriali: due componenti bianche di quinta magnitudine separate da 1,8 secondi d'arco (misura del 1992), con un'orbita stimata di 700-900 anni (separazione proiettata di circa 128 unit\u00e0 astronomiche), e una terza stella giallo-arancione di settima grandezza pi\u00f9 distaccata, a 8,6 secondi d'arco. Risolvibile anche con strumenti piccoli. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese, che riporta una distanza di 210\u00b110 anni luce dalla parallasse; il dato spettrale combinato non \u00e8 riportato in alcuna delle due voci.",
+   "fonte_url": "https://en.wikipedia.org/wiki/12_Lyncis"
+  },
+  {
+   "id": "15_lyn",
+   "nome": "15 Lyncis",
+   "bayer": "15 Lyncis",
+   "origine_nome": "Nessun nome proprio: solo la numerazione di Flamsteed.",
+   "magnitudine": "4,35",
+   "spettro": "G8 III + F8 V (gigante gialla 8 R\u2609, 5164 K + nana bianco-gialla)",
+   "distanza_al": 178,
+   "curiosita": "\u00c8 una binaria di due stelle giallastre separate da 0,9 secondi d'arco, con periodo orbitale di 262 anni ed eccentricit\u00e0 0,74, tra le pi\u00f9 allungate: al periastro le due stelle passano molto vicino, all'apoastro si allontanano. La primaria, una gigante G8III di magnitudine 4,7 con 8 raggi solari e 40 luminosit\u00e0 solari, ha esaurito l'idrogeno nel nucleo e si \u00e8 espansa; la secondaria, di magnitudine 5,8, \u00e8 una nana F8V. Risolvibile con un telescopio medio. Non esiste una voce italiana dedicata: la scheda si basa sulla voce inglese, con distanza di 178 anni luce da parallasse.",
+   "fonte_url": "https://en.wikipedia.org/wiki/15_Lyncis"
+  },
+  {
+   "id": "41_lyn",
+   "nome": "Intercrus",
+   "bayer": "41 Lyncis (HD 81688)",
+   "origine_nome": "Intercrus, in stile latino \u00abtra le gambe\u00bb, per la posizione della stella nell'Orsa Maggiore (dove oggi ricade): nome scelto dall'Okayama Astro Club (Giappone) per il pianeta e la stella nel concorso IAU NameExoWorlds 2015. La designazione Flamsteed \u00ab41 Lyncis\u00bb \u00e8 sopravvissuta anche se dal 1930 la stella \u00e8 formalmente nell'Orsa Maggiore.",
+   "magnitudine": "5,40",
+   "spettro": "K0 III-IV (gigante/subgigante arancione, ~4750-4790 K)",
+   "distanza_al": 276,
+   "curiosita": "\u00c8 il caso celebre della \u00abstella fuori posto\u00bb: Flamsteed la cont\u00f2 nella Lince, ma con i confini moderni sta nell'Orsa Maggiore, e il nome \u00abLyncis\u00bb sopravvive come fossile. Nel 2008 Bun'ei Sato (Okayama Planet Search Program) vi scopr\u00ec un pianeta, Arkas (41 Lyncis b), con il metodo della velocit\u00e0 radiale: minimo 2,7 masse gioviane (la voce italiana d\u00e0 1,77, dato pi\u00f9 vecchio) con periodo di 184 giorni a 0,66 unit\u00e0 astronomiche. I nomi vengono dal mito greco: Arkas era il figlio di Callisto, l'Orsa. Uno studio del 2023-2024 ha trovato il segnale del pianeta correlato con l'attivit\u00e0 stellare e ne ha messo in dubbio l'esistenza. Le distanze divergono (276 anni luce in en, 288 in it): qui si usa il valore inglese.",
+   "fonte_url": "https://it.wikipedia.org/wiki/41_Lyncis"
+  },
+  {
+   "id": "6_lyn",
+   "nome": "6 Lyncis",
+   "bayer": "6 Lyncis (HD 45410)",
+   "origine_nome": "Nessun nome proprio: solo la numerazione di Flamsteed.",
+   "magnitudine": "5,86",
+   "spettro": "K0 IV/IIIb (le voci divergono: subgigante in it, gigante K0.5 IIIb Fe0.5 in en)",
+   "distanza_al": 179,
+   "curiosita": "Nell'estate 2008 Bun'ei Sato vi annunci\u00f2 un pianeta, 6 Lyncis b, insieme a 14 Andromedae b e 81 Ceti b: un gigante gassoso di almeno 2,4 masse gioviane (2 secondo la voce italiana) con periodo di 899 giorni (934 in it) su un'orbita piuttosto eccentrica a circa 2 unit\u00e0 astronomiche. In futuro diventer\u00e0 una vera gigante: prima era presumibilmente una stella di sequenza principale di tipo A o F. Ha un alto moto proprio, 0,341 secondi d'arco all'anno. Classificazione e distanza divergono tra le voci (subgigante K0IV e 182 anni luce in it; gigante K0.5 IIIb Fe0.5 e 179 in en): qui si seguono i valori inglesi da parallasse aggiornata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/6_Lyncis"
+  }
+ ],
+ "giraffa": [
+  {
+   "id": "beta_cam",
+   "nome": "Beta Camelopardalis",
+   "bayer": "\u03b2 Camelopardalis (\u03b2 Cam)",
+   "origine_nome": "Nessun nome proprio, n\u00e9 storico n\u00e9 UAI: quasi tutte le stelle della Giraffa non hanno nome. Solo la designazione di Bayer, latinizzata da \u03b2 Camelopardalis.",
+   "magnitudine": "4,03",
+   "spettro": "G1 Ib-IIa (supergigante gialla)",
+   "distanza_al": 840,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa della Giraffa, ma con magnitudine 4,03 \u00e8 appena visibile a occhio nudo: emblematico della povert\u00e0 della costellazione. \u00c8 un sistema multiplo: due compagne visive, una di classe A5 di 7\u00aa magnitudine a 84 secondi d'arco e una di 12\u00aa a 15; la compagna A5 \u00e8 a sua volta doppia, con periodo orbitale di almeno un milione di anni. C'\u00e8 un mistero evolutivo: con 6,5 masse solari i modelli prevedono che passando verso la fase di gigante rossa vari come una cefeide, ma Beta Cam non risulta variabile. Ruota anche insolitamente veloce per una stella evoluta (11,7 km/s): forse ha inghiottito un pianeta gioviano caldo. \u00c8 una sorgente di raggi X. Distanza: 840 anni luce dalla parallasse Gaia DR3 della voce inglese (la voce italiana d\u00e0 872).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Camelopardalis"
+  },
+  {
+   "id": "alpha_cam",
+   "nome": "Alpha Camelopardalis",
+   "bayer": "\u03b1 Camelopardalis (\u03b1 Cam)",
+   "origine_nome": "Nessun nome ufficiale oggi. Nota: in cinese \u00e8 \u5c11\u885b (Sh\u01ceow\u00e8i, \u00abSeconda Guardia Imperiale\u00bb), ma la UAI ha adottato il nome Shaowei per Gamma Camelopardalis, non per Alpha: le identificazioni storiche divergevano.",
+   "magnitudine": "4,26",
+   "spettro": "O9 Ia (supergigante blu, ~29.000 K)",
+   "distanza_al": 5500,
+   "curiosita": "\u00c8 una candidata stella fuggitiva (runaway): espulsa dall'ammasso NGC 1502 circa due milioni di anni fa (ipotesi del 1961); con il telescopio spaziale WISE della NASA \u00e8 stata osservata la sua onda di prua (bow shock), la scia che il vento stellare supersonico produce nel mezzo interstellare. \u00c8 una delle stelle pi\u00f9 lontane visibili a occhio nudo: 37,6 masse solari e 676.000 luminosit\u00e0 solari, con una perdita di massa di un Sole ogni 160.000 anni circa. La distanza \u00e8 molto incerta: la parallasse Gaia DR3 d\u00e0 ~5.510 anni luce (qui usato, coerente con la voce italiana che d\u00e0 5.240), ma l'infobox inglese riporta anche 790\u00b1100 pc (Rubio-D\u00edez 2022, ~2.580 al) e il testo inglese dice \u00aboltre 6.000\u00bb: conflitto interno alla stessa voce, segnalato. Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Camelopardalis"
+  },
+  {
+   "id": "gamma_cam",
+   "nome": "Shaowei",
+   "bayer": "\u03b3 Camelopardalis (\u03b3 Cam)",
+   "origine_nome": "Shaowei (\u5c11\u885b), la \u00abSeconda Guardia Imperiale\u00bb: nome dell'astronomia cinese, sesta stella del Muro Destro della Recinta Viola Proibita. Approvato dalla UAI (WGSN) il 25 dicembre 2025. L'identificazione storica varia: nella dinastia Yuan la stella era \u03b3 Cam, in fonti recenti \u03b1 Cam; la UAI ha scelto \u03b3 Cam. \u00c8 una delle sole due stelle nominate della Giraffa.",
+   "magnitudine": "4,66",
+   "spettro": "A2 IVn (subgigante bianca a rapida rotazione, v\u00b7sin i \u2248 205 km/s)",
+   "distanza_al": 386,
+   "curiosita": "Nome UAI di freschissima data: fino al 25 dicembre 2025 la stella non aveva nome, come quasi tutte quelle della Giraffa. \u00c8 una binaria sospetta larga con tre componenti visive catalogate (A, B, C): la primaria di magnitudine 4,66, una compagna C di 9,07 a 106 secondi d'arco e una B di 12,4 a 56,3. La sua rotazione estrema (205 km/s) la schiaccia: il raggio equatoriale \u00e8 il 17 per cento pi\u00f9 grande di quello polare, una forma ovale visibile con tecniche interferometriche. Dista 386 anni luce (parallasse Gaia DR3, confermata dal testo inglese). Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Camelopardalis"
+  },
+  {
+   "id": "cs_cam",
+   "nome": "CS Camelopardalis",
+   "bayer": "CS Camelopardalis (variabile; HD 21291, Struve 385)",
+   "origine_nome": "Nessun nome proprio: \u00e8 la seconda stella pi\u00f9 brillante della costellazione e non ha n\u00e9 lettera di Bayer n\u00e9 numero di Flamsteed \u2014 solo la designazione di variabile CS Cam.",
+   "magnitudine": "4,21",
+   "spettro": "B9 Ia (supergigante blu-bianca)",
+   "distanza_al": 3100,
+   "curiosita": "\u00c8 una variabile Alfa Cygni, con magnitudine che oscilla fra 4,19 e 4,23; la designazione di variabile le fu assegnata nel 1999 dai dati Hipparcos. Ben pi\u00f9 luminosa di quanto appaia: magnitudine assoluta \u22127,10. \u00c8 immersa nella nebulosa a riflessione VdB 14 e guida l'associazione Camelopardalis R1; mezza grado pi\u00f9 a sud sta CE Cam, gemella quasi identica: le due supergiganti gemelle si vedono insieme in cielo. Ha 19 masse solari, 75.900 luminosit\u00e0 solari, 85,7 raggi solari e un'et\u00e0 di circa 16,5 milioni di anni: brucia rapido, muore giovane. Distanza: ~3.100 anni luce dalla parallasse Gaia DR3 (la voce italiana d\u00e0 \u00aboltre 4.000\u00bb: divergenza documentata). Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/CS_Camelopardalis"
+  },
+  {
+   "id": "ce_cam",
+   "nome": "CE Camelopardalis",
+   "bayer": "CE Camelopardalis (variabile; HD 21389)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di variabile CE Cam e il numero di catalogo HD 21389.",
+   "magnitudine": "4,54",
+   "spettro": "A0 Iae (supergigante blu con righe in emissione)",
+   "distanza_al": 3500,
+   "curiosita": "Dal 1943 il suo spettro \u00e8 uno dei punti di ancoraggio con cui si classificano le altre stelle: \u00e8 uno standard spettrale stabile. \u00c8 l'illuminatrice della nebulosa a riflessione VdB 15 (BFS 29), immersa in una grande nube molecolare polverosa in formazione stellare attiva, con stelle fra 1 e 100 milioni di anni (CE Cam stessa ne ha circa 11). \u00c8 una variabile Alfa Cygni come la sorella CS Cam, mezza grado pi\u00f9 a nord: scoperta da Percy e Welch nel 1983, designata nel 1997. Ha circa 19 masse solari e 55.000-62.700 luminosit\u00e0 solari a seconda degli autori. Dista ~3.500 anni luce, calcolati dalla parallasse Gaia DR3 (0,9303 mas). Non esiste una voce italiana dedicata: scheda basata sulla voce inglese, intitolata al numero di catalogo HD 21389.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_21389"
+  },
+  {
+   "id": "11_cam",
+   "nome": "11 Camelopardalis",
+   "bayer": "11 Camelopardalis (variabile BV Cam; HD 32343)",
+   "origine_nome": "Nessun nome proprio: solo il numero di Flamsteed e la designazione di variabile BV Camelopardalis (dal 1987).",
+   "magnitudine": "5,22",
+   "spettro": "B3 Ve (stella Be blu-bianca di sequenza principale)",
+   "distanza_al": 690,
+   "curiosita": "Con 12 Camelopardalis, a 3 primi d'arco, forma una delle coppie dai colori pi\u00f9 contrastanti del cielo boreale: una azzurra e l'altra arancione, risolvibile col binocolo. Non \u00e8 una vera doppia fisica: la separazione reale tra le due stelle \u00e8 notevole, l'accoppiamento \u00e8 solo prospettico (la voce italiana la descrive come doppia facile). \u00c8 una variabile Be scoperta da John R. Percy e colleghi nel 1979: eruzioni nelle righe d'emissione dell'idrogeno. Vista quasi dal polo, la sua rotazione reale \u00e8 pi\u00f9 rapida dei 95 km/s misurati. Circa 6 masse solari e 25 milioni di anni. Distanza 690 anni luce (testo inglese; la parallasse Gaia DR3 d\u00e0 686). Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/11_Camelopardalis"
+  },
+  {
+   "id": "53_cam",
+   "nome": "53 Camelopardalis",
+   "bayer": "53 Camelopardalis (variabile AX Cam; HD 65339)",
+   "origine_nome": "Nessun nome proprio: solo il numero di Flamsteed e la designazione di variabile AX Camelopardalis.",
+   "magnitudine": "6,02",
+   "spettro": "A3VpSrSiCrEu (stella Ap magnetica peculiare, con stronzio, silicio, cromo, europio)",
+   "distanza_al": 290,
+   "curiosita": "\u00c8 al limite estremo della visibilit\u00e0 a occhio nudo ed \u00e8 un classico di studio delle stelle Ap magnetiche: sulla superficie ha chiazze di abbondanza chimica diverse (silicio, calcio, titanio, ferro, neodimio), una \u00abstella a macchie chimiche\u00bb con topologia magnetica complessa. \u00c8 una variabile Alfa\u00b2 Canum Venaticorum scoperta da Jarz\u0119bowski nel 1960: la luminosit\u00e0 pulsa con il periodo di rotazione, 8,0278 giorni. \u00c8 anche una binaria spettroscopica a linea singola con periodo orbitale di circa 6,6 anni ed eccentricit\u00e0 altissima (~0,7), un'orbita quasi cometaria per una coppia stellare stretta. Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/53_Camelopardalis"
+  },
+  {
+   "id": "be_cam",
+   "nome": "Custos",
+   "bayer": "BE Camelopardalis (variabile; HR 1155)",
+   "origine_nome": "Custos, dal latino \u00abguardiano/custode\u00bb: nome approvato dalla UAI (WGSN) il 25 dicembre 2025, in ricordo della vecchia costellazione Custos Messium, \u00abil Custode del Raccolto\u00bb, disegnata da Lalande nel 1795 come gioco sul cognome di Charles Messier e poi abbandonata. \u00c8 la seconda delle sole due stelle nominate della Giraffa.",
+   "magnitudine": "4,39",
+   "spettro": "M2 II (gigante brillante rossa, ramo asintotico delle giganti)",
+   "distanza_al": 960,
+   "curiosita": "\u00c8 una variabile irregolare di sottotipo Lc, scoperta nel 1928 da Stebbins e Huffer a Washburn Observatory, con magnitudine fra 4,35 e 4,48. \u00c8 gigantesca: circa 250 raggi solari e pi\u00f9 di 10.000 luminosit\u00e0 solari, ma \u00absolo\u00bb 2,9 masse solari \u2014 una stella morente che ha esaurito l'idrogeno centrale e sta attraversando il ramo asintotico delle giganti. \u00c8 una delle stelle pi\u00f9 luminose della Giraffa, eppure quasi mai citata: il colore rosso la distingue dalle vicine supergiganti blu. Il nome Custos ricorda il Custos Messium, la costellazione che Lalande disegn\u00f2 nel 1795 sul cognome di Charles Messier e poi abbandonata: sorgeva proprio in questa zona di cielo. Non esiste una voce italiana dedicata: scheda basata sulla fonte inglese.",
+   "fonte_url": "https://en.wikipedia.org/wiki/BE_Camelopardalis"
+  }
+ ]
+}
