@@ -1,0 +1,92 @@
+
+ "cavallino": {
+  "alfa_equulei": {
+   "id": "alfa_equulei",
+   "nome": "Kitalpha",
+   "bayer": "\u03b1 Equulei (\u03b1 Equ; 8 Equ; HD 202447; HIP 104987)",
+   "origine_nome": "Contrazione dall'arabo qi\u1e6d'a(t) al-faras, \u00abparte del cavallo\u00bb: la stella appartiene a una costellazione in cui \u00e8 disegnata solo la testa del cavallo. Approvato dalla IAU (WGSN) per alfa Equulei A il 21 agosto 2016. In cinese, seconda stella del Vuoto (X\u016bs\u00f9\u00e8r).",
+   "magnitudine": "3,92 (componenti 4,476 e 4,496)",
+   "spettro": "G7 III + kA3hA4mA9 \u2014 gigante gialla + stella Am di sequenza principale; primaria: 2,2 masse, 9,2 raggi, 48 soli, 5.160 K; secondaria: 1,88 masse, 2,60 raggi, 8.260 K; et\u00e0 1,0-1,2 miliardi di anni",
+   "distanza_al": 186,
+   "curiosita": "Binaria spettroscopica a doppia riga con periodo di 98,8 giorni ed eccentricit\u00e0 0,0042: un'orbita pressoch\u00e9 circolare a 0,66 unit\u00e0 astronomiche, troppo stretta per essere risolta, con separazione di pochi milliarcosecondi. La stella appartiene a una costellazione in cui \u00e8 disegnata solo la testa del cavallo: da qui \u00abparte del cavallo\u00bb. La distanza qui scelta \u00e8 quella delle tabelle (186 anni luce); la parallasse della voce inglese d\u00e0 circa 180.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kitalpha"
+  },
+  "delta_equulei": {
+   "id": "delta_equulei",
+   "nome": "Tepennekhet",
+   "bayer": "\u03b4 Equulei (\u03b4 Equ; 7 Equ; HD 202275; HIP 104858)",
+   "origine_nome": "Dall'antica costellazione egizia Nekhet, il Gigante, attestata negli orologi stellari ramessidi: la sua testa, Tepennekhet, cadeva nel Cavallino. Nome adottato dalla IAU (WGSN) il 16 luglio 2026. In cinese, seconda stella del Giudice del Giusto e dello Sbagliato.",
+   "magnitudine": "4,47 combinata (componenti 5,19 e 5,52)",
+   "spettro": "F7 V + F7 V (Torres 2010): due nane giallo-bianche quasi gemelle; 1,19 masse ciascuna, 1,30 e 1,25 raggi, 6.200 K entrambe, et\u00e0 3,0 miliardi di anni",
+   "distanza_al": 60,
+   "curiosita": "Binaria con periodo orbitale di 5,7 anni ed eccentricit\u00e0 0,437: per decenni fu ritenuta la binaria col pi\u00f9 breve periodo orbitale conosciuto fra le binarie visibili, e i due componenti non si allontanano mai pi\u00f9 di 0,35 secondi d'arco. Herschel la vide come binaria larga; Otto Struve nel 1852 scopr\u00ec che in realt\u00e0 era un sistema compatto. A 60 anni luce \u00e8 la stella pi\u00f9 vicina della costellazione visibile a occhio nudo; le masse storiche sono controverse. Nome IAU dal 16 luglio 2026, dalla testa del Gigante Nekhet degli orologi stellari ramessidi.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Equulei"
+  },
+  "gamma_equulei": {
+   "id": "gamma_equulei",
+   "nome": "Gamma Equulei (nessun nome proprio)",
+   "bayer": "\u03b3 Equulei (\u03b3 Equ; 5 Equ; HD 201601; HIP 104521)",
+   "origine_nome": "Denominazione di Bayer. In cinese, prima stella del Giudice del Giusto e dello Sbagliato (S\u012bf\u0113iy\u012b).",
+   "magnitudine": "4,58-4,77 variabile (media 4,70)",
+   "spettro": "A9VpSrCrEu \u2014 stella chimicamente peculiare di classe Ap, con abbondanze insolite di stronzio, cromo ed europio; le linee nette indicano una rotazione lentissima",
+   "distanza_al": 118,
+   "curiosita": "Variabile Ap a rapida oscillazione (roAp): pulsazioni di pochi centesimi di magnitudine in periodi di 11,7-12,4 minuti. Il campo magnetico, enorme e variabile, oscilla da +577 a \u22121.101 gauss con un periodo di 97,16 anni ritenuto il periodo di rotazione: tra i pi\u00f9 lenti noti. Compagna di magnitudine 8,69 a 1,26 secondi d'arco. La distanza qui scelta \u00e8 quella di van Leeuwen 2007 (27,55 mas); le tabelle danno 115.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gamma_Equulei"
+  },
+  "beta_equulei": {
+   "id": "beta_equulei",
+   "nome": "Beta Equulei (nessun nome proprio)",
+   "bayer": "\u03b2 Equulei (\u03b2 Equ; 10 Equ; HD 203562; HIP 105570)",
+   "origine_nome": "Denominazione di Bayer. In cinese, prima stella del Giudice delle Sventure e delle Fortune (S\u012bw\u0113iy\u012b).",
+   "magnitudine": "5,16",
+   "spettro": "A3 V \u2014 nana bianca di sequenza principale; 9.000 K circa, 2,74 masse, circa 4 raggi, 78 soli, et\u00e0 600 milioni di anni (93 per cento della vita in sequenza principale); rotazione 58 km/s",
+   "distanza_al": 289,
+   "curiosita": "Stella singola con 4 compagne ottiche non fisicamente associate (WDS) ed eccesso infrarosso da disco di detriti: polvere a 85 K con semiasse di circa 104 unit\u00e0 astronomiche, un sistema planetario in formazione. La distanza qui scelta \u00e8 quella di Gaia (11,27 mas); le tabelle, con Hipparcos, danno 360: discrepanza grande documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Equulei"
+  },
+  "epsilon_equulei": {
+   "id": "epsilon_equulei",
+   "nome": "Epsilon Equulei (1 Equulei)",
+   "bayer": "Nessuna lettera di Bayer in uso comune (Bode la battezz\u00f2 \u03b5; oggi si usa la designazione di Flamsteed 1 Equulei; HD 199766; HIP 103569)",
+   "origine_nome": "Designazione di Flamsteed; la lettera epsilon di Bode, assegnata nel 1801, \u00e8 l'unica rimasta in uso della sua serie.",
+   "magnitudine": "5,23 combinata (componenti 5,96 e 6,31)",
+   "spettro": "F5 V + F6 V + F4 V (Beavers 1980): sistema triplo di nane giallo-bianche; A 1,74 masse, 6.223 K; B 1,53 masse, 6.399 K, et\u00e0 1,5 miliardi di anni",
+   "distanza_al": 197,
+   "curiosita": "Sistema triplo: la coppia interna A-B orbita in 101,5 anni con eccentricit\u00e0 0,705, e la terza compagna C \u00e8 visibile in piccoli telescopi. \u00c8 l'unica stella doppia di facile osservazione del Cavallino (separazione 10,4 secondi d'arco). Storicamente designata anche 1 Equulei; i componenti della primaria si stanno avvicinando e dal 2015 circa non sono pi\u00f9 risolvibili con telescopi amatoriali. La distanza qui scelta \u00e8 quella delle tabelle; la parallasse della voce inglese ha errore grande.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Equulei"
+  },
+  "3_equulei": {
+   "id": "3_equulei",
+   "nome": "3 Equulei (nessun nome proprio)",
+   "bayer": "Nessuno (Bode la design\u00f2 \u03b6 Equ, oggi inusato; Flamsteed 3 Equ; HD 200644; HIP 104031)",
+   "origine_nome": "Designazione di Flamsteed. In cinese, terza stella aggiuntiva del Vuoto (X\u016bs\u00f9z\u0113ngs\u0101n).",
+   "magnitudine": "5,63",
+   "spettro": "K5 III \u2014 gigante arancione",
+   "distanza_al": 688,
+   "curiosita": "Stella doppia secondo le tabelle. Bode la aveva battezzata zeta Equulei nel 1801, ma le designazioni di Bode per questa costellazione sono quasi tutte cadute in disuso: oggi si usa solo il numero di Flamsteed, un piccolo esercizio di archeologia catalografica.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_del_Cavallino"
+  },
+  "9_equulei": {
+   "id": "9_equulei",
+   "nome": "9 Equulei (nessun nome proprio)",
+   "bayer": "Nessuno (Bode la design\u00f2 \u03b7 Equ, oggi inusato; Flamsteed 9 Equ; HD 203291; HIP 105413)",
+   "origine_nome": "Designazione di Flamsteed. In cinese, seconda stella del Giudice delle Sventure e delle Fortune (S\u012bw\u0113i\u00e8r).",
+   "magnitudine": "5,81 (variabile sospetta fra 5,86 e 5,91)",
+   "spettro": "M2 III \u2014 gigante rossa",
+   "distanza_al": 1058,
+   "curiosita": "Variabile sospetta di piccola ampiezza: una delle poche variabili della povera costellazione. Anche per lei la designazione di Bode (eta) \u00e8 caduta in disuso, e resta il numero di Flamsteed: a 1.058 anni luce \u00e8 la scheda pi\u00f9 lontana della costellazione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_del_Cavallino"
+  },
+  "lambda_equulei": {
+   "id": "lambda_equulei",
+   "nome": "Lambda Equulei (2 Equulei)",
+   "bayer": "Nessuna (Bode la design\u00f2 \u03bb Equ, designazione tecnicamente ancora in uso ma spesso omessa; Flamsteed 2 Equ; HD 200256; HIP 103813)",
+   "origine_nome": "Designazioni di Bode (lambda, 1801) e Flamsteed (2); in cinese, prima stella aggiuntiva del Vuoto.",
+   "magnitudine": "6,72 combinata (componenti 7,41 e 7,64)",
+   "spettro": "F6 V + F3 V (tabella italiana: F8): due subgiganti/nane giallo-bianche; A: 1,73 masse, 2,6 raggi, 12,9 soli, 6.127 K, et\u00e0 1,9 miliardi di anni; B: 1,61 masse, 2,8 raggi, 10,9 soli",
+   "distanza_al": 332,
+   "curiosita": "Binaria visuale risolvibile con piccoli telescopi: i due componenti, separati di circa 1,8 secondi d'arco, condividono moto proprio simile. Le due parallassi leggermente diverse (8,81 e 8,56 mas) la rendono probabilmente una doppia fisica larga. Bode la battezz\u00f2 lambda; la designazione \u00e8 tecnicamente ancora in uso ma spesso omessa dagli atlanti. La distanza qui scelta \u00e8 quella della tabella italiana; le parallassi dei componenti danno 370-380: discrepanza documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Equulei"
+  }
+ }
+}

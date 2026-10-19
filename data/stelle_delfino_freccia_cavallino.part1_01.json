@@ -1,0 +1,181 @@
+{
+ "delfino": {
+  "rotanev": {
+   "id": "rotanev",
+   "nome": "Rotanev",
+   "bayer": "\u03b2 Delphini (\u03b2 Del; 6 Del; HD 196524; HIP 101769)",
+   "origine_nome": "Nicolaus Venator scritto al contrario: latinizzazione di Niccol\u00f2 Cacciatore, assistente e successore di Giuseppe Piazzi a Palermo. Apparso nel catalogo di Palermo (1814) insieme a Sualocin; decifrato da Thomas Webb nel 1859. Nome ufficiale IAU.",
+   "magnitudine": "3,62 (componenti A 4,11 e B 5,01)",
+   "spettro": "F5 III + F5 IV \u2014 coppia di gigante/subgigante gialle; A: 6.587 K, 24 luminosit\u00e0 solari, 1,75 masse solari; B: 8 luminosit\u00e0 solari, 1,47 masse; et\u00e0 1,8 miliardi di anni",
+   "distanza_al": 97,
+   "curiosita": "La stella pi\u00f9 brillante del Delfino non \u00e8 l'alfa ma la beta: caso raro, condiviso con la Freccia. Binaria spettroscopica stretta riconosciuta nel 1873: semiasse 0,44 secondi d'arco (circa 13,6 unit\u00e0 astronomiche), periodo di 26,66 anni, eccentricit\u00e0 0,36, periastron 1989,5; con grandi telescopi amatoriali \u00e8 separabile fra 0,2 e 0,7 secondi. A occhio nudo si vede un solo punto bianco. Il nome \u00e8 l'anagramma di Nicolaus Venator: lo scherzo di Palermo decifrato da Webb 45 anni dopo. La distanza qui scelta \u00e8 quella della tabella italiana e della lista inglese (parallasse 32,33 mas); la voce inglese d\u00e0 circa 101.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Rotanev"
+  },
+  "sualocin": {
+   "id": "sualocin",
+   "nome": "Sualocin",
+   "bayer": "\u03b1 Delphini (\u03b1 Del; 9 Del; HD 196867; HIP 101958)",
+   "origine_nome": "Nicolaus scritto al contrario, come Rotanev: anagramma di Niccol\u00f2 Cacciatore, assistente e successore di Piazzi a Palermo. Comparso nel catalogo di Palermo (1814), decifrato da Thomas Webb nel 1859. Nome ufficiale IAU.",
+   "magnitudine": "3,78 (componenti Aa 3,86 e Ab 6,43)",
+   "spettro": "B9 IV \u2014 subgigante blu-bianca; Aa: 11.643 K, 3,92 raggi solari, 3,83 masse, et\u00e0 227 milioni di anni, rotazione 144 km/s (70 volte il Sole); Ab 1,82 masse; Bb 1,49 masse; magnitudine assoluta \u22120,4",
+   "distanza_al": 238,
+   "curiosita": "Sistema triplo scoperto nel 2021 con il survey ARMADA: Aa e Ab orbitano in 16,9 anni a 12,7 unit\u00e0 astronomiche, e Ab \u00e8 a sua volta doppia con un'orbita interna RETROGRADA (29,99 giorni). Il Washington Double Star elenca 5 compagne ottiche deboli. La rotazione ultrarapida di 144 km/s la schiaccia. La distanza qui scelta \u00e8 quella di Gaia DR3 (13,73 mas); la voce italiana d\u00e0 254 con Hipparcos, la lista inglese 241.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Sualocin"
+  },
+  "gamma_delphini": {
+   "id": "gamma_delphini",
+   "nome": "Dhanishta (\u03b3\u00b9 Delphini) / Gamma Delphini (sistema)",
+   "bayer": "\u03b3\u00b9 e \u03b3\u00b2 Delphini (\u03b3\u00b9/\u03b3\u00b2 Del; Flamsteed 12 Del; HD 197963/197964; HIP 102531/102532)",
+   "origine_nome": "Dhanishta \u00e8 il nome del nakshatra indiano il cui asterismo sta nel Delfino, assegnato dalla IAU (WGSN) il 16 luglio 2026 a gamma\u00b9: nome recentissimo. Nessun nome storico arabo o persiano per il sistema.",
+   "magnitudine": "3,87 combinata (\u03b3\u00b2 4,36, la pi\u00f9 brillante; \u03b3\u00b9 5,03)",
+   "spettro": "\u03b3\u00b2 K1 IV (subgigante arancione: 4.798 K, 1,99 masse, 8,43 raggi, 33 soli) + \u03b3\u00b9 F7 V (nana giallo-bianca: 6.295 K, 1,61 masse, 2,60 raggi, 10,2 soli); et\u00e0 1,8 miliardi di anni; sorgente di raggi X",
+   "distanza_al": 115,
+   "curiosita": "Una delle doppie pi\u00f9 celebri del cielo per gli amatori: \u03b3\u00b2 arancione-dorata e \u03b3\u00b9 verde-lime, separate di circa 9 secondi d'arco. Riconosciuta doppia da Christian Mayer e osservata da William Herschel il 27 settembre 1779; catalogata STF 2727 da Struve. L'orbita dura circa 3.250 anni con eccentricit\u00e0 0,88, e la separazione fisica varia fra 40 e 600 unit\u00e0 astronomiche. A 15 minuti d'arco il \u00abGhost Double\u00bb (Struve 2725) la imita con due stelle pi\u00f9 deboli. Attorno a \u03b3\u00b2 esiste una candidata pianeta NON confermata (Irwin 1999). Il nome Dhanishta, IAU luglio 2026, ricorda il nakshatra indiano del Delfino.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Delphini"
+  },
+  "delta_delphini": {
+   "id": "delta_delphini",
+   "nome": "Delta Delphini (nessun nome proprio)",
+   "bayer": "\u03b4 Delphini (\u03b4 Del; 11 Del; HD 197461; HIP 102281)",
+   "origine_nome": "Denominazione di Bayer. \u00c8 il prototipo della classe di stelle variabili \u00ab\u03b4 Delphini\u00bb: Delta Scuti metal-peculiari.",
+   "magnitudine": "4,43 (variabile fra 4,38 e 4,49)",
+   "spettro": "kA7hF1VmF1pSrEuCr: \u2014 stella chimicamente peculiare (Am) con stronzio, europio e cromo forti; binaria spettroscopica a doppia riga",
+   "distanza_al": 223,
+   "curiosita": "\u00c8 il prototipo della classe di variabili \u03b4 Delphini: Delta Scuti metal-peculiari con pulsazione dominante di 3,76 ore e ampiezza 0,07 magnitudini. La voce italiana la d\u00e0 \u00abirregolare\u00bb, ma la classificazione moderna \u00e8 Delta Scuti. L'orbita con la compagna spettroscopica dura 40,58 giorni (Liakos 2017). Le due componenti hanno temperature di 7.440 e 7.110 K, masse di 1,78 e 1,62 soli e circa 945 milioni di anni. Distanza da Gaia DR3 (14,78 mas); la lista inglese d\u00e0 203.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Delphini"
+  },
+  "aldulfin": {
+   "id": "aldulfin",
+   "nome": "Aldulfin",
+   "bayer": "\u03b5 Delphini (\u03b5 Del; 2 Del; HD 195810; HIP 101421)",
+   "origine_nome": "Dall'arabo \u00f0anab ad-dulf\u012bn, \u00abla coda del delfino\u00bb; nel Calendarium di al Achsasi al Mouakket tradotto in latino Cauda Delphini. Nome approvato dalla IAU (WGSN) il 5 settembre 2017.",
+   "magnitudine": "4,03 (sospetta variabile fra 3,95 e 4,05)",
+   "spettro": "B6 III \u2014 gigante blu; 13.614 K, 676 luminosit\u00e0 solari, 4,6 raggi solari, circa 5 masse, et\u00e0 220 milioni di anni",
+   "distanza_al": 366,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa in valore assoluto del Delfino: 676 soli a 366 anni luce. \u00c8 la \u00abcoda\u00bb della figura, in cinese la prima stella della Zucca marcia (B\u00e0i Gu\u0101 y\u012b) della Tartaruga Nera del Nord. La distanza qui scelta \u00e8 quella di Gaia DR3 (8,91 mas); la tabella italiana d\u00e0 359.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Delphini"
+  },
+  "zeta_delphini": {
+   "id": "zeta_delphini",
+   "nome": "Zeta Delphini (nessun nome proprio)",
+   "bayer": "\u03b6 Delphini (\u03b6 Del; 4 Del; HD 196180; HIP 101589)",
+   "origine_nome": "Denominazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,65 (sospetta variabile fra 4,64 e 4,70)",
+   "spettro": "A3 Va \u2014 nana bianca; 8.236 K, 48,6 soli, 2,5 masse, et\u00e0 525 milioni di anni",
+   "distanza_al": 218,
+   "curiosita": "Nel 2014 \u00e8 diventata la prima stella Lambda Bo\u00f6tis con una nana bruna in orbita: una compagna di classe L5, 50-55 masse gioviane, vista a oltre 13 secondi d'arco (almeno 910 unit\u00e0 astronomiche) dal survey VAST \u2014 al momento il sistema stella-nana bruna pi\u00f9 stretto mai direttamente fotografato. Nel 2021 la classificazione Lambda Bo\u00f6tis \u00e8 stata confermata spettroscopicamente (Saffe). La primaria ruota rapidamente. Distanza da Gaia DR3 (14,94 mas); la lista inglese d\u00e0 227.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Delphini"
+  },
+  "eta_delphini": {
+   "id": "eta_delphini",
+   "nome": "Eta Delphini (nessun nome proprio)",
+   "bayer": "\u03b7 Delphini (\u03b7 Del; 3 Del; HD 195943; HIP 101483)",
+   "origine_nome": "Denominazione di Bayer; nessun nome proprio.",
+   "magnitudine": "5,38 (sospetta variabile fra 5,37 e 5,40)",
+   "spettro": "A3 IVs \u2014 subgigante bianca con spettro a linee strette (s = sharp: rotazione lenta apparente); 9.355 K, 11,5 soli, 1,43 raggi, 2,12 masse, et\u00e0 309 milioni di anni",
+   "distanza_al": 180,
+   "curiosita": "In cinese fa parte dell'asterismo della Zucca marcia (B\u00e0i Gu\u0101) della Tartaruga Nera del Nord. \u00c8 candidata binaria astrometrica (Eggleton 2008): il suo moto potrebbe tradire una compagna invisibile. La distanza qui scelta \u00e8 quella di Gaia DR3 (18,14 mas); la lista inglese d\u00e0 173.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Delphini"
+  },
+  "musica": {
+   "id": "musica",
+   "nome": "Musica (18 Delphini)",
+   "bayer": "Nessuna lettera di Bayer (Flamsteed 18 Del; HD 199665; HIP 103527)",
+   "origine_nome": "Musica, nome assegnato con il concorso IAU NameExoWorlds 2015 su proposta del club scientifico del liceo Jonan di Tokushima (Giappone), insieme ad \u00abArion\u00bb per il pianeta: in omaggio al citarista Arione salvato da un delfino \u2014 lo stesso mito della costellazione.",
+   "magnitudine": "5,52",
+   "spettro": "G6 III \u2014 gigante gialla; 4.979 K, 40 soli, 8,5 raggi solari, 2,3 masse",
+   "distanza_al": 238,
+   "curiosita": "Ospita Arion (18 Delphini b), gigante gassoso di almeno 10,3 masse gioviane su un'orbita quasi circolare di 993 giorni a 2,6 unit\u00e0 astronomiche, scoperto nel 2008 con la velocit\u00e0 radiale (Sato). I nomi della stella e del pianeta richiamano il mito di Arione, il citarista salvato da un delfino: la costellazione stessa racconta questa storia. A 238 anni luce, con una doppia ottica in campo. \u00c8 la terza stella del Delfino con voce italiana dedicata, insieme a Sualocin e Rotanev.",
+   "fonte_url": "https://it.wikipedia.org/wiki/18_Delphini"
+  }
+ },
+ "freccia": {
+  "gamma_sagittae": {
+   "id": "gamma_sagittae",
+   "nome": "Telum",
+   "bayer": "\u03b3 Sagittae (\u03b3 Sge; 12 Sge; HD 189319; HIP 98337)",
+   "origine_nome": "Telum, \u00abgiavellotto\u00bb in latino, \u00e8 un nome storico dell'intera costellazione: compare come etichetta nella prima carta celeste a stampa (D\u00fcrer 1515) e come nome alternativo nella Uranometria di Bayer (1603). La IAU/WGSN lo ha adottato come nome proprio di gamma Sagittae il 18 giugno 2026. In cinese \u00e8 la quarta stella della Bandiera Sinistra (lista AEEA; le voci dedicate scambiano i numeri con zeta).",
+   "magnitudine": "3,51 (le voci variano fra 3,47 e 3,53)",
+   "spettro": "M0 III \u2014 gigante rossa (tabelle: K5 III); 3.904 K, quasi 58 raggi solari (Baines 2021), circa 697 soli, et\u00e0 2,35 miliardi di anni",
+   "distanza_al": 288,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa della Freccia pur portando la lettera gamma: raro caso, come Rotanev nel Delfino. Telum era il nome che D\u00fcrer e Bayer davano all'intera costellazione; dal 18 giugno 2026 \u00e8 ufficialmente il nome di questa sola stella. \u00c8 una gigante evoluta al 94 per cento sul ramo delle giganti rosse, e per Kaler si appresta a diventare una variabile Mira. La velocit\u00e0 radiale di \u221234 km/s la dice in avvicinamento. Distanza da Gaia DR3 (11,34 mas); le tabelle danno 274-275.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Sagittae"
+  },
+  "delta_sagittae": {
+   "id": "delta_sagittae",
+   "nome": "Zuoqi",
+   "bayer": "\u03b4 Sagittae (\u03b4 Sge; 7 Sge; HD 187076; HIP 97365)",
+   "origine_nome": "Dal cinese Zu\u01d2q\u00ed, \u00abBandiera Sinistra\u00bb (il terzo asterismo della mansione del Bue); nome adottato dalla IAU (WGSN) per delta Sagittae A il 18 giugno 2026. In cinese Zu\u01d2q\u00eds\u0101n, terza stella della Bandiera Sinistra.",
+   "magnitudine": "3,82 combinata (voce inglese dedicata 3,68; componenti 3,91 e 6,64); variabile irregolare lenta fra 3,75 e 3,83",
+   "spettro": "M2 II + B9.5 V \u2014 gigante rossa luminosa del ramo asintotico + stella di sequenza principale B; primaria: circa 180 raggi solari (Pugh 2015), 3,8 masse, 3.162 soli, 3.660 K; secondaria: 3,6 masse, 10.000 K, 63 soli",
+   "distanza_al": 448,
+   "curiosita": "Binaria spettroscopica a spettro composito con periodo orbitale di 10,1 anni ed eccentricit\u00e0 0,44: la gigante rossa \u00e8 cos\u00ec enorme (circa 180 raggi solari) che da un pianeta attorno alla compagna B apparirebbe 14 volte pi\u00f9 grande del Sole visto dalla Terra. In cinese la terza stella della \u00abBandiera Sinistra\u00bb: nome ufficiale IAU dal 18 giugno 2026. Distanza da Gaia DR3 (5,97 mas); la voce italiana, con Hipparcos, d\u00e0 582.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Sagittae"
+  },
+  "alpha_sagittae": {
+   "id": "alpha_sagittae",
+   "nome": "Sham (alias Alsahm)",
+   "bayer": "\u03b1 Sagittae (\u03b1 Sge; 5 Sge; HD 185758; HIP 96757)",
+   "origine_nome": "Dall'arabo sahm, \u00abfreccia\u00bb: il nome indicava in origine l'intera costellazione e fu poi trasferito alla sola alfa. Approvato dalla IAU (WGSN) il 12 settembre 2016. In cinese, prima stella della Bandiera Sinistra; per i Sumeri faceva parte del muso del maiale \u0160A\u1e2a.",
+   "magnitudine": "4,38",
+   "spettro": "G1 II \u2014 gigante brillante evoluta; 5.630 K, 17,9 raggi solari, 2,95 masse, 340 soli, et\u00e0 151 milioni di anni; studio 2025: red clump (ramo orizzontale)",
+   "distanza_al": 382,
+   "curiosita": "Nonostante la lettera alfa non \u00e8 la stella pi\u00f9 brillante della costellazione: la batte la gamma Sge, caso speculare a quello di Sualocin e Rotanev nel Delfino. Il suo stato evolutivo \u00e8 stato a lungo incerto: nel Hertzsprung gap, dentro la striscia delle Cepheid ma non Cepheid, e solo nel 2025 uno studio l'ha collocata sul ramo orizzontale. Una sorgente di raggi X sorge a meno di 12 secondi d'arco dalle sue coordinate. Distanza da Gaia (8,53 mas); le tabelle, con Hipparcos, danno 473: discrepanza grande documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Sagittae"
+  },
+  "beta_sagittae": {
+   "id": "beta_sagittae",
+   "nome": "Shakh",
+   "bayer": "\u03b2 Sagittae (\u03b2 Sge; 6 Sge; HD 185958; HIP 96837)",
+   "origine_nome": "Dal sumerico \u0160A\u1e2a, \u00abil Maiale\u00bb: alfa e beta Sagittae rappresentavano forse il muso del maiale dell'antica costellazione sumera. Nome adottato dalla IAU (WGSN) il 18 giugno 2026. In cinese, seconda stella della Bandiera Sinistra.",
+   "magnitudine": "4,39",
+   "spettro": "G8 IIIa CN 0.5 \u2014 gigante rossa evoluta con moderato eccesso di cianogeno nello spettro; 4.990 K, 25,7 raggi solari, 3,76 masse, 369 soli, et\u00e0 129 milioni di anni",
+   "distanza_al": 420,
+   "curiosita": "Stella singola (Eggleton 2008) che si avvicina a 22 km/s; vicino gemello evolutivo della alfa: stessa et\u00e0 dell'ordine dei 130 milioni di anni, entrambe nate stelle calde di classe B/A oggi giunte allo stadio gigante. Il nome Shakh dal sumerico \u0160A\u1e2a, \u00abil Maiale\u00bb, IAU giugno 2026: il muso del maiale sumero sarebbe formato proprio da alfa e beta della Freccia. Distanza da Gaia (7,72 mas); le tabelle danno 466.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Sagittae"
+  },
+  "zeta_sagittae": {
+   "id": "zeta_sagittae",
+   "nome": "Zeta Sagittae (nessun nome proprio)",
+   "bayer": "\u03b6 Sagittae (\u03b6 Sge; 8 Sge; HD 187362; HIP 97496)",
+   "origine_nome": "Denominazione di Bayer. In cinese, quinta stella della Bandiera Sinistra secondo la lista AEEA (le voci dedicate scambiano i numeri con gamma).",
+   "magnitudine": "5,00 combinata (componenti 5,64, 6,04 e 9,01)",
+   "spettro": "A3 Vnn (A1 V + A3 V): stelle di sequenza principale bianche con righe \u00abnebulose\u00bb per rotazione; la primaria ruota a 240 km/s, con rigonfiamento equatoriale del 14 per cento maggiore del raggio polare; 1,8 masse per la primaria, et\u00e0 347 milioni di anni",
+   "distanza_al": 260,
+   "curiosita": "Sistema triplo: la coppia interna, due stelle A, orbita in 23,2 anni con semiasse di 0,136 secondi d'arco ed eccentricit\u00e0 0,79, un'orbita molto allungata; la terza compagna, di magnitudine 9,01, sta a 8,3 secondi d'arco. In cinese, quinta stella della \u00abBandiera Sinistra\u00bb: i nomi ufficiali della freccia cinese. Distanza dalla voce inglese (Hipparcos 12,79 mas); le tabelle danno 326.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Sagittae"
+  },
+  "eta_sagittae": {
+   "id": "eta_sagittae",
+   "nome": "Eta Sagittae (nessun nome proprio)",
+   "bayer": "\u03b7 Sagittae (\u03b7 Sge; 16 Sge; HD 190608; HIP 98920)",
+   "origine_nome": "Denominazione di Bayer. In cinese, stella aggiuntiva della Bandiera Sinistra.",
+   "magnitudine": "5,09 (variabile sospetta)",
+   "spettro": "K2 III \u2014 gigante arancione red clump (fonde elio al centro); 4.784 K, 7,1 raggi solari, 1,73 masse, circa 26 soli, et\u00e0 1,69 miliardi di anni",
+   "distanza_al": 162,
+   "curiosita": "Stella singola con probabilit\u00e0 61 per cento di appartenere al flusso Iadi-Pleiadi, il gruppo di stelle in moto comune nato con le Iadi; variabile sospetta. In cinese \u00e8 una stella aggiuntiva della \u00abBandiera Sinistra\u00bb. Distanza da Gaia (20,93 mas); le tabelle concordano a 162.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Sagittae"
+  },
+  "epsilon_sagittae": {
+   "id": "epsilon_sagittae",
+   "nome": "Epsilon Sagittae (nessun nome proprio)",
+   "bayer": "\u03b5 Sagittae (\u03b5 Sge; 4 Sge; HD 185194; HIP 96516)",
+   "origine_nome": "Denominazione di Bayer. In cinese, stella aggiuntiva della Bandiera Sinistra.",
+   "magnitudine": "5,64-5,67 (variabile sospetta, ampiezza 0,03)",
+   "spettro": "G8 IIIvar \u2014 gigante gialla su ramo orizzontale; 4.966 K, 18,4 raggi solari, circa 2,9 masse, 185 soli, et\u00e0 520 milioni di anni",
+   "distanza_al": 580,
+   "curiosita": "Doppia ottica: la compagna di magnitudine 8,35 a 87 secondi d'arco \u00e8 in realt\u00e0 una gigante indipendente a circa 7.000 anni luce (HD 232029), quindici volte pi\u00f9 lontana della primaria e 1.800 volte pi\u00f9 luminosa del Sole: una coincidenza di prospettiva che inganna l'occhio. \u00c8 una sorgente di raggi X, e la zona ha estinzione di appena 0,1 magnitudini. Distanza dalla voce inglese (Hipparcos e Gaia concordi a 5,6 mas); le tabelle danno 473.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Sagittae"
+  },
+  "wz_sagittae": {
+   "id": "wz_sagittae",
+   "nome": "WZ Sagittae (designazione di variabile)",
+   "bayer": "Nessuna (variabile WZ Sge; HD 231801)",
+   "origine_nome": "Convenzione delle designazioni di stelle variabili: WZ indica la variabile catalogata nella costellazione della Freccia.",
+   "magnitudine": "7,0-15,5 in esplosione; quiescente circa 15,2",
+   "spettro": "Sistema cataclismico: nana bianca DApe (0,85 masse solari, circa 17.800 K) + compagna di 0,078-0,13 masse (probabile nana L2), con disco di accrescimento",
+   "distanza_al": 148,
+   "curiosita": "Prototipo della classe WZ Sagittae di nova nane SU Ursae Majoris: esplosioni osservate nel 1913, 1946, 1978 e 2001, insolita perch\u00e9 mostra SOLO superesplosioni, mai normali esplosioni di nova. Scoperta nel 1919 da Joanna Crighton Stevens Mackie sulle lastre Harvard. Il periodo orbitale \u00e8 estremo: 81,6 minuti, tra i pi\u00f9 brevi conosciuti, con inclinazione di circa 77 gradi; il disco di accrescimento del sistema \u00e8 diventato famoso anche nella divulgazione (illustrazione NOIRLab). La distanza qui scelta viene dalla parallasse Gaia DR3 (22,10 mas = 45,2 parsec = 147,6 anni luce); la scheda italiana dedicata non esiste.",
+   "fonte_url": "https://en.wikipedia.org/wiki/WZ_Sagittae"
+  }
+ },
