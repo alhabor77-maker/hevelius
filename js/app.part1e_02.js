@@ -17,7 +17,14 @@
     });
   }
 
-  function starsOf(cid) { return (DATA.stelle && DATA.stelle[cid]) || []; }
+  function starsOf(cid) {
+      var v = (DATA.stelle && DATA.stelle[cid]) || [];
+      if (Array.isArray(v)) return v;
+      if (v && typeof v === 'object') {
+        return Object.keys(v).map(function (k) { return v[k]; });
+      }
+      return [];
+    }
   var PLEIADI_SCHEDA = {
     id: 'pleiadi', nome: 'Pleiadi (M45)', bayer: 'Ammasso aperto \u00b7 Messier 45',
     magnitudine: '1,6 (complessiva)', distanza_al: 440,
