@@ -1,0 +1,180 @@
+{
+ "ofiucu": [
+  {
+   "id": "rasalhague",
+   "nome": "Rasalhague",
+   "bayer": "\u03b1 Ophiuchi (\u03b1 Oph; 55 Oph; HD 159561; HIP 86032)",
+   "origine_nome": "Dall'arabo ra\u02bes al-\u1e25aww\u0101\u02be, \u00abla testa del raccoglitore di serpenti\u00bb: segna la testa della figura dell'Ofiuco che stringe il serpente. Approvato dalla IAU (WGSN) nel primo bollettino di luglio 2016. In cinese \u4faf (H\u00f2u), l'assistente anziano dell'Imperatore, a volte detto l'astrologo di corte.",
+   "magnitudine": "2,08 (combinata; le fonti variano fra 2,07 e 2,10)",
+   "spettro": "A5 IV \u2014 subgigante bianca; binaria stretta con periodo di 8,62 anni: primaria di ~2,2 masse solari, compagna di ~0,82; ruota a 240 km/s, quasi al limite di rottura",
+   "distanza_al": 48.6,
+   "curiosita": "Gira cos\u00ec in fretta da risultare schiacciata: \u00e8 circa il 20% pi\u00f9 larga all'equatore che ai poli (2,86 contro 2,39 raggi solari) e i poli sono pi\u00f9 caldi di quasi 2.000 K \u2014 il gravity darkening fotografato dal VLT. Siede a solo 12\u00b0 dall'equatore celeste, ed \u00e8 dunque visibile da tutte le terre abitate. Nessun nome IAU distinto per la compagna: la designazione \u03b7 Oph (Sabik) vale solo per la primaria.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Rasalhague"
+  },
+  {
+   "id": "cebalrai",
+   "nome": "Cebalrai",
+   "bayer": "\u03b2 Ophiuchi (\u03b2 Oph; 60 Oph; HD 157999; HIP 85267)",
+   "origine_nome": "Dall'arabo kalb al-r\u0101\u02bf\u012b, \u00abil cane del pastore\u00bb. Approvato dalla IAU (WGSN) il 21 agosto 2016. In cinese forma con \u03b3 Oph l'asterismo \u5b97\u6b63 (Zongzheng), il governatore dei giovani reali.",
+   "magnitudine": "2,75 (le fonti variano fra 2,7 e 2,75)",
+   "spettro": "K2 III \u2014 gigante arancione; ~12 raggi solari, 58 luminosit\u00e0 solari, 4.559 K, et\u00e0 2,75 miliardi di anni",
+   "distanza_al": 83.4,
+   "curiosita": "Gigante gi\u00e0 evoluta ma pi\u00f9 giovane del Sole: 2,75 miliardi di anni contro i 4,6. Mostra oscillazioni radiali con periodo di 142 giorni, pulsazioni intrinseche \u2014 per un certo tempo sospettate di essere il segno di un pianeta. La Stella di Barnard giace 4 gradi a ovest. Una nave cargo della Seconda guerra mondiale, la USS Cheleb, port\u00f2 una variante del suo nome.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Ophiuchi"
+  },
+  {
+   "id": "yed_prior",
+   "nome": "Yed Prior",
+   "bayer": "\u03b4 Ophiuchi (\u03b4 Oph; 1 Oph; HD 148605; HIP 80816)",
+   "origine_nome": "\u00abYed\u00bb dall'arabo \u064a\u062f (yad), \u00abmano\u00bb: \u03b4 ed \u03b5 Oph formano la mano sinistra dell'Ofiuco che regge la testa del serpente; \u03b4 \u00e8 \u00abPrior\u00bb perch\u00e9 precede \u03b5 nel levarsi. Approvato dalla IAU (WGSN) il 5 ottobre 2016. Apparteneva all'asterismo arabo al-Nasaq al-Yam\u0101n\u012b, la Linea Australe. In cinese, nona stella del Muro Destro del Mercato Celeste: l'antico stato di Liang.",
+   "magnitudine": "2,75 (le fonti variano fra 2,74 e 2,75)",
+   "spettro": "M0.5 III \u2014 gigante rossa; ~54 raggi solari, 3.733 K, metallicit\u00e0 pi\u00f9 del doppio del Sole; variabile sospetta (\u00b10,03 mag)",
+   "distanza_al": 171,
+   "curiosita": "Con \u03b5 Oph forma una coppia evidente a occhio nudo, ma le due stelle non sono legate: \u03b4 \u00e8 quasi 65 anni luce pi\u00f9 lontana \u2014 un doppio puramente ottico. Mostra una forte polarizzazione ottica lineare variabile, attribuita a grani di polvere in un envelope espulso o a punti caldi in superficie.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Ophiuchi"
+  },
+  {
+   "id": "yed_posterior",
+   "nome": "Yed Posterior",
+   "bayer": "\u03b5 Ophiuchi (\u03b5 Oph; 2 Oph; HD 146791; HIP 79769)",
+   "origine_nome": "\u00abYed\u00bb = arabo \u064a\u062f (yad), \u00abmano\u00bb; \u03b5 \u00e8 \u00abPosterior\u00bb perch\u00e9 segue \u03b4 nel cielo. Approvato dalla IAU (WGSN) il 5 ottobre 2016. Anche lei della Linea Australe al-Nasaq al-Yam\u0101n\u012b. In cinese, decima stella del Muro Destro: lo stato di Chu.",
+   "magnitudine": "3,22",
+   "spettro": "G9.5 IIIb \u2014 gigante rossa; ~1,8 masse solari, oltre 10 raggi, 54 luminosit\u00e0 solari, et\u00e0 ~1 miliardo di anni; anormalmente carente di cianogeno e carbonio",
+   "distanza_al": 106.4,
+   "curiosita": "Mostra oscillazioni di tipo solare con periodo di 0,19 giorni: \u00e8 uno dei bersagli preferiti dell'asterosismologia. I modelli evolutivi non decidono se stia fondendo idrogeno in un guscio attorno al nucleo o elio direttamente nel nucleo: entrambe le ipotesi si adattano bene ai dati.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Ophiuchi"
+  },
+  {
+   "id": "sabik",
+   "nome": "Sabik",
+   "bayer": "\u03b7 Ophiuchi (\u03b7 Oph; 35 Oph; HD 155125; HIP 84012)",
+   "origine_nome": "Dall'arabo \u0627\u0644\u0633\u0627\u0628\u0642 (al-s\u0101biq), \u00abla precedente\u00bb, di riferimento incerto. Approvato dalla IAU (WGSN) il 21 agosto 2016 per la componente A; in passato lo stesso nome indicava \u03b6 Oph. In cinese, undicesima stella del Muro Sinistro del Mercato Celeste: lo stato di Song.",
+   "magnitudine": "2,43 combinata (A = 3,05, B = 3,27)",
+   "spettro": "binaria di due stelle bianche di sequenza principale tipo A: A ~2,25 masse solari (9.000 K), B ~2 masse (8.700 K); periodo orbitale 87,8 anni, semi-asse 31 unit\u00e0 astronomiche, eccentricit\u00e0 0,931",
+   "distanza_al": 88,
+   "curiosita": "L'orbita \u00e8 fra le pi\u00f9 ellittiche fra le binarie brillanti del cielo: da 31 unit\u00e0 astronomiche di separazione massima le due stelle si avvicinano fino a 2,15 \u2014 meno della distanza Marte-Sole. Solo il VLT all'ultimo periastron ha permesso di misurarne bene le masse. Una nave della US Navy, la USS Sabik, port\u00f2 il suo nome.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Ophiuchi"
+  },
+  {
+   "id": "zeta_ophiuchi",
+   "nome": "Zeta Ophiuchi",
+   "bayer": "\u03b6 Ophiuchi (\u03b6 Oph; 13 Oph; HD 149757; HIP 81377)",
+   "origine_nome": "Designazione di Bayer; apparteneva all'asterismo arabo al-Nasaq al-Yam\u0101n\u012b. In cinese, undicesima stella del Muro Destro del Mercato Celeste: l'antico stato di Han. Un tempo portava lei il nome Sabik, oggi assegnato a \u03b7 Oph.",
+   "magnitudine": "2,6 (senza l'estinzione della polvere sarebbe di magnitudine 1,54: la pi\u00f9 brillante della costellazione e la 23\u00aa del cielo)",
+   "spettro": "O9.5 V \u2014 la stella O pi\u00f9 vicina al Sole; oltre 20 masse solari, ~8 raggi, 30.700\u201339.000 K (gravity darkening), ruota fino a ~400 km/s (un giro al giorno); variabile Beta Cephei",
+   "distanza_al": 440,
+   "curiosita": "Stella \u00abfuggitiva\u00bb dell'associazione Scorpione-Centauro: fu probabilmente espulsa quando la sua compagna esplose come supernova (il possibile resto \u00e8 la pulsar PSR B1929+10). Correndo a ~30 km/s attraverso le nubi di polvere crea un bow shock luminoso, la nebulosa Sh 2-27, fotografato all'infrarosso dal satellite WISE: la scia della nave stellare pi\u00f9 famosa del cielo. Nel destino ha una supernova in attesa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Ophiuchi"
+  },
+  {
+   "id": "marfik",
+   "nome": "Marfik",
+   "bayer": "\u03bb Ophiuchi (\u03bb Oph; 10 Oph; HD 146402; HIP 79497)",
+   "origine_nome": "Dall'arabo \u0645\u0631\u0641\u0642 (marfiq), \u00abgomito\u00bb: segna il gomito dell'Ofiuco. Approvato dalla IAU (WGSN) il 12 settembre 2016 per la componente A.",
+   "magnitudine": "3,82 (sistema combinato; la coppia interna \u00e8 di magnitudine 4,18)",
+   "spettro": "sistema quadruplo gerarchico: coppia interna Aa+Ab di due nane bianco-azzurre A0 V (periodo 41,93 giorni, separazione 0,368 unit\u00e0 astronomiche), coppia esterna con la compagna B (A4 V, mag 5,22; periodo 129,5 anni, separazione 46 unit\u00e0 astronomiche, eccentricit\u00e0 0,623) e componente C di mag 11 a migliaia di unit\u00e0 astronomiche",
+   "distanza_al": 173,
+   "curiosita": "\u00abGomito\u00bb in arabo: segna il gomito dell'Ofiuco. Quattro stelle in orbite dentro orbite: due si girano intorno in 42 giorni, la coppia risultante incontra la terza ogni 129,5 anni, e una quarta debolissima completa il quadro a migliaia di unit\u00e0 astronomiche di distanza.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Ophiuchi"
+  },
+  {
+   "id": "rho_ophiuchi",
+   "nome": "Rho Ophiuchi",
+   "bayer": "\u03c1 Ophiuchi (\u03c1 Oph; HD 147932; HIP 80693)",
+   "origine_nome": "Designazione di Bayer; d\u00e0 il nome al Complesso di nubi di Rho Ophiuchi, una delle regioni di formazione stellare pi\u00f9 vicine e pi\u00f9 fotografate del cielo.",
+   "magnitudine": "4,63 (sistema centrale triplo)",
+   "spettro": "sistema multiplo: le componenti centrali sono subgiganti e nane bianco-azzurre (una binaria spettroscopica con periodo di 88 giorni pi\u00f9 una compagna visiva); ulteriori compagne a pochi primi d'arco; una delle componenti mostra un campo magnetico di 4 kilogauss rilevato in raggi X",
+   "distanza_al": 450,
+   "curiosita": "\u00c8 immersa in una delle regioni di formazione stellare pi\u00f9 famose del cielo: il Complesso di nubi di Rho Ophiuchi, che domina a colori (giallo, rosso e blu) tutte le foto grandangolari dell'Ofiuco. Le sue stelle giovani illuminano l'intera nube: \u00e8 una culla stellare a portata di telescopio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Rho_Ophiuchi"
+  },
+  {
+   "id": "kappa_ophiuchi",
+   "nome": "Kappa Ophiuchi",
+   "bayer": "\u03ba Ophiuchi (\u03ba Oph; 27 Oph; HD 154692; HIP 83558)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU.",
+   "magnitudine": "3,20 (variabile sospetta: variazioni di \u00b10,02 secondo Hipparcos)",
+   "spettro": "K2 III \u2014 gigante arancione del red clump (fonde elio nel nucleo); 1,19 masse solari, ~11 raggi, 51 luminosit\u00e0 solari, 4.449 K, metallicit\u00e0 solare",
+   "distanza_al": 91.5,
+   "curiosita": "Dal 1943 il suo spettro serve da riferimento per classificare altre stelle: \u00e8 uno dei \u00abrighelli\u00bb stabili della classificazione stellare. \u00c8 probabilmente stata scambiata per la vera variabile \u03c7 Ophiuchi: le osservazioni Hipparcos mostrano variazioni di appena 0,02 magnitudini.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Ophiuchi"
+  },
+  {
+   "id": "theta_ophiuchi",
+   "nome": "Theta Ophiuchi",
+   "bayer": "\u03b8 Ophiuchi (\u03b8 Oph; 42 Oph; HD 154418; HIP 83843)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU (la lista NASA del 1971 riporta Garafsa, dal persiano \u00abdomatore di serpenti\u00bb, condiviso con \u03b6, \u03b7 e \u03be Oph). Segna il piede destro dell'Ofiuco.",
+   "magnitudine": "3,3",
+   "spettro": "B2 IV \u2014 subgigante azzurra; 8,0\u20138,6 masse solari, 4.740\u20136.230 luminosit\u00e0 solari, ~22.260 K; binaria spettroscopica (periodo 56,71 giorni) con compagna di mag 5,5; variabile Beta Cephei; membro del sottogruppo Alto Scorpio",
+   "distanza_al": 436,
+   "curiosita": "Siede a sud dell'eclittica, proprio accanto alla Stella di Keplero: la supernova del 1604, l'ultima della Via Lattea visibile a occhio nudo, apparve nei pressi del suo piede destro. Verr\u00e0 occultata da Marte il 3 ottobre 2078 \u2014 un appuntamento raro con un pianeta.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Ophiuchi"
+  },
+  {
+   "id": "nu_ophiuchi",
+   "nome": "Nu Ophiuchi",
+   "bayer": "\u03bd Ophiuchi (\u03bd Oph; 64 Oph; HD 155861; HIP 84345)",
+   "origine_nome": "Designazione di Bayer; a volte chiamata Sinistra, dal latino \u00absinistra\u00bb (uso astrologico, sconsigliato da Richard Hinckley Allen e Kaler). In cinese, nona stella del Muro Sinistro del Mercato Celeste: lo stato di Yan.",
+   "magnitudine": "3,3",
+   "spettro": "K0 IIIa \u2014 gigante arancione; ~3 masse solari, ~14 raggi, 108 luminosit\u00e0 solari, 5.000 K, et\u00e0 ~450 milioni di anni; carente di cianogeno, anomalo per la sua classe",
+   "distanza_al": 150,
+   "curiosita": "Non ha pianeti ma due NANE BRUNE confermate: Nu Oph b (almeno 21,9 masse gioviani, periodo 536 giorni) e una seconda (periodo 3.169 giorni), in risonanza orbitale 6:1 \u2014 probabilmente formate come pianeti da un disco circumstellare, non come stelle fallite. Le masse vere sono state misurate con l'astrometria nel 2026: le orbite sono disallineate di ~46\u00b0.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Ophiuchi"
+  },
+  {
+   "id": "36_ophiuchi",
+   "nome": "Guniibuu",
+   "bayer": "nessuno (36 Ophiuchi, designazione di Flamsteed; la componente C \u00e8 HD 156026, storicamente 30 Scorpii)",
+   "origine_nome": "Guniibuu: nome IAU approvato il 10 agosto 2018 per la componente A; nella cultura aborigena Kamilaroi/Euahlayi del Nuovo Galles del Sud (Australia) \u00e8 il pettirosso rosso (Petroica boodang).",
+   "magnitudine": "~4,3\u20135,1 il sistema (tre componenti arancioni)",
+   "spettro": "sistema triplo di nane arancioni: A di tipo K2 + B di tipo K1 (binaria quasi gemella, separazione minima 4,6 secondi d'arco), C di tipo K5 a circa 700 secondi d'arco",
+   "distanza_al": 19.5,
+   "curiosita": "Tre soli arancioni a meno di 20 anni luce da noi. La componente C sta nella zona calcolata dal Goddard Space Flight Center per la probabilit\u00e0 di vita evoluta: le stelle K stanno fra gli analoghi solari e le nane rosse, con zone abitabili stabili e longeve. Le differenze di moto proprio fra Hipparcos e Gaia suggeriscono un pianeta gigante attorno alla componente C. Il 26 ottobre 2021 fu occultata da Venere.",
+   "fonte_url": "https://en.wikipedia.org/wiki/36_Ophiuchi"
+  },
+  {
+   "id": "70_ophiuchi",
+   "nome": "70 Ophiuchi",
+   "bayer": "nessuno (70 Ophiuchi, designazione di Flamsteed; un tempo nella costellazione obsoleta del Toro di Poniatowski)",
+   "origine_nome": "Designazione di Flamsteed. In cinese fa parte dell'asterismo \u5b97\u4eba (Zongren, i funzionari delle cerimonie religiose) con 66, 67 e 68 Oph: ne \u00e8 la quarta stella.",
+   "magnitudine": "4,0 (varia da 4,00 a 4,03)",
+   "spettro": "binaria di nane giallo-arancioni: primaria K0 V, secondaria K4 V; semi-asse 23,2 unit\u00e0 astronomiche, eccentricit\u00e0 0,499 (da 11,4 a 34,8 unit\u00e0 astronomiche), periodo 88,38 anni",
+   "distanza_al": 16.7,
+   "curiosita": "Nel 1855 William Stephen Jacob, dell'osservatorio di Madras, sostenne che l'orbita della binaria mostrasse un'anomalia dovuta a un \u00abcorpo planetario\u00bb: \u00e8 il PRIMO tentativo noto di rilevare un esopianeta con metodi astrometrici. T.J.J. See ripet\u00e9 la pretesa nel 1899, ma F.R. Moulton dimostr\u00f2 che un sistema a tre corpi con quei parametri sarebbe instabile: entrambe le affermazioni erano errate. Nell'Almagesto di Tolomeo, nel II secolo, era gi\u00e0 catalogata come stella di quarta grandezza.",
+   "fonte_url": "https://en.wikipedia.org/wiki/70_Ophiuchi"
+  },
+  {
+   "id": "72_ophiuchi",
+   "nome": "72 Ophiuchi",
+   "bayer": "nessuno (72 Ophiuchi, designazione di Flamsteed; \u03c4 Oph secondo alcune carte storiche)",
+   "origine_nome": "Designazione di Flamsteed; un tempo era la stella pi\u00f9 brillante del Taurus Poniatovii, la costellazione obsoleta del Toro di Poniatowski.",
+   "magnitudine": "3,73 (combinata)",
+   "spettro": "A5 V \u2014 nana bianco-azzurra; 2 masse solari, 20 luminosit\u00e0 solari, 8.718 K, et\u00e0 ~250 milioni di anni; eccesso infrarosso firmato da un disco di detriti a ~83 unit\u00e0 astronomiche; sorgente di raggi X (dalla compagna di 14\u00aa magnitudine)",
+   "distanza_al": 86.9,
+   "curiosita": "Era la stella pi\u00f9 brillante del Taurus Poniatovii, la costellazione \u00abpolitica\u00bb creata nel 1777 in onore dell'ultimo re di Polonia, Stanis\u0142aw August Poniatowski: un pezzo di cielo regalato a un sovrano. Nella stessa zona giace la Stella di Barnard, il corpo celeste pi\u00f9 veloce del cielo \u2014 due record di visibilit\u00e0 opposti a pochi gradi di distanza.",
+   "fonte_url": "https://en.wikipedia.org/wiki/72_Ophiuchi"
+  },
+  {
+   "id": "barnard_star",
+   "nome": "Stella di Barnard",
+   "bayer": "nessuno (nana rossa troppo debole per il catalogo Bayer; designazione di variabile V2500 Ophiuchi)",
+   "origine_nome": "Da Edward Emerson Barnard, che nel 1916 ne misur\u00f2 il moto proprio di 10,3 secondi d'arco l'anno \u2014 il maggiore fra tutte le stelle \u2014 confrontando lastre fotografiche del Lick (1916) e dello Yerkes (1894). \u00c8 anche un nome IAU ufficiale, approvato il 1\u00b0 febbraio 2017.",
+   "magnitudine": "9,51 (invisibile a occhio nudo)",
+   "spettro": "M4 V \u2014 nana rossa; 0,16 masse solari, raggio ~0,2 solare, temperatura ~3.200 K, luminosit\u00e0 0,34% del Sole, et\u00e0 7\u201312 miliardi di anni; variabile BY Draconis (\u00b10,02); flare del 1998",
+   "distanza_al": 5.96,
+   "curiosita": "La quarta stella pi\u00f9 vicina al Sole, dopo le tre di Alpha Centauri, e la pi\u00f9 vicina dell'emisfero boreale. Sistema planetario: quattro pianeti sub-terrestri confermati nel 2024\u20132025 da due team indipendenti (il primo, Barnard b, con lo spettrografo ESPRESSO del VLT nell'agosto 2024; il pianeta e, con 0,193 masse terrestri, \u00e8 il meno massiccio mai rilevato con la velocit\u00e0 radiale). Prima di allora: van de Kamp e i suoi \u00abpianeti\u00bb smentiti, il pianeta del 2018 ritirato nel 2021. Obiettivo del Progetto Daedalus (1973\u201378, sonda a fusione al 12% della velocit\u00e0 della luce). Il suo moto proprio copre un quarto di grado in una vita umana: mezza Luna piena.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Barnard%27s_Star"
+  },
+  {
+   "id": "rs_ophiuchi",
+   "nome": "RS Ophiuchi",
+   "bayer": "nessuno (designazione di stella variabile; RS Oph)",
+   "origine_nome": "Convenzione delle designazioni di stelle variabili: RS = 166\u00aa variabile catalogata nella costellazione.",
+   "magnitudine": "~12,5 quiescente; ~5,0 in eruzione (massimi registrati 4,5 nel 2006, 5,4 nel 1985, 4,6 nel 2021)",
+   "spettro": "nana bianca + gigante rossa in binaria stretta (periodo orbitale ~454 giorni, disco di accrescimento); nova ricorrente con ciclo ~15 anni; circondata da un \u00abnova super-remnant\u00bb di 70 parsec",
+   "distanza_al": 5000,
+   "curiosita": "Eruzioni osservate: 1898, 1933 (scoperta da Eppe Loreta a Bologna e indipendentemente da Leslie Peltier), 1958, 1967, 1985, 2006 e 2021 \u2014 quest'ultima scoperta dall'amatore brasiliano Alexandre Amorim e confermata dal satellite Fermi in raggi gamma. Due ulteriori eruzioni (1907 e 1945) sono state dedotte dagli archivi. Ogni ~15 anni il materiale della gigante rossa accumulato sulla nana bianca esplode in una fusione termonucleare: una nova che si ripete, e un giorno potrebbe esplodere come supernova di tipo Ia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/RS_Ophiuchi"
+  }
+ ]
+}

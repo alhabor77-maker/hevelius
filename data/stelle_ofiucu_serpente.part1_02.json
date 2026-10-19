@@ -1,0 +1,92 @@
+{
+ "serpente": [
+  {
+   "id": "unukalhai",
+   "nome": "Unukalhai",
+   "bayer": "\u03b1 Serpentis (\u03b1 Ser; 24 Ser; HD 140573; HIP 77070)",
+   "origine_nome": "Dall'arabo \u0639\u0646\u0642 \u0627\u0644\u062d\u064a\u0629, \u02bfunuq al-\u1e25ayyah, \u00abil collo del serpente\u00bb: il nome coincide con il punto del corpo del serpente che la stella segna nelle carte. Conosciuta anche come Cor Serpentis, \u00abil cuore del serpente\u00bb in latino. Approvato dalla IAU (WGSN) il 21 agosto 2016.",
+   "magnitudine": "2,63",
+   "spettro": "K2 IIIb CN-1 \u2014 gigante arancione; 4.687 K, 12,2 raggi solari, 70 luminosit\u00e0 solari, 1,6 masse solari, et\u00e0 ~2,1 miliardi di anni",
+   "distanza_al": 74,
+   "curiosita": "La stella pi\u00f9 brillante del Serpente, nella Testa (Serpens Caput). \u00c8 una forte \u00abstella CN\u00bb: nel suo spettro le bande del cianogeno sono pi\u00f9 intense del normale. In cinese \u00e8 la settima stella del Muro Destro del Mercato Celeste, e rappresenta l'antico stato di Shu. Fa parte dell'asterismo arabo al-Nasaq al-Yam\u0101n\u012b, \u00abla linea meridionale\u00bb delle Due Linee. A 58 secondi d'arco ha una compagna di dodicesima magnitudine.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Unukalhai"
+  },
+  {
+   "id": "eta_serpentis",
+   "nome": "Tang",
+   "bayer": "\u03b7 Serpentis (\u03b7 Ser; 58 Ser; HD 168723; HIP 89962)",
+   "origine_nome": "Nessun nome proprio IAU. \u00abTang\u00bb \u00e8 il nome della stella nell'asterismo cinese del Muro Sinistro del Mercato Celeste (secondo R.H. Allen): la dinastia Tang. In cinese moderno \u00e8 \u5929\u5e02\u5de6\u57a3\u516b, \u00abottava stella del Muro Sinistro\u00bb, che rappresenta il Donghai, il \u00abmare orientale\u00bb.",
+   "magnitudine": "3,26",
+   "spettro": "K0 III-IV \u2014 gigante/subgigante arancione in transizione; 4.875 K, 5,9 raggi solari, 17,9 luminosit\u00e0 solari, 1,6 masse solari",
+   "distanza_al": 60.5,
+   "curiosita": "La pi\u00f9 brillante della Coda del Serpente (Serpens Cauda). Mostra oscillazioni simili a quelle solari con periodo di 0,09 giorni: una delle giganti arancioni \u00absismiche\u00bb pi\u00f9 vicine a noi. In passato fu classificata per errore come stella al carbonio, il che l'avrebbe resa la stella al carbonio pi\u00f9 brillante del cielo. Attualmente si trova a soli 1,6 anni luce da Gliese 710, la nana arancione che attraverser\u00e0 la nube di Oort fra 1,3 milioni di anni.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Serpentis"
+  },
+  {
+   "id": "mu_serpentis",
+   "nome": "Mu Serpentis",
+   "bayer": "\u03bc Serpentis (\u03bc Ser; HD 155527; HIP 84140)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU. Segna il collo del serpente, vicino a \u03b1 e \u03be Ser.",
+   "magnitudine": "3,53",
+   "spettro": "A0 V \u2014 nana bianca; 2,3 masse solari, ~2,4 raggi, 9.730 K, et\u00e0 ~260 milioni di anni; eccesso infrarosso da disco di detriti; compagna ottica di mag 11 a 17 secondi d'arco",
+   "distanza_al": 170,
+   "curiosita": "Una bianca calda e rapida (ruota a 210 km/s) che da sola vale pi\u00f9 della met\u00e0 della luce della Testa del Serpente insieme a \u03be. \u00c8 una radiante minore: il radiante della corrente meteorica delle Omega Serpentidi, i \u00absciami diurni\u00bb osservati in giugno dal radiotelescopio di Milano.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Serpentis"
+  },
+  {
+   "id": "xi_serpentis",
+   "nome": "Xi Serpentis",
+   "bayer": "\u03be Serpentis (\u03be Ser; 55 Ser; HD 141850; HIP 77717)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU. In cinese \u00e8 la settima stella del Muro Destro del Mercato Celeste, che rappresenta lo stato di Shu \u2014 condivide il posto con \u03b1 Ser.",
+   "magnitudine": "3,54",
+   "spettro": "F3 IV \u2014 subgigante bianco-gialla; ~1,5 masse solari, ~2,9 raggi, 6.760 K, ~11 luminosit\u00e0 solari; binaria con compagna a 11 secondi d'arco (periodo >1.000 anni), con una terza componente a 32 secondi d'arco",
+   "distanza_al": 105,
+   "curiosita": "Una subgigante che lascia la sequenza principale, con in corteo due compagne: tre stelle in un solo campo da binocolo. La sua compagna visiva \u00e8 di mag 7,5, la terza componente di mag 13 \u2014 un sistema triplo che l'orbite lente rendono un laboratorio di meccanica celeste.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Serpentis"
+  },
+  {
+   "id": "beta_serpentis",
+   "nome": "Zhou",
+   "bayer": "\u03b2 Serpentis (\u03b2 Ser; 28 Ser; HD 140789; HIP 77187)",
+   "origine_nome": "Zhou: nome IAU approvato dalla WGSN il 5 dicembre 2024, dalla dinastia cinese omonima. Prima dell'approvazione era senza nome proprio; in cinese \u00e8 \u5929\u5e02\u53f3\u57a3\u5341\u4e00, \u00abundicesima stella del Muro Destro\u00bb del Mercato Celeste, che rappresenta lo stato di Zheng.",
+   "magnitudine": "3,65",
+   "spettro": "A2 V \u2014 nana bianca; 3,11 masse solari, 2,9 raggi solari, 9.120 K, 80 luminosit\u00e0 solari, et\u00e0 ~400 milioni di anni; eccesso infrarosso da disco di detriti; binaria con compagna K di mag 10 a 31 secondi d'arco",
+   "distanza_al": 155,
+   "curiosita": "Uno dei nomi IAU pi\u00f9 recenti in assoluto: approvato solo nel dicembre 2024, con l'anno dinastico cinese Zhou. Una bianca veloce (220 km/s) con disco di detriti e compagna arancione: tre tratti in una sola stella.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Serpentis"
+  },
+  {
+   "id": "epsilon_serpentis",
+   "nome": "Epsilon Serpentis",
+   "bayer": "\u03b5 Serpentis (\u03b5 Ser; 37 Ser; HD 142091; HIP 77950)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU (nel XIX secolo il collettore Elias Loomis la chiam\u00f2 Astra, ma il nome non si impose). In cinese, nona stella del Muro Destro del Mercato Celeste: lo stato di Ba.",
+   "magnitudine": "3,71",
+   "spettro": "A2 Vm \u2014 nana bianca con forte metallicit\u00e0 (una stella Am); 1,8 masse solari, 2,2 raggi solari, 8.600 K, et\u00e0 ~800 milioni di anni",
+   "distanza_al": 70,
+   "curiosita": "Una stella Am, con spettro arricchito di metalli: le linee del ferro e del cobalto sono pi\u00f9 intense del normale, quelle del calcio e del scandio pi\u00f9 deboli. Uno strappo nella normalit\u00e0 dei binocolo della Testa del Serpente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Serpentis"
+  },
+  {
+   "id": "delta_serpentis",
+   "nome": "Qin",
+   "bayer": "\u03b4 Serpentis (\u03b4 Ser; 13 Ser; HD 139326; HIP 76468)",
+   "origine_nome": "Qin: nome IAU approvato dalla WGSN il 30 giugno 2017, dalla dinastia cinese omonima. In cinese \u00e8 \u5929\u5e02\u53f3\u57a3\u4e94, \u00abquinta stella del Muro Destro\u00bb del Mercato Celeste, che rappresenta il Donghai \u2014 il posto era condiviso con \u03b7 Ser.",
+   "magnitudine": "3,80",
+   "spettro": "G6 IIIa \u2014 gigante gialla; 5.220 K, 9,7 raggi solari, 60 luminosit\u00e0 solari, ~3,4 masse solari; leggero eccesso infrarosso",
+   "distanza_al": 228,
+   "curiosita": "Una gigante gialla (non rossa) a 228 anni luce: il suo colore \u00e8 fra quello del Sole e quello delle giganti arancioni. La WGSN le assegn\u00f2 il nome di una dinastia cinese: Qin, quella che unific\u00f2 l'impero nel III secolo a.C.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Serpentis"
+  },
+  {
+   "id": "gamma_serpentis",
+   "nome": "Muning",
+   "bayer": "\u03b3 Serpentis (\u03b3 Ser; 41 Ser; HD 142860; HIP 78159)",
+   "origine_nome": "Muning: nome IAU approvato dalla WGSN il 1\u00b0 luglio 2026, da un cavallo nella mitologia dei Maori (Rarotonga). Prima dell'approvazione era senza nome proprio; in cinese \u00e8 \u5929\u5e02\u5de6\u57a3\u5341\u4e00, \u00abundicesima stella del Muro Sinistro\u00bb del Mercato Celeste, che rappresenta lo stato di Zheng \u2014 posto condiviso con \u03b2 Ser.",
+   "magnitudine": "3,85",
+   "spettro": "F1.5 IV-V \u2014 subgigante/nana bianco-gialla che lascia la sequenza principale; 6.425 K, 1,4 masse solari, 1,78 raggi, 4,6 luminosit\u00e0 solari; compagna nana rossa di mag 13 a 6 secondi d'arco",
+   "distanza_al": 36.4,
+   "curiosita": "A soli 36 anni luce, \u00e8 una stella gemella del nostro futuro: come il Sole fra 5\u20136 miliardi di anni sta lasciando la sequenza principale. La compagna nana rossa gira intorno a lei in un'orbita di 21.000 anni. Il suo nome IAU \u00e8 appena nato: approvato nel luglio 2026, pochi mesi fa.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Serpentis"
+  }
+ ]
+}
