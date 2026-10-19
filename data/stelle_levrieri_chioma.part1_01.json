@@ -1,0 +1,347 @@
+{
+ "levrieri": [
+  {
+   "id": "cor_caroli",
+   "nome": "Cor Caroli",
+   "bayer": "\u03b1\u00b2 Canum Venaticorum (il sistema \u00e8 \u03b1 CVn; compagna \u03b1\u00b9 CVn; Flamsteed 12 CVn)",
+   "origine_nome": "Dal latino \u00abCuore di Carlo\u00bb, coniato nel 1660 dal medico di corte Charles Scarborough: la prima mappa (Francis Lamb, 1673) la chiama \u00abCor Caroli Regis Martyris\u00bb, in onore di Carlo I martire, mentre secondo Allen sarebbe per Carlo II. Approvato dalla IAU (WGSN) nel luglio 2016. In cinese \u5e38\u9673\u4e00, \u00abPrima stella delle Guardie imperiali\u00bb.",
+   "magnitudine": "2,89 (variabile +2,84/+2,98 in 5,47 giorni; la coppia combinata \u00e8 mag 2,81)",
+   "spettro": "A0pSiEuHg \u2014 stella peculiare Ap con campo magnetico ~5000 volte quello terrestre, atmosfera arricchita di silicio, mercurio ed europio (\u03b1\u00b9 CVn \u00e8 F0V/F2V)",
+   "distanza_al": 110,
+   "curiosita": "Prototipo delle variabili \u03b1\u00b2 Canum Venaticorum: le immense macchie magnetiche fanno oscillare la sua luce in 5,47 giorni. \u00c8 una binaria spettacolare: le due componenti sono separate 19,6 secondi d'arco (650-670 unit\u00e0 astronomiche) con orbita di ~8000 anni, risolvibile con un piccolo telescopio. Il nome \u00e8 un tributo reale a un re inglese: una delle pochissime stelle con un nome \u00abpolitico\u00bb. Nell'asterismo del Grande Diamante ne segna il vertice nord, con Spica, Arturo e Denebola.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Cor_Caroli"
+  },
+  {
+   "id": "chara",
+   "nome": "Chara",
+   "bayer": "\u03b2 Canum Venaticorum (Flamsteed 8 CVn; HD 109358; HIP 61317)",
+   "origine_nome": "Dal greco \u03c7\u03b1\u03c1\u03ac \u00abgioia\u00bb, ma in latino \u00abcara, preziosa\u00bb: era il nome del cane meridionale di Hevelius. Be\u010dv\u00e1\u0159 (1951) assegn\u00f2 Chara ad \u03b1 e Asterion a \u03b2, invertendo Hevelius; la IAU (WGSN 2016) ha ufficializzato Chara per \u03b2 CVn. In cinese \u5e38\u9673\u56db, \u00abQuarta stella delle Guardie imperiali\u00bb.",
+   "magnitudine": "4,25",
+   "spettro": "G0 V \u2014 nana gialla; dal 1943 il suo spettro \u00e8 uno dei punti di ancoraggio stabili della classificazione stellare",
+   "distanza_al": 27.6,
+   "curiosita": "La stella pi\u00f9 vicina della costellazione e una delle analoghe solari pi\u00f9 vicine: massa, et\u00e0 e stato evolutivo molto simili al Sole (0,91 masse, 1,02 raggi, T ~6000 K). Nel 2006 Margaret Turnbull la indic\u00f2 come il miglior candidato stellare per la ricerca di forme di vita extraterrestri. Nessun pianeta noto (ricerca fallita anche per nane brune, 2005). Il suo spettro fa da \u00abrighello\u00bb a tutta la classificazione spettrale da oltre 80 anni. La distanza qui scelta \u00e8 quella della parallasse Gaia (118 mas = 27,6 anni luce); la tabella italiana d\u00e0 27,4.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Canum_Venaticorum"
+  },
+  {
+   "id": "24_cvn",
+   "nome": "24 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 24 CVn; HD 118232; HIP 66234)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "4,68",
+   "spettro": "A5V \u2014 stella a guscio (shell star) con righe allargate dalla rotazione; v rot ~159 km/s, sfera oblata con rigonfiamento equatoriale del 7%",
+   "distanza_al": 180,
+   "curiosita": "Gira su se stessa 100 volte pi\u00f9 veloce del Sole: la rotazione la schiaccia e le strappa materia in un guscio attorno all'equatore. Presenta un eccesso infrarosso a 24 e 70 micron, firma di un disco di detriti con corpo nero a 464 K a circa 1,4 unit\u00e0 astronomiche. La distanza qui scelta viene dalla parallasse Gaia (18,09 mas \u2248 180 anni luce): la voce inglese d\u00e0 277 (Hipparcos van Leeuwen) e la tabella italiana 190 \u2014 una divergenza rara, in cui la stessa voce inglese \u00e8 internamente incoerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/24_Canum_Venaticorum"
+  },
+  {
+   "id": "20_cvn",
+   "nome": "20 Canum Venaticorum (variabile AO Canum Venaticorum)",
+   "bayer": "nessuno (Flamsteed 20 CVn; HD 115604; HIP 64844)",
+   "origine_nome": "Designazione di Flamsteed; il nome di variabile AO CVn segue la convenzione delle designazioni variabili.",
+   "magnitudine": "4,72 (varia da +4,70 a +4,75)",
+   "spettro": "A9 II mF2 (righe metalliche; la tabella italiana d\u00e0 F3III, classificazione storica Morgan-Abt 1972) \u2014 subgigante in evoluzione",
+   "distanza_al": 255,
+   "curiosita": "Variabile Delta Scuti pulsante: cambia luminosit\u00e0 di qualche centesimo di magnitudine in pochi minuti o ore. Prima era considerata uno standard della classe F3 III; Eggen (1971) la elencava nel flusso delle Iadi. La distanza qui scelta viene dalla parallasse Gaia DR2 (12,78 mas \u2248 255 anni luce): la voce inglese d\u00e0 238 e la tabella italiana 286, e anche qui la voce inglese \u00e8 internamente incoerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/20_Canum_Venaticorum"
+  },
+  {
+   "id": "25_cvn",
+   "nome": "Jordanus",
+   "bayer": "nessuno (Flamsteed 25 CVn; HD 118623; HIP 66458)",
+   "origine_nome": "Il WGSN della IAU ha approvato il nome Jordanus per 25 CVn A il 17 settembre 2026: richiama la costellazione effimera di Jordanus (il fiume Giordano) che un tempo occupava una zona vicina del cielo \u2014 la stessa zona in cui Hevelius disegn\u00f2 poi il Leone Minore.",
+   "magnitudine": "4,82 combinata (componenti 4,98 e 6,95)",
+   "spettro": "binaria: primaria A7 III (gigante A con v rot 235 km/s, oblata con rigonfiamento equatoriale del 27%), secondaria A8 V nana bianco-azzurra",
+   "distanza_al": 199,
+   "curiosita": "Binaria larga con periodo di 228 anni ed eccentricit\u00e0 0,80, una delle orbite pi\u00f9 allungate osservabili; separazione proiettata ~107 unit\u00e0 astronomiche. Il suo nome \u00e8 uno dei pi\u00f9 recenti del cielo: approvato dalla IAU poche settimane prima della raccolta di questi dati. La distanza qui scelta \u00e8 quella della parallasse Hipparcos (199 anni luce); la tabella italiana d\u00e0 192.",
+   "fonte_url": "https://en.wikipedia.org/wiki/25_Canum_Venaticorum"
+  },
+  {
+   "id": "5_cvn",
+   "nome": "5 Canum Venaticorum (cinese: \u76f8 Xi\u0101ng)",
+   "bayer": "nessuno (Flamsteed 5 CVn; HD 107950; HIP 60485)",
+   "origine_nome": "Designazione di Flamsteed. In astronomia cinese \u00e8 \u76f8, \u00abil Primo ministro\u00bb: asterismo di una sola stella nella Recinzione Viola Proibita.",
+   "magnitudine": "4,77",
+   "spettro": "G7 III Ba0.3 \u2014 gigante gialla con suffisso Ba0.3: stella al bario lieve, atmosfera arricchita di elementi del processo-s",
+   "distanza_al": 376,
+   "curiosita": "Il bario in atmosfera \u00e8 la firma di una compagna che, diventata nana bianca, ha \u00abregalato\u00bb via vento stellare gli elementi pesanti: binaria probabile. In cinese \u00e8 da sola l'asterismo del Primo Ministro, la stella del funzionario pi\u00f9 potente dell'impero. La distanza qui scelta \u00e8 quella della parallasse Gaia (8,66 mas = 376 anni luce); la tabella italiana d\u00e0 393.",
+   "fonte_url": "https://en.wikipedia.org/wiki/5_Canum_Venaticorum"
+  },
+  {
+   "id": "6_cvn",
+   "nome": "6 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 6 CVn; HD 108225; HIP 60646)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "5,01",
+   "spettro": "G9 III \u2014 gigante rossa del ramo orizzontale (red clump: fonde elio nel nucleo); la tabella italiana d\u00e0 G8III-IV",
+   "distanza_al": 246,
+   "curiosita": "Hipparcos rivel\u00f2 una microvariabilit\u00e0 di appena 0,0056 magnitudini con ciclo di 157 giorni: variazioni minuscole in una stella apparentemente tranquilla. Il suffisso III-IV della tabella italiana riflette il confine tra gigante e subgigante: la stella sta appena lasciando la sequenza principale. La distanza qui scelta \u00e8 quella della parallasse Gaia (13,28 mas = 246 anni luce); la tabella italiana d\u00e0 227.",
+   "fonte_url": "https://en.wikipedia.org/wiki/6_Canum_Venaticorum"
+  },
+  {
+   "id": "21_cvn",
+   "nome": "21 Canum Venaticorum (variabile BK Canum Venaticorum)",
+   "bayer": "nessuno (Flamsteed 21 CVn; HD 115735; HIP 64906)",
+   "origine_nome": "Designazione di Flamsteed; il nome di variabile BK CVn segue la convenzione delle stelle variabili.",
+   "magnitudine": "5,14 (ampiezza 0,04)",
+   "spettro": "B9 IV (Si) \u2014 subgigante B povera di elio, stella al silicio marginalmente peculiare; la tabella italiana d\u00e0 A0V",
+   "distanza_al": 279,
+   "curiosita": "Variabile di tipo \u03b1\u00b2 Canum Venaticorum: la luminosit\u00e0 varia di 0,04 magnitudini in 0,767 giorni (~18 ore) mentre le righe del silicio ionizzato oscillano con periodo di 0,88 giorni \u2014 \u00e8 la rotazione della stella che ci mostra a turno zone ricche e povere di silicio. Variabilit\u00e0 scoperta da Juraj Zverko nel 1984. La distanza qui scelta \u00e8 quella della parallasse Gaia (11,70 mas = 279 anni luce); la tabella italiana d\u00e0 275.",
+   "fonte_url": "https://en.wikipedia.org/wiki/21_Canum_Venaticorum"
+  },
+  {
+   "id": "10_cvn",
+   "nome": "10 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 10 CVn; HD 110897; HIP 62207)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "5,95",
+   "spettro": "G0 V \u2014 nana gialla molto povera di metalli (\u22120,53); NStars la d\u00e0 F9V Fe\u22120,3",
+   "distanza_al": 57,
+   "curiosita": "Seconda stella pi\u00f9 vicina della costellazione dopo \u03b2 CVn e una sua quasi gemella spettrale: stessa classe G0 V, ma nata miliardi di anni prima (6,3 miliardi) e molto pi\u00f9 povera di elementi pesanti. Presenta un eccesso infrarosso a 70 micron: disco di detriti con anello di polveri che culmina a 53,7 unit\u00e0 astronomiche. Si allontana da noi a +80 km/s, uno dei moti radiali pi\u00f9 veloci tra le stelle vicine.",
+   "fonte_url": "https://en.wikipedia.org/wiki/10_Canum_Venaticorum"
+  },
+  {
+   "id": "la_superba",
+   "nome": "La Superba",
+   "bayer": "nessuno (Y Canum Venaticorum, lettera di variabile; HD 110914; HIP 62223)",
+   "origine_nome": "Il nome nasce dall'apprezzamento del gesuita Angelo Secchi, che nel XIX secolo ne defin\u00ec lo spettro \u00absuperba\u00bb; l'astronomo irlandese John Birmingham (1876) trasform\u00f2 l'aggettivo in nome proprio. Approvato ufficialmente dalla IAU nel 2018. Nome tutto italiano: \u00abla magnifica\u00bb.",
+   "magnitudine": "media ~5,4 (varia da +4,86 a +7,32 con ciclo di ~160 giorni)",
+   "spettro": "C7Iab \u2014 stella al carbonio, gigante brillante sul ramo asintotico, tra le pi\u00f9 fredde del cielo (T ~2600-3200 K); la voce inglese usa la notazione C5\u2084J(N3)",
+   "distanza_al": 710,
+   "curiosita": "Una delle stelle pi\u00f9 rosse del cielo, visibile a occhio nudo come puntino di rubino nel binocolo. \u00c8 la pi\u00f9 brillante delle rare stelle-J: stelle al carbonio ricchissime di carbonio-13. \u00c8 circondata da un guscio di polveri del diametro di 0,9 parsec e perde massa a ritmo di un milione di volte il vento solare: si prepara a diventare nebulosa planetaria, poi nana bianca. La distanza qui scelta \u00e8 quella della tabella italiana (710 anni luce): la voce italiana d\u00e0 1030 e la parallasse Gaia (di qualit\u00e0 scadente per le stelle al carbonio) solo ~310 \u2014 una tripla divergenza che rende il valore molto incerto.",
+   "fonte_url": "https://it.wikipedia.org/wiki/La_Superba"
+  },
+  {
+   "id": "23_cvn",
+   "nome": "23 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 23 CVn; HD 116010; HIP 65072)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "5,60",
+   "spettro": "K1 III \u2014 gigante arancione",
+   "distanza_al": 655,
+   "curiosita": "Tra le stelle pi\u00f9 lontane visibili a occhio nudo della costellazione, circa 650 anni luce: un punto arancione senza nome, destino comune delle stelle Flamsteed delle costellazioni povere di brillanti. I dati (magnitudine, spettro, distanza) provengono unicamente dalla tabella italiana delle stelle della costellazione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_dei_Cani_da_Caccia"
+  },
+  {
+   "id": "14_cvn",
+   "nome": "14 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 14 CVn; HD 113797; HIP 63901)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "5,20",
+   "spettro": "B9V \u2014 nana azzurra",
+   "distanza_al": 282,
+   "curiosita": "La seconda stella di tipo B della costellazione dopo 21 CVn: un raro colore azzurro in una costellazione dominata da giganti arancioni e stelle A. Presente solo nei cataloghi: nessuna leggenda, nessun nome. I dati provengono unicamente dalla tabella italiana delle stelle della costellazione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_dei_Cani_da_Caccia"
+  },
+  {
+   "id": "3_cvn",
+   "nome": "3 Canum Venaticorum",
+   "bayer": "nessuno (Flamsteed 3 CVn; HD 107274; HIP 60122)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "5,28",
+   "spettro": "M0III \u2014 gigante rossa",
+   "distanza_al": 517,
+   "curiosita": "La costellazione dei cani ha pochissime stelle M: la 3 CVn \u00e8 la gigante rossa pi\u00f9 brillante visibile a occhio nudo. Ha un numero di Flamsteed basso perch\u00e9 si trova al bordo nord della costellazione, verso l'Orsa Maggiore. I dati provengono unicamente dalla tabella italiana delle stelle della costellazione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_dei_Cani_da_Caccia"
+  },
+  {
+   "id": "rs_cvn",
+   "nome": "RS Canum Venaticorum",
+   "bayer": "nessuno (designazione di variabile RS CVn; HD 114519; HIP 64293)",
+   "origine_nome": "Lettera RS = terza-terza variabile scoperta nella costellazione, secondo la convenzione delle designazioni delle stelle variabili.",
+   "magnitudine": "8,23 (varia da 7,93 a 9,14)",
+   "spettro": "binaria a eclisse: primaria F6IV/F5V, secondaria G8IV/K2IV subgigante attiva con rapidissima rotazione indotta dall'interazione",
+   "distanza_al": 443,
+   "curiosita": "Prototipo delle variabili RS Canum Venaticorum: sistemi binari serrati con macchie stellari giganti che ne fanno oscillare la luce. La sua variabilit\u00e0 fu scoperta nel 1914 dall'astronoma russa Lidiya Tseraskaya. Le macchie della secondaria coprono dal 17% al 37% della superficie, con ciclo di ~19,7 anni \u2014 un \u00abciclo solare\u00bb allo stadio estremo. La distanza qui scelta \u00e8 quella della parallasse Gaia EDR3 (443 anni luce); la tabella italiana d\u00e0 352.",
+   "fonte_url": "https://en.wikipedia.org/wiki/RS_Canum_Venaticorum"
+  },
+  {
+   "id": "am_cvn",
+   "nome": "AM Canum Venaticorum",
+   "bayer": "nessuno (PG 1232+379, WD 1232+37; nome di variabile AM CVn; storico HZ 29, EGGR 91)",
+   "origine_nome": "Designazione di variabile AM CVn; il nome storico HZ 29 deriva dal catalogo delle stelle azzurre di Humason e Zwicky (1947): la 29\u00aa stella della lista.",
+   "magnitudine": "13,7-14,2 (solo al telescopio)",
+   "spettro": "DBp (peculiare di elio) \u2014 binaria cataclismica poverissima di idrogeno: nana bianca + donatrice semidegenere, disco di accrescimento",
+   "distanza_al": null,
+   "curiosita": "Prototipo delle variabili AM CVn, la classe pi\u00f9 estrema di binarie cataclismiche: due oggetti compatti che orbitano in appena 1028,7 secondi (17 minuti), con gas donato quasi puro elio. Individuata negli anni Quaranta tra le stelle blu di Palomar, \u00e8 oggi un laboratorio per le onde gravitazionali: la loro emissione \u00e8 uno dei motori principali della riduzione del periodo orbitale. La distanza \u00e8 incerta: le stime vanno da ~300 anni luce (parallasse Gaia) a ~460 (voce della costellazione in inglese), per questo non viene indicata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/AM_Canum_Venaticorum"
+  },
+  {
+   "id": "hatp12",
+   "nome": "Komondor (HAT-P-12)",
+   "bayer": "nessuno (HAT-P-12; GSC 03033-00706)",
+   "origine_nome": "Komondor, nome approvato dalla IAU nel 2023 (campagna NameExoWorlds 2022, proposta ungherese): il komondor \u00e8 la razza ungherese di cane da guardia dal pelo a \u00abmop\u00bb. Il pianeta si chiama Puli, un'altra razza ungherese di cane pastore.",
+   "magnitudine": "12,84 (solo al telescopio)",
+   "spettro": "K4 \u2014 nana arancione a bassa metallicit\u00e0 (\u22120,24), T ~4700 K, et\u00e0 ~2,5 miliardi di anni",
+   "distanza_al": 463,
+   "curiosita": "Ospita il pianeta HAT-P-12b (Puli), un \u00abSaturno caldo\u00bb di massa 0,21 e raggio 0,96 gioviani in orbita di 3,21 giorni, scoperto nel 2009 dal progetto HATNet (transito + velocit\u00e0 radiale). Le variazioni dei tempi di transito suggerite nel 2021 sono state poi escluse (2023). Un sistema che incrocia cani: la costellazione-canide ospita due cani ungheresi.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HAT-P-12"
+  },
+  {
+   "id": "hatp36",
+   "nome": "Tuiren (HAT-P-36)",
+   "bayer": "nessuno (HAT-P-36; TYC 3020-2221-1)",
+   "origine_nome": "Tuiren, approvato nel dicembre 2019 (campagna NameExoWorlds, proposta irlandese): nel \u00abBirth of Bran\u00bb delle Irish Fairy Tales di James Stephens, Tuiren \u00e8 la zia dell'eroe Fionn mac Cumhaill, trasformata in cagna dalla fata Uchtdealbh; i suoi cuccioli Bran e Sce\u00f3lan sono cugini di Fionn. Il pianeta si chiama Bran.",
+   "magnitudine": "12,26 (solo al telescopio)",
+   "spettro": "G5V \u2014 nana gialla, metallicit\u00e0 +0,27, et\u00e0 ~6,6 miliardi di anni",
+   "distanza_al": 958,
+   "curiosita": "Ospita il pianeta HAT-P-36b (Bran), un hot Jupiter di 1,83 masse gioviani in orbita di 1,33 giorni, scoperto nel 2012 dal progetto HATNet. Nel 2021 le curve di luce TESS hanno rilevato che il suo periodo orbitale cresce di 0,014 secondi l'anno \u2014 possibile effetto della marea tra pianeta e stella, uno dei pochissimi casi misurati.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HAT-P-36"
+  },
+  {
+   "id": "r_cvn",
+   "nome": "R Canum Venaticorum",
+   "bayer": "nessuno (designazione di variabile R CVn; HD 120499; HIP 67410)",
+   "origine_nome": "Lettera R = prima variabile scoperta nella costellazione (convenzione: R \u00e8 la prima lettera variabile); scoperta da Thomas E. Espin nel 1888, designazione assegnata nel Second Catalogue of Variable Stars di Annie Jump Cannon (1907).",
+   "magnitudine": "varia da 6,5 a 12,9",
+   "spettro": "M5.5e-M9e \u2014 gigante rossa Mira sul ramo asintotico (la tabella italiana d\u00e0 M6IIIe)",
+   "distanza_al": null,
+   "curiosita": "Durante il massimo sfiora la visibilit\u00e0 a occhio nudo e al minimo sprofonda di 6 magnitudini, fuori portata con il binocolo: il suo ciclo dura circa 329 giorni, quasi un anno visivo completo. \u00c8 una Mira sul ramo asintotico con 664 raggi solari e una luminosit\u00e0 di ~29.000 soli. La distanza \u00e8 incerta: la parallasse Gaia (errore relativamente alto) d\u00e0 circa 460 anni luce e la tabella italiana non la riporta, per questo non viene indicata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Canum_Venaticorum"
+  }
+ ],
+ "chioma": [
+  {
+   "id": "diadem",
+   "nome": "Diadem",
+   "bayer": "\u03b1 Comae Berenices (42 Com; HD 114378/114379)",
+   "origine_nome": "\u00abDiadem\u00bb = il diadema, la gemma nella corona della regina Berenice; nome di origine moderna sconosciuta, adottato ufficialmente dalla IAU (WGSN) il 1\u00b0 febbraio 2017 per la componente A.",
+   "magnitudine": "4,32 combinata (componenti A=4,85, B=5,53; variabile sospetta 4,29-4,35)",
+   "spettro": "F5V + F5V \u2014 binaria di due stelle quasi gemelle (la voce della costellazione inglese d\u00e0 F5V+F6V)",
+   "distanza_al": 58,
+   "curiosita": "Sistema binario di due stelle quasi gemelle, un po' pi\u00f9 calde e luminose del Sole, che orbitano una attorno all'altra ogni 25,87 anni su un'orbita molto eccentrica (e=0,51) vista quasi perfettamente di taglio (inclinazione 90,05\u00b0): per decenni si \u00e8 sospettato fosse un'eclissante, ma l'inclinazione di appena 0,1\u00b0 rispetto alla linea di vista fa s\u00ec che le due stelle non si eclissino mai. Nonostante la lettera \u03b1, \u00e8 leggermente pi\u00f9 debole della \u03b2 Com. La distanza qui scelta \u00e8 quella della parallasse van Leeuwen (58 anni luce); le tabelle danno 47, valore obsoleto.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Comae_Berenices"
+  },
+  {
+   "id": "beta_comae_berenices",
+   "nome": "Beta Comae Berenices",
+   "bayer": "\u03b2 Comae Berenices (43 Com; HD 114710)",
+   "origine_nome": "Nessun nome proprio ufficiale; in cinese \u00e8 \u00abprima stella del vaso Zh\u014dud\u01d0ng\u00bb (insieme a 37 e 41 Com); la lettera \u03b2 le fu assegnata da Francis Baily nel 1845.",
+   "magnitudine": "4,26 \u2014 la stella pi\u00f9 brillante della costellazione, pur chiamandosi Beta",
+   "spettro": "G0 V \u2014 nana gialla",
+   "distanza_al": 30,
+   "curiosita": "\u00c8 una \u00abgemella del Sole\u00bb leggermente pi\u00f9 grande e brillante (massa 1,15 solari, raggio 1,08, T 6038 K), giovane di circa 2 miliardi di anni. Ha un ciclo di attivit\u00e0 magnetica di 16,6 anni, pi\u00f9 lungo di quello solare (11 anni), e ruota in ~12 giorni. La lettera \u03b2 si deve a Baily (1845): il catalogo di Bayer dell'epoca non la numer\u00f2, ed \u00e8 quindi pi\u00f9 brillante della sua Alfa. Nessun pianeta confermato; una presunta compagna spettroscopica \u00e8 stata esclusa dalle misure di velocit\u00e0 radiale.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Comae_Berenices"
+  },
+  {
+   "id": "gamma_comae_berenices",
+   "nome": "Gamma Comae Berenices",
+   "bayer": "\u03b3 Comae Berenices (15 Com; HD 108381)",
+   "origine_nome": "R.H. Allen riporta \u00abAl \u1e0caf\u012brah\u00bb, dall'arabo per \u00abla treccia\u00bb, nome dell'ammasso della Chioma; in cinese \u00e8 la prima stella dell'asterismo Langwei (\u90ce\u4f4d), gli Ufficiali della Guardia Imperiale.",
+   "magnitudine": "4,36",
+   "spettro": "K1 III Fe0.5 \u2014 gigante arancione con eccesso di ferro nello spettro; le tabelle danno K2IIICN",
+   "distanza_al": 167,
+   "curiosita": "Gigante arancione evoluta (raggio ~12 solari, luminosit\u00e0 ~60 solari) che appare come parte dell'Ammasso della Chioma ma con ogni probabilit\u00e0 NON ne \u00e8 membro. Con \u03b1 e \u03b2 Com forma il triangolo isoscele da cui pendono le \u00abciocche\u00bb di Berenice. La distanza qui scelta \u00e8 quella della parallasse Gaia DR3 (19,86 mas \u2248 167 anni luce); le tabelle danno 170 e la voce della costellazione 169: concordi entro l'errore.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Comae_Berenices"
+  },
+  {
+   "id": "11_comae_berenices",
+   "nome": "11 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 11 Com; HD 107383)",
+   "origine_nome": "Designazione di Flamsteed (nessun nome proprio); si trova a un grado da M85 e a due gradi a nord di M100.",
+   "magnitudine": "4,72",
+   "spettro": "K0 III \u2014 gigante arancione con metallicit\u00e0 circa met\u00e0 di quella solare; le tabelle italiane danno G8III",
+   "distanza_al": 321,
+   "curiosita": "Gigante arancione con raggio 15,8 solari e 110 luminosit\u00e0 solari. Nel 2007 una compagna substellare \u00e8 stata scoperta con il metodo della velocit\u00e0 radiale: massa minima 19,4 masse gioviani, orbita di 326 giorni a 1,3 unit\u00e0 astronomiche \u2014 nel pieno range delle nane brune a fusione del deuterio. \u00c8 la stella pi\u00f9 brillante della costellazione con una compagna di questo tipo in orbita. La distanza qui scelta \u00e8 quella della parallasse Gaia DR3 dell'infobox (321 anni luce); la voce inglese nel testo d\u00e0 305 e le tabelle 361.",
+   "fonte_url": "https://en.wikipedia.org/wiki/11_Comae_Berenices"
+  },
+  {
+   "id": "12_comae_berenices",
+   "nome": "12 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 12 Com; HD 107700)",
+   "origine_nome": "Designazione di Flamsteed; la prima soluzione orbitale fu pubblicata da Julie Vinter Hansen negli anni Quaranta.",
+   "magnitudine": "4,80 combinata",
+   "spettro": "G7 III + A3 V \u2014 binaria spettroscopica a doppia riga con colori contrastanti",
+   "distanza_al": 273,
+   "curiosita": "\u00c8 il membro pi\u00f9 brillante dell'Ammasso della Chioma (Melotte 111): una coppia con colori contrastanti, gigante gialla di 2,6 masse solari (5300 K) e compagna bianco-azzurra di classe A (8500 K), separate da oltre un primo d'arco. Periodo orbitale 396,5 giorni con eccentricit\u00e0 0,57; la variabilit\u00e0 della velocit\u00e0 radiale fu scoperta da W.W. Campbell gi\u00e0 nel 1910.",
+   "fonte_url": "https://en.wikipedia.org/wiki/12_Comae_Berenices"
+  },
+  {
+   "id": "23_comae_berenices",
+   "nome": "23 Comae Berenices (Phyllon Kissinou)",
+   "bayer": "nessuno (Flamsteed 23 Com; HD 109485)",
+   "origine_nome": "\u00abPhyllon Kissinou\u00bb (\u03c6\u03cd\u03bb\u03bb\u03bf\u03bd \u03ba\u03b9\u03c3\u03c3\u03af\u03bd\u03bf\u03c5, \u00abfoglia d'edera\u00bb): Tolomeo nell'Almagesto descrive la stella cos\u00ec, probabilmente riferendosi alla forma complessiva dell'ammasso della Chioma. Nome IAU ufficiale approvato il 16 maggio 2024; essendo binaria, l'IAU ha specificato che \u00abPhyllon\u00bb e \u00abKissinou\u00bb si applicano rispettivamente alle componenti A e B.",
+   "magnitudine": "4,80 (componenti 4,96 e 6,90)",
+   "spettro": "A0 IV \u2014 subgigante bianca (elencata anche come Am)",
+   "distanza_al": 310,
+   "curiosita": "Binaria visuale con un'orbita estremamente eccentrica (e=0,9) e lungo periodo: 33 anni. La primaria, 210 milioni di anni, 2,15 masse solari e 3 raggi, brilla 104 volte pi\u00f9 del Sole a 9675 K. Prima stella della costellazione a cui l'IAU ha assegnato un nome proprio \u00abmoderno\u00bb legato all'Almagesto. La distanza qui scelta \u00e8 quella della parallasse van Leeuwen (310 anni luce); le tabelle danno 365.",
+   "fonte_url": "https://en.wikipedia.org/wiki/23_Comae_Berenices"
+  },
+  {
+   "id": "31_comae_berenices",
+   "nome": "31 Comae Berenices (Polaris Galacticum Borealis)",
+   "bayer": "nessuno (Flamsteed 31 Com; HD 111812; variabile LS Com)",
+   "origine_nome": "Nome informale \u00abPolaris Galacticum Borealis\u00bb coniato da Jim Kaler perch\u00e9 31 Com \u00e8 la stella del polo nord galattico; in cinese L\u00e1ngji\u0101ng (\u90ce\u5c07), \u00abCapitano delle guardie del corpo\u00bb.",
+   "magnitudine": "4,9 (varia da 4,87 a 4,97)",
+   "spettro": "G0 III \u2014 standard spettrale per la classe G0IIIp dal 1989",
+   "distanza_al": 284,
+   "curiosita": "Variabile di tipo FK Comae: una gigante gialla che ruota in soli 6,8 giorni con enormi macchie stellari (variabilit\u00e0 scoperta da Strassmeier e collaboratori nel 1997). Si trova nel \u00abgap di Hertzsprung\u00bb, con l'involucro appena entrato in convezione. \u00c8 la stella del polo nord galattico: dalla sua direzione la Via Lattea si guarda \u00abdall'alto\u00bb, il fondo \u00e8 quasi privo di polvere e pieno di galassie lontane. La distanza qui scelta \u00e8 quella della parallasse Gaia DR2 (284 anni luce); le tabelle danno 307.",
+   "fonte_url": "https://en.wikipedia.org/wiki/31_Comae_Berenices"
+  },
+  {
+   "id": "35_comae_berenices",
+   "nome": "35 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 35 Com; HD 112033)",
+   "origine_nome": "Designazione di Flamsteed; binaria larga scoperta da Friedrich Georg Wilhelm von Struve nel 1828.",
+   "magnitudine": "4,93 (le tabelle danno 4,89)",
+   "spettro": "G5 III + F1 V \u2014 primaria gigante gialla, secondaria di sequenza principale (en voce \u00abG5 III + F:\u00bb)",
+   "distanza_al": 280,
+   "curiosita": "Sistema multiplo a quattro corpi: la coppia principale ha un'orbita di circa 539 anni (da Struve 1828 ha completato meno di mezz'orbita, gli elementi restano incerti); la primaria \u00e8 essa stessa una binaria spettroscopica con periodo di 2908 giorni; una quarta componente (35 Com C) dista 29 secondi d'arco. Il sistema si trova a 6\u00b0 dal polo nord galattico. La distanza qui scelta \u00e8 quella della parallasse van Leeuwen (280 anni luce); le tabelle danno 324.",
+   "fonte_url": "https://en.wikipedia.org/wiki/35_Comae_Berenices"
+  },
+  {
+   "id": "36_comae_berenices",
+   "nome": "36 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 36 Com; HD 112769)",
+   "origine_nome": "Designazione di Flamsteed: nessun nome proprio, nessuna lettera di Bayer.",
+   "magnitudine": "4,76 (variabile sospetta 4,74\u20134,82)",
+   "spettro": "M0.5 III (Perkins 1989; le tabelle danno M0 III) \u2014 gigante rossa",
+   "distanza_al": 349,
+   "curiosita": "Gigante rossa sul ramo asintotico (AGB): ha esaurito l'idrogeno al centro e fonde idrogeno ed elio in gusci attorno a un nucleo inerte di carbonio e ossigeno. Con 43 raggi solari, 372 luminosit\u00e0 solari e una temperatura di 3890 K \u00e8 una delle stelle \u00abrosse\u00bb pi\u00f9 appariscenti della costellazione, contrasto cromatico con le bianche vicine. La distanza qui scelta \u00e8 quella della parallasse Gaia DR2 (349 anni luce); le tabelle danno 299.",
+   "fonte_url": "https://en.wikipedia.org/wiki/36_Comae_Berenices"
+  },
+  {
+   "id": "37_comae_berenices",
+   "nome": "37 Comae Berenices (LU Comae Berenices)",
+   "bayer": "nessuno (Flamsteed 37 Com; HD 113226; in origine era 13 Canum Venaticorum, Wagman 1987; designazione variabile LU Com dal 2003)",
+   "origine_nome": "Designazione di Flamsteed, spostata nei secoli tra Chioma di Berenice e Cani da Caccia: nata come 13 CVn, oggi \u00e8 37 Com.",
+   "magnitudine": "4,88 (variabile RS CVn, ampiezza 0,15)",
+   "spettro": "K1 IIIp \u2014 gigante \u00abweak G-band\u00bb, debole nella banda G del CH (Perkins 1989 d\u00e0 anche G9 III CH-2 CN-1)",
+   "distanza_al": 694,
+   "curiosita": "Gigante gialla \u00abweak G-band\u00bb: ha un'abbondanza di carbonio circa 5 volte inferiore al normale, una rarit\u00e0 spettroscopica. \u00c8 una variabile RS Canum Venaticorum con macchie e attivit\u00e0 magnetica, periodo di rotazione 111 giorni; 5,25 masse solari e 38 raggi. Tripla larga secondo Tokovinin (2008). La distanza qui scelta \u00e8 quella della parallasse Gaia DR2 (694 anni luce); le tabelle danno 898, l'Hipparcos originale.",
+   "fonte_url": "https://en.wikipedia.org/wiki/37_Comae_Berenices"
+  },
+  {
+   "id": "41_comae_berenices",
+   "nome": "41 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 41 Com; HD 113996)",
+   "origine_nome": "Designazione di Flamsteed; le tabelle italiane riportano per errore Flamsteed 36 al posto di 41.",
+   "magnitudine": "4,80",
+   "spettro": "K5 III \u2014 gigante arancione-rossa",
+   "distanza_al": 381,
+   "curiosita": "Gigante rossa evoluta (34 raggi solari, 323 luminosit\u00e0 solari, 4211 K, et\u00e0 circa 4,5 miliardi di anni). Nel 2017 le \u00e8 stato scoperto un pianeta con il metodo della velocit\u00e0 radiale: HD 113996 b, almeno 6,3 masse gioviani, orbita in 610 giorni a 1,6 unit\u00e0 astronomiche con eccentricit\u00e0 0,28. Insieme a \u03b2 e 37 Com forma l'asterismo cinese Zh\u014dud\u01d0ng, il \u00abvaso tripodico\u00bb. La distanza qui scelta \u00e8 quella della parallasse Gaia DR3 (381 anni luce); le tabelle danno 303.",
+   "fonte_url": "https://en.wikipedia.org/wiki/41_Comae_Berenices"
+  },
+  {
+   "id": "24_comae_berenices",
+   "nome": "24 Comae Berenices",
+   "bayer": "nessuno (Flamsteed 24 Com; HD 109511 / 109510)",
+   "origine_nome": "Designazione di Flamsteed; celebre per il contrasto di colori delle due componenti.",
+   "magnitudine": "5,03 (primaria; compagna 6,57)",
+   "spettro": "K0 II-III + A9 V \u2014 gigante arancione con compagna bianca di tipo Am",
+   "distanza_al": 369,
+   "curiosita": "Sistema triplo con colori contrastanti, un \u00abbinocolo classico\u00bb: gigante arancione di quinta magnitudine e compagna bianco-azzurra di sesta, separate da 20,2 secondi d'arco (equivalenti a oltre 1400 unit\u00e0 astronomiche). La secondaria \u00e8 a sua volta una binaria spettroscopica con periodo di 7,33 giorni ed emette raggi X. Se legate gravitazionalmente, le due coppie orbitano una attorno all'altra in circa 28.000 anni. La distanza qui scelta \u00e8 quella della voce inglese (369 anni luce); le tabelle danno 614, l'Hipparcos originale meno affidabile.",
+   "fonte_url": "https://en.wikipedia.org/wiki/24_Comae_Berenices"
+  },
+  {
+   "id": "fk_comae_berenices",
+   "nome": "FK Comae Berenices",
+   "bayer": "nessuna lettera di Bayer; designazione variabile FK Comae Berenices (HD 117555)",
+   "origine_nome": "La sigla FK deriva dalla nomenclatura delle variabili (sezione F), assegnata nel 1968; il prototipo fu scoperto come variabile da Pavel Chugainov nel 1966 con la vecchia sigla HD 117555.",
+   "magnitudine": "8,14\u20138,33 (variabile, periodo 2,4 giorni)",
+   "spettro": "G4 III \u2014 gigante gialla con righe molto allargate dalla rotazione rapida",
+   "distanza_al": 708,
+   "curiosita": "Prototipo di una classe intera di variabili (le \u00abFK Comae\u00bb): giganti gialle dalla rotazione rapidissima \u2014 ruota in 2,4 giorni (circa 160 km/s all'equatore, 30 volte il Sole) \u2014 con macchie polari giganti e campi magnetici fortissimi. L'interpretazione pi\u00f9 accreditata: \u00e8 il risultato della fusione recente di una binaria a contatto, per questo ruota cos\u00ec in fretta. \u00c8 anche la stella pi\u00f9 studiata al mondo con l'interferometria COCOA-PUFS (\u00abKing of Spin\u00bb). La distanza qui scelta \u00e8 quella della parallasse Gaia DR2 (708 anni luce).",
+   "fonte_url": "https://en.wikipedia.org/wiki/FK_Comae_Berenices"
+  }
+ ]
+}

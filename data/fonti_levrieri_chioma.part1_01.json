@@ -1,0 +1,38 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Levieri (Canes Venatici)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg/960px-Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg",
+   "titolo_tavola": "Fig. E – Canes Venatici (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Canes_Venatici_-_Prodromus_astronomiae_1690_(5590250).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/4/48/Canes_Venatici_-_Prodromus_astronomiae_1690_(5590250).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare della serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611–1687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg/960px-Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg",
+   "dimensioni_file_sito_px": [960, 753],
+   "dimensioni_originale_px": [4407, 3459],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. E",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Canes_Venatici_-_Prodromus_astronomiae_1690_(5590250).jpg",
+   "note_qualita": "Scansione ad alta risoluzione serie Polona (4407 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima, stile coerente con le altre tavole del sito. Verificata via caption: i DUE cani in corsa (Asterion e Chara) legati da un guinzaglio tenuto da Bo\u00f6te, etichette stellari Afterion/Chara/Canori leggibili, etichetta Fig. E in basso a sinistra, Ursa Major in alto a sinistra, Corona Septentrionalis in alto a destra, Coma Berenices in basso al centro, testo NON specchiato. Scartate le alternative \u00abCanes Venatici Hevelius.jpg\u00bb (688x567, troppo piccola) e \u00abJohannes Hevelius - Canes Venatici.jpg\u00bb (1450x1200, risoluzione insufficiente per un thumb 960 di qualit\u00e0)."
+  },
+  {
+   "costellazione": "Chioma di Berenice (Coma Berenices)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg/960px-Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg",
+   "titolo_tavola": "Fig. F – Bootes / Coma Berenices (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Bootes_-_Prodromus_astronomiae_1690_(5590255).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bootes_-_Prodromus_astronomiae_1690_(5590255).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare della serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611–1687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg/960px-Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg",
+   "dimensioni_file_sito_px": [960, 757],
+   "dimensioni_originale_px": [4418, 3486],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. F",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Bootes_-_Prodromus_astronomiae_1690_(5590255).jpg",
+   "note_qualita": "Scansione ad alta risoluzione serie Polona (4418 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima. IMPORTANTE: Hevelius non ha una tavola separata per Coma Berenices \u2014 nel Firmamentum Sobiescianum la chioma \u00e8 incorporata nella tavola del Bo\u00f6te (Tavola F, che copre Bo\u00f6te + Coma Berenices + Mons Menalus); l'uso di questa tavola per la scheda \u00abchioma\u00bb \u00e8 coerente con l'atlante originale. Verificata via caption: scritta COMA BERENICES. leggibile in basso a sinistra sotto la chioma fluente di capelli, etichetta Fig. F in basso a sinistra, Mons Moenalus in basso a destra, testo NON specchiato. Scartata l'alternativa \u00abIllus. of 3 constellations... LCCN2007677143.jpg\u00bb (1536x1240, incisione francese posteriore, non Hevelius, senza lettera figura)."
+  }
+ ]
+}
