@@ -1,0 +1,292 @@
+{
+ "centauro": [
+  {
+   "id": "alfa_centauri",
+   "nome": "Alfa Centauri (Rigil Kentaurus)",
+   "bayer": "\u03b1 Centauri A (\u03b1 Cen A; HD 128620, HIP 71683, HR 5459; sistema AB+C: GJ 559, CCDM J14396-6050)",
+   "origine_nome": "Nome IAU ufficiale della componente A: Rigil Kentaurus (WGSN 2016), dall'arabo al-Rijl al-Qan\u1e6d\u016bris, \u00abil piede del Centauro\u00bb. Tradizionale ma non ufficiale: Bungula. Il nome Acrux-style \u00abToliman\u00bb appartiene alla componente B.",
+   "magnitudine": "-0,27 (sistema combinato; A +0,01) \u2014 terza stella pi\u00f9 brillante del cielo dopo Sirio e Canopo",
+   "spettro": "Sistema triplo: A = G2V nana gialla (1,0788 M\u2609, 1,223 R\u2609, 1,506 L\u2609, Teff 5748 K); B = K1V; C = M5,5Ve (Proxima)",
+   "distanza_al": 4.34,
+   "curiosita": "Il sistema stellare pi\u00f9 vicino al Sole: A e B orbitano in 79,76 anni su un'orbita eccentrica (23,5 UA di semiasse, e\u22480,52), e Proxima gira attorno alla coppia in ~547.000 anni. \u00c8 il bersaglio principale del programma Breakthrough Starshot (annunciato nel 2016 da Jurij Milner con Stephen Hawking): sonde da un grammo spinte da laser a un quinto della velocit\u00e0 della luce, viaggio in ~20 anni. Con Hadar forma i \u00abPuntatori del Sud\u00bb che indicano la Croce del Sud. Il candidato pianeta \u03b1 Cen Ab (massa simile a Saturno, zona abitabile, rilevato nel 2021) resta non confermato, mentre \u03b1 Cen Bb (annunciato su Nature nel 2012) fu ritirato nel 2015. Distanza: 4,344 al dalla parallasse 750,81\u00b10,38 mas (Akeson 2021); it.wiki usa 4,36 al da parallasse pi\u00f9 vecchia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Centauri"
+  },
+  {
+   "id": "alpha_centauri_b",
+   "nome": "Alfa Centauri B (Toliman)",
+   "bayer": "\u03b1 Centauri B (\u03b1 Cen B; HD 128621, HIP 71681, HR 5460, GJ 559 B, LHS 51)",
+   "origine_nome": "Nome IAU ufficiale: Toliman (WGSN, 10 agosto 2018), forse da al-\u1e92alm\u0101n/\u1e6c\u016blim\u0101n, designazione araba della coppia. Non esiste una voce enciclopedica autonoma: i dati vengono dalla voce madre Alpha Centauri.",
+   "magnitudine": "+1,34 (assoluta +5,71) \u2014 componente B della coppia pi\u00f9 brillante",
+   "spettro": "K1V (nana arancione; 0,9092 M\u2609, 0,864 R\u2609, 0,498 L\u2609, Teff 5154\u00b126 K, Akeson 2021)",
+   "distanza_al": 4.34,
+   "curiosita": "La componente pi\u00f9 piccola e fredda della coppia binaria pi\u00f9 vicina: ruota in circa un mese, con una metallicit\u00e0 superiore al Sole (150\u2013230%). Il suo candidato pianeta \u03b1 Cen Bb, annunciato nel 2012 come la stella pi\u00f9 vicina con una Terra, fu smentito nel 2015-2016 (Rajpaul et al.): il segnale era un artefatto della finestra di osservazione. Per l'abitabilit\u00e0 di eventuali suoi pianeti conta molto la perturbazione gravitazionale di Alfa Centauri A, che ogni 80 anni passa a soli 11 UA. Distanza: come il sistema, 4,344 al (Akeson 2021).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Centauri"
+  },
+  {
+   "id": "proxima_centauri",
+   "nome": "Proxima Centauri",
+   "bayer": "\u03b1 Centauri C (V645 Centauri; GJ 551, HIP 70890, LHS 49)",
+   "origine_nome": "\u00abProxima\u00bb fu scelto nel 1915 da Robert Innes, che la scopr\u00ec all'Union Observatory di Johannesburg come la componente pi\u00f9 vicina della coppia di Alfa Centauri. Variabile V645 Centauri.",
+   "magnitudine": "11,13 (it.wiki 11,05) \u2014 invisibile a occhio nudo nonostante sia la stella pi\u00f9 vicina",
+   "spettro": "M5,5Ve nana rossa flare (0,1221 M\u2609, 0,1542 R\u2609, Teff 2992 K, Kervella 2017; luminosit\u00e0 0,00116 L\u2609)",
+   "distanza_al": 4.2465,
+   "curiosita": "La stella pi\u00f9 vicina al Sole: lo \u00e8 da circa 32.000 anni e lo rester\u00e0 per altri ~25.000, con un avvicinamento minimo a 3,11 al fra circa 26.700 anni (Garc\u00eda-S\u00e1nchez 2001). Il pianeta Proxima b fu annunciato il 24 agosto 2016 (Anglada-Escud\u00e9, Nature 536; campagna \u00abPale Red Dot\u00bb): 1,17 masse terrestri nella zona abitabile, in 11,2 giorni; gli sono seguiti Proxima d (sub-Terra, 2022) e il candidato Proxima c. Nel 2016 un superflare l'ha resa 68 volte pi\u00f9 luminosa in ottico, e nel 2019 il radiotelescopio Parkes capt\u00f2 il segnale \u00abBLC1\u00bb a 982 MHz, poi attribuito a interferenza umana. Distanza: 4,2465 al dalla parallasse Gaia DR3 768,0665 mas; it.wiki d\u00e0 4,23.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Proxima_Centauri"
+  },
+  {
+   "id": "beta_centauri",
+   "nome": "Hadar",
+   "bayer": "\u03b2 Centauri (\u03b2 Cen; HD 122451, HIP 68702, HR 5267; SIMBAD \u03b2 Cen = HD 108250 per la serie Polona \u00e8 un errore: HD 122451 \u00e8 corretto)",
+   "origine_nome": "Hadar, nome IAU ufficiale (WGSN 2016), dall'arabo \u1e25a\u1e0d\u0101r, \u00absuolo abitato\u00bb. Agena, da latino/mediale \u00abgenua\u00bb, \u00able ginocchia\u00bb del centaurro: tradizionale, non IAU.",
+   "magnitudine": "0,61 (it.wiki 0,60) \u2014 seconda del Centauro e 11\u00aa del cielo",
+   "spettro": "B1 III gigante azzurra; sistema triplo: Aa+Ab (12,02 e 10,58 M\u2609, Pigulski 2016) in 0,977 giorni, B (4,61 M\u2609) in 288,267 giorni; Teff ~25.000 K, L(A) 31.600 L\u2609",
+   "distanza_al": 361,
+   "curiosita": "La sua distanza \u00e8 la pi\u00f9 precisa delle stelle brillanti: la \u00abparallasse dinamica\u00bb dall'orbita della binaria stretta (Pigulski 2016) d\u00e0 361 anni luce, in accordo con la nuova riduzione Hipparcos. \u00c8 una variabile Beta Cephei che pulsa con periodi di poche ore, e la coppia interna fu risolta solo per via spettroscopica. Con Alfa Centauri forma i \u00abPuntatori del Sud\u00bb: la linea che le unisce punta quasi esattamente sulla Croce del Sud, ed \u00e8 la bussola stellare degli emisferi australi. Voce it: \u00abHadar (astronomia)\u00bb. Distanza concorde it/en: 361 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Centauri"
+  },
+  {
+   "id": "theta_centauri",
+   "nome": "Menkent",
+   "bayer": "\u03b8 Centauri (\u03b8 Cen; HD 123139, HIP 68933, HR 5288; anche 5 Cen, GJ 539, LHS 2858)",
+   "origine_nome": "Menkent, nome IAU ufficiale (WGSN 2016), dall'arabo mankib, \u00abla spalla\u00bb. Prima che Lacaille definisse il Centauro moderno, Bayer la chiam\u00f2 Theta Trianguli Australis.",
+   "magnitudine": "+2,06 (51\u00aa stella pi\u00f9 brillante del cielo)",
+   "spettro": "K0 III (it: K0 IIIb) gigante arancione red clump; 1,32\u00b10,08 M\u2609, 10,96\u00b10,20 R\u2609, 56\u00b12,5 L\u2609, Teff 4853\u00b141 K (Rudrasingam 2026)",
+   "distanza_al": 58.8,
+   "curiosita": "L'analogo australe di Polluce: come il gigante dei Gemelli, fonde elio in nucleo (stadio \u00abred clump\u00bb) ed \u00e8 una gigante arancione tra le pi\u00f9 vicine al Sole. Il suo moto proprio \u00e8 doppio della media (~65 km/s): non \u00e8 una stella del disco galattico, ma solo di passaggio. La voce it.wiki le attribuisce 4 masse solari, ma la stima moderna (Rudrasingam 2026) d\u00e0 1,32: per una gigante red clump il valore moderno \u00e8 quello coerente. Distanza: 58,8 al dalla parallasse van Leeuwen 55,45 mas; it.wiki 53,52 mas \u2192 ~59-61 al.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Theta_Centauri"
+  },
+  {
+   "id": "gamma_centauri",
+   "nome": "Muhlifain",
+   "bayer": "\u03b3 Centauri (\u03b3 Cen; HD 110304, HIP 61932, HR 4819; WDS J12415-4858)",
+   "origine_nome": "Muhlifain (al-Mu\u1e25lifain, \u00abi due punti di giuramento\u00bb, condiviso con \u03bb Velorum) \u00e8 il nome tradizionale arabo: NON \u00e8 nel catalogo IAU-CSN. Nessun nome IAU ufficiale.",
+   "magnitudine": "+2,17 (it: +2,18) \u2014 terza del Centauro; componenti +2,84/+2,94",
+   "spettro": "A1IV+A0IV (SIMBAD) subgiganti bianche; masse ~2,8 M\u2609 ciascuna, Teff ~9.300 K, et\u00e0 ~400 mln di anni",
+   "distanza_al": 130.2,
+   "curiosita": "Binaria visuale stretta con orbita completamente risolta: le due stelle, di quasi terza grandezza ciascuna, girano attorno al baricentro in 83,57 anni (Argyle 2015) su un'orbita molto eccentrica (e=0,79) che le porta da 8 a 67 UA di distanza. \u00c8 probabilmente legata anche a \u03c4 Centauri in un sistema pi\u00f9 ampio. In cinese faceva, con \u03c4 Cen, l'asterismo K\u00f9 L\u00f3u, \u00abla Torre dell'arsenale\u00bb. SIMBAD d\u00e0 ancora la parallasse van Leeuwen 2007 (25,06 mas \u2192 130 al), non aggiornata a Gaia DR3. Distanza concorde it/en: 130 al.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gamma_Centauri"
+  },
+  {
+   "id": "epsilon_centauri",
+   "nome": "Epsilon Centauri",
+   "bayer": "\u03b5 Centauri (\u03b5 Cen; HD 118716, HIP 66657, HR 5132)",
+   "origine_nome": "Nessun nome proprio IAU (la voce en.wiki \u00e8 esplicita). In cinese \u00e8 N\u00e1n M\u00e9n y\u012b, \u00abla prima stella della Porta del Sud\u00bb, asterismo condiviso con Alfa Centauri.",
+   "magnitudine": "+2,30 (variabile lieve +2,29/+2,31; it 2,27) \u2014 quarta del Centauro",
+   "spettro": "B1 III/V (letteratura divisa tra gigante e nana; il raggio misurato ~6 R\u2609 \u00e8 compatto da nana); 8,2 M\u2609, Teff 24.937 K (McDonald 2017); variabile Beta Cephei (periodo 3-4 h)",
+   "distanza_al": 430,
+   "curiosita": "Membro del sottogruppo Lower Centaurus\u2013Crux dell'associazione Scorpius-Centaurus, la pi\u00f9 vicina associazione OB al Sole: la sua massa di 8,2 M\u2609 la mette esattamente al confine tra supernova e nana bianca al neon-ossigeno-magnesio. \u00c8 una stella molto giovane (10-16 milioni di anni) che ruota a 114 km/s, e il suo caldo vento la rende sorgente di raggi X. Distanza: ~430 al (en, parallasse van Leeuwen 7,63 mas); it.wiki 428 al (Quintana 2025). Luminosit\u00e0: en 16.137 L\u2609 (McDonald 2017) vs it 6.310 L\u2609 (Quintana).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Epsilon_Centauri"
+  },
+  {
+   "id": "eta_centauri",
+   "nome": "Eta Centauri",
+   "bayer": "\u03b7 Centauri (\u03b7 Cen; HD 127972, HIP 71352, HR 5440)",
+   "origine_nome": "Nessun nome proprio IAU (n\u00e9 WGSN n\u00e9 tradizionale documentato su Wikipedia).",
+   "magnitudine": "+2,35 (it: 2,32) \u2014 quinta del Centauro",
+   "spettro": "B1.5 Vne (stella Be classica: disco circumstellare con righe H\u03b1 variabili); 12,0\u00b10,3 M\u2609 (MNRAS 410), raggio 6,10\u00b10,12 R\u2609 (Arcos 2018), rotazione 240 km/s",
+   "distanza_al": 306,
+   "curiosita": "Una stella Be \u00abda manuale\u00bb: ruota alla velocit\u00e0 di 240 km/s, quasi alla rottura, e il materiale scagliato dall'equatore forma il disco gassoso che genera le righe di emissione. \u00c8 una variabile Gamma Cassiopeiae, con variazioni legate proprio al disco. Membro del sottogruppo Upper Centaurus\u2013Lupus di Scorpius-Centaurus, in Italia \u00e8 visibile solo dalle regioni meridionali, molto bassa all'orizzonte. Anche per lei la massa la pone al confine supernova/nana bianca. Distanza concorde: 306 al (parallasse ~10,6 mas it/en).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Eta_Centauri"
+  },
+  {
+   "id": "iota_centauri",
+   "nome": "Kulou",
+   "bayer": "\u03b9 Centauri (\u03b9 Cen; HD 115892, HIP 65109, HR 5028, GJ 508.1)",
+   "origine_nome": "Kulou, nome IAU approvato il 17 febbraio 2025: deriva dall'antica costellazione cinese Kulou (\u5e93\u697c, \u00abl'Arsenale\u00bb), che occupava l'area del Centauro e del Lupo. La voce it.wiki riporta ancora il nome tradizionale Alhakim, precedente all'assegnazione IAU.",
+   "magnitudine": "+2,73 (it: +2,75) \u2014 sesta del Centauro",
+   "spettro": "A2 V nana bianco-azzurra; 2,03\u00b10,03 M\u2609, ~2,7 R\u2609, 22,9\u00b11,1 L\u2609, Teff 9.160\u00b170 K (Pearce); rotazione 86 km/s",
+   "distanza_al": 58.6,
+   "curiosita": "Una giovane Vega australe: possiede un disco di detriti (eccesso infrarosso) entro ~6 UA dalla stella, insolitamente luminoso per una stella di 350 milioni di anni \u2014 la firma di collisioni fra planetesimi, come nell'analogo sistema di Vega. La ricerca diretta di pianeti con VLT/NACO (Quanz 2011) non ha dato risultati. La voce it.wiki contiene due errori di vecchia data: la distanza 130 al nel lead (l'infobox corretto dice 59) e la luminosit\u00e0 71 L\u2609 (il valore Pearce \u00e8 ~23). Distanza: 58,6 al dalla parallasse van Leeuwen 55,49 mas.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Centauri"
+  },
+  {
+   "id": "zeta_centauri",
+   "nome": "Zeta Centauri (Leepwal)",
+   "bayer": "\u03b6 Centauri (\u03b6 Cen; HD 121263, HIP 68002, HR 5231)",
+   "origine_nome": "Leepwal, nome IAU recente: \u00e8 il nome cinese dell'asterismo Kulou (\u5e93\u697c, \u00abl'Arsenale\u00bb), di cui \u03b6 Cen \u00e8 la stella principale. La voce it.wiki usa il tradizionale Alnair (che per\u00f2 collide con \u03b1 Gruis). Curiosit\u00e0 storica: Bayer originariamente la chiam\u00f2 \u03b6 Centauri ma la designazione era gi\u00e0 stata usata per Acrux, che Lacaille ribattezz\u00f2 nel 1756.",
+   "magnitudine": "+2,55 \u2014 settima del Centauro",
+   "spettro": "B2.5 IV subgigante azzurra; binaria spettroscopica (periodo 8,02 giorni); primaria 7,8\u00b10,1 M\u2609, 5,80\u00b10,53 R\u2609, 5.884 L\u2609, Teff 23.561\u00b1283 K",
+   "distanza_al": 382,
+   "curiosita": "Antica \u00abstella fuggitiva\u00bb: Tetzlaff (2011) la cataloga tra le runaway giovani, con una velocit\u00e0 spaziale elevata. Fu a lungo considerata membro dell'associazione Scorpius-Centaurus, ma l'appartenenza \u00e8 stata smentita dall'analisi del moto: si sta muovendo in direzione incompatibile. Ruota a 225-235 km/s, completando un giro in un giorno e mezzo. Distanza: 382 al dalla parallasse van Leeuwen 8,54 mas (errore 1,6%); it.wiki 385 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Centauri"
+  },
+  {
+   "id": "delta_centauri",
+   "nome": "Delta Centauri (Ma Wei)",
+   "bayer": "\u03b4 Centauri (\u03b4 Cen; HD 105435, HIP 59196, HR 4621, SAO 239689, CPD \u221250\u00b0 4862)",
+   "origine_nome": "Nessun nome proprio IAU n\u00e9 tradizionale occidentale (nessuna voce it.wiki dedicata; fonte en.wikipedia). In cinese \u00e8 M\u01ce W\u011bi s\u0101n (\u99ac\u5c3e\u4e09), \u00abla Terza Stella della Coda del Cavallo\u00bb, dall'asterismo Coda del Cavallo condiviso con G e \u03c1 Centauri: da qui il nome Ma Wei, usato in alcune pubblicazioni.",
+   "magnitudine": "+2,57 (variabile 2,51\u20132,65) \u2014 terza del Centauro",
+   "spettro": "B2 Vne (Levenhagen) o B2 IVne (Houk 1979): stella Be \u00abshell\u00bb con disco equatoriale; 8,7\u00b10,3 M\u2609, 8,18\u00b10,16 R\u2609, 5.129 L\u2609, Teff 22.230\u00b1650 K; et\u00e0 21,5\u00b11,5 mln di anni",
+   "distanza_al": 410,
+   "curiosita": "Stella \u00abshell\u00bb in piena regola: la rapidissima rotazione (v\u00b7sin i = 263 km/s) le scaglia materiale in un disco equatoriale che genera le righe di emissione (l'\u00abe\u00bb della classe) e lo spettro a guscio. La variabilit\u00e0 (\u03b3 Cassiopeiae type) \u00e8 in parte spiegabile con una compagna di 4\u20137 M\u2609, orbita \u22654,6 anni e separazione \u22656,9 UA. Condivide il moto proprio con HD 105382 e HD 105383: insieme potrebbero formare un piccolo ammasso o un sistema triplo. La disparit\u00e0 tra classe IV (subgigante) e V \u00e8 spiegata dal gravity darkening: la schiacciamento equatoriale raffredda l'equatore e inganna lo spettroscopista. \u00c8 membro del sottogruppo Lower Centaurus\u2013Crux di Scorpius-Centaurus, l'associazione OB pi\u00f9 vicina al Sole. Distanza: ~410 al dalla parallasse 7,86 mas (van Leeuwen, en.wiki); it.wiki non ha voce dedicata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Centauri"
+  },
+  {
+   "id": "omega_centauri",
+   "nome": "Omega Centauri (\u03c9 Cen)",
+   "bayer": "NGC 5139 (\u03c9 Centauri; Caldwell 80, Mel 118, GCl 24) \u2014 designazione Bayer assegnata da Bayer nel 1603, che lo scambi\u00f2 per una stella",
+   "origine_nome": "Nessun nome IAU (non esistono nomi IAU per ammassi): \u00abOmega Centauri\u00bb resta la designazione di Bayer. Tolomeo lo catalog\u00f2 nell'Almagesto come stella \u00abQuae est in principio scapulae\u00bb, \u00abquella all'inizio della scapola\u00bb.",
+   "magnitudine": "3,68 (it.wiki; en/Skiff 1999: 3,9) \u2014 il pi\u00f9 luminoso ammasso globulare del cielo",
+   "spettro": "Ammasso globulare (Shapley-Sawyer classe VIII secondo la fonte primaria Shapley & Sawyer 1927; it.wiki dice VII); 10 milioni di stelle, et\u00e0 ~11,5-12 miliardi di anni, [Fe/H] \u22121,35",
+   "distanza_al": 15800,
+   "curiosita": "Primo oggetto non stellare riconosciuto come tale: Edmond Halley lo segnala nel 1677 da Sant'Elena. \u00c8 il pi\u00f9 massiccio ammasso globulare della Via Lattea (4,05\u00d710\u2076 M\u2609, D'Souza & Rix 2013), probabile nucleo residuo di una galassia nana divelta dalla nostra: la Stella di Kapteyn, a 13 al da noi, si pensa ne provenga, e il flusso stellare \u00abFimbulthul\u00bb ne \u00e8 la scia. Le stelle del nucleo distano in media appena 0,1 al l'una dall'altra. Un buco nero di massa intermedia (~8.200 M\u2609, Haberle 2024 Nature) \u00e8 candidato controverso, contestato nel 2025 (Ba\u00f1ares-Hern\u00e1ndez). MeerKAT vi ha trovato 13 nuove pulsar (Chen 2023). Distanza: 15.800\u00b11.100 al (van de Ven 2006); it.wiki 16.000.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Omega_Centauri"
+  },
+  {
+   "id": "centaurus_a",
+   "nome": "Centaurus A (NGC 5128)",
+   "bayer": "NGC 5128 (Caldwell 77, Arp 153, PGC 46957) \u2014 radiogalassia \u00abCentaurus A\u00bb",
+   "origine_nome": "\u00abA\u00bb \u00e8 la designazione delle radiosorgenti del catalogo di John Bolton e colleghi: la quinta pi\u00f9 brillante del cielo, e la radiogalassia pi\u00f9 vicina. Scoperta da James Dunlop il 29 aprile 1826 a Parramatta.",
+   "magnitudine": "6,84 (SIMBAD; it: 7,0) \u2014 quinta galassia pi\u00f9 brillante del cielo",
+   "spettro": "Galassia peculiare lenticolare (S0 pec) con banda di polvere: risultato della fusione tra un'ellittica gigante e una spirale pi\u00f9 piccola (Baade & Minkowski 1954); buco nero supermassiccio di 55 milioni M\u2609",
+   "distanza_al": 12000000,
+   "curiosita": "Nel 1949 fu una delle prime radiosorgenti extragalattiche identificate (Bolton, Slee e Stanley), e nel luglio 2021 l'Event Horizon Telescope ne ha pubblicato l'immagine risolta del jet: i getti radio superano il milione di anni luce, e le parti interne si muovono a met\u00e0 della velocit\u00e0 della luce. Vi sono scoperte due supernove: SN 1986G (tipo Ia, Robert Evans, 3 maggio 1986, usata per dimostrare che le Ia non sono tutte identiche) e SN 2016adj (tipo core-collapse, 2016). Infrarossi: la struttura a \u00abparallelogramma\u00bb (Spitzer) sono i resti della galassia assorbita 200-700 milioni di anni fa. Distanza: 11-13 milioni di al (3-5 Mpc), raccomandato 12\u00b11 milioni.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Centaurus_A"
+  },
+  {
+   "id": "b_centauri",
+   "nome": "b Centauri (HD 129116)",
+   "bayer": "b Centauri (b Cen; HD 129116, HIP 71865, HR 5471) \u2014 attenzione: minuscola, distinta da B Centauri (HD 102964)",
+   "origine_nome": "Nessun nome proprio IAU, n\u00e9 per la stella n\u00e9 per il pianeta. La designazione \u00abb\u00bb minuscola \u00e8 di Bayer: attorno alla coppia gravita b Centauri (AB)b, il pianeta circumbinario.",
+   "magnitudine": "+4,00",
+   "spettro": "B3V primaria (5,5 M\u2609, 2,93 R\u2609, 637 L\u2609, Teff 18.310\u00b1320 K, et\u00e0 15\u00b12 mln anni); compagna B ~1 mag pi\u00f9 debole, \u22644,4 M\u2609",
+   "distanza_al": 325,
+   "curiosita": "Il pianeta b Centauri (AB)b \u00e8 la scoperta chiave: gigante gassoso da 10,9\u00b11,6 masse gioviani (sotto il confine pianeta/nana bruna), fotografato in imaging diretto con SPHERE/VLT e annunciato l'8 dicembre 2021 su Nature (Janson et al.). Orbita a 556\u00b117 UA dalla coppia \u2014 oltre 100 volte la distanza Giove-Sole \u2014 in circa 560 anni, ed \u00e8 il primo pianeta confermato attorno a una stella cos\u00ec massiccia (5,5 M\u2609): le stelle massive erano ritenute troppo calde perch\u00e9 i pianeti resistessero. La stella \u00e8 molto giovane (15\u00b12 mln di anni) e appartiene a Scorpius-Centaurus. Distanza: SIMBAD/Gaia DR3 10,03 mas \u2192 325 al, conferma il valore it.wiki.",
+   "fonte_url": "https://it.wikipedia.org/wiki/HD_129116"
+  },
+  {
+   "id": "r_centauri",
+   "nome": "R Centauri",
+   "bayer": "Nessuna designazione Bayer (stella variabile: HD 124601, HIP 69754, HR 5326, CP\u221259\u00b05476)",
+   "origine_nome": "Convenzione delle variabili: \u00abR\u00bb = prima variabile catalogata nella costellazione. Scoperta da Benjamin Apthorp Gould nel 1871.",
+   "magnitudine": "5,2\u201311,5 (variabile Mira: raggiunge il massimo visibile a occhio nudo in condizioni ottime)",
+   "spettro": "M5IIe (range M4e\u2013M9.5), gigante al ramo asintotico AGB; Teff 2.403 K (McDonald 2017) o 3.450 K (Verhoelst 2009, dipende dalla distanza assunta)",
+   "distanza_al": 2900,
+   "curiosita": "La sua curva di luce \u00e8 stata a lungo anormale: per decenni ha mostrato un doppio picco a ogni ciclo, tornato a un picco singolo quasi normale entro il 2001 \u2014 la spiegazione \u00e8 un flash del guscio di elio attorno al nucleo (Hawkins, Mattei & Foster 2001), un evento che gli ammassi di AGB attraversano periodicamente. Anche il periodo \u00e8 mutato: ~550 giorni prima del 1950, ~500 dopo (498,84 giorni secondo ASAS 2016). \u00c8 una sorgente di maser H\u2082O, e con oltre 600 raggi solari \u00e8 una delle stelle pi\u00f9 grandi conosciute. Distanza: Gaia DR3 1,1082\u00b10,2413 mas \u2192 ~2.900 al, con errore del 22% (la DR2 era negativa); Hipparcos dava 1.300 al e stime fotometriche fino a 750: valore incerto.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Centauri"
+  },
+  {
+   "id": "v810_centauri",
+   "nome": "V810 Centauri",
+   "bayer": "Nessuna designazione Bayer (V810 Cen = HD 101947, HIP 57175, HR 4511; designazione variabile assegnata nel 1979, variazione annunciata da FitzGerald nel 1973)",
+   "origine_nome": "Convenzione delle variabili: la sigla V810 fu assegnata dal GCVS nel 1979.",
+   "magnitudine": "5,02 (variabile SRd)",
+   "spettro": "Doppia: A = supergigante gialla F8Ia (20 M\u2609, 222\u00b120 R\u2609, 55.000 L\u2609, Teff 5.970\u00b1100 K) + B = gigante blu B0III (25 M\u2609, 14 R\u2609, 125.000 L\u2609, 29.000 K); standard MK della classe G0 0-Ia",
+   "distanza_al": 7600,
+   "curiosita": "Senza gli altri modi di pulsazione sarebbe una Cefeide classica \u00abperfetta\u00bb: la pulsazione dominante (~156 giorni) \u00e8 il modo fondamentale radiale, ma vi si sovrappongono modi non radiali a 89-234 giorni (Kienzle 1998), che la rendono un laboratorio di sismologia stellare. La secondaria blu, pur con massa e luminosit\u00e0 simili alla primaria, appare visivamente oltre 3 magnitudini pi\u00f9 debole: la differenza sta nell'estinzione e nella temperatura. La primaria ha perso ~5 M\u2609 dalla sequenza principale e si trova al bordo blu della striscia di instabilit\u00e0 delle Cefeidi. Distanza: 2.330\u00b161/65 pc = ~7.600 al (Kasikov 2026); le stime precedenti variavano 2.600-3.500 pc.",
+   "fonte_url": "https://en.wikipedia.org/wiki/V810_Centauri"
+  },
+  {
+   "id": "hd_125072",
+   "nome": "HD 125072",
+   "bayer": "Nessuna designazione Bayer (HD 125072, HIP 69972, GJ 542, LHS 2892)",
+   "origine_nome": "Designazione di catalogo Henry Draper; nessun nome proprio (verificato: assente dall'IAU-CSN).",
+   "magnitudine": "6,64 \u2014 appena sotto la soglia dell'occhio nudo",
+   "spettro": "K3 IV subgigante arancione (0,806 M\u2609, 0,83 R\u2609, 0,347 L\u2609, Teff 4.858\u00b147 K; metallicit\u00e0 [Fe/H] \u22120,70, et\u00e0 ~10 miliardi di anni)",
+   "distanza_al": 38.6,
+   "curiosita": "Una stella antica della popolazione del disco spesso: alta et\u00e0 (~10 miliardi di anni) e bassa metallicit\u00e0 (20% del Sole) raccontano una nascita in un'epoca in cui la Galassia era ancora povera di metalli. Il suo moto proprio \u00e8 enorme: quasi un primo d'arco all'anno (\u2212454,9, \u2212810,7 mas/a), e con una velocit\u00e0 radiale di \u221214,9 km/s si sta avvicinando al Sole. Per una stella cos\u00ec vicina e brillante \u00e8 stata misurata con precisione eccezionale. Distanza: 38,6 al (Gaia DR2 84,4535 mas, errore 0,03%; DR3 SIMBAD 84,6029 mas \u2192 38,6 al, conferma esatta).",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_125072"
+  },
+  {
+   "id": "ngc_3766",
+   "nome": "NGC 3766 (Caldwell 97)",
+   "bayer": "NGC 3766 (C 97, Mel 107, Cr 248, Dunlop 289, Lacaille III.7) \u2014 ammasso aperto",
+   "origine_nome": "Nessun nome proprio IAU: la designazione NGC \u00e8 di Dreyer. Scoperto da Nicolas Louis de Lacaille durante la sua astrometria del Capo, 1751-1752 (catalogo 1755).",
+   "magnitudine": "5,3 \u2014 visibile a occhio nudo da cielo buio, risolto con binocolo 10x50",
+   "spettro": "Ammasso aperto giovane (14,4 mln di anni, WEBDA; en Finlay 2014: 25,7 Myr \u2014 discrepanza annotata): ~137 stelle catalogate, prevalenza classe A, 11 stelle Be, 2 supergiganti rosse, 4 stelle Ap",
+   "distanza_al": 6656,
+   "curiosita": "Nel 2013 l'ESO vi ha annunciato 36 esemplari di una NUOVA classe di stelle variabili: stelle B pulsanti a rotazione rapida, che variano di pochi centesimi di magnitudine con periodi inferiori a mezzo giorno \u2014 pi\u00f9 calde delle Delta Scuti, pi\u00f9 fredde delle Slowly Pulsating B (Saio 2017 ne ha derivato la relazione periodo-luminosit\u00e0). Contiene la variabile a eclisse BF Centauri (8,5-9,4 mag, periodo 3,7 giorni). Si trova nella vasta regione di formazione stellare della nube molecolare della Carena, a 1,5\u00b0 nord di \u03bb Cen. Distanza: en/Tarricq 2021 2.041 pc = 6.656 al; WEBDA/SIMBAD 1.745 pc = 5.690 al; Gaia DR3 (Cantat-Gaudin 2020) 0,459 mas \u2192 ~7.100 al: adottato il valore moderno Tarricq.",
+   "fonte_url": "https://en.wikipedia.org/wiki/NGC_3766"
+  },
+  {
+   "id": "ngc_3918",
+   "nome": "NGC 3918 (Planetaria Blu)",
+   "bayer": "NGC 3918 (PK 294+4.1, Hen 2-74, ESO 170-1) \u2014 nebulosa planetaria",
+   "origine_nome": "\u00abBlue Planetary\u00bb (\u00abPlanetaria Blu\u00bb) \u00e8 il nome datole da John Herschel stesso, che la scopr\u00ec nel marzo 1834: l'unica \u00abplanetaria\u00bb dell'atlante di Lacaille/Caldwell con soprannome di colore, come la Planetaria Elastica del nord (NGC 7009).",
+   "magnitudine": "8,5 (it: 8,1) \u2014 la nebulosa planetaria pi\u00f9 brillante del cielo australe profondo",
+   "spettro": "Nebulosa planetaria: colore azzurro intenso \u00abcome le immagini di Nettuno di Voyager 2\u00bb; stella centrale mag 14,6; nebulosa in espansione a 24 km/s, avvicinamento 17\u00b13 km/s",
+   "distanza_al": 4900,
+   "curiosita": "Il suo colore blu intenso \u00e8 inusuale per una planetaria: nella maggior parte dominano il verde dell'ossigeno e il rosso dell'idrogeno, mentre qui la ricca emissione continua e le linee dello He II dominano. La stella centrale, mag 14,6, resta invisibile agli osservatori ottici per il bagliore della nebulosa che la circonda. In immagini profonde la nebulosa si estende fino a 19-20 secondi d'arco. Distanza: en.wiki 1,5 kpc = 4.900 al; it.wiki 2.600 al \u2014 la parallasse Gaia DR3 (0,2195 mas, errore 33% \u2192 14.860 al) non \u00e8 affidabile: adottato il valore en.",
+   "fonte_url": "https://it.wikipedia.org/wiki/NGC_3918"
+  },
+  {
+   "id": "3_centauri",
+   "nome": "3 Centauri (k Centauri)",
+   "bayer": "k Centauri (k Cen; Flamsteed 3 Centauri; variabile V983 Centauri; HIP 67669, WDS J13518-3300)",
+   "origine_nome": "Designazione Bayer minuscola \u00abk\u00bb (dopo le lettere maiuscole); nessun nome proprio. Nessuna voce it.wiki dedicata (verificata 404): fonte en.wikipedia.",
+   "magnitudine": "4,32 combinata (componenti 4,52 + 5,97)",
+   "spettro": "Sistema triplo: A = B5 III-IVp helium-weak (CP4), 5,0\u00b10,1 M\u2609, Teff 17.500 K; B = binaria spettroscopica (periodo 17,4 d) con visibile B8 V (2,47 M\u2609, Teff 9.638 K)",
+   "distanza_al": 300,
+   "curiosita": "La componente A \u00e8 una stella \u00abhelium-weak\u00bb chimicamente peculiare: nel suo spettro l'elio \u00e8 mancante, mentre N, P, Mn, Fe e Ni sovrabbondano e C, O, Mg, Al, S e Cl sono carenti \u2014 la firma della stratificazione causata da un campo magnetico lento. La compagna B nasconde una binaria spettroscopica a singola riga stretta a appena 2,485 mas. Era stata sospettata come binaria a eclisse (designazione variabile V983 Cen), ma l'AAVSO oggi la lista come NON variabile. Distanza: ~300 al (Gaia, parallasse ~11,1 mas); en.wiki \u00abapproximately 300 light years\u00bb.",
+   "fonte_url": "https://en.wikipedia.org/wiki/3_Centauri"
+  }
+ ],
+ "croce_del_sud": [
+  {
+   "id": "acrux",
+   "nome": "Acrux",
+   "bayer": "\u03b1 Crucis (\u03b1 Cru Aa; HD 108248, HIP 60718, HR 4730; sistema \u03b1 Cru Aa/Ab + B + C, CCDM J12266-6306)",
+   "origine_nome": "Acrux \u00e8 una contrazione moderna di \u00abAlpha Crucis\u00bb: il nome IAU ufficiale della componente Aa (WGSN 2016). Insieme a Mimosa e Gacrux appartiene al catalogo IAU; nessun nome antico specifico \u2014 la Croce fu descritta per la prima volta nel 1516 dal navigatore Andrea Corsali (lettera a Giuliano de' Medici) e adottata come costellazione da Augustin Royer nel 1679 (che non fu per\u00f2 il primo a distinguerla dal Centauro: globo di Molyneux 1592, catalogo di de Houtman 1603).",
+   "magnitudine": "0,76 (combinata; it: +0,81, en: 0,76) \u2014 13\u00aa stella pi\u00f9 brillante del cielo, la pi\u00f9 a sud delle stelle di prima grandezza",
+   "spettro": "Sistema multiplo: primaria Aa = B0.5 IV subgigante azzurra (17,2\u00b11,2 M\u2609, 6,8\u00b10,6 R\u2609, 31.110 L\u2609, Teff 28.950\u00b1980 K, Waisberg 2026); compagna B = B1 V; setstuplo complessivo",
+   "distanza_al": 348,
+   "curiosita": "La distanza \u00e8 in piena revisione: la parallasse dinamica dal nuovo modello del sistema (Waisberg 2026, interferometria VLTI/GRAVITY) d\u00e0 348\u00b15 al, mentre il valore classico (Hipparcos van Leeuwen) era 322\u00b118 al e la parallasse trigonometrica semplice 10,13 mas \u2192 322 al. Adottato il valore pi\u00f9 recente. Il sistema \u00e8 sorprendentemente ricco: oltre alla coppia stretta Aa/Ab (periodo 67,9 giorni, masse 17,2 e 9,6 M\u2609) esistono \u03b1 Cru B (a 4 secondi d'arco \u2248 380 UA, orbita ~3.000 anni) e \u03b1 Cru C, anch'esso binario (componenti Ca/Cb di 4,5 e \u22650,64 M\u2609, periodo 1,225 giorni) \u2014 complessivamente sette stelle. La vento stellare della primaria soffia a 2.000 km/s. Nella banda azzurra \u00e8 la stella pi\u00f9 luminosa del cielo australe, e nel 2026 la sua superfice \u00e8 stata risolta dall'interferometria VLTI/GRAVITY. Distanza en (348 al, Waisberg 2026) vs it (322 al): scelta en per l'arbitraggio pi\u00f9 recente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Acrux"
+  },
+  {
+   "id": "mimosa",
+   "nome": "Mimosa",
+   "bayer": "\u03b2 Crucis (\u03b2 Cru; HD 111123, HIP 62434, HR 4853, CPD \u221259\u00b0 4451; sistema multiplo con Becrux B, C, D)",
+   "origine_nome": "Il nome \u00abMimosa\u00bb (per la pianta, che volge i fiori alla luce come la stella volge la terra australe) fu coniato nel 1952 dalla Roman Catholic Foreign Mission Society of America, e ufficializzato dalla IAU nel 2016. Il nome alternativo Becrux deriva da Beta+Crux.",
+   "magnitudine": "+1,25 (it: +1,30) \u2014 19\u00aa stella pi\u00f9 brillante del cielo; seconda della Croce",
+   "spettro": "B0.5 III gigante azzurra (15 M\u2609, raggio misurato 8,4\u00b10,6 R\u2609 con H.E.S.S., Vogel 2025; L 34.000 L\u2609, Teff 27.000\u00b14.000 K); variabile Beta Cephei con 3 modi di pulsazione non radiali (0,161, 0,191 e 0,238 giorni)",
+   "distanza_al": 278.5,
+   "curiosita": "Il sistema Mimosa \u00e8 un laboratorio multiplo: attorno alla gigante azzurra orbitano Becrux B (A+Ba+Bb: B con una compagna di tipo M a 2,9 mas, periodo 5 anni) a 4,6 UA, Becrux C (nana bianca con disco di detriti, periodo 1.330 anni, rivelata nel 2021 con ALMA) e Becrux D (9 UA, periodo 0,026 mas). Con la stella di telescopio H.E.S.S. (Vogel 2025) \u00e8 stato misurato il raggio 8,4 R\u2609. La sua variabilit\u00e0 Beta Cephei \u00e8 conosciuta dal 1956: tre modi di pulsazione non radiali sovrapposti. \u00c8 un membro dell'associazione Centaurus-Crux (Scorpius-Centaurus). Distanza: SIMBAD/Gaia van Leeuwen 11,71 mas \u2192 278,5 al; en.wiki 279\u00b17, it box 278\u00b120 \u2014 la voce it.wiki \u00e8 per\u00f2 internamente contraddittoria (nel testo cita 291 e 352 al, valori da fonti pi\u00f9 vecchie): arbitrato il valore dell'infobox, concorde con en.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Crucis"
+  },
+  {
+   "id": "gacrux",
+   "nome": "Gacrux",
+   "bayer": "\u03b3 Crucis (\u03b3 Cru; HD 108903, HIP 61084, HR 4763, SAO 240019)",
+   "origine_nome": "Gacrux \u00e8 la contrazione moderna di \u00abGamma Crucis\u00bb, nome IAU ufficiale della componente principale (WGSN 2016). \u00c8 la stella di prima grandezza pi\u00f9 vicina al polo sud celeste: dista 27\u00b0 dal polo.",
+   "magnitudine": "+1,63 (24\u00aa stella pi\u00f9 brillante del cielo) \u2014 terza della Croce",
+   "spettro": "M3,5 III gigante rossa; 1,5\u00b10,3 M\u2609, raggio 74\u00b15 R\u2609 (Wood 2024, HST), Teff 3.630\u00b190 K, variabile semiregolare",
+   "distanza_al": 88.6,
+   "curiosita": "La gigante rossa pi\u00f9 vicina al Sole con magnitudine simile: a 88,6 anni luce, dista appena 27\u00b0 dal polo sud celeste ed \u00e8 stata visibile come stella polare sud quando la precessione spostava l'asse terrestre (l'ultimo contatto circa 2.000 anni fa, e non torner\u00e0 a esserlo). \u00c8 nota per aver subito il fenomeno di \u00abdoppio nucleo\u00bb da parte di ricercatori coreani, che hanno osservato nel 2016-2019 l'assorbimento in HI della nube circostellare risolta dal Wood 2024 con HST. \u00c8 la ventiquattresima stella pi\u00f9 luminosa del cielo. La seconda della Croce, Mimosa, dista da lei 7.300 anni luce in spazio reale, nonostante le appaia vicine: la figura della Croce \u00e8 solo prospettica. Distanza: it/en concordi 88,6 al (parallasse 36,83 mas van Leeuwen).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gacrux"
+  },
+  {
+   "id": "imai",
+   "nome": "Imai",
+   "bayer": "\u03b4 Crucis (\u03b4 Cru; HD 106490, HIP 59640, HR 4656, CPD \u221258\u00b0 4607)",
+   "origine_nome": "Imai, nome IAU ufficiale (WGSN, 10 agosto 2018), deriva dalla lingua dei Mursi dell'Etiopia: indica un cappello conico indossato per il rito del giraffo, indossato a luglio quando la stella sorge col sole all'alba \u2014 un segnale del calendario agricolo. Il nome si riferisce esplicitamente alla stella come indice calendariale.",
+   "magnitudine": "+2,78 (SIMBAD/en; it: 2,79) \u2014 quarta della Croce, la pi\u00f9 debole delle quattro della figura e la pi\u00f9 occidentale",
+   "spettro": "B2 IV subgigante azzurra; 8,9\u00b10,1 M\u2609, raggio ~6,9 R\u2609 (Sharma 2022, da luminosit\u00e0 8.100\u00b11.900 L\u2609 e Teff 20.400 K); et\u00e0 18,1\u00b13,2 mln di anni (Tetzlaff 2011); rotazione 210 km/s; variabile Beta Cephei con periodo ~3,7 ore",
+   "distanza_al": 345,
+   "curiosita": "Il vertice meridionale della Croce del Sud: la linea Gacrux\u2013Imai punta verso il polo sud celeste, e con l'asse Acrux\u2013Mimosa form\u00f2 la bussola dei navigatori dal XVI secolo. Il suo nome IAU \u00e8 uno dei pochi provenienti dall'Etiopia: per i Mursi, quando Imai \u00absmette di apparire al tramonto\u00bb (fine agosto) il fiume Omo si gonfia \u2014 un calendario stagionale stellar, insieme a \u03b2 Cru (Thaadoi), \u03b2 Cen (Waar) e \u03b1 Cen (Sholbi). Prima del 2018 non aveva nome proprio (Decrux informale). Membro del sottogruppo Lower Centaurus\u2013Crux di Scorpius-Centaurus: origine comune, ma non legata, ad Acrux e Mimosa. Distanza: caso di arbitraggio inverso \u2014 la parallasse Gaia DR3 (7,1681 mas, errore ~10%) \u00e8 MENO precisa della misura Hipparcos van Leeuwen 2007 (9,45\u00b10,15 mas \u2192 345\u00b16 al, usata da en.wiki): adottato Hipparcos 345 al. it.wiki 400\u00b120 al (valore pi\u00f9 vecchio).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Crucis"
+  },
+  {
+   "id": "ginan",
+   "nome": "Ginan",
+   "bayer": "\u03b5 Crucis (\u03b5 Cru; HD 107446, HIP 60260, HR 4700, CPD \u221260\u00b0 4522)",
+   "origine_nome": "Ginan, nome IAU ufficiale (WGSN, 10 agosto 2018): \u00abdillybag\u00bb (\u00absacchetto per il cibo\u00bb) nella lingua dei Wardaman, popolo aborigeno del Territorio del Nord australiano. \u00c8 uno dei due nomi IAU della Croce assegnati nel 2018 (con Imai).",
+   "magnitudine": "+3,56 (it; en/SIMBAD 3,58) \u2014 quinta della Croce",
+   "spettro": "K3 III gigante arancione (1,4\u20131,5\u00b10,2 M\u2609, raggio 31\u00b12 R\u2609 Kallinger / 32,9\u00b12,5 R\u2609 da Silva 2006; ~282\u2013330 L\u2609, Teff ~4.150\u20134.210 K; et\u00e0 ~2,2 mld di anni Jofr\u00e9); singola (Eggleton 2008)",
+   "distanza_al": 229.7,
+   "curiosita": "La quinta stella della Croce, quella che completa la figura: senza di lei l'asterismo sarebbe un rombo. \u00c8 l'UNICA stella della Croce presente sulla bandiera di Samoa, e sulla bandiera del Brasile rappresenta lo stato di Esp\u00edrito Santo. Storia curiosa verificata: il WGSN ha ammesso nel rapporto annuale 2023 di aver assegnato il nome PER ERRORE \u2014 \u00abGinan\u00bb \u00e8 in realt\u00e0 il nome Wardaman di ALFA Crucis; quello corretto per \u03b5 Cru sarebbe \u00abWuja\u00bb (\u00abfuoco\u00bb), ma il nome approvato non verr\u00e0 cambiato. \u00c8 una stella singola, a differenza delle altre della Croce, e catalogata NSV 5568 come sospetta variabile irregolare. Distanza: SIMBAD/Gaia DR3 parallasse 14,1999\u00b10,107 mas \u2192 229,7 al; it.wiki 228\u00b19, en ~230: concordi.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Crucis"
+  },
+  {
+   "id": "mu_crucis",
+   "nome": "Mu Crucis",
+   "bayer": "\u03bc Crucis (\u03bc Cru; HD 112092 = \u03bc\u00b9 Cru, HD 112091 = \u03bc\u00b2 Cru, HIP 63004/63005, HR 4898; binaria visuale 34,8\"; la stella brillante a NE nell'immagine it.wiki \u00e8 HD 112244, oggetto distinto)",
+   "origine_nome": "Designazione Bayer di Lacaille (1756): \u00e8 una delle due stelle non di prima grandezza a portare una lettera greca nella Croce (con \u03b5 Cru), assegnata per la sua luminosit\u00e0. Nessun nome proprio IAU (verificato: assente dall'IAU-CSN).",
+   "magnitudine": "+3,7 integrata (it; \u03bc\u00b9 = 4,0 SIMBAD, \u03bc\u00b2 = 5,1) \u2014 settima stella della costellazione",
+   "spettro": "Binaria visuale larga (34,9 secondi d'arco \u2248 \u22653.900 UA): \u03bc\u00b9 = B2 IV-V subgigante (8 M\u2609, 3,1 R\u2609, Teff 22.800 K, >1.000 L\u2609 it.wiki); \u03bc\u00b2 = B5 Vne stella Be (5 M\u2609, 2,5 R\u2609, Teff 16.500 K, rotazione ~230\u2013238 km/s, disco a 36\u00b0 dalla linea di vista)",
+   "distanza_al": 400,
+   "curiosita": "Coppia vastissima probabilmente legata fisicamente: le due stelle distano 34,9 secondi d'arco, oltre 3.900 UA, e completano un'orbita in ~68.000 anni (Kaler). La lettera \u03bc fu assegnata da Benjamin Apthorp Gould nel 1879, che giudic\u00f2 le due stelle abbastanza brillanti da meritare una lettera greca (Lacaille nel 1756 si era fermato alla \u03bb). \u03bc\u00b2 \u00e8 una stella Be: il disco equatoriale generato dalla rotazione rapida produce le righe di emissione, e in passato la sua emissione X non confermata l'aveva sospettata come binaria X di grande massa. Entrambe appartengono all'associazione Scorpius-Centaurus (sottogruppo Lower Centaurus\u2013Crux), in primo piano rispetto al centro del gruppo (~118 pc). Il sistema si allontana dal Sole (v_rad ~+14 km/s). Distanza: Gaia DR3 \u03bc\u00b9 8,0152 mas \u2192 407\u00b111 al, \u03bc\u00b2 8,2668 mas \u2192 395\u00b16 al; en.wiki ~370 al (DR2); it 360\u2013380: arbitrato \u2248400 al (valore Gaia DR3 arrotondato, coordinato con en).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Mu_Crucis"
+  }
+ ]
+}
