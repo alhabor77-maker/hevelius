@@ -1,0 +1,50 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Volpetta (Vulpecula cum Ansere)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg/960px-Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg",
+   "titolo_tavola": "Fig. L \u2013 Vulpecula cum Ansere (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Prodromus_astronomiae_1690_(436055)_(cropped).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Prodromus_astronomiae_1690_(436055)_(cropped).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare 'Gedani: typis Johannis Zachariae Stollii, 1690' \u2014 serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg/960px-Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    754
+   ],
+   "dimensioni_originale_px": [
+    4445,
+    3492
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. L",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Prodromus_astronomiae_1690_(436055)_(cropped).jpg",
+   "note_qualita": "Scansione ad alta risoluzione (4445 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima; stile coerente con le altre tavole del sito (serie Polona, come il batch Orsa Minore + Drago). Il nome del file non contiene 'vulpecula': la caption verifica che la tavola \u00e8 quella della Volpetta con l'oca (Vulpecula cum Ansere), etichetta Fig. L."
+  },
+  {
+   "costellazione": "Lucertola (Lacerta sive Stellio)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/960px-Prodromus_astronomiae_1690_%285590307%29.jpg",
+   "titolo_tavola": "Fig. M \u2013 Lacerta sive Stellio (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Prodromus_astronomiae_1690_(5590307).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Prodromus_astronomiae_1690_(5590307).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare 'Gedani: typis Johannis Zachariae Stollii, 1690' \u2014 serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/960px-Prodromus_astronomiae_1690_%285590307%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    737
+   ],
+   "dimensioni_originale_px": [
+    6130,
+    4704
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. M",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Prodromus_astronomiae_1690_(5590307).jpg",
+   "note_qualita": "Scansione ad altissima risoluzione (6130 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima; stile coerente con le altre tavole del sito (serie Polona). I file della serie Polona sono nominati solo con l'id (nessuna costellazione nel nome): tavola identificata per esclusione e verificata via caption \u2014 LACERTA sive STELLIO al centro, etichetta Fig. M, testo NON specchiato. Scartata espressamente la versione 'Lacerta Hevelius.jpg' (vista da globo celeste, testo specchiato) e la tavola atlascoelestis 'Tavola M' (584\u00d7486, troppo piccola)."
+  }
+ ]
+}

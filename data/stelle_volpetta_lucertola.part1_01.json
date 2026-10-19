@@ -1,0 +1,182 @@
+{
+ "volpetta": [
+  {
+   "id": "anser",
+   "nome": "Anser",
+   "bayer": "\u03b1 Vulpeculae (\u03b1 Vul; 6 Vulpeculae, Flamsteed; HD 183439)",
+   "origine_nome": "Anser, \u00aboca\u00bb in latino, approvato dalla UAI il 30 giugno 2017: ricorda l'oca che la volpe tiene tra le fauci nella figura originale Vulpecula cum Ansere di Hevelius. La costellazione dell'oca non esiste pi\u00f9, ma sopravvive nel nome della stella. Nomi tradizionali minori: Lucida / Lukida Anseris (presenti solo nelle fonti italiane).",
+   "magnitudine": "4,44",
+   "spettro": "M0 III (gigante rossa; la voce inglese d\u00e0 M1)",
+   "distanza_al": 296,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa della Volpetta e l'unica con una lettera greca di Bayer, assegnata solo nel 1845 da Francis Baily: emblematico di una costellazione senza stelle brillanti. \u00c8 una gigante rossa evoluta di circa 1,5 masse solari, con temperatura di 3690-3850 K, luminosit\u00e0 di 390-416 soli e un'et\u00e0 di circa 11,3 miliardi di anni. Nella figura di Hevelius sta sul naso della volpe. Forma una larga coppia ottica con 8 Vulpeculae (magnitudine 5,82), risolvibile col binocolo e gi\u00e0 misurata da Friedrich Georg Wilhelm von Struve nel 1835. Una presunta variabilit\u00e0 di ~0,1 magnitudini non \u00e8 mai stata confermata. La distanza qui scelta \u00e8 quella della tabella della voce italiana (296 anni luce); la voce inglese d\u00e0 291. Per il raggio le fonti divergono per metodo di misura (41 raggi solari dall'inglese, 53 dall'italiano via diametro angolare), quindi non \u00e8 riportato come numero certo.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Anser_(astronomia)"
+  },
+  {
+   "id": "23_vul",
+   "nome": "23 Vulpeculae",
+   "bayer": "23 Vulpeculae (23 Vul, Flamsteed; HD 192806)",
+   "origine_nome": "Nessun nome proprio: porta solo il numero di Flamsteed, dal catalogo del 1712.",
+   "magnitudine": "4,50",
+   "spettro": "K3 III Fe-1 (gigante arancione con carenza di ferro nello spettro)",
+   "distanza_al": 328,
+   "curiosita": "\u00c8 la seconda stella pi\u00f9 brillante della Volpetta AL POSTO di una Beta Vulpeculae che non esiste: nella costellazione non compare la lettera \u03b2. \u00c8 un sistema triplo: le due componenti principali Aa+Ab sono una binaria stretta con periodo di 25,33 anni ed eccentricit\u00e0 0,40, con una terza componente di magnitudine 6,94 a 0,26 secondi d'arco. La principale ha 2,4 masse solari, 288 luminosit\u00e0 solari e temperatura di 4413 K. Dista 328 anni luce secondo la voce italiana della costellazione (la voce inglese d\u00e0 327).",
+   "fonte_url": "https://en.wikipedia.org/wiki/23_Vulpeculae"
+  },
+  {
+   "id": "4_vul",
+   "nome": "4 Vulpeculae",
+   "bayer": "4 Vulpeculae (4 Vul, Flamsteed; HD 182762)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed.",
+   "magnitudine": "5,14",
+   "spettro": "K0 III (gigante arancione, red clump: fusione dell'elio nel nucleo)",
+   "distanza_al": 260,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa dell'asterismo dell'Attaccapanni (Collinder 399), il celebre allineamento a forma di gruccia nel Triangolo Estivo: sei stelle in fila e un gancio di quattro. Fu descritto da al-Sufi nel 964 d.C. nel Libro delle stelle fisse come \u00abnebulosa contenente stelle di 4a, 5a e 6a magnitudine\u00bb; per decenni creduto un ammasso aperto, dagli studi Hipparcos (1997-1998) \u00e8 solo un asterismo, senza alcun legame fisico tra le sue stelle. Non fu catalogato da Messier, Herschel n\u00e9 nel NGC; il primo catalogo fu quello di Per Collinder nel 1931, e nella parte orientale dell'allineamento siede il piccolo ammasso NGC 6802. La stella ha 1,72 masse solari, 11,4 raggi solari e un'et\u00e0 di circa 2,6 miliardi di anni. La distanza qui scelta (260 anni luce) viene dalla parallasse della voce inglese (12,53 mas); la tabella italiana d\u00e0 237.",
+   "fonte_url": "https://en.wikipedia.org/wiki/4_Vulpeculae"
+  },
+  {
+   "id": "29_vul",
+   "nome": "29 Vulpeculae",
+   "bayer": "29 Vulpeculae (29 Vul, Flamsteed; HD 196724)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed.",
+   "magnitudine": "4,82",
+   "spettro": "A0V (nana bianco-azzurra; leggere anomalie di abbondanza tipo Am debole)",
+   "distanza_al": 213,
+   "curiosita": "\u00c8 catalogata come shell star: nel suo spettro compaiono tratti di un guscio circumstellare pi\u00f9 freddo, forse in formazione. \u00c8 anche una binaria spettroscopica sospetta (probabile binaria astrometrica): le misure HARPS di velocit\u00e0 radiale mostrano un'ampiezza di 4 km/s di periodo sconosciuto. Membro del superammasso IC 2391, si sta avvicinando al Sole a 17 km/s. Ha 2,67 masse solari, circa 71 luminosit\u00e0 solari, temperatura di 10.507 K, un'et\u00e0 di circa 254 milioni di anni e ruota a 52 km/s. La distanza qui scelta \u00e8 quella della tabella italiana (213 anni luce); la voce inglese d\u00e0 209.",
+   "fonte_url": "https://en.wikipedia.org/wiki/29_Vulpeculae"
+  },
+  {
+   "id": "t_vul",
+   "nome": "T Vulpeculae",
+   "bayer": "T Vulpeculae (T Vul; HD 198726; designazione di stella variabile)",
+   "origine_nome": "Nessun nome proprio: la designazione T Vul \u00e8 quella di stella variabile, secondo la convenzione dei cataloghi di variabili (costellazione, ordine di scoperta).",
+   "magnitudine": "5,41\u20136,09",
+   "spettro": "F5 Ib (supergigante giallo-bianca; la classe spettrale varia nel ciclo di pulsazione)",
+   "distanza_al": 1900,
+   "curiosita": "\u00c8 una cefeide classica ben studiata e una delle pi\u00f9 brillanti conosciute: varia da magnitudine 5,41 a 6,09 in 4,435 giorni. La variabilit\u00e0 fu scoperta da Edwin Sawyer nel 1885, e le osservazioni raccolte tra il 1885 e il 2003 mostrano una piccola ma continua diminuzione del periodo, 0,25 secondi all'anno. Nel 1992 fu rilevata una possibile compagna di tipo A0.8 V (2,1 masse solari), ma il dubbio che sia una vera binaria rimane. La distanza qui scelta \u00e8 quella della voce inglese, circa 1.900 anni luce; la tabella italiana d\u00e0 1672.",
+   "fonte_url": "https://en.wikipedia.org/wiki/T_Vulpeculae"
+  },
+  {
+   "id": "ck_vul",
+   "nome": "CK Vulpeculae",
+   "bayer": "CK Vulpeculae (CK Vul; Nova Vulpeculae 1670; 11 Vulpeculae, Flamsteed)",
+   "origine_nome": "Nessun nome proprio: la designazione CK Vul \u00e8 quella di stella variabile; il nome storico \u00e8 Nova Vulpeculae 1670, la nova del 1670. Flamsteed la numer\u00f2 come 11 Vulpeculae, una delle sue \u00abstelle perdute\u00bb: non pi\u00f9 rilevabile nei secoli successivi.",
+   "magnitudine": "oggi ~20,7 (oggetto centrale); al massimo storico ~3 nel 1670 e ~2,6 nel marzo 1671",
+   "spettro": "oggetto transitorio di natura ancora dibattuta",
+   "distanza_al": null,
+   "curiosita": "L'enigma di Hevelius. Fu scoperta il 20 giugno 1670 da Voituret Anthelme e indipendentemente il 25 luglio 1670 da JOHANNES HEVELIUS: la prima nova con osservazioni multiple e affidabili. Hevelius e Cassini la seguirono fino all'agosto 1671, e Hevelius osserv\u00f2 un ultimo massimo debole nel marzo 1672. La natura \u00e8 ancora dibattuta: un tempo considerata la pi\u00f9 antica nova documentata in modo affidabile, oggi \u00e8 classificata come luminous red nova (fusione di due stelle), mentre uno studio del 2018 propone la fusione di una nana bianca con una nana bruna (ALMA) e un altro del 2020 la chiama intermediate luminosity optical transient di causa sconosciuta. Nella nebulosa attorno, osservata con ALMA/NOEMA, \u00e8 stata trovata la prima prova convincente di una molecola radioattiva fuori dal Sistema Solare (isotopo 26Al del monofluoruro di alluminio). Uno studio storico del 2025 suggerisce una possibile eruzione precedente nel 1408, registrata dagli astronomi cinesi. Il gas fuoriesce a circa 210 km/s in una nebulosa bipolare di 70 secondi d'arco. La distanza \u00e8 molto incerta: le stime vanno da circa 2.000 a forse 10.000 anni luce (studio 2020, Gemini nord), per questo non viene indicata come numero certo.",
+   "fonte_url": "https://it.wikipedia.org/wiki/CK_Vulpeculae"
+  },
+  {
+   "id": "psr_b1919",
+   "nome": "PSR B1919+21",
+   "bayer": "PSR B1919+21 (originariamente CP 1919, \u00abCambridge Pulsar at RA 19h19m\u00bb; anche PSR J1921+2153)",
+   "origine_nome": "Nessun nome proprio: la designazione PSR B1919+21 deriva dalle coordinate. Il soprannome scherzoso LGM-1 (\u00abLittle Green Men 1\u00bb, \u00abomini verdi\u00bb) nacque dal sospetto iniziale che il segnale regolare potesse venire da una civilt\u00e0 extraterrestre.",
+   "magnitudine": "non applicabile (pulsar, emette solo onde radio)",
+   "spettro": "stella di neutroni in rapida rotazione",
+   "distanza_al": null,
+   "curiosita": "La PRIMA pulsar mai scoperta. Il 28 novembre 1967 Jocelyn Bell Burnell, dottoranda a Cambridge sotto Antony Hewish, rilev\u00f2 con l'Interplanetary Scintillation Array del Mullard Radio Astronomy Observatory un segnale regolare di periodo 1,3373 secondi (misurato con la precisione di 1,337302088331 s, impulso largo 0,04 s): il primo oggetto di questo tipo della storia. La regolarit\u00e0 fece pensare per un breve periodo a un segnale alieno (da qui LGM-1); Thomas Gold e Fred Hoyle identificarono subito la natura: una stella di neutroni in rapida rotazione, fino ad allora solo ipotizzata. Per la scoperta delle pulsar il Nobel per la fisica 1974 and\u00f2 a Hewish e Ryle, senza Bell Burnell: Fred Hoyle sostenne pubblicamente che avrebbe dovuto riceverlo, e la controversia \u00e8 rimasta famosa (a lei nel 2018 il Breakthrough Prize da 3 milioni di dollari). Gli impulsi di CP 1919 sono la copertina di Unknown Pleasures dei Joy Division (1979), disegno dell'astronomo Harold Craft, e Max Richter ha scritto Journey (CP1919). La distanza \u00e8 incerta: i modelli della materia interstellare la collocano tra circa 1.000 e 3.300 anni luce, per questo non viene indicata come numero certo. Nella stessa costellazione, quindici anni dopo, fu scoperta la prima pulsar millisecondo (PSR B1937+21).",
+   "fonte_url": "https://it.wikipedia.org/wiki/PSR_B1919%2B21"
+  },
+  {
+   "id": "hd_189733",
+   "nome": "HD 189733",
+   "bayer": "HD 189733 (HIP 98505; BD+22 3887; variabile V452 Vulpeculae)",
+   "origine_nome": "Nessun nome proprio: porta la designazione di catalogo Henry Draper. La designazione di variabile V452 Vulpeculae (variabile BY Draconis, dal 2006) deriva dalle macchie stellari che ne fanno oscillare la luminosit\u00e0.",
+   "magnitudine": "7,67",
+   "spettro": "K1.5V (nana arancione; compagna nana rossa di classe M a 216 unit\u00e0 astronomiche)",
+   "distanza_al": 65,
+   "curiosita": "Ospita HD 189733 b, un gioviano caldo scoperto nel 2005, il sistema planetario pi\u00f9 celebre della Volpetta: il pianeta orbita in circa 2 giorni a 0,03 unit\u00e0 astronomiche ed \u00e8 13-15% pi\u00f9 grande di Giove. Nel 2007 con lo Spitzer (team di Giovanna Tinetti) fu trovato vapore acqueo nella sua atmosfera: \u00e8 il SECONDO pianeta extrasolare con prove definitive di acqua. Nel 2013 le misure di albedo con Hubble hanno rivelato un colore azzurro profondo, dovuto a nuvole riflettenti con pioggia di silicati; nel 2008 firma del CO2, nel 2020 nebbie opache con sodio e potassio, nel 2021 variazioni dei tempi di transito che suggeriscono altri pianeti. Con Spitzer \u00e8 stata realizzata una mappa grezza delle nuvole, con il punto pi\u00f9 caldo spostato di circa 30 gradi in longitudine (venti fortissimi). \u00c8 a soli 0,3\u00b0 dalla Nebulosa Manubrio (M27), la prima nebulosa planetaria mai scoperta (Messier, 1764). La stella, variabile BY Dra, ha macchie stellari che ne alterano la luminosit\u00e0 dell'1,5%; la presunta interazione magnetica stella-pianeta (flaring indotto, 2008-2010) \u00e8 stata smentita dall'analisi del 2019. La compagna nana rossa orbita in circa 3.200 anni secondo la voce inglese (la italiana d\u00e0 32.000 anni: qui si segue il valore pi\u00f9 recente).",
+   "fonte_url": "https://it.wikipedia.org/wiki/HD_189733"
+  }
+ ],
+ "lucertola": [
+  {
+   "id": "alpha_lac",
+   "nome": "Stellio",
+   "bayer": "\u03b1 Lacertae (\u03b1 Lac; 7 Lacertae, Flamsteed)",
+   "origine_nome": "Stellio, \u00ablucertola stellata\u00bb in latino, approvato dalla UAI il 29 agosto 2024: riprende Stellio, il nome alternativo che Hevelius stesso aveva dato alla costellazione, dallo stellione Laudakia stellio, la lucertola con macchie dorsali a forma di stella. \u00c8 il collegamento diretto tra la stella e la storia del suo inventore. La lettera \u03b1 non \u00e8 di Hevelius: fu assegnata da Francis Baily nel 1845, come per la Lince.",
+   "magnitudine": "3,76",
+   "spettro": "A1 V (standard MK della classe, Cowley 1969; sequenza principale bianco-azzurra, 9050 K)",
+   "distanza_al": 103,
+   "curiosita": "\u00c8 la stella pi\u00f9 brillante della Lucertola e, insieme a Beta, l'unica ben visibile a occhio nudo: le stelle della costellazione formano una \u00abW\u00bb che le \u00e8 valso il soprannome di \u00abPiccola Cassiopea\u00bb. Ruota su s\u00e9 stessa in appena 17 ore (periodo di 0,7085 giorni rilevato da TESS nel 2021) con una velocit\u00e0 proiettata di 128 km/s secondo la fonte pi\u00f9 recente (David & Hillenbrand 2015; la voce italiana d\u00e0 146 km/s, periodo identico). \u00c8 la primaria di una binaria solo ottica: la compagna di magnitudine 11,8 a 36,3 secondi d'arco \u00e8 in realt\u00e0 molto pi\u00f9 lontana (circa 2.700 anni luce), semplicemente allineata sulla linea di vista. Ha 2,2 masse solari, 2,14 raggi solari, 27,7 luminosit\u00e0 solari e un'et\u00e0 di circa 400 milioni di anni. Dista 102,6 \u00b1 0,4 anni luce dalla parallasse.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alfa_Lacertae"
+  },
+  {
+   "id": "beta_lac",
+   "nome": "Alsamaka",
+   "bayer": "\u03b2 Lacertae (\u03b2 Lac; 3 Lacertae, Flamsteed)",
+   "origine_nome": "Alsamaka, nome approvato dalla UAI (Working Group on Star Names), dall'arabo e riferito all'asterismo. Anche la \u03b2 proveniva dal turbante di Cefeo di Hevelius, incorporato nella costellazione da Flamsteed; la lettera fu assegnata da Baily nel 1845.",
+   "magnitudine": "4,43",
+   "spettro": "G8 III (gigante gialla, red clump evolutivo; la voce italiana d\u00e0 G9 III bCa1)",
+   "distanza_al": 170,
+   "curiosita": "\u00c8 la seconda stella della Lucertola, ma \u00e8 di gran lunga meno luminosa di Alpha: una gigante gialla in ombra nella coppia. I dati fisici divergono fortemente tra le due voci: la massa inglese \u00e8 0,97 \u00b1 0,21 masse solari (Baines 2018, interferometro NPOI) contro 1,85 dell'italiana (Takeda 2008), e l'et\u00e0 inglese 6,76 \u00b1 3,59 miliardi di anni contro 1,3 miliardi dell'italiana. Qui si seguono i valori di Baines 2018, misurati direttamente. Ha 10,96 raggi solari e temperatura di 4803 K; la metallicit\u00e0, \u22120,33 dex (circa il 47% del Sole), \u00e8 coerente tra le due fonti. \u00c8 una doppia: la compagna CHR 108 sta a soli 0,2 secondi d'arco, con angolo di posizione 168\u00b0. Dista 170 anni luce, coerenti tra le due voci.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Lacertae"
+  },
+  {
+   "id": "ew_lac",
+   "nome": "EW Lacertae",
+   "bayer": "Nessuna lettera di Bayer n\u00e9 numero di Flamsteed (EW Lac; HD 217050, HR 8731)",
+   "origine_nome": "Nessun nome proprio: la designazione EW Lacertae \u00e8 quella di stella variabile, assegnata nel General Catalogue of Variable Stars nel 1958.",
+   "magnitudine": "5,22\u20135,48",
+   "spettro": "B4IIIpe (gigante calda con righe in emissione, shell star)",
+   "distanza_al": 940,
+   "curiosita": "\u00c8 una stella Be con un disco di gas visto quasi di taglio, e un esempio locale delle variabili Gamma Cassiopeiae: il suo spettro \u00e8 variabile e monitorato per oltre un secolo (spettrogrammi dal 1887, guscio notato nel 1913, studi di Frost 1919 e Baldwin 1943). La variabilit\u00e0 fu scoperta da Merle Walker al Lick Observatory negli anni Cinquanta, con la designazione nel GCVS del 1958. \u00c8 visibile a occhio nudo sotto cieli bui, e le sue variazioni vanno da ore a decenni, con un periodo principale di circa 8,7 ore. La distanza qui scelta \u00e8 quella della voce inglese (circa 940 anni luce, da Gaia DR3); Universe Guide d\u00e0 822. La classificazione come variabile Gamma Cas (voce inglese) prevale su quella \u00abirregolare\u00bb usata dalla voce italiana della costellazione.",
+   "fonte_url": "https://en.wikipedia.org/wiki/EW_Lacertae"
+  },
+  {
+   "id": "ev_lac",
+   "nome": "EV Lacertae",
+   "bayer": "Nessuna lettera di Bayer n\u00e9 numero di Flamsteed (EV Lac; Gliese 873, HIP 112460)",
+   "origine_nome": "Nessun nome proprio: la designazione EV Lacertae \u00e8 quella di stella variabile (stella a lampi); porta anche il numero di Gliese nel catalogo delle stelle vicine.",
+   "magnitudine": "10 (quiescente; nei lampi pu\u00f2 brillare molto oltre)",
+   "spettro": "M3.5 (nana rossa, stella a lampi, emette raggi X)",
+   "distanza_al": 16,
+   "curiosita": "\u00c8 la stella pi\u00f9 vicina al Sole della Lucertola (16,48 anni luce) e una campionessa di lampi: il 25 aprile 2008 il satellite Swift della NASA ha colto il flare pi\u00f9 potente mai visto da una stella diversa dal Sole, migliaia di volte pi\u00f9 energico del massimo flare solare; sarebbe stato visibile a occhio nudo se la stella fosse stata in una parte osservabile del cielo. \u00c8 giovane (circa 300 milioni di anni) e in rapida rotazione: la rotazione veloce insieme all'interno convettivo genera un campo magnetico molto pi\u00f9 forte di quello del Sole, il motore dei lampi. Nel 2022 un gruppo della Kyoto University guidato da Shun Inoue ha osservato un nuovo grande flare, annunciato a fine 2023.",
+   "fonte_url": "https://en.wikipedia.org/wiki/EV_Lacertae"
+  },
+  {
+   "id": "ads_16402",
+   "nome": "ADS 16402 (HAT-P-1)",
+   "bayer": "Nessuna lettera di Bayer n\u00e9 numero di Flamsteed (ADS 16402; HAT-P-1 = componente B)",
+   "origine_nome": "Nessun nome proprio: la designazione ADS 16402 viene dal catalogo delle doppie di Aitken Double Stars; HAT-P-1 dal progetto HATNet (Hungarian Automated Telescope), che ha scoperto il pianeta.",
+   "magnitudine": "~10,4 (componenti ~10,4 e ~10,8)",
+   "spettro": "due stelle simili al Sole (A ~F8V, B ~G0V)",
+   "distanza_al": 525,
+   "curiosita": "La binaria dove \u00e8 nato il \u00abpianeta meno denso del sughero\u00bb. Il 14 settembre 2006 il progetto HATNet ha annunciato il pianeta HAT-P-1b attorno alla componente B, la pi\u00f9 debole delle due: un gioviano caldo con raggio INASPETTATAMENTE grande e densit\u00e0 bassissima, \u00abcirca quanto il sughero\u00bb (comunicato Harvard-Smithsonian; il New York Times intitol\u00f2 \u00abPuzzling Puffy Planet, Less Dense Than Cork, Is Discovered\u00bb). Il pianeta ha massa 0,53 \u00b1 0,04 masse gioviane, periodo di 4,47 giorni e orbita a 8,27 milioni di km dalla stella. La binaria fu scoperta da John Herschel nel 1831; le due componenti sono separate 11,26 secondi d'arco. L'atmosfera del pianeta \u00e8 stata studiata con Hubble (sodio rilevato nel 2014) e nel 2022 vi sono stati rilevati i radicali C2, CN e CH. La distanza qui scelta \u00e8 525 anni luce (voce ADS 16402); la voce HAT-P-1b d\u00e0 521, coerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/ADS_16402"
+  },
+  {
+   "id": "hd_215441",
+   "nome": "Stella di Babcock",
+   "bayer": "Nessuna lettera di Bayer n\u00e9 numero di Flamsteed (HD 215441; variabile GL Lacertae)",
+   "origine_nome": "Nessun nome proprio ufficiale: \u00e8 nota come \u00abBabcock's Star\u00bb (Sky Catalogue 2000.0) per Horace W. Babcock, che ne misur\u00f2 il campo magnetico nel 1960. La designazione di variabile GL Lacertae segue la convenzione dei cataloghi di variabili.",
+   "magnitudine": "8,73\u20138,90",
+   "spettro": "B8p(Si) o A0p (stella Ap peculiare ricca di silicio)",
+   "distanza_al": null,
+   "curiosita": "Il campo magnetico record. Nel 1960 Horace W. Babcock ne misur\u00f2 il campo con il metodo Zeeman: 34.400 \u00b1 266 gauss, tra i pi\u00f9 forti campi magnetici noti tra le stelle Ap (dipolo di circa 62.000 gauss inclinato di circa 37\u00b0 rispetto all'asse di rotazione). \u00c8 il classico \u00abrotatore obliquo\u00bb: campo e luminosit\u00e0 variano insieme con periodo 9,49 giorni, e le righe spettrali fino al 120% in un ciclo. Ha 3,9 masse solari, oltre 200 luminosit\u00e0 solari, temperatura di 14.500 K e ruota lentamente (v sin i < 6 km/s). La magnitudine varia tra 8,73 e 8,90, quindi non \u00e8 visibile a occhio nudo. La distanza (circa 5.100 anni luce) proviene solo da fonti esterne a Wikipedia (constellation-guide), per questo non \u00e8 riportata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_215441"
+  },
+  {
+   "id": "8_lac",
+   "nome": "8 Lacertae",
+   "bayer": "8 Lacertae (8 Lac, Flamsteed; STF 2922 nel catalogo WDS)",
+   "origine_nome": "Nessun nome proprio: porta solo il numero di Flamsteed, dal catalogo del 1712.",
+   "magnitudine": "5,7 (componente A; combinata ~5,73; B 5,69-6,6)",
+   "spettro": "A: stella Be (binaria stretta Aa+Ab, P = 33,1 \u00b1 3,6 anni, e = 0,83); B: B2V",
+   "distanza_al": 1200,
+   "curiosita": "Il sistema multiplo di punta per i telescopi amatoriali della Lucertola e membro dell'associazione Lacerta OB1: la coppia principale A-B, con componenti di quinta e sesta grandezza, \u00e8 separata da 22,5 secondi d'arco e risolvibile anche con piccoli strumenti. La componente A \u00e8 essa stessa una binaria stretta risolta con l'interferometro CHARA (Klement 2024), con due componenti di 6 e 4,9 raggi solari; era stata ipotizzata una compagna subnana blu di tipo O, non confermata dagli studi recenti (Wang 2021). La B orbita attorno al baricentro a oltre 11.000 unit\u00e0 astronomiche, con un periodo di circa 267.000 anni; nella stessa zona compaiono altre compagne visuali C, D, E, alcune probabilmente solo sulla linea di vista. Dista circa 1.200 anni luce, secondo la voce italiana che la colloca in Lacerta OB1.",
+   "fonte_url": "https://it.wikipedia.org/wiki/8_Lacertae"
+  },
+  {
+   "id": "v424_lac",
+   "nome": "Tengshe",
+   "bayer": "Nessuna lettera di Bayer n\u00e9 numero di Flamsteed (V424 Lac; HR 8726; HD 216946)",
+   "origine_nome": "Tengshe (\u87a3\u86c7), \u00abserpente volante\u00bb, dal nome dell'asterismo cinese di 22 stelle di cui questa \u00e8 la stella centrale: un raro riconoscimento dell'astronomia cinese da parte della UAI, in memoria dell'antica figura (Ian Ridpath, Star Tales). Nessuna lettera di Bayer: la designazione di variabile V424 Lacertae (variabile Lc) segue la convenzione dei cataloghi.",
+   "magnitudine": "4,91\u20135,03",
+   "spettro": "K5 Ib (supergigante rossa, 3749 K; talvolta classificata M0 Iab)",
+   "distanza_al": 2300,
+   "curiosita": "Una supergigante rossa enorme: 304 \u00b1 24 raggi solari misurati con l'interferometro CHARA (2026), circa 16.600 luminosit\u00e0 solari e 6,8 masse solari \u2014 se fosse al posto del Sole arriverebbe oltre l'orbita di Marte (304 raggi \u2248 1,4 unit\u00e0 astronomiche). \u00c8 un caso di studio per i \u00ablong secondary periods\u00bb delle supergiganti rosse: lo studio di Messina 2007 sostiene un'origine pulsazionale della variabilit\u00e0 lenta (magnitudine tra 4,91 e 5,03). \u00c8 membro dell'associazione Lacerta OB1. Dista circa 2.300 anni luce (parallasse 1,4018 mas).",
+   "fonte_url": "https://en.wikipedia.org/wiki/V424_Lacertae"
+  }
+ ]
+}

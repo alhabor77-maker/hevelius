@@ -49,5 +49,9 @@
       blurb: 'L’eroe in ginocchio con la clava, il più grande del cielo dopo le stelle di prima magnitudine.' },
     { id: 'sestante', nome: 'Sestante', latino: 'Sextans', tavola: 'Fig. VV', img: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg/960px-Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg', w: 960, h: 754,
       blurb: 'Il Sestante di Urania, creato da Hevelius in memoria dello strumento perso nell’incendio del 1679.' },
+    { id: 'volpetta', nome: 'Volpetta', latino: 'Vulpecula', tavola: 'Fig. L', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg/1920px-Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg/960px-Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg', w: 1920, h: 1510,
+      blurb: 'La volpe con l\u2019oca in bocca, al centro del Triangolo Estivo: qui la prima pulsar della storia.' },
+    { id: 'lucertola', nome: 'Lucertola', latino: 'Lacerta', tavola: 'Fig. M', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/1920px-Prodromus_astronomiae_1690_%285590307%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/960px-Prodromus_astronomiae_1690_%285590307%29.jpg', w: 1920, h: 1474,
+      blurb: 'Lo Stellio di Hevelius, la «Piccola Cassiopea» nella Via Lattea fra Cefeo e Pegaso.' },
   ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori
