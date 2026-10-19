@@ -1,0 +1,226 @@
+
+ "fenice": [
+  {
+   "id": "ankaa",
+   "nome": "Ankaa",
+   "bayer": "\u03b1 Phoenicis (\u03b1 Phe; HD 2261, HIP 2081)",
+   "origine_nome": "Dall'arabo \u0627\u0644\u0639\u0646\u0642\u0627\u0621 (al-\u02bfanq\u0101\u02be), \u00abla fenice\u00bb: il nome della costellazione intera, l'uccello che rinasce dalle proprie ceneri. Nomi tradizionali: Nair al Zaurak (\u00abil luminoso della barca\u00bb), Cymbae, Lucida Cymbae. Nome ufficiale IAU.",
+   "magnitudine": "2,38 (it.wiki tabella 2,40)",
+   "spettro": "K0.5 IIIb (gigante arancione); 0,96 M\u2609, raggio 13,39 R\u2609, 83 L\u2609, Teff 4770 K, metallicit\u00e0 [Fe/H] \u22120,73",
+   "distanza_al": 82,
+   "curiosita": "\u00c8 il vertice meridionale di un grande triangolo con Fomalhaut e Deneb Kaitos (Balena). Binaria spettroscopica con periodo di 3848,8 giorni (circa 10,5 anni) ed eccentricit\u00e0 0,34. Nella tradizione cinese apre l'asterismo Shu\u01d0 W\u011bi (\u6c34\u59d4, \u00abl'acqua che scorre torta\u00bb) insieme ad Achernar, la foce dell'Eridano: le due costellazioni si toccano anche in cielo. Distanza: 82 \u00b1 1 anni luce (Hipparcos van Leeuwen 2007); la tabella italiana d\u00e0 77.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Phoenicis"
+  },
+  {
+   "id": "beta_phoenicis",
+   "nome": "Beta Phoenicis",
+   "bayer": "\u03b2 Phoenicis (\u03b2 Phe; HD 6595, HIP 5165)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "3,30 (it.wiki tabella 3,32)",
+   "spettro": "Binaria di due giganti G8 III quasi identiche (it.wiki \u00abG8IIIvar\u00bb)",
+   "distanza_al": 182,
+   "curiosita": "Due giganti gemelle di luminosit\u00e0 simile separate da circa un secondo d'arco, su un'orbita di 170,7 anni piuttosto eccentrica. La presenza di due stelle vicine confonde le missioni astrometriche, che assumono la stella singola: per questo la parallasse \u00e8 rimasta a lungo incerta. La distanza qui scelta (182 \u00b1 5 anni luce) \u00e8 la rianalisi Hipparcos che tiene conto della binarit\u00e0; la tabella it.wiki riporta 198 al dalla misura precedente. Da cieli europei la Fenice resta bassa sull'orizzonte, ma la coppia \u00e8 risolvibile con un telescopio di medie dimensioni.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Phoenicis"
+  },
+  {
+   "id": "gamma_phoenicis",
+   "nome": "Gamma Phoenicis",
+   "bayer": "\u03b3 Phoenicis (\u03b3 Phe; HD 9053, HIP 6867)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "variabile 3,39\u20133,49 (irregolare lenta sospetta)",
+   "spettro": "M0 III (gigante rossa, Keenan & McNeil 1989; la tabella it.wiki riporta K5 II-III)",
+   "distanza_al": 234,
+   "curiosita": "Binaria spettroscopica con orbita di 194,1 giorni (le variazioni di 97,5 giorni dell'Hipparcos erano mezza orbita): le variazioni di luminosit\u00e0 sembrano eclissi, ma l'alta inclinazione suggerisce due stelle ellipsoidali. La primaria M0III mostra un'attivit\u00e0 coronale troppo intensa per una gigante cos\u00ec fredda: forse viene dalla secondaria, che accresce materiale dalla compagna. Uno dei rari casi di binaria spettroscopica con gigante M. Distanza: 233,6 anni luce (71,63 pc, Hipparcos).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Phoenicis"
+  },
+  {
+   "id": "delta_phoenicis",
+   "nome": "Delta Phoenicis",
+   "bayer": "\u03b4 Phoenicis (\u03b4 Phe; HD 9362, HIP 7083)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "3,93",
+   "spettro": "K0 III-IV (gigante gialla/arancione del red clump)",
+   "distanza_al": 147,
+   "curiosita": "Una delle giganti K pi\u00f9 vicine con distanza ben misurata: gli studi interferometrici la classificano tra le stelle del red clump, la punta del ramo delle giganti rosse, e la usano come riferimento per studiare le propriet\u00e0 di questa classe. Bassa rotazione, singola. Distanza: 147 anni luce (tabella it.wiki); il vecchio testo en.wiki dava 142.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Phoenicis"
+  },
+  {
+   "id": "epsilon_phoenicis",
+   "nome": "Epsilon Phoenicis",
+   "bayer": "\u03b5 Phoenicis (\u03b5 Phe; HD 496, HIP 765)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio IAU.",
+   "magnitudine": "3,88",
+   "spettro": "K0 III (gigante arancione)",
+   "distanza_al": 144,
+   "curiosita": "Con \u03b1, \u03b2, \u03b3 e \u03ba disegna il corpo principale della fenice nell'Uranometria di Bayer: \u00e8 una delle poche stelle brillanti senza nome proprio. Gigante evoluta simile in tipo ad Ankaa ma pi\u00f9 lontana e leggermente meno brillante. Distanza: 144 anni luce (en.wiki); la tabella it.wiki d\u00e0 140.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Epsilon_Phoenicis"
+  },
+  {
+   "id": "wurren",
+   "nome": "Wurren",
+   "bayer": "\u03b6 Phoenicis (\u03b6 Phe; HD 6882, HIP 5348)",
+   "origine_nome": "Nome ufficiale IAU (19 novembre 2017) dalla cultura del popolo Wardaman (Territorio del Nord, Australia): \u00abbambino\u00bb, qui un piccolo pesce che fornisce acqua ad Achernar, l'echidna Gawalyan.",
+   "magnitudine": "3,94",
+   "spettro": "Sistema multiplo di almeno 4 stelle; la coppia stretta Aa+Ab (B6 V + B9 V) \u00e8 una binaria a eclisse tipo Algol con periodo di 1,67 giorni; componente C visuale pi\u00f9 lontana",
+   "distanza_al": 280,
+   "curiosita": "L'eclisse \u00e8 una delle pi\u00f9 rapide visibili a occhio nudo: le due stelle B-type, centinaia di volte pi\u00f9 luminose del Sole, si nascondono a vicenda in un ciclo di 1,67 giorni. Nella tradizione cinese \u00e8 \u6c34\u59d4\u4e8c, la Seconda dell'asterismo Shu\u01d0 W\u011bi, lo stesso di Achernar e \u03b7 Phe. Distanza: ~280 anni luce (tabella it.wiki).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Phoenicis"
+  },
+  {
+   "id": "eta_phoenicis",
+   "nome": "Eta Phoenicis",
+   "bayer": "\u03b7 Phoenicis (\u03b7 Phe; HD 4150, HIP 3405)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,36",
+   "spettro": "A0 IV (subgigante bianca)",
+   "distanza_al": 246,
+   "curiosita": "\u00c8 circondata da un disco di detriti: una delle stelle A di massa intermedia pi\u00f9 vicine con disco confermato. Ha due compagne segnalate: una secondaria lontana di magnitudine 11,5 a 20 secondi d'arco, e una compagna stretta con separazione stimata 6,8 UA, periodo poco superiore a 10 anni e tipo spettrale attorno a G5 V. Nella tradizione cinese fa parte dell'asterismo Shu\u01d0 W\u011bi con Achernar e \u03b6 Phe. La voce it.wiki dedicata non esiste: fonte en.wikipedia. Distanza: ~246 anni luce (Hipparcos); la tabella it.wiki d\u00e0 240.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Phoenicis"
+  },
+  {
+   "id": "kappa_phoenicis",
+   "nome": "Kappa Phoenicis",
+   "bayer": "\u03ba Phoenicis (\u03ba Phe; HD 2262, HIP 2072)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "3,90",
+   "spettro": "A5 IVn \u2013 A7 V (la \u00abn\u00bb indica righe larghe per rotazione rapida; tabella it.wiki A7 V)",
+   "distanza_al": 78,
+   "curiosita": "Stella singola con rotazione proiettata intorno a 200 km/s e un eccesso infrarosso segnalato nelle indagini sulle stelle con dischi di detriti. Sta a soli 8 minuti d'arco da Ankaa: le due appaiono vicinissime in cielo ma non sono legate, e distano 78 e 82 anni luce \u2014 una coppia quasi reale. Del collo della fenice nella mappa di Bayer. Distanza: ~78 anni luce.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Phoenicis"
+  },
+  {
+   "id": "nu_phoenicis",
+   "nome": "Nu Phoenicis",
+   "bayer": "\u03bd Phoenicis (\u03bd Phe; HD 7570, HIP 5862)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,97",
+   "spettro": "F8 V Fe+0.4 (nana giallo-bianca metal-rica: la notazione indica forti righe del ferro, circa il 45% in pi\u00f9 del Sole)",
+   "distanza_al": 49.1,
+   "curiosita": "Ha un disco di detriti freddo (temperatura ~96 K, raggio ~12 UA) rilevato dall'eccesso di infrarossi, ma le ricerche di pianeti con HARPS e l'Anglo-Australian Planet Search non hanno dato nessuna scoperta: la velocit\u00e0 radiale \u00e8 costante entro 2,67 m/s. Et\u00e0 stimata 1\u20136 miliardi di anni (probabile 4,2). Distanza Gaia DR3: 49,1 anni luce. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Phoenicis"
+  },
+  {
+   "id": "psi_phoenicis",
+   "nome": "Psi Phoenicis",
+   "bayer": "\u03c8 Phoenicis (\u03c8 Phe; HD 11695, HIP 8837)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "variabile 4,3\u20134,5 (semiregolare; periodi di 43,7 e 48,1 giorni, ampiezze 0,038 e 0,023 mag)",
+   "spettro": "M4 III (gigante rossa del ramo asintotico, AGB); raggio 85\u201386 R\u2609 (interferometria), ~1000 L\u2609, Teff ~3550 K",
+   "distanza_al": 342,
+   "curiosita": "Stella metal-poor: [Fe/H] \u22121,24, solo ~5% del ferro del Sole. Nel 2001 fu osservata dal VLTI con lo strumento di test VINCI, che rilev\u00f2 l'oscuramento del bordo del disco stellare: uno dei primi successi dell'interferometria alla VLT, ed \u00e8 tra le 34 stelle di riferimento meglio caratterizzate dell'interferometria ottica. La voce it.wiki dedicata non esiste: fonte en.wikipedia. Distanza: ~342 anni luce (Hipparcos); la tabella it.wiki d\u00e0 321.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Psi_Phoenicis"
+  }
+ ],
+ "tucano": [
+  {
+   "id": "lang_exster",
+   "nome": "Lang-Exster",
+   "bayer": "\u03b1 Tucanae (\u03b1 Tuc; HD 211416, HIP 110130)",
+   "origine_nome": "Nome doppio approvato dalla IAU (WGSN) il 19 settembre 2024: \u00abLang\u00bb \u00e8 la parola malese/indonesiana per \u00abcalao\u00bb (hornbill), \u00abExster\u00bb l'olandese per \u00abgazza\u00bb (magpie) \u2014 entrambe usate storicamente come nomi della costellazione del Tucano. I due nomi possono riferirsi alle due componenti del sistema.",
+   "magnitudine": "2,86 (it.wiki tabella 2,87)",
+   "spettro": "K3 III (gigante arancione); Teff ~4300 K, 424 L\u2609, raggio 37 R\u2609, massa 2,5\u20133 M\u2609",
+   "distanza_al": 184,
+   "curiosita": "Per decenni \u00e8 stata citata come \u00abla stella brillante senza nome proprio\u00bb: la IAU le ha finalmente dato un nome nel 2024, e lo ha fatto doppio come la stella stessa. Binaria spettroscopica con periodo orbitale di 4197,7 giorni (circa 11,5 anni): la compagna non \u00e8 mai stata risolta a telescopio, \u00e8 dedotta dallo spostamento Doppler dello spettro. Distanza: 184 anni luce (Gaia DR3); la tabella it.wiki riporta 199 al dalla misura Hipparcos.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Tucanae"
+  },
+  {
+   "id": "gamma_tucanae",
+   "nome": "Gamma Tucanae",
+   "bayer": "\u03b3 Tucanae (\u03b3 Tuc; HD 219571, HIP 114996)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "3,99",
+   "spettro": "F1 III (gigante giallo-bianca; classificazioni alternative F3 IV/V o F4 V); 1,55 M\u2609, 2,2 R\u2609, 11,33 L\u2609, Teff 6679 K, [Fe/H] \u22120,22, et\u00e0 ~1,4 miliardi di anni",
+   "distanza_al": 75,
+   "curiosita": "Classificata per decenni gigante F1III, ma la classe di evoluzione \u00e8 incerta: alcuni cataloghi la considerano ancora sulla sequenza principale. Ruota veloce (v sin i = 94 km/s) ed \u00e8 singola. Seconda stella della costellazione: con \u03b1 e \u03b3 si disegna la forma del tucano. Distanza: 75 \u00b1 1 anni luce (Hipparcos); la tabella it.wiki d\u00e0 72.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Tucanae"
+  },
+  {
+   "id": "zeta_tucanae",
+   "nome": "Zeta Tucanae",
+   "bayer": "\u03b6 Tucanae (\u03b6 Tuc; HD 1581, HIP 1599)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,23",
+   "spettro": "F9.5 V (nana giallo-bianca molto simile al Sole, un po' pi\u00f9 calda e luminosa); 0,985 M\u2609, 1,044 R\u2609, 1,232 L\u2609, Teff 5924 K, et\u00e0 5,3 \u00b1 0,5 miliardi di anni, rotazione 15,65 giorni",
+   "distanza_al": 28.07,
+   "curiosita": "Tra le stelle simili al Sole pi\u00f9 vicine, inclusa nelle liste di obiettivi \u00abastrobiologicamente interessanti\u00bb per stabilit\u00e0 ed et\u00e0 avanzata. Ha un disco di detriti freddo segnalato (Trilling 2008, indagine Spitzer); le ricerche di pianeti con HARPS non hanno ancora dato un esopianeta confermato. Si muove in cielo a circa 2 secondi d'arco all'anno, uno dei moti propri pi\u00f9 alti tra le stelle di quarta magnitudine. Distanza: 28,07 \u00b1 0,03 anni luce (Hipparcos).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Tucanae"
+  },
+  {
+   "id": "kappa_tucanae",
+   "nome": "Kappa Tucanae",
+   "bayer": "\u03ba Tucanae (\u03ba Tuc; HD 7788, HIP 5896)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,88 (componente A)",
+   "spettro": "Sistema quadruplo: primaria Aa F6 IV + Ab nana rossa M3.5/M4.5 V con periodo 8,14 anni e orbita fortemente eccentrica (e = 0,936, semiasse 4,8 UA); a 65\u2033 la coppia B (G5 V, mag 7,54) e a 69\u2033 le componenti C (K2 V, mag 7,76) e D (K3 V, mag 8,26)",
+   "distanza_al": 68.45,
+   "curiosita": "Quattro stelle che in realt\u00e0 sono sei: la primaria \u00e8 essa stessa una binaria stretta con nana rossa. Con un binocolo si vede come stella di quarta magnitudine con compagna di settima; un telescopio amatoriale da 120 mm risolve la primaria in due astri di quinta e settima grandezza separati da 5 secondi d'arco. L'orbita interna \u00e8 una delle pi\u00f9 ellittiche conosciute tra le binarie brillanti. Distanza: 68,45 \u00b1 0,03 anni luce (parallasse 47,65 mas); la tabella it.wiki d\u00e0 67. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Tucanae"
+  },
+  {
+   "id": "beta_tucanae",
+   "nome": "Beta Tucanae (\u03b2\u00b9 e \u03b2\u00b2)",
+   "bayer": "\u03b2 Tucanae (\u03b2 Tuc; \u03b2\u00b9: HD 2884+2885; \u03b2\u00b2: HD 3003)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "\u03b2\u00b9 = 4,37; \u03b2\u00b2 = 4,54",
+   "spettro": "Sistema multiplo di almeno 5 stelle: \u03b2\u00b9 = \u03b2 Tuc A (B9 V, 3,84 M\u2609, 39 L\u2609, rotazione rapida 170 km/s) + B (0,40 M\u2609, probabilmente nana rossa); \u03b2\u00b2 = \u03b2 Tuc C (A2 V, 2,0 M\u2609) e D (A2/A7 V)",
+   "distanza_al": 140,
+   "curiosita": "Con un piccolo binocolo si vedono due stelle di simile luminosit\u00e0 separate da 27 secondi d'arco: uno dei sistemi multipli pi\u00f9 famosi e facili del cielo australe. Appartiene probabilmente all'associazione Tucana-Horologium (et\u00e0 ~40 milioni di anni), un gruppo di stelle giovani con dischi di detriti. Distanze: \u03b2\u00b9 140 \u00b1 1 anni luce, \u03b2\u00b2 166 \u00b1 8 (Hipparcos; la tabella it.wiki d\u00e0 140 e 172). La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Tucanae"
+  },
+  {
+   "id": "delta_tucanae",
+   "nome": "Delta Tucanae",
+   "bayer": "\u03b4 Tucanae (\u03b4 Tuc; HD 212581, HIP 110838)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,48 (componente A 4,52, B 8,85)",
+   "spettro": "Coppia di moto proprio comune: primaria B9 Vn (2,99 M\u2609, 2,7 R\u2609, Teff 11 271 K, v sin i = 224 km/s, rotazione 2,85 giorni, forma fortemente oblata) + compagna G0 V Fe\u22122 (nana gialla metal-poor)",
+   "distanza_al": 251,
+   "curiosita": "Il tipo spettrale Fe\u22122 della compagna indica una stella molto povera di metalli, insolito per un sistema cos\u00ec giovane (232 milioni di anni): si ipotizza che sia stata catturata o nata in un ambiente povero di metalli. La primaria ruota a 224 km/s (un giro in 2,85 giorni) ed \u00e8 fortemente oblata. Distanza: 251 \u00b1 9 anni luce (Hipparcos); la tabella it.wiki d\u00e0 267. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Tucanae"
+  },
+  {
+   "id": "epsilon_tucanae",
+   "nome": "Epsilon Tucanae",
+   "bayer": "\u03b5 Tucanae (\u03b5 Tuc; HD 224686, HIP 118322)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,50",
+   "spettro": "B8 V (Levenhagen & Leister 2006) o B9 IV (Hiltner 1969) \u2014 stella Be",
+   "distanza_al": 373,
+   "curiosita": "Ruota a 300 km/s: un giro cos\u00ec veloce la trasforma in un ellissoide con l'equatore 36% pi\u00f9 largo del raggio polare, e la rotazione estrema espelle materia in un disco circumstellare di gas in emissione, tipico delle stelle Be. Ha un debole campo magnetico (74 \u00b1 24 gauss) ed \u00e8 a circa il 78% della sua vita di sequenza principale. Distanza: ~373 anni luce (parallasse 8,74 mas); la tabella it.wiki d\u00e0 374. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Tucanae"
+  },
+  {
+   "id": "nu_tucanae",
+   "nome": "Nu Tucanae",
+   "bayer": "\u03bd Tucanae (\u03bd Tuc; HD 213442, HIP 111310)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "variabile ~4,80 (range 4,75\u20134,93)",
+   "spettro": "M4 III (gigante rossa del ramo asintotico, AGB); 49 R\u2609, ~400 L\u2609, Teff 3674 K",
+   "distanza_al": 290,
+   "curiosita": "Variabile irregolare lenta con un'intera \u00aborchestra\u00bb di pulsazioni sovrapposte: gli studi riportano periodi ciclici di 22,3, 24,4, 24,8, 25,1, 25,5, 33,8, 50,6, 80,1, 123,2 e 261,8 giorni, catalogati nel 2009 su 261 giganti rosse vicine. Al telescopio appare di un rosso-arancio intenso. Distanza: ~290 anni luce (Hipparcos); la tabella it.wiki d\u00e0 273. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Tucanae"
+  },
+  {
+   "id": "theta_tucanae",
+   "nome": "Theta Tucanae",
+   "bayer": "\u03b8 Tucanae (\u03b8 Tuc; HD 3112, HIP 2629)",
+   "origine_nome": "Designazione di Bayer assegnata da Lacaille nel 1756.",
+   "magnitudine": "6,11 (variabile 6,06\u20136,15)",
+   "spettro": "A7 IV (subgigante bianca); binaria ellipsoidale con periodo di 7 giorni; variabile Delta Scuti con pulsazioni di 70\u201380 minuti (scoperta nel 1971)",
+   "distanza_al": 423,
+   "curiosita": "La sua storia evolutiva \u00e8 stata ricostruita con l'asterosismologia: il sistema era una binaria a eclisse tipo Algol in cui la stella pi\u00f9 massiccia ha trasferito la massa alla compagna. La stella oggi pi\u00f9 massiccia (la variabile Delta Scuti, ~2 M\u2609) era la secondaria: ha \u00abrubato\u00bb il carburante alla primaria, oggi ridotta a 0,2 M\u2609 quasi solo di elio, con 37 L\u2609 e Teff 7000 K; circa 0,8 M\u2609 sono andati persi dal sistema. Uno dei casi meglio studiati di evoluzione di una binaria Algol. Distanza: ~423 anni luce (SIMBAD); la tabella it.wiki d\u00e0 490. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Tucanae"
+  },
+  {
+   "id": "hd_4308",
+   "nome": "HD 4308",
+   "bayer": "Nessuna designazione Bayer (HD 4308, HIP 3497)",
+   "origine_nome": "Dal catalogo Henry Draper.",
+   "magnitudine": "6,54 (al limite della visibilit\u00e0 a occhio nudo)",
+   "spettro": "G6 V Fe-0.9 (nana gialla metal-poor simile al Sole); 0,95 M\u2609, 1,04 R\u2609, 1,03 L\u2609, Teff 5714 K, [Fe/H] \u22120,35, et\u00e0 ~10 miliardi di anni (disco spesso della Galassia), velocit\u00e0 radiale +95 km/s",
+   "distanza_al": 71.91,
+   "curiosita": "Ha un esopianeta, HD 4308 b, scoperto con HARPS nel 2005-2006: massa minima di circa 14 masse terrestri su un'orbita di ~15,6 giorni a 0,117 UA. Stella vecchia e povera di metalli con un pianeta: l'esatto contrario delle stelle tipicamente accompagnate da pianeti giganti. Moto proprio elevato. Distanza: 71,91 anni luce (Gaia DR3); la tabella it.wiki d\u00e0 72. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_4308"
+  }
+ ]
+}

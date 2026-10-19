@@ -1,0 +1,223 @@
+{
+ "eridano": [
+  {
+   "id": "achernar",
+   "nome": "Achernar",
+   "bayer": "\u03b1 Eridani (\u03b1 Eri; HD 10144, HIP 7588)",
+   "origine_nome": "Dall'arabo \u0622\u062e\u0631 \u0627\u0644\u0646\u0647\u0631 (\u0101khir an-nahr), \u00abla fine del fiume\u00bb: Achernar \u00e8 infatti la foce del fiume celeste. Nome ufficiale IAU (WGSN). Per precessione, intorno al 3400 a.C. era la stella polare dell'emisfero australe.",
+   "magnitudine": "0,45 (nona stella pi\u00f9 brillante del cielo)",
+   "spettro": "B6 Vep (stella Be: sequenza principale B con righe d'emissione)",
+   "distanza_al": 139,
+   "curiosita": "La stella meno sferica conosciuta: ruota a oltre 225 km/s, quasi alla velocit\u00e0 di rottura, e il diametro equatoriale risulta circa il 56% pi\u00f9 grande di quello polare (studio VLTI, Kervella 2004). Per la gravit\u00e0 oscurata, i poli sono pi\u00f9 caldi (20 000 K) dell'equatore (10 000 K). \u00c8 la stella Be pi\u00f9 luminosa e pi\u00f9 vicina, con una compagna su un'orbita di circa 15 anni. Insieme ad Ankaa (Fenice) fa parte dell'asterismo cinese Shu\u01d0 W\u011bi. Distanza: en.wiki/Hipparcos d\u00e0 139 anni luce, la voce italiana 144 (prima analisi Hipparcos).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Achernar"
+  },
+  {
+   "id": "cursa",
+   "nome": "Cursa",
+   "bayer": "\u03b2 Eridani (\u03b2 Eri; HD 29307, HIP 21421)",
+   "origine_nome": "Dall'arabo \u0627\u0644\u0642\u0631\u0633 al-qurs, \u00abla sedia\u00bb (il piede di Orione): WGSN 2016. Varianti Kursa e Dhalim.",
+   "magnitudine": "2,80 (variabile 2,72\u20132,80) \u2014 seconda della costellazione",
+   "spettro": "A3 III (variabile: classe e luminosit\u00e0 oscillano leggermente)",
+   "distanza_al": 89,
+   "curiosita": "Segna la \u00absorgente\u00bb del fiume celeste, poco a nord-ovest di Rigel: sta ai piedi del cacciatore, da cui il nome arabo. Il vecchio testo di it.wiki Eridano_(costellazione) la dava a 80 anni luce; le infobox en e it concordano oggi su 89\u201390. In cinese apre l'asterismo Ti\u0101n Yu\u00e0n, i \u00abPrati Celesti\u00bb, condiviso da met\u00e0 delle stelle della costellazione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Cursa"
+  },
+  {
+   "id": "acamar",
+   "nome": "Acamar",
+   "bayer": "\u03b8 Eridani (\u03b8 Eri; \u03b8\u00b9 HD 18611 / \u03b8\u00b2 HD 18612)",
+   "origine_nome": "Stesso significato di Achernar, \u00abla fine del fiume\u00bb: in antichit\u00e0, quando il Mediterraneo non vedeva nulla pi\u00f9 a sud, era questa la fine della costellazione (WGSN 2016).",
+   "magnitudine": "2,88 (sistema; componenti A 3,2 e B 4,3)",
+   "spettro": "Sistema triplo: \u03b8\u00b9 A3 IV-V subgigante (variabile ellissoidale, periodo 4,1 giorni) + \u03b8\u00b2 A1 V (2,3 M\u2609, Teff 8300 K, et\u00e0 630 milioni di anni)",
+   "distanza_al": 167,
+   "curiosita": "Per Tolomeo era \u00absotto la quale non erano noti altri astri\u00bb: Achernar era troppo a sud per essere vista dall'antichit\u00e0 classica, cos\u00ec la \u00abfine del fiume\u00bb era qui \u2014 e il nome ripete identico quello di Achernar. Bella doppia visuale (separazione 8,3 secondi d'arco), con \u03b8\u00b2 a sua volta binaria stretta. Distanza concorde: 167 al (it) e 166,99 \u00b1 0,98 al (en).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Eridani"
+  },
+  {
+   "id": "zaurak",
+   "nome": "Zaurak",
+   "bayer": "\u03b3 Eridani (\u03b3 Eri; HD 23247, HIP 17076)",
+   "origine_nome": "Parola araba per \u00abla barca\u00bb (WGSN 2016); varianti Zaurac. Una nave cargo della US Navy, la USS Zaurak AK-117, portava il suo nome.",
+   "magnitudine": "variabile ~2,9 (it.wiki 2,95)",
+   "spettro": "M0 III (standard di classe per questo tipo spettrale)",
+   "distanza_al": 203,
+   "curiosita": "Gigante rossa sul ramo asintotico: fonde idrogeno ed elio in gusci separati attorno a un nucleo inerte di carbonio-ossigeno. \u00c8 il primo elemento dell'asterismo cinese Ti\u0101n Yu\u00e0n, i \u00abPrati Celesti\u00bb (\u5929\u82d1\u4e00). Gaia EDR3 le riconosce una compagna co-movente di 0,1 M\u2609 a circa 1000 UA, con probabile ulteriore nana rossa pi\u00f9 stretta non risolvibile. Distanza: en.wiki 203 al, it.wiki 200; il vecchio testo della costellazione riportava 260.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Eridani"
+  },
+  {
+   "id": "rana",
+   "nome": "Rana",
+   "bayer": "\u03b4 Eridani (\u03b4 Eri; HD 23249, HIP 17378; anche 23 Eri)",
+   "origine_nome": "Latino \u00abrana\u00bb, nome ufficiale IAU (WGSN 2016), probabilmente per il colore rossiccio: come una rana che saltella lungo il fiume.",
+   "magnitudine": "3,54 (it.wiki tabella 3,53)",
+   "spettro": "K0 IV (subgigante arancione; it.wiki \u00abK0 III-IV\u00bb)",
+   "distanza_al": 29.5,
+   "curiosita": "Tra le ~100 stelle pi\u00f9 prossime al Sole: subgigante arancione poco pi\u00f9 evoluta della nostra stella (2,4 raggi solari, Teff ~4950 K). Et\u00e0: 6,194 miliardi di anni secondo la voce inglese, 7,5 secondo l'italiana. Il vecchio testo di it.wiki la dava a 27 anni luce; le infobox concordano su 29,5.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Eridani"
+  },
+  {
+   "id": "epsilon_eridani",
+   "nome": "Ran",
+   "bayer": "\u03b5 Eridani (\u03b5 Eri; HD 22049, HIP 16537)",
+   "origine_nome": "Dalla dea nordica del mare Ran, moglie del gigante \u00c6gir: nome ufficiale IAU (WGSN 2015). Il pianeta porta il nome del marito, AEgir.",
+   "magnitudine": "3,73",
+   "spettro": "K2 V (nana arancione); 0,82 M\u2609, 0,74 R\u2609, 0,34 L\u2609; et\u00e0 ~1 miliardo di anni, stella giovane e attiva",
+   "distanza_al": 10.5,
+   "curiosita": "Terza stella pi\u00f9 vicina visibile a occhio nudo (dopo Alpha Centauri e Sirio) e nona sistema stellare pi\u00f9 vicino. Fu il primo obiettivo del Progetto Ozma di Frank Drake nel 1960, l'origine del SETI. Attorno le due fasce di detriti (a ~3 e ~20 UA) e un disco esteso fino a ~60 UA raccontano un sistema planetario in formazione: il pianeta AEgir (\u03b5 Eri b), annunciato da Hatzes nel 2000 e confermato con Hubble nel 2006, compie un giro in 2671 giorni su un'orbita eccentrica \u2014 simile al gigante attorno a cui ruota nella mitologia nordica. \u00c8 il pi\u00f9 vicino esopianeta confermato attorno a una stella simile al Sole (a parte Proxima).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Epsilon_Eridani"
+  },
+  {
+   "id": "azha",
+   "nome": "Azha",
+   "bayer": "\u03b7 Eridani (\u03b7 Eri; HD 23832, HIP 17563)",
+   "origine_nome": "Dall'arabo \u0627\u0644\u0647\u0627\u064a\u0629, \u00abil puledro\u00bb: nome ufficiale IAU (WGSN 2016), legato ai \u00abPrati Celesti\u00bb. In cinese \u00e8 \u5929\u82d1\u4e03, la Settima dei Prati Celesti.",
+   "magnitudine": "4,1 (variabile lieve)",
+   "spettro": "K1 III (gigante arancione; parte della letteratura K3 III); Teff ~4650 K, ~26 L\u2609, raggio ~10 R\u2609",
+   "distanza_al": 137,
+   "curiosita": "Gigante evoluta del tratto centrale del \u00abfiume\u00bb, ben visibile dall'Italia a fine inverno. Il nome arabo e l'asterismo cinese la legano agli stessi \u00abPrati Celesti\u00bb che attraversano tutta la costellazione. Distanza: 137 anni luce secondo en.wiki/Hipparcos, 133 secondo l'infobox italiano (XHIP).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Eridani"
+  },
+  {
+   "id": "lambda_eridani",
+   "nome": "Lambda Eridani",
+   "bayer": "\u03bb Eridani (\u03bb Eri; HD 32887, HIP 23377)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,27 (variabile 4,22\u20134,28)",
+   "spettro": "B2 III-IIe (gigante blu con righe d'emissione)",
+   "distanza_al": 810,
+   "curiosita": "Unisce due meccanismi di variabilit\u00e0: \u00e8 sia variabile Beta Cephei (pulsazione con periodo ~0,7 giorni) sia variabile Gamma Cassiopeiae, con emissioni tipiche delle stelle Be. Tra le poche Beta Cephei ben studiate dell'emisfero sud, usata negli studi sismologici sulle stelle Be. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Eridani"
+  },
+  {
+   "id": "pi_eridani",
+   "nome": "Pi Eridani",
+   "bayer": "\u03c0 Eridani (\u03c0 Eri; HD 11172, HIP 8458)",
+   "origine_nome": "Designazione di Bayer; in cinese \u00e8 \u5929\u82d1\u4e8c, la Seconda dei Prati Celesti.",
+   "magnitudine": "4,40 (variabile lieve 4,37\u20134,43)",
+   "spettro": "M2 III (gigante rossa)",
+   "distanza_al": 220,
+   "curiosita": "Gigante rossa della parte alta del fiume, con una lieve variabilit\u00e0. Appartiene all'asterismo cinese dei \u00abPrati Celesti\u00bb che attraversa l'Eridano da Cursa a Zaurak. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pi_Eridani"
+  },
+  {
+   "id": "omicron2_eridani",
+   "nome": "Keid",
+   "bayer": "\u03bf\u00b2 Eridani (40 Eridani, Flamsteed; A: HD 26965, HIP 19849)",
+   "origine_nome": "Keid, dall'arabo \u0642\u064a\u062f al-qayd, \u00abl'uovo/conchiglia\u00bb (forse corruzione di al-qird, \u00abla scimmia\u00bb): WGSN 2016. La designazione 40 Eridani \u00e8 di Flamsteed.",
+   "magnitudine": "4,43 (sistema; componenti A 4,43, B 9,52, C 11,17)",
+   "spettro": "Sistema triplo: A nana arancione K0 V (~0,78 M\u2609, et\u00e0 ~6 miliardi di anni); B nana bianca DA4 (la prima mai scoperta, 1910, riconosciuta da Russell dai dati di Fleming); C nana rossa M4.5 Ve flare star (DY Eridani), che orbita attorno a B in 233,2 giorni a ~34 UA",
+   "distanza_al": 16.3,
+   "curiosita": "Il sistema con nana bianca pi\u00f9 vicino al Sole e uno dei pi\u00f9 studiati: in telescopio il contrasto di colori \u00e8 spettacolare (arancione, candente bianco, rossa). A e la coppia BC orbitano in ~8000 anni; la coppia fu risolta da William Herschel nel 1783, la doppia stretta B-C da Otto Struve nel 1851. La primaria ospita il pianeta HD 26965 b, super-Terra di ~8,5 masse terrestri su un'orbita di 42 giorni (annuncio 2018; confidenza ridotta da Maio et al. 2020) \u2014 e la fantascienza la conosce come la stella di casa Vulcana in Star Trek. Distanza Gaia DR3: 16,26 anni luce (parallasse 199,68 mas).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Omicron2_Eridani"
+  },
+  {
+   "id": "82g_eridani",
+   "nome": "82 G. Eridani",
+   "bayer": "Nessuna (HD 20794, HIP 15510; anche \u00abe Eridani\u00bb); la \u00abG.\u00bb indica una stella del catalogo Gould",
+   "origine_nome": "Dal catalogo stellare di Benjamin Gould.",
+   "magnitudine": "4,25",
+   "spettro": "G8 V (en.wiki) vs G6 V (it.wiki) \u2014 classe al confine, entrambe in letteratura",
+   "distanza_al": 19.7,
+   "curiosita": "Seconda stella pi\u00f9 vicina della costellazione dopo \u03b5 Eri e tra le dieci pi\u00f9 vicine visibili a occhio nudo. Metallicit\u00e0 bassa (40% solare, [Fe/H] \u22120,42): una stella vecchia, con un sistema di almeno 3 pianeti confermati (orbite di ~18,3, 89 e 648 giorni). Il pi\u00f9 esterno, HD 20794 d, \u00e8 una super-Terra di ~6,6 masse terrestri in zona abitabile, annunciato il 15 ottobre 2024 dal gruppo di Oxford. Et\u00e0: ~9 miliardi di anni secondo la voce inglese, 5,76 secondo l'italiana.",
+   "fonte_url": "https://en.wikipedia.org/wiki/82_G._Eridani"
+  },
+  {
+   "id": "32_eridani",
+   "nome": "32 Eridani",
+   "bayer": "Nessuna designazione Bayer (Flamsteed 32 Eridani; A: HD 24555, B: HD 24554, HIP 18314)",
+   "origine_nome": "Designazione di Flamsteed.",
+   "magnitudine": "4,45 (sistema; componenti A 4,79 e B 6,14)",
+   "spettro": "A: G8/K1 III-IV (gigante arancione); B: F8/G0 V (nana gialla)",
+   "distanza_al": 154,
+   "curiosita": "Bella doppia colorata (arancio e giallo) risolvibile con un piccolo telescopio: separazione 6,9 secondi d'arco nel 2021, su un'orbita di ~200 anni che la sta chiudendo. In cataloghi antichi la variabilit\u00e0 apparente della coppia le valse l'etichetta di \u00abvariabile sospetta\u00bb. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/32_Eridani"
+  },
+  {
+   "id": "tau9_eridani",
+   "nome": "Tau9 Eridani",
+   "bayer": "\u03c4\u2079 Eridani (\u03c4\u2079 Eri; HD 29479, HIP 21778)",
+   "origine_nome": "Designazione Bayer nella sequenza \u03c41\u2013\u03c49 della costellazione; in cinese le nove tau chiudono i \u00abPrati Celesti\u00bb.",
+   "magnitudine": "4,63",
+   "spettro": "B9.5 V Si (stella magnetica Ap, con anomalie spettrali del silicio)",
+   "distanza_al": 327,
+   "curiosita": "Binaria spettroscopica stretta (periodo 5,95382 giorni, eccentricit\u00e0 0,12) la cui primaria \u00e8 una stella Ap magnetica: la rotazione lenta imposta dalla compagna \u00e8 la condizione perch\u00e9 il campo magnetico si manifesti nello spettro. Esempio classico di stella Ap \u00abslow rotator\u00bb in binaria. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Tau9_Eridani"
+  },
+  {
+   "id": "mu_eridani",
+   "nome": "Mu Eridani",
+   "bayer": "\u03bc Eridani (\u03bc Eri; HD 30246, HIP 22289)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "4,00 (variabile 3,9\u20134,1 in eclisse)",
+   "spettro": "B5 IV-V (subgigante blu; secondaria probabilmente A3)",
+   "distanza_al": 520,
+   "curiosita": "Binaria a eclisse tipo Algol con orbita eccentrica (e = 0,344) e periodo di 7,38090 giorni: l'eclisse \u00e8 percepibile a occhio nudo attento, da 3,9 a 4,1 magnitudini. Voce italiana e inglese concordano sui ~520 anni luce di distanza (parallasse 6,25 mas).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Eridani"
+  },
+  {
+   "id": "nu_eridani",
+   "nome": "Nu Eridani",
+   "bayer": "\u03bd Eridani (\u03bd Eri; HD 29248)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "3,92 (variabile 3,9\u20134,1)",
+   "spettro": "B1/B2 III (gigante blu; alcune fonti B1 II); ~9,3 M\u2609, ~7943 L\u2609, Teff 22 000 K",
+   "distanza_al": 674,
+   "curiosita": "Variabile Alpha Cygni: pulsazioni non radiali lente con periodo di ~4,6 giorni e ampiezza di 0,1 magnitudini, scoperte con la fotometria di Hipparcos. \u00c8 la stella pi\u00f9 luminosa del tratto centrale del fiume e visibile a occhio nudo dall'Italia, in inverno, vicino a Orione. Distanza concorde: 674 al (it/XHIP) e ~670 (en dalla parallasse 4,83 mas).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Eridani"
+  },
+  {
+   "id": "omicron1_eridani",
+   "nome": "Beid",
+   "bayer": "\u03bf\u00b9 Eridani (\u03bf\u00b9 Eri; HD 26961, HIP 19827)",
+   "origine_nome": "Dall'arabo \u0628\u064a\u0636 al-bayd, \u00able uova\u00bb: WGSN 2016. Con Keid (\u03bf\u00b2), \u00abla conchiglia\u00bb, disegna un piccolo triangolo.",
+   "magnitudine": "4,04 (variabile lieve)",
+   "spettro": "F0/F2 IV (subgigante giallo-bianca; 1,95 M\u2609, 3,7 R\u2609, Teff 6963 K)",
+   "distanza_al": 156,
+   "curiosita": "Variabile sospetta (classe \u03b4 Scuti o GCAS secondo il GCVS). Con Keid forma il piccolo triangolo \u00abdelle uova e della conchiglia\u00bb del cielo australe. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Omicron1_Eridani"
+  },
+  {
+   "id": "zeta_eridani",
+   "nome": "Zeta Eridani",
+   "bayer": "\u03b6 Eridani (\u03b6 Eri; HD 27628, HIP 20329)",
+   "origine_nome": "Designazione di Bayer; in cinese \u00e8 \u5929\u82d1\u516d, la Sesta dei Prati Celesti.",
+   "magnitudine": "4,80 (variabile lieve 4,7\u20134,9)",
+   "spettro": "A5/A7 III (gigante bianca; 1,85 M\u2609)",
+   "distanza_al": 110,
+   "curiosita": "Binaria spettroscopica con periodo di 17,9297 giorni ed eccentricit\u00e0 0,14. Appartiene all'asterismo cinese dei \u00abPrati Celesti\u00bb. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Eridani"
+  },
+  {
+   "id": "kappa_eridani",
+   "nome": "Kappa Eridani",
+   "bayer": "\u03ba Eridani (\u03ba Eri; HD 24436, HIP 18323)",
+   "origine_nome": "Designazione di Bayer; in cinese \u00e8 \u5929\u82d1\u4e94, la Quinta dei Prati Celesti.",
+   "magnitudine": "4,24 (variabile lieve)",
+   "spettro": "B7 IV (subgigante blu, ~12 500 K)",
+   "distanza_al": 450,
+   "curiosita": "Subgigante blu calda il cui diametro angolare (0,346 mas) \u00e8 stato misurato in interferometria; rotazione rapida, tipica delle stelle B. La voce it.wiki dedicata esiste, ma \u00e8 breve: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Eridani"
+  },
+  {
+   "id": "sigma_eridani",
+   "nome": "Sigma Eridani",
+   "bayer": "\u03c3 Eridani (\u03c3 Eri; HD 17943, HIP 13455)",
+   "origine_nome": "Designazione di Bayer; nessun nome proprio.",
+   "magnitudine": "6,33",
+   "spettro": "K5 V (nana arancione)",
+   "distanza_al": 36,
+   "curiosita": "Nonostante la debolezza, \u00e8 una delle stelle vicine della costellazione: nana arancione con alto moto proprio (~1,1 secondi d'arco all'anno), in avvicinamento al Sole, candidata alle ricerche di pianeti. La voce it.wiki dedicata non esiste: fonte en.wikipedia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sigma_Eridani"
+  },
+  {
+   "id": "r_eridani",
+   "nome": "R Eridani",
+   "bayer": "Nessuna designazione Bayer (nome di stella variabile: R = prima variabile catalogata nella costellazione; HD 27645)",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili.",
+   "magnitudine": "variabile 8,8\u201311,2",
+   "spettro": "M4e\u2013M7e (variabile Mira)",
+   "distanza_al": 1200,
+   "curiosita": "Variabile Mira con periodo di ~383 giorni: la sua luminosit\u00e0 oscilla di oltre 2,4 magnitudini con un ciclo di poco pi\u00f9 di un anno. \u00c8 l'unica tra le variabili principali della costellazione senza voce enciclopedica n\u00e9 su en.wiki n\u00e9 su it.wiki (fonte: GCVS, AAVSO VSX e SIMBAD); it.wiki ricorda solo le Mireidi T e W Eridani.",
+   "fonte_url": "https://www.aavso.org/vsx/index.php?view=detail.objectid&oid=14425"
+  }
+ ],
