@@ -53,5 +53,9 @@
       blurb: 'La volpe con l\u2019oca in bocca, al centro del Triangolo Estivo: qui la prima pulsar della storia.' },
     { id: 'lucertola', nome: 'Lucertola', latino: 'Lacerta', tavola: 'Fig. M', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/1920px-Prodromus_astronomiae_1690_%285590307%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/960px-Prodromus_astronomiae_1690_%285590307%29.jpg', w: 1920, h: 1474,
       blurb: 'Lo Stellio di Hevelius, la «Piccola Cassiopea» nella Via Lattea fra Cefeo e Pegaso.' },
+    { id: 'leone_minore', nome: 'Leone Minore', latino: 'Leo Minor', tavola: 'Fig. Z', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johannes_Hevelius_-_Leo_Minor.jpg/1920px-Johannes_Hevelius_-_Leo_Minor.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johannes_Hevelius_-_Leo_Minor.jpg/960px-Johannes_Hevelius_-_Leo_Minor.jpg', w: 1920, h: 1604,
+      blurb: 'Il leoncello senza Alfa fra l\u2019Orsa e il Leone: qui la nana bianca pi\u00f9 stabile orologio del cielo.' },
+    { id: 'scudo', nome: 'Scudo', latino: 'Scutum', tavola: 'Fig. Q', img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg/1920px-Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg', thumb: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg/960px-Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg', w: 1920, h: 1513,
+      blurb: 'Lo Scudo di Sobieski, l\u2019unica costellazione nata per politica che ci sia rimasta.' },
   ];
   var TESTI_PARTS = ['data/testi_orione_canemin_01.json', 'data/testi_orione_canemin_02.json', 'data/testi_orione_canemin_03.json', 'data/testi_ori

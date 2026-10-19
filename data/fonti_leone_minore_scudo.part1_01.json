@@ -1,0 +1,50 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Leone Minore (Leo Minor)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johannes_Hevelius_-_Leo_Minor.jpg/960px-Johannes_Hevelius_-_Leo_Minor.jpg",
+   "titolo_tavola": "Fig. Z \u2013 Leo Minor (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Leo_Minor.jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/b/be/Johannes_Hevelius_-_Leo_Minor.jpg",
+   "istituzione_origine": "Scansione ad alta risoluzione (provenienza raremaps.com), tavola colorata a mano; opera del 1690 di Johannes Hevelius",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johannes_Hevelius_-_Leo_Minor.jpg/960px-Johannes_Hevelius_-_Leo_Minor.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    802
+   ],
+   "dimensioni_originale_px": [
+    3200,
+    2674
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. Z",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Johannes_Hevelius_-_Leo_Minor.jpg",
+   "note_qualita": "Tavola colorata a mano (colori chiari azzurro/tan/castano), non della serie Polona: la serie Polona per il Leone Minore non esiste su Commons in alta risoluzione (solo la piccola \u00abTavola Z - Leo minor\u00bb, 595x486, troppo piccola per il thumb 960). Verificata via caption: piccola figura leonina al centro, Fig. Z in basso, Ursa Major in alto, Lynx, Gemini, Cancer e Leo Major etichettati, testo NON specchiato."
+  },
+  {
+   "costellazione": "Scudo (Scutum Sobiescianum)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg/960px-Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg",
+   "titolo_tavola": "Fig. Q \u2013 Scutum Sobiescianum (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_(5590349).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_(5590349).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare della serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg/960px-Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    757
+   ],
+   "dimensioni_originale_px": [
+    4404,
+    3471
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. Q",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_(5590349).jpg",
+   "note_qualita": "Scansione ad alta risoluzione serie Polona (4404 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima, stile coerente con le altre tavole del sito. Verificata via caption: SCUTUM SOBIESCIANUM (scudo con la croce dell'arma Sobieski) al centro con dedica al re in alto, Aquila/Antinous a destra, Serpens/Serpentarius a sinistra, etichetta Fig. Q in basso a sinistra, testo NON specchiato. Scartata l'alternativa atlascoelestis \u00abScutum Hevelius.jpg\u00bb (698x567, troppo piccola)."
+  }
+ ]
+}

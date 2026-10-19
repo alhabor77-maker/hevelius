@@ -1,0 +1,226 @@
+{
+ "leone_minore": [
+  {
+   "id": "46_leonis_minoris",
+   "nome": "Praecipua",
+   "bayer": "nessuno (Flamsteed 46 Leonis Minoris; Bode la indic\u00f2 come \u201co LMi\u201d con lettera latina, non omicron; HD 94264)",
+   "origine_nome": "Dal latino \u00abla principale\u00bb, il nome ufficiale della stella pi\u00f9 brillante del Leone Minore, approvato dalla UAI il 30 giugno 2017. La storia \u00e8 contorta: R.H. Allen lo attribuisce a Hevelius, ma Ian Ridpath non lo trova nel catalogo di Hevelius \u2014 compare per la prima volta nel catalogo di Palermo di Giuseppe Piazzi (1814), che lo assegn\u00f2 per errore a 37 Leonis Minoris, ritenendola la pi\u00f9 brillante; in seguito il nome migr\u00f2 alla vera primadonna. In cinese \u00e8 \u52e2\u56db, \u00abla Quarta (stella) degli Eunuchi\u00bb.",
+   "magnitudine": "3,83",
+   "spettro": "K0+III-IV (gigante arancione red clump, a met\u00e0 fra subgigante e gigante; la tabella italiana d\u00e0 K0III-IV)",
+   "distanza_al": 98,
+   "curiosita": "\u00c8 la stella pi\u00f9 brillante della costellazione, ma NON ha una lettera di Bayer: Francis Baily nel 1845 assegn\u00f2 le lettere alle stelle sotto magnitudine 4,5 ma per errore non etichett\u00f2 proprio lei, mentre la pi\u00f9 debole \u03b2 fu battezzata \u2014 da qui il caso unico di una costellazione senza Alfa. \u00c8 variabile sospetta con ampiezza di circa 0,05 magnitudini; ha circa 1,5 masse solari, 8,5 raggi solari e 32 luminosit\u00e0 solari. Col binocolo si nota il colore arancione. La distanza qui scelta \u00e8 quella della tabella italiana (98 anni luce); la voce inglese dedicata, dalla parallasse, d\u00e0 99,1.",
+   "fonte_url": "https://en.wikipedia.org/wiki/46_Leonis_Minoris"
+  },
+  {
+   "id": "beta_leonis_minoris",
+   "nome": "Beta Leonis Minoris",
+   "bayer": "\u03b2 Leonis Minoris (\u03b2 LMi; HD 90537)",
+   "origine_nome": "Nessun nome proprio: la lettera di Bayer fu assegnata da Francis Baily nel 1845 alla seconda stella per luminosit\u00e0, ed \u00e8 infatti l'unica stella della costellazione con una lettera greca \u2014 coerente con la convenzione \u00abbeta = la seconda\u00bb.",
+   "magnitudine": "4,20 (componenti 4,40 e 6,12)",
+   "spettro": "binaria: primaria gigante red clump G8III-IV (la voce inglese d\u00e0 G9 III, fusione dell'elio nel nucleo), secondaria subgigante F8 IV pi\u00f9 calda del Sole",
+   "distanza_al": 146,
+   "curiosita": "\u00c8 un sistema binario che si risolve solo per una parte dell'orbita: periodo di quasi 39 anni, eccentricit\u00e0 molto alta (0,683), semiasse maggiore 0,36 secondi d'arco con separazione variabile fra 0,1 e 0,6 secondi d'arco. Per secoli fu osservata come binaria spettroscopica a doppie righe; l'orbita definitiva unisce le misure spettroscopiche a quelle visuali. La primaria ha circa 2 masse solari e 36 luminosit\u00e0 solari, la secondaria 1,35 masse. \u00c8 l'esempio classico della costellazione \u00absenza Alfa\u00bb: la beta \u00e8 la seconda per luminosit\u00e0 e l'unica con la lettera.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Leonis_Minoris"
+  },
+  {
+   "id": "21_leonis_minoris",
+   "nome": "21 Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 21 Leonis Minoris; HD 87696)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed. Non ha lettera di Bayer perch\u00e9 Baily, nel 1845, assegn\u00f2 le lettere solo alle stelle sotto magnitudine 4,5.",
+   "magnitudine": "4,49 (varia da 4,47 a 4,52)",
+   "spettro": "A7 V (nana bianco-azzurra; \u00e8 la standard spettrale per il tipo A7V a rotazione rapida)",
+   "distanza_al": 92,
+   "curiosita": "\u00c8 la terza stella della costellazione e una rotatrice estrema: gira a 155 km/s all'equatore, contro i 2 km/s del Sole. \u00c8 una variabile Delta Scuti con piccole pulsazioni, e membro del superammasso di Sirio, la associazione di stelle giovani un eccesso infrarosso da disco di detriti: un anello di polveri a 60 K con raggio orbitale di 62 unit\u00e0 astronomiche, un sistema planetario in formazione. La distanza qui scelta \u00e8 quella della voce inglese via Hipparcos (92,1 anni luce); la tabella italiana d\u00e0 91.",
+   "fonte_url": "https://en.wikipedia.org/wiki/21_Leonis_Minoris"
+  },
+  {
+   "id": "10_leonis_minoris",
+   "nome": "SU Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 10 Leonis Minoris; HD 82635)",
+   "origine_nome": "Nessun nome proprio: la designazione di Flamsteed convive con il nome di variabile SU Leonis Minoris, secondo la convenzione dei cataloghi di variabili.",
+   "magnitudine": "4,54 (varia di 0,02)",
+   "spettro": "G8.5 III (gigante arancione evoluta; la tabella italiana d\u00e0 G8III)",
+   "distanza_al": 191,
+   "curiosita": "\u00c8 una variabile RS Canum Venaticorum: una gigante con un'attivit\u00e0 cromosferica fortissima e macchie stellari estese che fanno oscillare la sua luce di appena 0,02 magnitudini. \u00c8 una delle RS CVn pi\u00f9 luminose del cielo e una delle poche visibili a occhio nudo: circa 2,1 masse solari, 8,7 raggi solari, temperatura di 5075 K. La distanza qui scelta \u00e8 quella della voce inglese, basata sulla parallasse (191 anni luce); la tabella italiana d\u00e0 176.",
+   "fonte_url": "https://en.wikipedia.org/wiki/10_Leonis_Minoris"
+  },
+  {
+   "id": "37_leonis_minoris",
+   "nome": "37 Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 37 Leonis Minoris; HD 92125)",
+   "origine_nome": "Nessun nome proprio oggi, ma ha una storia famosa: fu la PRIMA stella a portare il nome Praecipua. Giuseppe Piazzi nel catalogo di Palermo (1814) la battezz\u00f2 cos\u00ec scambiandola per la pi\u00f9 brillante del Leone Minore; il nome \u00e8 poi migrato alla vera primadonna, 46 Leonis Minoris, dove oggi \u00e8 ufficiale.",
+   "magnitudine": "4,68",
+   "spettro": "G0 II (gigante gialla brillante)",
+   "distanza_al": 474,
+   "curiosita": "La \u00abstella quasi dimenticata\u00bb che un tempo portava il nome pi\u00f9 famoso della costellazione: la storia del fraintendimento di Piazzi \u00e8 documentata da Ian Ridpath in Star Tales. A quasi 500 anni luce \u00e8 una delle giganti gialle pi\u00f9 lontane visibili a occhio nudo della costellazione; appartiene all'asterismo cinese Neiping/Shi, la \u00abcorte del giudice\u00bb poi divenuta \u00abcorte degli eunuchi\u00bb, insieme a \u03b2, 30 e 46 LMi. Non ha lettera di Bayer: a magnitudine 4,68 non rientrava nel limite di Baily.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_del_Leone_Minore"
+  },
+  {
+   "id": "30_leonis_minoris",
+   "nome": "30 Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 30 Leonis Minoris; HD 90277)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed.",
+   "magnitudine": "4,72",
+   "spettro": "F0 V (nana giallo-bianca con luminosit\u00e0 da subgigante)",
+   "distanza_al": 207,
+   "curiosita": "\u00c8 la quarta stella della costellazione per luminosit\u00e0, ma non ha n\u00e9 nome n\u00e9 lettera: un caso tipico delle costellazioni di Hevelius, dove anche le stelle principali restano anonime. Come \u03b2, 37 e 46 LMi appartiene all'asterismo cinese Neiping, la corte del giudice, poi sostituito da Shi, la corte degli eunuchi: quattro funzionari di palazzo nel cielo settentrionale.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_del_Leone_Minore"
+  },
+  {
+   "id": "20_leonis_minoris",
+   "nome": "20 Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 20 Leonis Minoris; HD 86728)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed.",
+   "magnitudine": "5,4",
+   "spettro": "primaria G3 Va H\u03b41 (nana gialla con il 12% di massa e il 25% di raggio in pi\u00f9 del Sole, et\u00e0 di 7 miliardi di anni); compagna nana rossa attiva di magnitudine 14,6 a 14,5 secondi d'arco (circa 2000 unit\u00e0 astronomiche)",
+   "distanza_al": 48.7,
+   "curiosita": "\u00c8 la stella della prima scoperta del NEID Earth Twin Survey (NETS): il suo pianeta, rilevato nel 2020 e confermato nel 2024, ha una massa minima di 9,2 masse terrestri e orbita in 31 giorni \u2014 molto probabilmente una \u00abNettuno calda\u00bb. \u00c8 la seconda stella pi\u00f9 vicina della costellazione dopo 11 LMi, e il sistema \u00e8 passato a soli 32,2 anni luce dal Sole circa 150.000 anni fa. La compagna nana rossa \u00e8 tanto attiva che gli astronomi sospettano in realt\u00e0 DUE stelle fuse in una. La distanza qui scelta \u00e8 quella della voce inglese dalla parallasse (48,7 anni luce); la tabella italiana d\u00e0 49.",
+   "fonte_url": "https://en.wikipedia.org/wiki/20_Leonis_Minoris"
+  },
+  {
+   "id": "11_leonis_minoris",
+   "nome": "11 Leonis Minoris",
+   "bayer": "nessuno (Flamsteed 11 Leonis Minoris; HD 82885)",
+   "origine_nome": "Nessun nome proprio: solo la designazione di Flamsteed.",
+   "magnitudine": "5,54",
+   "spettro": "primaria G8 V (nana gialla; la tabella italiana d\u00e0 G8IV-V), secondaria nana rossa di magnitudine 14",
+   "distanza_al": 36.6,
+   "curiosita": "\u00c8 la stella pi\u00f9 vicina del Leone Minore, a 36,6 anni luce. \u00c8 una binaria con un'orbita record: periodo di 201 anni ed eccentricit\u00e0 0,88, una delle pi\u00f9 allungate fra le binarie vicine le due stelle si avvicinano e si allontanano di decine di unit\u00e0 astronomiche nel corso dei secoli. La primaria \u00e8 anche una variabile RS Canum Venaticorum (0,033 magnitudini in 18 giorni) con una metallicit\u00e0 pi\u00f9 che doppia rispetto al Sole e un moto proprio elevato di 0,764 secondi d'arco all'anno. La distanza qui scelta \u00e8 quella della voce inglese dedicata (36,64 anni luce).",
+   "fonte_url": "https://en.wikipedia.org/wiki/11_Leonis_Minoris"
+  },
+  {
+   "id": "hd_87883",
+   "nome": "HD 87883",
+   "bayer": "nessuno (solo HD 87883; HIP 49699)",
+   "origine_nome": "Nessun nome proprio: porta la designazione del catalogo Henry Draper.",
+   "magnitudine": "7,56",
+   "spettro": "K0 V (nana arancione; 82% della massa e 76% del raggio solari, et\u00e0 di 9,8 miliardi di anni, temperatura 4980 K)",
+   "distanza_al": 59.7,
+   "curiosita": "Ospita un pianeta scoperto nel 2009 con il metodo della velocit\u00e0 radiale: un Super-Giove di massa minima 6,31 masse gioviali su un'orbita molto ellittica con periodo di 7,54 anni e distanza media di 3,6 unit\u00e0 astronomiche. I parametri orbitali non escludono un pianeta di massa terrestre nella zona abitabile. La stella ruota lentamente (38,6 giorni) ed \u00e8 troppo debole per l'occhio nudo; la deviazione del pianeta dal modello suggerisce un'ulteriore compagna in orbita ravvicinata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_87883"
+  },
+  {
+   "id": "hd_82886",
+   "nome": "Illyrian (HD 82886)",
+   "bayer": "nessuno (solo HD 82886)",
+   "origine_nome": "Illyrian, il nome ufficiale della stella: riferimento all'Illyria, l'antica regione dell'area balcanica, scelto durante la campagna NameExoWorlds della UAI. La stella \u00e8 nota anche solo come HD 82886, dalla designazione del catalogo Henry Draper.",
+   "magnitudine": "7,63",
+   "spettro": "G0 (nana gialla)",
+   "distanza_al": null,
+   "curiosita": "Ospita un pianeta di circa 1,3 masse gioviali su un'orbita di 705 giorni, scoperto nel 2011 con il metodo della velocit\u00e0 radiale: uno dei due sistemi planetari confermati della costellazione insieme a HD 87883. La distanza della stella non \u00e8 riportata nelle fonti consultate (la voce inglese della costellazione non la indica), per questo non viene indicata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Leo_Minor"
+  },
+  {
+   "id": "sx_leonis_minoris",
+   "nome": "SX Leonis Minoris",
+   "bayer": "nessuno (designazione di variabile SX Leonis Minoris; sistema cataclismico)",
+   "origine_nome": "Nessun nome proprio: la designazione SX Leonis Minoris \u00e8 quella di stella variabile, secondo la convenzione dei cataloghi (162\u00aa variabile scoperta nella costellazione).",
+   "magnitudine": "16,8 quiescente, fino a 13,4 nelle esplosioni",
+   "spettro": "sistema binario cataclismico: nana bianca + donatrice (probabile nana rossa di tipo M5-M7, solo l'11% della massa della nana bianca) con disco di accrescimento a 6000-10000 K",
+   "distanza_al": null,
+   "curiosita": "\u00c8 una dwarf nova di tipo SU Ursae Majoris: le due stelle orbitano in appena 97 minuti, uno dei periodi orbitali pi\u00f9 brevi conosciuti, e la nana bianca strappa materia alla compagna attraverso il lobo di Roche. Esplosioni ogni 34-64 giorni, con \u00absuperesplosioni\u00bb che mostrano superhump nella curva di luce. Fu scoperta nel 1957 come stellina blu di sedicesima magnitudine e identificata come nova nana solo nel 1994 La distanza \u00e8 incerta (le stime vanno da circa 500 a oltre 1100 anni luce secondo il metodo usato), per questo non viene indicata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/SX_Leonis_Minoris"
+  }
+ ],
+ "scudo": [
+  {
+   "id": "alfa_scuti",
+   "nome": "Tianbian",
+   "bayer": "\u03b1 Scuti (\u03b1 Sct; Flamsteed 1 Aquilae \u2014 Flamsteed non riconobbe lo Scudo; HD 171443; HIP 91117)",
+   "origine_nome": "Tianbian, il nome ufficiale approvato dalla UAI il 18 giugno 2026: dall'asterismo cinese \u5929\u5f01, i funzionari addetti ai mercati, di cui la stella faceva parte insieme a \u03b2 e \u03b7 Scuti. Gli stessi cieli che l'occidente scelse come scudo del re Sobieski erano per i cinesi burocrati del commercio. Nella designazione di Bode la stella era \u00abm Scuti\u00bb.",
+   "magnitudine": "3,85",
+   "spettro": "K2III (gigante arancione; la voce inglese d\u00e0 K3III)",
+   "distanza_al": 199,
+   "curiosita": "\u00c8 la stella pi\u00f9 luminosa dello Scudo e porta il nome proprio pi\u00f9 recente del cielo: Tianbian, adottato nel 2026. \u00c8 una gigante evoluta con circa 20 raggi solari, 1,3 masse solari e 186 luminosit\u00e0 solari; \u00e8 variabile sospetta con oscillazioni fra 3,81 e 3,87 magnitudini. Il nome IAU celebra la coincidenza culturale: il gruppetto di stelle che per Hevelius formava lo scudo del re di Polonia era per gli astronomi cinesi un ufficio di funzionari che sorvegliavano i mercati. La distanza qui scelta \u00e8 quella della voce inglese dalla parallasse ridotta Hipparcos di van Leeuwen (199 anni luce); la tabella italiana d\u00e0 174.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Scuti"
+  },
+  {
+   "id": "beta_scuti",
+   "nome": "Beta Scuti",
+   "bayer": "\u03b2 Scuti (\u03b2 Sct; HD 173764; HIP 92175; Bode la design\u00f2 \u201cl Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio: solo la lettera di Bayer, assegnata da Benjamin Gould nel 1879 come per tutte le stelle dello Scudo.",
+   "magnitudine": "4,22",
+   "spettro": "primaria gigante gialla brillante G4 IIa (misura interferometrica moderna; l'infobox italiano d\u00e0 G5 II), compagna B9/B9.5",
+   "distanza_al": 689,
+   "curiosita": "\u00c8 una binaria spettroscopica con periodo orbitale di circa 2,3 anni (834 giorni) ed eccentricit\u00e0 di 0,35: la compagna, circa 3,3 magnitudini pi\u00f9 debole, non \u00e8 mai stata risolta direttamente in modo netto, ma il rilevamento con l'interferometro Navy Precision Optical fu significativo perch\u00e9 l'Hubble non era mai riuscito a fissarla. La primaria ha un raggio di circa 49 raggi solari misurato dal diametro angolare (2,121 millisecondi d'arco) e circa 1300 luminosit\u00e0 solari. La distanza qui scelta \u00e8 quella delle tabelle (689 anni luce); la voce inglese dalla parallasse d\u00e0 670.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Scuti"
+  },
+  {
+   "id": "zeta_scuti",
+   "nome": "Zeta Scuti",
+   "bayer": "\u03b6 Scuti (\u03b6 Sct; HD 169156; HIP 90135; Bode la design\u00f2 \u201cp Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio: solo la lettera di Bayer assegnata da Gould nel 1879.",
+   "magnitudine": "4,66",
+   "spettro": "G9 IIIb Fe-0.5 (gigante arancione con una lieve carenza di ferro nello spettro; la tabella inglese d\u00e0 K0III)",
+   "distanza_al": 210,
+   "curiosita": "Il suo spettro ha un dettaglio raffinato: il suffisso Fe-0.5 indica una carenza lieve di ferro, un indizio della composizione chimica della zona di cielo in cui \u00e8 nata. \u00c8 una binaria astrometrica: la compagna non \u00e8 mai stata vista, ma il dondolio della primaria tradisce un'orbita di 6,5 anni (2374 giorni) con eccentricit\u00e0 bassa (0,10). Ha 1,29 masse solari, 9,3 raggi solari e 62 luminosit\u00e0 solari. La distanza qui scelta \u00e8 quella della voce inglese (circa 210 anni luce); la tabella d\u00e0 191.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Scuti"
+  },
+  {
+   "id": "gamma_scuti",
+   "nome": "Gamma Scuti",
+   "bayer": "\u03b3 Scuti (\u03b3 Sct; HD 170296; HIP 90595; Bode la design\u00f2 \u201cj Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio: solo la lettera di Bayer. Nella figura di Hevelius era la stella \u00abnebulosa\u00bb pi\u00f9 meridionale dello scudo: in realt\u00e0 \u00e8 una doppia.",
+   "magnitudine": "4,67",
+   "spettro": "A1IV/V (subgigante/nana bianco-azzurra)",
+   "distanza_al": 291,
+   "curiosita": "Ha un appuntamento con il futuro: fra circa 2,1 milioni di anni passer\u00e0 a 14 anni luce dal Sole e diventer\u00e0 probabilmente la stella pi\u00f9 luminosa del cielo terrestre, con una luminosit\u00e0 apparente pari al doppio dell'attuale Sirio. Con la vicina Delta Scuti, che avr\u00e0 lo stesso primato un milione di anni prima, lo Scudo detiene DUE futuri record di luminosit\u00e0 apparente. Si avvicina a 41 km/s. \u00c8 anche la stella di riferimento per individuare la Nebulosa Aquila (M16) e la Nebulosa Omega (M17): da lei, a circa 3 gradi verso ovest-sud-ovest, c'\u00e8 M16.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gamma_Scuti"
+  },
+  {
+   "id": "delta_scuti",
+   "nome": "Delta Scuti",
+   "bayer": "\u03b4 Scuti (\u03b4 Sct; Flamsteed 2 Aquilae; HD 172748; HIP 91726; Bode la design\u00f2 \u201co Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio, ma la classe di variabili che porta il SUO nome: le variabili Delta Scuti, pulsanti di tipo A2-F8 con periodi fra 0,025 e 0,25 giorni, sono il prototipo studiato in tutto il mondo.",
+   "magnitudine": "4,71 (varia da 4,60 a 4,79 in 4 ore e 40 minuti)",
+   "spettro": "F2 IIIp (gigante giallo-bianca con abbondanze chimiche peculiari)",
+   "distanza_al": 202,
+   "curiosita": "\u00c8 il prototipo delle variabili Delta Scuti: stelle che pulsano per il meccanismo kappa, con masse di 1,5-2,5 soli. L'asteroseismologia del 2021 (Daszy\u0144ska-Daszkiewicz e collaboratori, MNRAS) ha misurato 2,12 masse solari, 4,16 raggi solari, 37 luminosit\u00e0 solari e un'et\u00e0 di 1,06 miliardi di anni: il raggio varia dello 0,3-0,9% a ogni pulsazione. Ha anche lei un appuntamento con il futuro: fra circa 1,3 milioni di anni passer\u00e0 a 11,6 anni luce dal Sole e sar\u00e0 la stella pi\u00f9 luminosa del cielo a magnitudine \u22121,51, battendo Sirio. \u00c8 un sistema almeno triplo: le compagne B (K8) e C (G7) sono forse solo compagne ottiche.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Scuti"
+  },
+  {
+   "id": "eta_scuti",
+   "nome": "Eta Scuti",
+   "bayer": "\u03b7 Scuti (\u03b7 Sct; Flamsteed 9 Aquilae; HD 175751; HIP 93026; Bode la design\u00f2 \u201ck Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio: come per Alfa, anche per Eta la designazione di Flamsteed ricorda che il primo Astronomo Reale inglese non riconobbe lo Scudo e catalog\u00f2 le sue stelle sotto l'Aquila.",
+   "magnitudine": "4,83",
+   "spettro": "K1 III (gigante arancione, red clump: fusione dell'elio nel nucleo)",
+   "distanza_al": 213,
+   "curiosita": "\u00c8 una stella singola vicino al confine con l'Aquila, e si sta avvicinando a 92 km/s, una delle velocit\u00e0 radiali pi\u00f9 alte del batch. Ha 12 raggi solari, 63 luminosit\u00e0 solari, 1,5 masse solari e un'et\u00e0 di circa 2,8 miliardi di anni: \u00e8 nel ramo orizzontale, la fase in cui una gigante fonde l'elio nel nucleo, come Anser nella Volpetta. Con Alfa e Beta appartiene all'asterismo cinese Tianbian, i funzionari dei mercati. La distanza qui scelta \u00e8 quella della voce inglese (circa 213 anni luce); la tabella d\u00e0 207.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Scuti"
+  },
+  {
+   "id": "epsilon_scuti",
+   "nome": "Epsilon Scuti",
+   "bayer": "\u03b5 Scuti (\u03b5 Sct; Flamsteed 3 Aquilae; HD 173009; HIP 91845; Bode la design\u00f2 \u201cn Scuti\u201d)",
+   "origine_nome": "Nessun nome proprio: solo la lettera di Bayer.",
+   "magnitudine": "4,88",
+   "spettro": "G8 II (gigante brillante gialla)",
+   "distanza_al": 570,
+   "curiosita": "\u00c8 una probabile binaria astrometrica con un corteggio di compagne deboli: nel telescopio si vedono almeno TRE stelle ottiche vicine \u2014 due di quattordicesima magnitudine a 13,6 e 15,4 secondi d'arco e una di tredicesima a 38 secondi d'arco. Ha circa 403 luminosit\u00e0 solari. La distanza qui scelta \u00e8 quella della voce inglese dalla parallasse (570 anni luce); le tabelle danno 522.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Scuti"
+  },
+  {
+   "id": "r_scuti",
+   "nome": "R Scuti",
+   "bayer": "nessuno (designazione di variabile R Scuti; HD 173819; HIP 92202)",
+   "origine_nome": "Nessun nome proprio: la designazione R Scuti \u00e8 quella di stella variabile, secondo la convenzione Bayer-Argelander (R = nona variabile scoperta della costellazione).",
+   "magnitudine": "varia da 4,2 a 8,6",
+   "spettro": "supergigante gialla con spettro peculiare variabile (G0Iae-K2p(M3)Ibe): al minimo assume tratti di supergigante K con bande di titanio ossido tipiche delle stelle M",
+   "distanza_al": null,
+   "curiosita": "\u00c8 la variabile RV Tauri pi\u00f9 luminosa e famosa del cielo, scoperta nel 1795 da Edward Pigott, all'epoca di pochissime variabili conosciute. La sua curva di luce \u00e8 uno show: minime occasionali molto profonde, fasi di stasi irregolari che possono durare ANNI, e un periodo di circa 140 giorni con minimi alternati profondi e superficiali. Nel database AAVSO ha oltre 110.000 osservazioni. Sta a circa 1 grado a nord-ovest dell'ammasso dell'Anitra Selvatica M11: nel campo del binocolo insieme all'ammasso. In realt\u00e0 \u00e8 una stella post-AGB poco massiccia (0,55-0,68 masse solari) \u00abtravestita\u00bb da supergigante: la classe di luminosit\u00e0 Ia \u00e8 ingannevole. La distanza \u00e8 incerta (la parallasse Gaia DR2 \u00e8 inaffidabile; le stime la mettono a diverse migliaia di anni luce), per questo non viene indicata come numero certo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Scuti"
+  },
+  {
+   "id": "uy_scuti",
+   "nome": "UY Scuti",
+   "bayer": "nessuno (BD-12\u00b05055, catalogata nel 1860 per il Bonner Durchmusterung; Gaia DR3 4152993273702130432)",
+   "origine_nome": "Nessun nome proprio: la designazione UY Scuti \u00e8 quella di stella variabile; la sigla BD-12\u00b05055 deriva dal catalogo di Bonn del 1860.",
+   "magnitudine": "variabile semiregolare, intorno alla 9a-12a magnitudine (le fonti divergono: la voce inglese d\u00e0 8,29-10,56, quella italiana 11,2-13,3 in bande fotometriche diverse) \u2014 invisibile a occhio nudo",
+   "spettro": "ipergigante rossa (M4Ia-Iab; la voce inglese d\u00e0 M3.5), temperatura di circa 3550 K",
+   "distanza_al": 5900,
+   "curiosita": "La chicca dello Scudo: fino a pochi anni fa era la \u00abstella pi\u00f9 grande conosciuta\u00bb. La misura AMBER/VLT del 2012 le attribu\u00ec un raggio di 1708 raggi solari, circa 8 unit\u00e0 astronomiche: la fotosfera avrebbe superato l'orbita di Marte. Con la distanza rivista da Gaia, nel 2023-2024 il raggio \u00e8 stato corretto a 909 raggi solari (Healy e collaboratori, MNRAS): ancora gigantesco \u2014 un volume di centinaia di milioni di soli \u2014 ma non pi\u00f9 record assoluto. \u00c8 variabile semiregolare con periodo di circa 740 giorni, perde massa a un ritmo di 5,8 milionesimi di sole all'anno ed \u00e8 avvolta da un involucro di polveri con maser di acqua, monossido di silicio e ossido di idrossile. Finir\u00e0 come supernova a collasso del nucleo, passando forse per ipergigante gialla o Wolf-Rayet. Si trova vicino a Gamma Scuti, a nord-est della Nebulosa Aquila.",
+   "fonte_url": "https://it.wikipedia.org/wiki/UY_Scuti"
+  }
+ ]
+}
