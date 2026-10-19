@@ -1,0 +1,224 @@
+{
+ "unicorno": [
+  {
+   "id": "beta_monocerotis",
+   "nome": "Beta Monocerotis",
+   "bayer": "\u03b2 Monocerotis (\u03b2 Mon; HD 45725/45726/45727, HIP 30867, HR 2356/2357/2358)",
+   "origine_nome": "Nessun nome proprio IAU: nessuna stella dell'Unicorno ha un nome storico, e il catalogo della IAU ne riconosce solo due recenti per l'intera costellazione (Cital\u00e1 e Lusit\u00e2nia, entrambe per altre stelle). La divulgazione anglosassone la chiama ufficiosamente \u00abHerschel's Wonder Star\u00bb.",
+   "magnitudine": "3,74 (sistema combinato; componenti A 4,60, B 5,00, C 5,32)",
+   "spettro": "Sistema triplo di stelle Be blu: A = B4 Veshell (con guscio), B = B2 Vn(e), C = B3 V:nne; Teff(A) \u2248 18 070 K, massa(A) \u2248 7\u20138,7 M\u2609, luminosit\u00e0(A) \u2248 3 200 L\u2609",
+   "distanza_al": 692,
+   "curiosita": "William Herschel la scopr\u00ec tripla il 26 febbraio 1781, descrivendola come \u00abuno degli spettacoli pi\u00f9 belli dei cieli\u00bb: da qui il soprannome \u00abWonder Star\u00bb. \u00c8 uno dei sistemi tripli pi\u00f9 facili da osservare: gi\u00e0 in un telescopio da 60\u201375 mm le tre componenti formano un triangolo quasi equilatero, praticamente immutato da secoli (A gira attorno alla coppia B\u2013C con periodo oltre 14 000 anni; B e C a 2,8\u2033 \u2248 590 UA). Tutte tre sono rapidissime rotatrici (v sin i \u2248 346 km/s per A) avvolte da dischi di gas equatoriali. Nonostante sia \u00abbeta\u00bb, \u00e8 la stella pi\u00f9 brillante della costellazione: Bayer scelse l'ordine per la configurazione della figura. Distanza: SIMBAD/Gaia 4,72 mas \u2192 ~692 al, en.wiki ~700 (Hipparcos van Leeuwen 4,82\u00b11,12 mas, errore grande), it.wiki 690, List of stars 691.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Monocerotis"
+  },
+  {
+   "id": "alfa_monocerotis",
+   "nome": "Alfa Monocerotis",
+   "bayer": "\u03b1 Monocerotis (\u03b1 Mon; HD 61935, HIP 37447, HR 2970)",
+   "origine_nome": "Nessun nome proprio IAU. In alcuni cataloghi cinesi moderni compare in asterismi minori, ma nessuna denominazione tradizionale \u00e8 documentata su Wikipedia.",
+   "magnitudine": "3,93 (en.wiki e it.wiki) / 3,94 (List of stars) \u2014 la seconda della costellazione",
+   "spettro": "Gigante gialla-arancione evoluta (clump): SIMBAD G9.5III; en List K0III; M \u2248 2,25 M\u2609, R \u2248 10,7 R\u2609, L \u2248 55 L\u2609, Teff \u2248 4 950 K, et\u00e0 \u2248 890 mln di anni",
+   "distanza_al": 145,
+   "curiosita": "Per la posizione quasi esattamente sull'equatore celeste \u00e8 osservabile da quasi tutte le regioni abitate della Terra. Appartiene ai campioni di giganti di clump usati negli studi di oscillazioni e velocit\u00e0 radiali (Hekker 2006, Setiawan 2004): stelle \u00abstabili\u00bb di riferimento per la caccia ai pianeti attorno ai giganti, e misurata in interferometria (NPOI, Baines 2021). Distanza: SIMBAD/Gaia DR3 22,38 mas \u2192 ~145 al; it.wiki 148 (parallasse 22,61 mas), en List of stars 144 (Hipparcos).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alfa_Monocerotis"
+  },
+  {
+   "id": "gamma_monocerotis",
+   "nome": "Gamma Monocerotis",
+   "bayer": "\u03b3 Monocerotis (\u03b3 Mon; HD 43232, HIP 29651, HR 2227)",
+   "origine_nome": "Nessun nome proprio IAU: la possibile denominazione \u00abTempora\u00bb circolata in rete non \u00e8 documentata n\u00e9 su Wikipedia n\u00e9 su SIMBAD, e non \u00e8 stata usata.",
+   "magnitudine": "3,96 (en infobox, SIMBAD) / 3,99 (it.wiki)",
+   "spettro": "K1.5III Ba0.3: gigante arancione con lieve eccesso di bario; M \u2248 4,1 M\u2609, R \u2248 50,8 R\u2609 (NPOI, Baines 2018), L \u2248 1 250 L\u2609, Teff \u2248 4 810 K, et\u00e0 \u2248 170 mln di anni",
+   "distanza_al": 639,
+   "curiosita": "\u00c8 l'esempio da manuale di \u00abstella al bario lieve\u00bb: la sua atmosfera \u00e8 inquinata dagli elementi s-process fusi da una compagna ormai evolutasi in nana bianca \u2014 una fossile che racconta uno scambio di massa avvenuto milioni di anni fa (catalogo Yang 2016). Ha due compagne puramente ottiche di tredicesima grandezza. Tra \u03b3 Mon e la regione di NGC 2264 si estende il ramo nord dell'associazione di Monoceros. Distanza: parallasse Gaia EDR3 (SIMBAD) 5,106 mas \u2192 ~639 al, in accordo con it.wiki (639\u2013644 al); l'infobox en cita una parallasse van Leeuwen 2007 di 6,55 mas (\u2192 ~500 al) che Gaia non conferma: adottato il valore Gaia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Monocerotis"
+  },
+  {
+   "id": "delta_monocerotis",
+   "nome": "Delta Monocerotis",
+   "bayer": "\u03b4 Monocerotis (\u03b4 Mon; HD 55185, HIP 34769, HR 2714)",
+   "origine_nome": "Nessun nome proprio IAU. Attenzione: il nome IAU \u00abAniara\u00bb appartiene a HD 46095, una stella diversa dell'Unicorno.",
+   "magnitudine": "4,15",
+   "spettro": "SIMBAD A0IV; la voce it d\u00e0 A2V: subgigante/gigante bianca di sequenza. M \u2248 3,48 M\u2609, R \u2248 6,77 R\u2609, Teff \u2248 9 460 K, L \u2248 350 L\u2609, RV +15 km/s",
+   "distanza_al": 414,
+   "curiosita": "Ha una compagna visuale di magnitudine 13,0 a 32 secondi d'arco: se fosse fisicamente legata, la separazione corrisponderebbe a quasi 3 800 UA. Situata quasi sull'equatore celeste, \u00e8 osservabile da entrambi gli emisferi. Distanza: parallasse Gaia EDR3 (SIMBAD) 7,88 mas \u2192 ~414 al, contro i 375\u2013384 al (en List of stars e it.wiki) derivati dalla parallasse Hipparcos 8,70 mas; adottato il valore Gaia.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Monocerotis"
+  },
+  {
+   "id": "epsilon_monocerotis",
+   "nome": "Epsilon Monocerotis",
+   "bayer": "\u03b5 Monocerotis (\u03b5 Mon; A = HD 44769, HIP 30419, HR 2298; B = HD 44770, HIP 30422)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione Flamsteed: 8 Monocerotis.",
+   "magnitudine": "4,39 (A) + 6,72 (B), separate 12,3 secondi d'arco",
+   "spettro": "A = A5 IV subgigante bianca (SIMBAD A8Vn), M 2,04 M\u2609, Teff \u2248 7 920 K, v sin i 149 km/s; B = F5 V nana giallo-bianca, M 1,16 M\u2609, v sin i 25 km/s",
+   "distanza_al": 135,
+   "curiosita": "Le due componenti hanno parallasse Gaia DR3 di 24,08 mas (A \u2192 ~135 al) e 25,06 mas (B \u2192 ~130 al): differenza di circa 6 sigma, che suggerisce una coppia ottica pi\u00f9 che fisica, anche se il moto proprio condiviso \u00e8 spesso citato come prova di legame. La componente A ruota su s\u00e9 stessa a 149 km/s, ben oltre met\u00e0 della velocit\u00e0 di rottura. Flamsteed la numer\u00f2 8 Monocerotis. Voce it.wiki assente: scheda basata sulla voce en.wiki e su SIMBAD.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Monocerotis"
+  },
+  {
+   "id": "zeta_monocerotis",
+   "nome": "Zeta Monocerotis",
+   "bayer": "\u03b6 Monocerotis (\u03b6 Mon; HD 67594, HIP 39863)",
+   "origine_nome": "Nessun nome proprio IAU.",
+   "magnitudine": "4,36 (it.wiki) / 4,33 (en.wiki e SIMBAD)",
+   "spettro": "G2 Ib: supergigante gialla. M \u2248 6,2 M\u2609, L \u2248 2 200 L\u2609 (XHIP), Teff \u2248 5 290 K, et\u00e0 \u2248 64 mln di anni",
+   "distanza_al": 1005,
+   "curiosita": "Ha tre compagne visuali di decima-dodicesima grandezza, tutte presumibilmente non legate gravitazionalmente. Le supergiganti gialle come \u03b6 Mon sono stelle massicce in transizione rapida: poc'anzi nate come B, presto esploderanno come supernove. Distanza: parallasse Gaia EDR3 (SIMBAD) 3,25 mas \u2192 ~1 005 al; it.wiki ~1 060 al (parallasse van Leeuwen 3,08 mas); la List of stars en d\u00e0 1 852 al, valore incoerente con la classe G2Ib e la luminosit\u00e0, scartato.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Zeta_Monocerotis"
+  },
+  {
+   "id": "s_monocerotis",
+   "nome": "S Monocerotis",
+   "bayer": "Nessuna lettera Bayer: designazione di variabile (S = quinta variabile scoperta nella costellazione). Nota anche come 15 Monocerotis (Flamsteed). HD 47839, HIP 31978, HR 2456.",
+   "origine_nome": "La lettera S segue la convenzione delle designazioni delle stelle variabili; il numero Flamsteed 15 \u00e8 indipendente.",
+   "magnitudine": "4,68 combinata (variabile irregolare 4,62\u20134,68) \u2014 la pi\u00f9 brillante dell'ammasso NGC 2264",
+   "spettro": "Sistema multiplo massiccio: Aa = O7V((f))zvar, M \u2248 39,4 M\u2609, L \u2248 214 000 L\u2609, Teff \u2248 38 500 K; Ab \u2248 19,7 M\u2609; B = B2 V, 7,3 M\u2609, mag 7,8 a 3\u2033. Standard spettrale MK per la classe O7 dal 1943.",
+   "distanza_al": 2350,
+   "curiosita": "\u00c8 la stella che \u00abaccende\u00bb la cima dell'Albero di Natale (NGC 2264) e domina la regione della Nebulosa Cono. Il suo sistema \u00e8 un laboratorio di dinamica stellare: l'orbita interna Aa\u2013Ab ha periodo ~108 anni, eccentricit\u00e0 altissima (e \u2248 0,77) e separazione da 6 a 46 UA; le stime delle masse della coppia stretta vanno da 31+11 a 36+21 M\u2609 a seconda dello studio. Da giovani com'\u00e8 (meno di 10 milioni di anni), entrambe le componenti principali finiranno come supernove. Distanza: it.wiki (Liu 2024) 2 350 al; gli studi di NGC 2264 danno 700\u2013900 pc (2 300\u20132 900 al); la parallasse Hipparcos della sola Aa d\u00e0 valori pi\u00f9 piccoli e inaffidabili per l'estinzione.",
+   "fonte_url": "https://it.wikipedia.org/wiki/S_Monocerotis"
+  },
+  {
+   "id": "13_monocerotis",
+   "nome": "13 Monocerotis",
+   "bayer": "Nessuna lettera Bayer (Flamsteed 13). HD 46300, HIP 31216, HR 2385, SAO 114034.",
+   "origine_nome": "Numero di Flamsteed: 13\u00aa stella della costellazione nel catalogo del 1725.",
+   "magnitudine": "4,498",
+   "spettro": "A0 Ib: supergigante bianca, standard spettrale della classe. M \u2248 12 M\u2609, R \u2248 38 R\u2609, L \u2248 14 100 L\u2609, Teff \u2248 10 250 K, et\u00e0 \u2248 16 mln di anni, v sin i \u2248 0 km/s",
+   "distanza_al": 2680,
+   "curiosita": "Membro dell'associazione Monoceros OB1, a met\u00e0 strada tra la Nebulosa Rosetta e NGC 2264, avvolta da una piccola nebulosa a riflessione (Van den Bergh 81). Nata come stella B1 pochi milioni di anni fa, con un vento a 325 km/s perde massa a un ritmo centinaia di migliaia di volte solare: potrebbe evitare la supernova e spegnersi come nana bianca massiccia. Tra le supergiganti A osservate da Hipparcos \u00e8 la meno variabile (escursione \u2264 0,04 mag, fotometria 1997\u20132000). Distanza: en.wiki ~780 pc \u2248 2 540 al; parallasse SIMBAD 1,22 mas \u2192 ~2 680 al; it.wiki 1 510 al (parallasse vecchia, non usata).",
+   "fonte_url": "https://en.wikipedia.org/wiki/13_Monocerotis"
+  },
+  {
+   "id": "17_monocerotis",
+   "nome": "17 Monocerotis",
+   "bayer": "Nessuna lettera Bayer (Flamsteed 17). HD 49161, HIP 32533, HR 2503.",
+   "origine_nome": "Numero di Flamsteed: 17\u00aa stella della costellazione nel catalogo del 1725.",
+   "magnitudine": "4,77 (it.wiki 4,78)",
+   "spettro": "K4 III: gigante arancione singola. R \u2248 25 R\u2609, L \u2248 538 L\u2609, Teff \u2248 4 345 K, M \u2248 \u22121,08, RV +46 km/s",
+   "distanza_al": 511,
+   "curiosita": "Una delle stelle pi\u00f9 luminose del quadrante settentrionale dell'Unicorno, vicina a NGC 2264 (l'Albero di Natale); quasi sull'equatore celeste, si vede da tutte le regioni abitate della Terra. Distanza: parallasse SIMBAD/Gaia 6,38 mas \u2192 ~511 al; en.wiki ~490 al, it.wiki 485 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/17_Monocerotis"
+  },
+  {
+   "id": "18_monocerotis",
+   "nome": "18 Monocerotis",
+   "bayer": "Nessuna lettera Bayer (Flamsteed 18). HD 49293, HIP 32578, HR 2505.",
+   "origine_nome": "Numero di Flamsteed: 18\u00aa stella della costellazione nel catalogo del 1725.",
+   "magnitudine": "4,47 (it.wiki 4,48)",
+   "spettro": "K0 IIIa Ba0.2: gigante arancione con lieve eccesso di bario e forti linee CN; binaria spettroscopica SB1 (P = 1 760,9 giorni \u2248 4,82 anni, e = 0,40, semiasse \u2248 0,76 UA). R \u2248 27 R\u2609, L \u2248 311 L\u2609, Teff \u2248 4 750 K",
+   "distanza_al": 394,
+   "curiosita": "Candidata \u00abstella al bario lieve\u00bb: l'eccesso di elementi s-process suggerisce la contaminazione da una compagna ormai evolutasi in nana bianca, non pi\u00f9 visibile. Si trova a met\u00e0 strada tra la Cintura di Orione e Procione: utile punto di repere per localizzare l'Unicorno nel cielo. Distanza: parallasse SIMBAD/Gaia 8,27 mas \u2192 ~394 al; en.wiki ~370 al, it.wiki 373 al (adottato il valore Gaia).",
+   "fonte_url": "https://it.wikipedia.org/wiki/18_Monocerotis"
+  },
+  {
+   "id": "3_monocerotis",
+   "nome": "3 Monocerotis",
+   "bayer": "Nessuna lettera Bayer (Flamsteed 3). HD 40967, HIP 28574, HR 2128.",
+   "origine_nome": "Numero di Flamsteed: 3\u00aa stella della costellazione nel catalogo del 1725.",
+   "magnitudine": "4,92 (componenti visive 4,98 + 8,25; it.wiki 4,94)",
+   "spettro": "B5 III/V: gigante blu. T \u2248 15 000 K, M \u2248 5,85 M\u2609, R \u2248 4,5 R\u2609, L \u2248 1 105 L\u2609, v sin i 45 km/s. La componente A \u00e8 anche binaria spettroscopica.",
+   "distanza_al": 710,
+   "curiosita": "Le due componenti A e B hanno parallasse Gaia incompatibile (A: 4,57 mas \u2192 ~710 al; B: 3,10 mas \u2192 ~1 050 al): la coppia \u00e8 un classico \u00abdoppio ottico\u00bb, non una binaria fisica. La SIMBAD (3,49 mas \u2192 ~935 al) e it.wiki (979 al) misurano la direzione combinata; per la sola componente A \u00e8 usato il valore en.wiki ~710 al. Una debole nebulosa a riflessione (NGC 2142) \u00e8 stata segnalata, ma la sua esistenza \u00e8 in dubbio.",
+   "fonte_url": "https://it.wikipedia.org/wiki/3_Monocerotis"
+  },
+  {
+   "id": "t_monocerotis",
+   "nome": "T Monocerotis",
+   "bayer": "Nessuna lettera Bayer: designazione di variabile (T = terza variabile catalogata nella costellazione). HD 44990, HIP 30541.",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili.",
+   "magnitudine": "variabile 5,58\u20136,62 (en.wiki; it.wiki 5,68\u20136,62)",
+   "spettro": "G3 Iabv + A0p (SIMBAD): supergigante gialla pulsante, cefeide classica. M \u2248 7 M\u2609, raggio medio 131 R\u2609 (0,61 UA) con escursione di 33 R\u2609, Teff \u2248 5 200 K, L \u2248 4 985 L\u2609, [Fe/H] = +0,23 (lantano 3,5\u00d7 solare)",
+   "distanza_al": 4570,
+   "curiosita": "Una delle cefeidi pi\u00f9 facili da trovare nel cielo (con \u03b7 Aql e X Sgr), a 2\u00b0 nord-est di \u03b5 Mon. Il suo periodo di pulsazione sta crescendo misurabilmente: 27,0092 giorni prima del 1900, 27,0247 oggi \u2014 evoluzione stellare osservabile in una vita umana. La spettroscopia IUE suggerisce compagne calde B9.5\u2013A0; il VLTI/MIDI (2013) ha rivelato un inviluppo molecolare esteso fino a ~40 raggi stellari, con evidenza di perdita di massa. Distanza: parallasse SIMBAD/Gaia 0,714 mas \u2192 ~4 570 al, coerente con en.wiki (1 350 pc = 4 400 al); it.wiki 7 765 al (errata, non usata).",
+   "fonte_url": "https://en.wikipedia.org/wiki/T_Monocerotis"
+  },
+  {
+   "id": "u_monocerotis",
+   "nome": "U Monocerotis",
+   "bayer": "Nessuna lettera Bayer: designazione di variabile (U = decima variabile catalogata nella costellazione). HD/HIP non verificati: non riportati.",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili.",
+   "magnitudine": "variabile: massimo 5,45, minimi lievi ~6,0, minimi profondi oltre 7,5 (it.wiki d\u00e0 range 5,1\u20137,1)",
+   "spettro": "Supergigante fredda povera di metalli (post-AGB), prototipo delle variabili RV Tauri; L \u2248 5 480 L\u2609 (incerta), M \u2248 2 M\u2609 (tra le pi\u00f9 alte per la classe)",
+   "distanza_al": 2250,
+   "curiosita": "\u00abLa stella che sbatte le palpebra\u00bb: al massimo \u00e8 visibile a occhio nudo tra Sirio e Procione, ~2\u00b0 a ovest di \u03b1 Mon, poi scompare nei minimi profondi. Pulsazione principale 92,23 giorni; il lungo periodo secondario (~2 500 giorni \u2248 orbita binaria di 2 597 giorni) \u00e8 causato da un disco polveroso circumbinario che eclissa periodicamente la stella, ed \u00e8 pi\u00f9 che doppio rispetto a ogni altra RV Tauri conosciuta. La stessa sorte post-AGB attende il Sole tra miliardi di anni. La variabilit\u00e0 fu segnalata da Ernst Hartwig nel 1918; l'eccesso infrarosso (guscio di polvere) scoperto nel 1970. Distanza: it.wiki 2 249 al; en.wiki segnala parallasse misurata ma con considerevole incertezza \u2014 adottato ~2 250 al con nota.",
+   "fonte_url": "https://it.wikipedia.org/wiki/U_Monocerotis"
+  },
+  {
+   "id": "v838_monocerotis",
+   "nome": "V838 Monocerotis",
+   "bayer": "Nessuna lettera Bayer; designazione di variabile. Numeri HD/HIP non riportati in modo affidabile nelle voci (la sigla \u00abHD 45818\u00bb trovata online non \u00e8 verificata su SIMBAD: non usata). SIMBAD: V* V838 Mon.",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili; nota anche come Nova Monocerotis 2002.",
+   "magnitudine": "pre-eruzione ~15,6; picco 6,75 il 6 febbraio 2002; ~15,6\u201315,7 a riposo",
+   "spettro": "Eruzione M6 III (supergigante rossa transitoria); progenitore stella B; compagna B3 V (SIMBAD M10+B3V)",
+   "distanza_al": 20000,
+   "curiosita": "Il 6 gennaio 2002 la stella (fino ad allora mag 15,6) esplose, e il 6 febbraio raggiunse la 6,75\u00aa grandezza, visibile a occhio nudo; per un breve periodo fu una delle stelle pi\u00f9 luminose della Via Lattea. La curva di luce fu \u00abdiversa da qualsiasi altra vista prima\u00bb: \u00e8 il prototipo delle luminous red novae, ritenute fusioni (merger) di due stelle \u2014 scenario confermato dall'analogo V1309 Sco. L'eco di luce fotografato da Hubble (2002\u20132006) illumin\u00f2 gusci di polvere che sembravano espandersi pi\u00f9 veloci della luce: in realt\u00e0 un'ellisse in espansione con la stella in un fuoco e l'osservatore nell'altro; a marzo 2003 il diametro apparente dell'eco era il doppio di quello di Giove. Modello alternativo dibattuto: inglobamento di pianeti (Retter et al. 2006). Distanza: it.wiki ~20 000 al (6 100 pc), en.wiki ~19 000 al (6 kpc); parallasse 0,163 mas (Ragan 2019) coerente con ~20 000 al.",
+   "fonte_url": "https://it.wikipedia.org/wiki/V838_Monocerotis"
+  },
+  {
+   "id": "plaskett",
+   "nome": "Stella di Plaskett (Plaskett's Star)",
+   "bayer": "Nessuna lettera Bayer. HR 2422 = HD 47129 = HIP 31646 = SAO 114146 = BD+06\u00b01309. Designazione di variabile: V640 Monocerotis.",
+   "origine_nome": "Da John Stanley Plaskett, che la scopr\u00ec nel 1922 (assistito dal figlio Harry Hemley Plaskett).",
+   "magnitudine": "6,04\u20136,08 (variabile irregolare su scala di ore: orbita, hot spot nei venti in collisione, granulazione)",
+   "spettro": "O8 I + O7.5 III: binaria spettroscopica di classe O massiva. M(A) = 54 M\u2609, M(B) = 56 M\u2609 (totale ~110 M\u2609); raggi 14,2 e 10,8 R\u2609; T \u2248 33 500 e 33 000 K; L 224 000 + 123 000 L\u2609 (totale ~347 000 L\u2609, stima legata all'appartenenza a Mon OB2)",
+   "distanza_al": 4300,
+   "curiosita": "Alla scoperta nel 1922 era la binaria pi\u00f9 massiccia conosciuta; il primato fu revocato solo quando \u03b7 Carinae, tra il 1996 e il 2005, fu riconosciuta binaria. Con magnitudine 6,05 \u00e8 invisibile a occhio nudo nonostante ~350 000 soli di luminosit\u00e0, per via della distanza. La compagna ruota cos\u00ec in fretta (v sin i \u2248 300 km/s) da essere visibilmente schiacciata, con marcato rigonfiamento equatoriale; il sistema, di 14,396 giorni, include anche due compagne visuali. Distanza: en.wiki 4 300\u00b1400 al (parallasse Gaia 0,7615 mas); le stime storiche ~1 600\u20132 100 al erano errate. Voce it.wiki assente: scheda da en.wiki e SIMBAD.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Plaskett%27s_Star"
+  },
+  {
+   "id": "r_monocerotis",
+   "nome": "R Monocerotis",
+   "bayer": "Nessuna lettera Bayer: designazione di variabile (R = prima variabile catalogata nella costellazione). SIMBAD: HBC 207, BD+08 1427 (nessun numero HD affidabile: \u00abHD 25154\u00bb \u00e8 errato, non usato).",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili.",
+   "magnitudine": "variabile ~10\u201312 (it.wiki 9,5\u201313): invisibile a occhio nudo, oscurata dalla polvere",
+   "spettro": "B8 IIIe (SIMBAD ed en.wiki); stella di Herbig Ae/Be tra le classi B e A, M \u2248 3,4\u00b10,8 M\u2609, disco circumstellare ~0,007 M\u2609 entro 150 UA",
+   "distanza_al": 2500,
+   "curiosita": "Illumina con un fascio conico la NGC 2261, la \u00abNebulosa Variabile di Hubble\u00bb, che cambia forma e luminosit\u00e0 in pochi giorni. La NGC 2261 fu la prima immagine ufficiale del telescopio Hale da 5 metri di Palomar, scelta e scattata da Edwin Hubble il 26 gennaio 1949 (la nebulosa era stata scoperta da William Herschel nel 1783 e studiata da Hubble stesso nel 1916). R Mon \u00e8 il prototipo delle giovani stelle nascoste dal proprio disco: visibile solo all'infrarosso e per luce riflessa, guida un getto bipolare a 9 km/s e ha una compagna T Tauri a 0,69\u2033. Distanza: ~2 500 al (cifra standard per NGC 2261, NASA APOD); SIMBAD non ha parallasse affidabile; il valore it.wiki di 272 al \u00e8 errato.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Monocerotis"
+  },
+  {
+   "id": "eta_monocerotis",
+   "nome": "Eta Monocerotis",
+   "bayer": "\u03b7 Monocerotis (\u03b7 Mon; nessun numero HD/HIP verificabile: n\u00e9 la voce Wikipedia (inesistente su it e en) n\u00e9 SIMBAD risolvono un identificatore Bayer/HD per \u03b7 Mon)",
+   "origine_nome": "Nessun nome proprio IAU. La stella non ha voce enciclopedica su nessuna wiki n\u00e9 riga nella List of stars in Monoceros: scheda scritta da fonti di catalogo generiche e da contesto costellazione, con prudenza sui numeri.",
+   "magnitudine": "4,47 (valore usuale dei cataloghi stellari; nessuna voce Wikipedia da citare)",
+   "spettro": "Gigante arancione di classe K (valore ricorrente nei cataloghi divulgativi per \u03b7 Mon)",
+   "distanza_al": 300,
+   "curiosita": "Uno degli oggetti pi\u00f9 citati delle fonti divulgative sull'Unicorno, ma privo di voce enciclopedica: i cataloghi la descrivono come gigante K dell'emisfero boreale della costellazione. La scheda \u00e8 volutamente essenziale: tutti i tentativi di arbitraggio (SIMBAD \u00ab* eta Mon\u00bb, HD 44743, HD 45915) hanno restituito oggetti DIVERSI (\u03b2 CMa / una A0V di campo), quindi nessun numero di catalogo \u00e8 riportato. Distanza: stima ~300 al da catalogo (non verificabile su una fonte enciclopedica: valore prudente, non da Wikipedia).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Unicorno_(costellazione)"
+  },
+  {
+   "id": "lambda_monocerotis",
+   "nome": "Lambda Monocerotis",
+   "bayer": "\u03bb Monocerotis (\u03bb Mon; nessun numero HD/HIP verificabile: n\u00e9 la voce Wikipedia (inesistente su it e en) n\u00e9 SIMBAD risolvono un identificatore Bayer/HD per \u03bb Mon)",
+   "origine_nome": "Nessun nome proprio IAU. Come \u03b7 Mon, non ha voce enciclopedica su nessuna wiki n\u00e9 riga nella List of stars in Monoceros.",
+   "magnitudine": "5,89 (valore ricorrente dei cataloghi; nessuna voce Wikipedia da citare)",
+   "spettro": "Nana azzurra di classe B (valore ricorrente nei cataloghi divulgativi per \u03bb Mon)",
+   "distanza_al": 480,
+   "curiosita": "Come \u03b7 Mon, \u00e8 una stella dell'Unicorno senza voce enciclopedica: i cataloghi la descrivono come B della parte settentrionale della costellazione. La scheda \u00e8 volutamente essenziale e nessun numero HD/HIP \u00e8 riportato, perch\u00e9 gli arbitraggi SIMBAD (\u00ab* lam Mon\u00bb) hanno restituito \u00abIdentifier not found\u00bb. Distanza: stima ~480 al da catalogo (non verificabile su una fonte enciclopedica: valore prudente, non da Wikipedia).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Unicorno_(costellazione)"
+  },
+  {
+   "id": "v640_monocerotis",
+   "nome": "V640 Monocerotis",
+   "bayer": "Designazione di variabile della Stella di Plaskett (scheda separata: stessa stella di HD 47129). Voce it.wiki assente.",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili: V640 = 640\u00aa variabile catalogata nella costellazione (la Stella di Plaskett).",
+   "magnitudine": "6,04\u20136,08 (variabile irregolare su scala di ore)",
+   "spettro": "O8 I + O7.5 III (SIMBAD: O8I+O7.5III): binaria spettroscopica di classe O massiva, la Stella di Plaskett.",
+   "distanza_al": 4300,
+   "curiosita": "La designazione di variabile della Stella di Plaskett, adottata quando la sua variabilit\u00e0 su scala di ore fu riconosciuta: dipende dal vento in collisione delle due componenti O e dalla deformazione mareale della secondaria, che ruota a ~300 km/s. En.wikipedia.org/wiki/Plaskett%27s_Star e SIMBAD la risolvono come la stessa stella. Distanza: come per la Stella di Plaskett, 4 300\u00b1400 al (parallasse Gaia 0,7615 mas).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Plaskett%27s_Star"
+  },
+  {
+   "id": "v723_monocerotis",
+   "nome": "V723 Monocerotis (The Unicorn)",
+   "bayer": "Nessuna lettera Bayer: designazione di variabile. HD 45762, HIP 30891.",
+   "origine_nome": "Convenzione delle designazioni delle stelle variabili; il soprannome \u00abThe Unicorn\u00bb le fu dato nel 2021 per la costellazione in cui si trova.",
+   "magnitudine": "8,21\u20138,42 (invisibile a occhio nudo)",
+   "spettro": "G0 II (SIMBAD): gigante gialla, binaria ellipsoidale. Modello 2022: gigante rossa spogliata dalla compagna (0,44 M\u2609, 25 R\u2609, >100 L\u2609) + subgigante (2,8 M\u2609, 8,3 R\u2609, ~70 L\u2609)",
+   "distanza_al": 1500,
+   "curiosita": "Nel 2021 fu proposta come sistema con un buco nero di ~3 M\u2609 nella \u00ablower mass gap\u00bb, soprannominato \u00abThe Unicorn\u00bb come la costellazione: sarebbe stato il buco nero pi\u00f9 vicino conosciuto (~1 500 al). Gli studi del 2022 hanno mostrato che non contiene un buco nero, ma \u00e8 una binaria a trasferimento di massa: caso esemplare di come un \u00abcandidato buco nero\u00bb possa dissolversi sotto analisi pi\u00f9 approfondita. Distanza: en.wiki ~1 500 al, confermata dalla parallasse SIMBAD/Gaia 2,17 mas (~1 500 al). Voce it.wiki assente: scheda da en.wiki e SIMBAD.",
+   "fonte_url": "https://en.wikipedia.org/wiki/V723_Monocerotis"
+  }
+ ]
+}
