@@ -1,0 +1,182 @@
+{
+ "idra": [
+  {
+   "id": "alphard",
+   "nome": "Alphard",
+   "bayer": "\u03b1 Hydrae (\u03b1 Hya; la sola \u03b1 della costellazione)",
+   "origine_nome": "Dall'arabo al-fard, \u00abla solitaria\u00bb: \u00e8 l'unica stella brillante della regione. Nel Calendarium di Al Achsasi Al Mouakket \u00e8 Soheil al Fard, \u00abil solitario luminoso\u00bb; nome approvato dalla IAU (WGSN) nel luglio 2016. Tycho Brahe la chiam\u00f2 Cor Hydrae, \u00abil cuore dell'Idra\u00bb. In cinese Xing Xiu yi, \u00abPrima Stella dell'asterismo Stella\u00bb.",
+   "magnitudine": "1,98",
+   "spettro": "K3 III \u2014 gigante arancione; stella al bario, bersaglio asterosismico con oscillazioni multiperiodiche",
+   "distanza_al": 177,
+   "curiosita": "Tycho Brahe la chiam\u00f2 Cor Hydrae, \u00abil cuore dell'Idra\u00bb. \u00c8 l'unica stella della costellazione sopra la terza magnitudine, in una zona cos\u00ec povera che per trovare una stella brillante bisogna arrivare a Regolo. Appare sulla bandiera del Brasile (Mato Grosso do Sul) e ha dato il nome al furgone Toyota Alphard.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alphard"
+  },
+  {
+   "id": "gamma_hydrae",
+   "nome": "Naga",
+   "bayer": "\u03b3 Hydrae (\u03b3 Hya)",
+   "origine_nome": "Nome IAU (WGSN) approvato il 22 febbraio 2026 per \u03b3 Hya A, che segna la coda del serpente: dal sanscrito naga, \u00abserpente/drago\u00bb. In Bali (Indonesia) l'Idra \u00e8 vista come una naga; in cinese fa parte dell'asterismo Ping (\u00abil giudice\u00bb) con \u03c0 Hya.",
+   "magnitudine": "3,0",
+   "spettro": "G8 III \u2014 gigante gialla; compagna fisica B (~0,6 masse solari) a 1,6\" legata (velocit\u00e0 radiali confermate)",
+   "distanza_al": 133.8,
+   "curiosita": "Il nome Naga le \u00e8 stato assegnato ufficialmente dalla IAU il 22 febbraio 2026: in balinese l'Idra \u00e8 vista come un naga, serpente-drago \u2014 uno dei nomi stellari pi\u00f9 recenti del cielo. Nonostante lo stadio evolutivo avanzato \u00e8 pi\u00f9 giovane del Sole (372 milioni di anni). Appare sulla bandiera del Brasile (stato di Acre).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Hydrae"
+  },
+  {
+   "id": "epsilon_hydrae",
+   "nome": "Ashlesha (componente A)",
+   "bayer": "\u03b5 Hydrae (\u03b5 Hya; Flamsteed 11 Hya)",
+   "origine_nome": "Dal sanscrito ashlesha, \u00abl'abbraccio\u00bb, 9\u00aa delle 27 nakshatra (mansioni lunari) indiane; assegnato dalla IAU (WGSN) il 1\u00b0 giugno 2018 alla sola componente A. In cinese Liu Xiu wu, \u00abQuinta Stella del Salice\u00bb.",
+   "magnitudine": "3,4 (primaria; sistema ~3,38)",
+   "spettro": "sistema multiplo di almeno 4 componenti: A gigante gialla, binaria AB con periodo 15,07 anni, C binaria spettroscopica (9,9 giorni) che orbita attorno ad AB in ~870 anni, D probabile membro legato (~10.000 anni)",
+   "distanza_al": 129,
+   "curiosita": "Un sistema multiplo a quattro componenti con periodi da 9,9 giorni a 10.000 anni. Il nome Ashlesha (\u00abl'abbraccio\u00bb) viene dalla 9\u00aa mansione lunare indiana, che coincide con la testa dell'Idra: il nome indica esattamente la posizione del sistema, sulla testa del serpente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Hydrae"
+  },
+  {
+   "id": "sigma_hydrae",
+   "nome": "Minchir",
+   "bayer": "\u03c3 Hydrae (\u03c3 Hya)",
+   "origine_nome": "Dall'arabo minkhar ash-shuja, \u00abla narice del valoroso (serpente)\u00bb; appare come Minchir es-schudscha nell'Uranographia (1801) di Bode. Approvato dalla IAU (WGSN) il 5 settembre 2017. Erroneamente \u00abAl Minliar al Shuja\u00bb nello Yale Bright Star Catalogue.",
+   "magnitudine": "4,48",
+   "spettro": "K2 III \u2014 gigante arancione probabilmente sul ramo orizzontale (fonde elio nel nucleo)",
+   "distanza_al": 370,
+   "curiosita": "Il nome Minchir (\u00abla narice dell'Idra\u00bb) compare nell'Uranographia di Bode del 1801 come Minchir es-schudscha. Come le stelle della testa apparteneva al Min al Az'al di Ulug Beg, \u00abl'appartenente al luogo disabitato\u00bb: il nome arabo racconta la povert\u00e0 di stelle di questa regione di cielo.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sigma_Hydrae"
+  },
+  {
+   "id": "xi_hydrae",
+   "nome": "Xi Hydrae",
+   "bayer": "\u03be Hydrae (\u03be Hya; un tempo 19 Crateris)",
+   "origine_nome": "Designazione di Bayer; Flamsteed la design\u00f2 19 Crateris perch\u00e9 nel suo catalogo Idra e Cratere erano un'unica costellazione sovrapposta.",
+   "magnitudine": "3,54",
+   "spettro": "gigante rossa appena arrivata al piede del ramo delle giganti rosse (~3 masse solari iniziali)",
+   "distanza_al": 130,
+   "curiosita": "Bersaglio dell'asterosismologia: mostra oscillazioni \u00absimili a quelle solari\u00bb con periodi fra 2,0 e 5,5 ore. L'ESO le ha dedicato l'articolo audio \u00abThe Ultrabass Sounds of the Giant Star Xi Hya\u00bb: le sue oscillazioni, convertite in suono, sono ascoltabili online \u2014 un vero contrabbasso stellare.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Hydrae"
+  },
+  {
+   "id": "r_hydrae",
+   "nome": "R Hydrae",
+   "bayer": "nessuno (R Hya; nome di variabile)",
+   "origine_nome": "Convenzione delle designazioni di stelle variabili: R = prima variabile scoperta nella costellazione.",
+   "magnitudine": "3,5 \u2013 10,9 (periodo 389 giorni)",
+   "spettro": "M6e/M9e \u2014 gigante rossa Mireide, ramo asintotico (AGB)",
+   "distanza_al": 410,
+   "curiosita": "La prima osservazione registrata risale al 1662, per mano di Johannes Hevelius \u2014 l'autore dell'atlante di questo sito; la variabilit\u00e0 fu riconosciuta da Maraldi nel 1702. Il periodo, ~495 giorni nel 1700, cal\u00f2 fino a 385 giorni entro il 1950 e poi si stabilizz\u00f2: le osservazioni storiche documentano direttamente l'evoluzione della stella. Le immagini Spitzer mostrano un bow shock del vento stellare a 16.295 unit\u00e0 astronomiche.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Hydrae"
+  },
+  {
+   "id": "delta_hydrae",
+   "nome": "Lisan al Sudja",
+   "bayer": "\u03b4 Hydrae (\u03b4 Hya; Flamsteed 4 Hya)",
+   "origine_nome": "Dal Calendarium di Al Achsasi Al Mouakket: Lisan al Shudja, in latino Lingua Hydri, \u00abla lingua del serpente\u00bb. Per Ulug Beg era Minazal I del gruppo Min al Az'al. In cinese Liu Xiu yi, \u00abPrima Stella del Salice\u00bb.",
+   "magnitudine": "4,15",
+   "spettro": "sistema triplo gerarchico; primaria A1 Vnn con rotazione 285 km/s (forma oblata, raggio equatoriale 20% maggiore); compagna nana rossa a 0,9 unit\u00e0 astronomiche",
+   "distanza_al": 160,
+   "curiosita": "La primaria ruota a 285 km/s, cos\u00ec veloce che l'equatore \u00e8 visibilmente gonfiato del 20% rispetto ai poli. Il nome arabo Lisan al Sudja significa \u00abla lingua del serpente\u00bb: la stella segna la lingua dell'Idra. Dista da \u03b6 Hya solo ~12,9 anni luce e potrebbe essere una sua compagna di viaggio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Hydrae"
+  },
+  {
+   "id": "gj_357",
+   "nome": "GJ 357 (Gliese 357)",
+   "bayer": "nessuno (catalogo Gliese delle stelle vicine)",
+   "origine_nome": "Designazione del Catalogo Gliese delle stelle vicine.",
+   "magnitudine": "non disponibile (nana rossa debole, ~10,9 in luce visibile)",
+   "spettro": "nana rossa M-type, con attivit\u00e0 di macchie insolitamente bassa",
+   "distanza_al": 31,
+   "curiosita": "Ospita tre pianeti confermati; GJ 357 d \u00e8 una super-Terra nella zona abitabile. Il pianeta interno b \u00e8 stato osservato con il JWST nel 2025: niente molecole atmosferiche evidenti, ma una temperatura del lato diurno anomala (~650 \u00b0C) che i modelli non spiegano del tutto.",
+   "fonte_url": "https://en.wikipedia.org/wiki/GJ_357"
+  }
+ ],
+ "corvo": [
+  {
+   "id": "gienah",
+   "nome": "Gienah",
+   "bayer": "\u03b3 Corvi (\u03b3 Crv; Flamsteed 4 Crv; HD 106625)",
+   "origine_nome": "Dall'arabo al-janah al-ghirab al-yaman, \u00abl'ala destra del corvo\u00bb (catalogata da Ulugh Beg) \u2014 anche se nelle carte moderne segna l'ala sinistra. Nel Calendarium di Al Achsasi Al Mouakket tradotta in latino come Dextra ala Corvi. Per distinguerla da Gienah/Aljanah (\u03b5 Cygni) si chiamava \u00abGienah Corvi\u00bb. Nome IAU (WGSN) il 6 novembre 2016.",
+   "magnitudine": "2,58 (binaria combinata)",
+   "spettro": "B8 III \u2014 gigante azzurra; T ~12.400 K, 355 L\u2609",
+   "distanza_al": 154,
+   "curiosita": "Sistema binario con compagna di 0,8 masse solari a ~50 unit\u00e0 astronomiche, periodo ~158 anni; \u00e8 la stella al mercurio-manganese pi\u00f9 celebre dopo Alpheratz: in superficie ha pi\u00f9 mercurio e manganese e meno alluminio e nichel del normale. La distanza qui scelta \u00e8 quella della parallasse van Leeuwen (154); le tabelle italiane ed europee danno 165.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gienah_Corvi"
+  },
+  {
+   "id": "kraz",
+   "nome": "Kraz",
+   "bayer": "\u03b2 Corvi (\u03b2 Crv; Flamsteed 9 Crv; HD 109379)",
+   "origine_nome": "Nome moderno con origine ignota, apparso per la prima volta nell'Atlas Coeli (1951) dell'astronomo ceco Anton\u00edn Be\u010dv\u00e1\u0159; la IAU l'ha adottato tale e quale (WGSN, 1\u00b0 giugno 2018). La nota \u00abTso Hea\u00bb riportata da alcune fonti come nome alternativo \u00e8 un errore di R.H. Allen, che riguardava in realt\u00e0 \u03b7 Crv.",
+   "magnitudine": "2,65",
+   "spettro": "G5 II \u2014 gigante brillante gialla; T ~5.325 K, 175 L\u2609",
+   "distanza_al": 146,
+   "curiosita": "Segna il \u00abpetto\u00bb del corvo; a ~280 milioni di anni ha gi\u00e0 esaurito l'idrogeno nel nucleo: nata come azzurra di sequenza principale (B7V), oggi \u00e8 una gigante gialla destinata a diventare nana bianca. In cinese Zhensusi, \u00abquarta stella del Carro\u00bb. La distanza qui scelta \u00e8 quella della parallasse van Leeuwen (146); la tabella italiana d\u00e0 140.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Beta_Corvi"
+  },
+  {
+   "id": "algorab",
+   "nome": "Algorab",
+   "bayer": "\u03b4 Corvi (\u03b4 Crv; Flamsteed 7 Crv; HD 108767)",
+   "origine_nome": "Dall'arabo al-ghurab, \u00abil corvo\u00bb; varianti storiche Algoral, Algorel, Algores. Nome IAU (WGSN) nel primo bollettino di luglio 2016.",
+   "magnitudine": "2,94",
+   "spettro": "B9.5 V \u2014 subgigante bianca secondo le tabelle it/en (la voce inglese d\u00e0 A0IV(n)kB9); \u00abstella enigmatica\u00bb, con et\u00e0 non coerente con la classe spettrale",
+   "distanza_al": 87,
+   "curiosita": "Doppia facile anche con piccoli telescopi: compagna Algorab B (mag 9,3, nana arancione K2Ve) a 24,2 secondi d'arco, scoperta da South e Herschel nel 1823; le et\u00e0 molto diverse delle due componenti fanno sospettare che non siano fisicamente legate. \u00c8 una delle stelle fisse Beheniane dell'astrologia medievale; la nave USA USS Algorab (AKA-8) ne portava il nome.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Corvi"
+  },
+  {
+   "id": "minkar",
+   "nome": "Minkar",
+   "bayer": "\u03b5 Corvi (\u03b5 Crv; Flamsteed 2 Crv; HD 105707)",
+   "origine_nome": "Dall'arabo minqar, \u00abil becco [del corvo]\u00bb (l'italiano traduce \u00abla narice del corvo\u00bb, da al-manxar). Nome tradizionale, senza approvazione IAU. Cinese: Zhensuer, \u00abseconda stella del Carro\u00bb.",
+   "magnitudine": "3,02",
+   "spettro": "K2 III \u2014 gigante arancione; T ~4.200 K, ~56,7 raggi solari, quasi 1000 L\u2609",
+   "distanza_al": 318,
+   "curiosita": "Ha gi\u00e0 consumato l'idrogeno del nucleo e si \u00e8 gonfiata fino a ~57 raggi solari brillando quasi 1000 volte pi\u00f9 del Sole; in sequenza principale era una azzurra di tipo B5V. Et\u00e0 incerta (165-190 milioni di anni) perch\u00e9 potrebbe trovarsi in tre stadi evolutivi diversi. La distanza qui scelta (318) viene dalle voci dedicate; le tabelle danno 303.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Epsilon_Corvi"
+  },
+  {
+   "id": "alchiba",
+   "nome": "Alchiba",
+   "bayer": "\u03b1 Corvi (\u03b1 Crv; Flamsteed 1 Crv; HD 105452)",
+   "origine_nome": "Dall'arabo al-xiba, \u00abla tenda\u00bb; la variante Al Minliar al Ghurab significa \u00abil becco del corvo\u00bb (Calendarium, Rostrum Corvi). Nome IAU (WGSN) il 12 settembre 2016. In cinese Youxia, \u00abperno destro\u00bb del carro.",
+   "magnitudine": "4,02",
+   "spettro": "F1 V \u2014 nana bianco-gialla di sequenza principale (gi\u00e0 classificata gigante, oggi quasi subnana per la bassa luminosit\u00e0)",
+   "distanza_al": 49,
+   "curiosita": "Nonostante la lettera \u03b1 \u00e8 solo la quinta stella pi\u00f9 brillante del Corvo. Nel 2021 Gaia EDR3 ha confermato una compagna nana rossa a ~3,1 secondi d'arco; le differenze di moto proprio potrebbero indicare che il sistema si sta dissolvendo. Mostra variazioni spettrali periodiche su ~3 giorni: o binaria spettroscopica o pi\u00f9 probabilmente variabile Gamma Doradus. La distanza qui scelta \u00e8 quella di Gaia (49); le tabelle danno 48.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Alchiba"
+  },
+  {
+   "id": "eta_corvi",
+   "nome": "Eta Corvi (HD 109085)",
+   "bayer": "\u03b7 Corvi (\u03b7 Crv; Flamsteed 8 Crv; HD 109085)",
+   "origine_nome": "Nessun nome proprio IAU. In cinese Zuoxia, \u00abperno sinistro\u00bb (del carro); R.H. Allen la traslitter\u00f2 \u00abTso Hea\u00bb, ma per errore lo attribu\u00ec a \u03b2 Crv.",
+   "magnitudine": "4,30",
+   "spettro": "F2 V \u2014 nana bianco-gialla; ruota a 68 km/s (oltre 30 volte il Sole)",
+   "distanza_al": 59.5,
+   "curiosita": "Possiede DUE dischi di detriti: uno freddo esterno a ~150 unit\u00e0 astronomiche (rilevato da IRAS, risolto nel 2005) e uno caldo interno a poche unit\u00e0 astronomiche; la polvere calda ha composizione cometaria (silicati primitivi, carbonio, acqua) e sembra alimentata da planetesimi che migrano dal disco esterno \u2014 un possibile analogo del tardo bombardamento intenso visto da fuori. Disco risolto dal JWST nel maggio 2025. La distanza qui scelta \u00e8 quella di Gaia (59,5); le tabelle danno 59.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Corvi"
+  },
+  {
+   "id": "zeta_corvi",
+   "nome": "Zeta Corvi (Chang Sha)",
+   "bayer": "\u03b6 Corvi (\u03b6 Crv; Flamsteed 5 Crv; HD 107348)",
+   "origine_nome": "In cinese Changsha (\u9577\u6c99), dall'asterismo omonimo legato alla citt\u00e0 di Changsha (Hunan), nell'abitazione lunare Zhen; associata anche a Shouxing, dio cinese della longevit\u00e0. Nessun nome IAU.",
+   "magnitudine": "5,20",
+   "spettro": "B8 V \u2014 stella Be (linee di emissione), doppia, variabile sospetta",
+   "distanza_al": 385,
+   "curiosita": "Una delle stelle Be del Corvo: ruota cos\u00ec veloce da essere avvolta da un disco di gas espulso, che le d\u00e0 le linee di emissione dello spettro. Nessuna voce dedicata su Wikipedia: i dati provengono dalle tabelle stellari italiane e inglesi, identiche (fonte unica per la distanza).",
+   "fonte_url": "https://it.wikipedia.org/wiki/Stelle_principali_della_costellazione_del_Corvo"
+  },
+  {
+   "id": "31_corvi",
+   "nome": "31 Crateris (VV Corvi)",
+   "bayer": "nessuna lettera Bayer (Flamsteed 31 Crateris; VV Corvi per la variabilit\u00e0)",
+   "origine_nome": "Numerata da Flamsteed nel Cratere; con i confini di Delporte (1930) \u00e8 finita nel Corvo. Un tempo fu scambiata per un satellite di Mercurio. Bode la design\u00f2 Mu Crateris nella Uranographia, mentre Kappa Corvi era la designazione di Bode per VV Corvi.",
+   "magnitudine": "5,28",
+   "spettro": "B2 IV \u2014 binaria spettroscopica stretta con variabilit\u00e0 ellissoidale rotante",
+   "distanza_al": 1753,
+   "curiosita": "Binaria spettroscopica stretta con variabilit\u00e0 ellissoidale rotante (due stelle deformi che brillano pi\u00f9 viste di lato); velocit\u00e0 radiale insolita, possibile candela standard per la dinamica galattica. Un tempo fu scambiata per un satellite di Mercurio. \u00c8 la stella pi\u00f9 lontana tra le principali del quadrante (tabella inglese, unica fonte).",
+   "fonte_url": "https://en.wikipedia.org/wiki/List_of_stars_in_Corvus"
+  }
+ ]
+}

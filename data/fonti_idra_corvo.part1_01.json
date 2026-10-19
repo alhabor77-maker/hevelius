@@ -1,0 +1,50 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Idra (Hydra)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hydra_-_Prodromus_astronomiae_1690_%28436340%29.jpg/960px-Hydra_-_Prodromus_astronomiae_1690_%28436340%29.jpg",
+   "titolo_tavola": "Fig. TT \u2013 Hydra et Robur Carolinum (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Hydra_-_Prodromus_astronomiae_1690_(436340).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hydra_-_Prodromus_astronomiae_1690_(436340).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare della serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hydra_-_Prodromus_astronomiae_1690_%28436340%29.jpg/960px-Hydra_-_Prodromus_astronomiae_1690_%28436340%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    757
+   ],
+   "dimensioni_originale_px": [
+    4435,
+    3495
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. TT",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Hydra_-_Prodromus_astronomiae_1690_(436340).jpg",
+   "note_qualita": "Scansione ad alta risoluzione serie Polona (4435 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima, tavola pi\u00f9 grande dell'atlante. IMPORTANTE: la tavola TT dell'Idra (\u00abHydra et Robur Carolinum\u00bb) contiene anche CORVUS e CRATER disegnati sopra il corpo del serpente, pi\u00f9 Robur Carolinum e Sextans; la tavola dedicata al Corvo \u00e8 la \u00abCorvus et Crater\u00bb (Fig. WW). L'uso della tavola TT per l'Idra \u00e8 coerente con l'atlante originale. Verificata via caption: serpente d'acqua con testa dettagliata a SINISTRA, scritta HYDRA. lungo il corpo, etichetta Fig. TT in basso a DESTRA (verificata con crop PIL + lettura esatta), Corvus e Crater sopra il serpente, assi Longitudo/Latitudo, Ecliptica, Equator, Tropicus; testo NON specchiato. Scartate: la variante \u00abcropped\u00bb 4429x1769 (taglia via Corvus/Crater) e il file a nome generico 6478x4776."
+  },
+  {
+   "costellazione": "Corvo (Corvus)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Corvus_et_Crater_-_Prodromus_astronomiae_1690_%28436359%29.jpg/960px-Corvus_et_Crater_-_Prodromus_astronomiae_1690_%28436359%29.jpg",
+   "titolo_tavola": "Fig. WW \u2013 Corvus et Crater (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Corvus_et_Crater_-_Prodromus_astronomiae_1690_(436359).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Corvus_et_Crater_-_Prodromus_astronomiae_1690_(436359).jpg",
+   "istituzione_origine": "Collezione Polona / Biblioteka Narodowa (Varsavia), esemplare della serie Prodromus astronomiae 1690",
+   "licenza": "Pubblico dominio (Public domain; opera del 1690, autore Johannes Hevelius, 1611\u20131687), nessuna attribuzione richiesta",
+   "miniatura_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Corvus_et_Crater_-_Prodromus_astronomiae_1690_%28436359%29.jpg/960px-Corvus_et_Crater_-_Prodromus_astronomiae_1690_%28436359%29.jpg",
+   "dimensioni_file_sito_px": [
+    960,
+    761
+   ],
+   "dimensioni_originale_px": [
+    4415,
+    3498
+   ],
+   "attribuzione_richiesta": false,
+   "nota_hosting": "Hotlink da upload.wikimedia.org (thumb 960px, limite Wikimedia verificato)",
+   "nota_nome_tavola": "Fig. WW",
+   "url_fonte_pagina": "https://commons.wikimedia.org/wiki/File:Corvus_et_Crater_-_Prodromus_astronomiae_1690_(436359).jpg",
+   "note_qualita": "Scansione ad alta risoluzione serie Polona (4415 px di larghezza): thumb 960 in downscaling, qualit\u00e0 ottima. TAVOLA DEDICATA \u00abCorvus et Crater\u00bb: usata per la scheda Corvo (il Cratere non \u00e8 nel batch). Nota: Corvus e Crater appaiono anche nella tavola TT dell'Idra. Verificata via caption: corvo (etichetta CORVUS leggibile) e coppa (etichetta CRATER leggibile) come figure separate, etichetta Fig. WW in basso a SINISTRA (verificata con crop PIL + lettura esatta), assi Longitudo/Latitudo, Ecliptica, Equator, Tropicus, Colurus; testo NON specchiato. Scartata la variante a nome generico 6478x4776 (stessa tavola, denominazione non esplicita)."
+  }
+ ]
+}
