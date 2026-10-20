@@ -24,7 +24,9 @@ p { margin: 0 0 1em; }
 /* ---------- header ---------- */
 .site-header {
   border-bottom: 1px solid rgba(212, 175, 106, .25);
-  background: rgba(5, 10, 26, .75);
+  background: rgba(5, 10, 26, .97);
   backdrop-filter: blur(6px);
   position: sticky; top: 0; z-index: 20;
+  transition: transform .25s ease;
 }
+.site-header.header-hidden { transform: translateY(-110%); }
