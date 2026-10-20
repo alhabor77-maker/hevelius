@@ -1,0 +1,114 @@
+{
+ "corona_australe": [
+  {
+   "id": "alf_cra",
+   "nome": "Meridiana (Alpha Coronae Australis)",
+   "bayer": "\u03b1 CrA (\u03b1 CrA; HD 178253, HIP 94114, HR 7254, SAO 210990, Gaia DR3 6718857073327910144)",
+   "origine_nome": "Nome IAU ufficiale: Meridiana, approvato dal WGSN il 5 settembre 2017 (lista IAU-CSN, voce 'Meridiana (star)'). Nome tradizionale Alfecca/Alphecca Meridiana, dall'arabo nayyir al-fakka, 'la brillante (stella) dell'anello spezzato', lo stesso nome di Alphecca nella Corona Boreale con il sopranome 'Meridiana' (meridionale). In cinese \u00e8 \u9c49\u516d (Bi\u0113li\u00f9), Sesta stella dell'asterismo della Tartaruga di fiume (\u9c49 Bi\u0113).",
+   "magnitudine": "4,09 (SIMBAD 4,087; en/it.wiki 4,10) \u2014 la pi\u00f9 brillante della Corona Australe",
+   "spettro": "A2Va bianca di sequenza principale (SIMBAD 2006AJ....132..161G); 2,3 M\u2609 e 2,3 R\u2609, ~31 L\u2609, Teff ~9.100 K, et\u00e0 ~254 mln di anni; rotazione rapida ~180-200 km/s (un giro in ~14-18 ore, vicino alla velocit\u00e0 di rottura); eccesso infrarosso \u2192 possibile disco di polvere circumstellare (come Vega)",
+   "distanza_al": 120.4,
+   "curiosita": "L'unica stella della costellazione con un nome tradizionale, condiviso quasi identico con \u03b1 Coronae Borealis (Alphecca): le due 'Alfecca' del nord e del sud dell'anello stellare. Come Vega, mostra un eccesso infrarosso che suggerisce un disco di polvere \u2014 un sistema planetario forse in formazione. In cinese \u00e8 la 'Sesta stella della Tartaruga di fiume', asterismo che unisce nove stelle tra Corona Australe, Telescopio e Sagittario. Distanza: 120 anni luce dalla parallasse Gaia DR3 27,0884\u00b10,3566 mas (SIMBAD TAP); le wiki danno 125 al (en) e 130 al (it) da parallassi precedenti.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Coronae_Australis"
+  },
+  {
+   "id": "bet_cra",
+   "nome": "Alqubba (Beta Coronae Australis)",
+   "bayer": "\u03b2 CrA (\u03b2 CrA; HD 178345, HIP 94160, HR 7259, Gaia DR3 6717964750922730624)",
+   "origine_nome": "Nome IAU ufficiale: Alqubba, approvato dal WGSN il 13 agosto 2026 (lista IAU-CSN, voce 'Alqubba = \u03b2 Coronae Australis'). Dall'arabo al-Qubba (\u0627\u0644\u0642\u064f\u0628\u064e\u0651\u0629), 'la cupola/il padiglione'.",
+   "magnitudine": "4,10 (SIMBAD 4,095) \u2014 indistinguibile a occhio nudo da \u03b1 CrA (4,09)",
+   "spettro": "K0II/IIICNIb gigante brillante arancione (SIMBAD; en.wiki K0 II/III CN1.5 \u2014 stella al CN, con eccesso di radicali ciano); R\u224839-43 R\u2609, M\u22484,5-5,2 M\u2609, L\u2248614-730 L\u2609, Teff \u22484.575 K, [Fe/H] \u2248174% solare, et\u00e0 ~100 mln di anni; nata come stella di classe B",
+   "distanza_al": 556.2,
+   "curiosita": "Un duello a occhio nudo: \u03b1 e \u03b2 della Corona Australe sono entrambe di magnitudine 4,10-4,11 e a occhio nudo sono indistinguibili \u2014 due stelle 'prime' contendenti il titolo di pi\u00f9 brillante della corona. \u03b2 \u00e8 una delle giganti K0 pi\u00f9 luminose del cielo: nata classe B, si \u00e8 gi\u00e0 gonfiata a circa 40 raggi solari. Distanza: 556 anni luce dalla parallasse Gaia DR3 5,8645\u00b10,4135 mas (SIMBAD TAP); en.wiki d\u00e0 ~470-474 al (Hipparcos) e it.wiki 508 al \u2014 la divergenza pi\u00f9 ampia della costellazione, arbitrata a favore di Gaia DR3.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Coronae_Australis"
+  },
+  {
+   "id": "gam_cra",
+   "nome": "Gamma Coronae Australis",
+   "bayer": "\u03b3 CrA (binaria: componenti HD 177474 + HD 177475; HIP 93825, SAO 210928, WDS J19064-3704AB)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN: nessuna voce per \u03b3 CrA). Designazione di Bayer. In cinese fa parte dell'asterismo della Tartaruga di fiume (\u9c49 Bi\u0113).",
+   "magnitudine": "4,21 combinata (SIMBAD; en.wiki 4,20); le due componenti ~5,01 ciascuna",
+   "spettro": "F8V + F8V (SIMBAD 2013MNRAS.428.3104E): due nane giallo-bianche quasi gemelle; primaria 1,15 M\u2609 e 1,47 R\u2609 (Teff 6.090 K), secondaria 1,14 M\u2609 e 1,42 R\u2609 (Teff 6.100 K); membro del disco sottile galattico",
+   "distanza_al": 56.4,
+   "curiosita": "Una danza di 122 anni: binaria visuale stretta con orbita completamente calcolata \u2014 le due quasi-gemelle girano una attorno all'altra in 121,76 anni (il doppio di un giro di Urano attorno al Sole) separate da soli 1,896 secondi d'arco, con eccentricit\u00e0 0,32. Risolvibile con un piccolo telescopio da 100 mm, e la separazione sta crescendo dal 1990 dopo il periastro. Distanza: 56,4 anni luce dalla parallasse Hipparcos van Leeuwen 57,79\u00b10,75 mas (SIMBAD), la stella pi\u00f9 vicina della costellazione, coerente tra le due wiki.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Coronae_Australis"
+  },
+  {
+   "id": "del_cra",
+   "nome": "Qedty (Delta Coronae Australis)",
+   "bayer": "\u03b4 CrA (\u03b4 CrA; HD 177873, HIP 94005, HR 7242, SAO 229513, Gaia DR3 6717273641475816064)",
+   "origine_nome": "Nome IAU ufficiale: Qedty, approvato dal WGSN il 13 agosto 2026 (lista IAU-CSN, voce 'Qedty = \u03b4 Coronae Australis'). Dalle antiche costellazioni egizie dei decani: Qedty (\u1e33dty), 'le Due Reti'.",
+   "magnitudine": "4,57 (SIMBAD 4,57)",
+   "spettro": "K1III gigante arancione del red clump (SIMBAD 1978MSS...C02....0H): elio nel nucleo, ramo orizzontale; R=11,25 R\u2609, M=1,5 M\u2609, L=53 L\u2609, Teff 4.645 K, et\u00e0 ~2,8 mld di anni; si allontana a +21 km/s",
+   "distanza_al": 184.7,
+   "curiosita": "Un nome che viene dall'Egitto faraonico: Qedty, 'le Due Reti', \u00e8 una delle costellazioni-ora degli orologi stellari egizi, risuscitata dal WGSN nel 2026. \u00c8 una gigante del red clump \u2014 lo stadio ordinato in cui il nucleo fonde elio, una delle fasi pi\u00f9 riproducibili della vita di una stella evoluta. Distanza: 185 anni luce dalla parallasse Gaia DR3 17,6582\u00b10,246 mas (SIMBAD TAP), coerente con en.wiki.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Coronae_Australis"
+  },
+  {
+   "id": "eps_cra",
+   "nome": "Epsilon Coronae Australis",
+   "bayer": "\u03b5 CrA (\u03b5 CrA; HD 175813, HR 7152, Gaia DR3 6717705480014987008)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer assegnata da Lacaille. In cinese fa parte dell'asterismo della Tartaruga di fiume (\u9c49 Bi\u0113).",
+   "magnitudine": "4,85 media (SIMBAD 4,852); varia da 4,74 a 5,00 con periodo 14,19 ore",
+   "spettro": "F4VFe-0.8+ (SIMBAD 2006AJ....132..161G; en.wiki F4V, Teff 6.000 K); variabile W Ursae Majoris: binaria a contatto eclissante dentro il lobo di Roche, periodo 14,19 h, separazione 3,82 R\u2609; masse attuali 1,72/0,22 M\u2609 da originali 1,06/2,18 M\u2609 (trasferimento di massa invertito, Yildiz et al.); et\u00e0 2,83\u00b10,28 mld di anni",
+   "distanza_al": 102.5,
+   "curiosita": "La variabile W Ursae Majoris pi\u00f9 luminosa dell'intero cielo: la variabile a contatto pi\u00f9 brillante visibile, con un calo di ~0,25 magnitudini ripetuto ogni 14 ore e mezzo, percettibile a occhio nudo in una sola serata. Le due stelle si toccano, condividono l'atmosfera e finiranno per fondersi in una sola \u2014 e lo studio di Yildiz mostra che la compagna pi\u00f9 piccola era un tempo la pi\u00f9 massiva: il trasferimento di massa ha invertito i ruoli. Distanza: 102,5 anni luce dalla parallasse Gaia DR3 31,8084\u00b10,1122 mas (SIMBAD TAP), coerente con en.wiki (98 al in it.wiki).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Coronae_Australis"
+  },
+  {
+   "id": "zet_cra",
+   "nome": "Zeta Coronae Australis",
+   "bayer": "\u03b6 CrA (\u03b6 CrA; HD 176638, HR 7188, Gaia DR3 6717127160411236992)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo della Tartaruga di fiume (\u9c49 Bi\u0113).",
+   "magnitudine": "4,73 (SIMBAD 4,725; en.wiki +4,75 con estinzione 0,15 mag; it.wiki 4,8)",
+   "spettro": "B9.5Vann stella azzurra di sequenza principale (SIMBAD 1987ApJS...65..581G; 'nn' = righe spettrali molto larghe per rotazione rapidissima); 2,92 M\u2609, 2,11 R\u2609, 51 L\u2609, Teff ~12.039 K, et\u00e0 ~76 mln di anni, v\u00b7sin i 308 km/s",
+   "distanza_al": 179.2,
+   "curiosita": "Giovane e vertiginosa: a soli 76 milioni di anni gira su s\u00e9 stessa a 308 km/s e le righe del suo spettro, 'sfasate' dalla rotazione, sono la firma del vortice. Attorno a lei un disco di detriti: l'eccesso infrarosso a 60 \u03bcm delinea un anello di polvere a ~120 K e ~34 unit\u00e0 astronomiche \u2014 un giovane sistema protoplanetario, immagine del Sistema Solare all'epoca dei planetesimi. Distanza: 179 anni luce dalla parallasse Gaia DR3 18,2019\u00b10,1261 mas (SIMBAD TAP); it.wiki d\u00e0 ancora 221,7 al da una parallasse vecchia, en.wiki 179 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Coronae_Australis"
+  },
+  {
+   "id": "eta_cra",
+   "nome": "Eta Coronae Australis (\u03b71 + \u03b72)",
+   "bayer": "\u03b71 CrA (HD 173715, HIP 91313, HR 7062) + \u03b72 CrA (HD 173861, HIP 91329, HR 7068) \u2014 doppia designazione di Lacaille, con NESSUN iota nella costellazione",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione doppia assegnata da Lacaille: \u03b71 e \u03b72, senza \u03b73 e senza \u03b9 CrA. In cinese entrambe fanno parte dell'asterismo della Tartaruga di fiume (\u9c49 Bi\u0113).",
+   "magnitudine": "\u03b71: 5,46 (SIMBAD); \u03b72: 5,59 (SIMBAD) \u2014 coppia a mag ~5,1/5,5, alla soglia dell'occhio nudo",
+   "spettro": "\u03b71: A3V bianca (SIMBAD); 2,1 M\u2609, 3,4 R\u2609, 51 L\u2609, Teff 8.308 K, et\u00e0 ~491 mln di anni, v\u00b7sin i 122 km/s, sospetta binaria astrometrica. \u03b72: B9IV (SIMBAD); 3,23 M\u2609, 5,82 R\u2609, 171 L\u2609, Teff 10.940 K, et\u00e0 ~213 mln di anni, metallicit\u00e0 quasi solare, v_r \u221223 km/s",
+   "distanza_al": 366.7,
+   "curiosita": "Una doppia ottica che Gaia ha smascherato: le due Eta della corona, separabili quasi a occhio nudo, sembrano una coppia ma sono a distanze molto diverse \u2014 \u03b71 a ~367 e \u03b72 a ~767 anni luce (parallassi Gaia DR3 8,8955\u00b10,3041 e 4,2500\u00b10,1158 mas, SIMBAD TAP); en.wiki d\u00e0 per \u03b71 317 al dalla vecchia parallasse Hipparcos. Lacaille assegn\u00f2 DUE eta e NESSUNA iota: una firma di designazione unica nella costellazione. en.wiki d\u00e0 per \u03b72 770 al, coerente con Gaia.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta1_Coronae_Australis"
+  },
+  {
+   "id": "the_cra",
+   "nome": "Bie (Theta Coronae Australis)",
+   "bayer": "\u03b8 CrA (\u03b8 CrA; HD 170845, HIP 90982, HR 6951, SAO 229111, Gaia DR3 6722114239093474048)",
+   "origine_nome": "Nome IAU ufficiale: Bie, approvato dal WGSN il 13 agosto 2026 (lista IAU-CSN, voce 'Bie = \u03b8 Coronae Australis'). Dall'asterismo cinese Bi\u0113 (\u9cd6), 'la Tartaruga di fiume' della costellazione cinese della Tartaruga Nera del Nord; anche \u03b1 CrA fa parte dello stesso asterismo.",
+   "magnitudine": "4,61 (SIMBAD 4,614; en/it.wiki 4,61-4,62)",
+   "spettro": "G8III gigante gialla-rossastra evoluta (SIMBAD, verificato via SIMBAD TAP oid 2321360); M=4,45 M\u2609, R=29,1 R\u2609, L=411 L\u2609, Teff 4.907 K, metallicit\u00e0 solare, magnitudine assoluta \u22121,54, estinzione 0,3 mag; v\u00b7sin i 12 km/s, alta per una gigante G8",
+   "distanza_al": 528.8,
+   "curiosita": "Ha forse divorato un pianeta: l'eccesso infrarosso di \u03b8 CrA e soprattutto la sua rotazione, insolitamente rapida (12 km/s) per una gigante G8 gi\u00e0 gonfia a 29 raggi solari, sono stati spiegati con l'inghiottimento di un gioviano caldo \u2014 il momento angolare del pianeta finito nella stella, ipotesi pubblicata e citata da en.wiki. Il suo nome Bie \u00e8 quello dell'intera 'Tartaruga di fiume' cinese, il gruppo di nove stelle che attraversa la Corona Australe. Distanza: 529 anni luce dalla parallasse Gaia DR3 6,1673\u00b10,1535 mas (SIMBAD TAP), coerente con en.wiki (~530 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Coronae_Australis"
+  },
+  {
+   "id": "kap_cra",
+   "nome": "Kappa Coronae Australis (\u03ba1 + \u03ba2)",
+   "bayer": "\u03ba1 CrA (\u03ba1 CrA; HD 170868, HIP 90969, HR 6952) + \u03ba2 CrA (\u03ba2 CrA; HD 170867, HIP 90968, HR 6953) \u2014 doppia designazione di Lacaille",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN: nessuna voce per \u03ba1/\u03ba2 CrA). Doppia designazione di Lacaille. it.wiki le descrive come 'due stelle biancastre di quinta e sesta magnitudine' risolvibili in un piccolo telescopio.",
+   "magnitudine": "\u03ba1: 6,17 (SIMBAD); \u03ba2: 5,59 (SIMBAD) \u2014 coppia separata 20,5-21,6\u2033 a PA 359\u00b0, risolvibile con un piccolo telescopio",
+   "spettro": "\u03ba1: A0IV (SIMBAD B8/A1, en.wiki A0IV); 2,8 M\u2609, 3,79 R\u2609, 179 L\u2609, Teff 11.079 K, [Fe/H] 63% solare, et\u00e0 ~4 mln di anni, v\u00b7sin i 339 km/s. \u03ba2: B9Vnn (SIMBAD B9V), probabile binaria; 3,12 M\u2609, 5,28 R\u2609, 460 L\u2609, Teff 12.600 K, v_r ~\u221215 km/s; \u03ba2 \u00e8 la pi\u00f9 luminosa delle due",
+   "distanza_al": 707.3,
+   "curiosita": "Uno degli errori di parallasse pi\u00f9 noti di Hipparcos: \u03ba1 fu a lungo collocata a 154\u00b147 anni luce su una parallasse (21,18\u00b16,53 mas) rivelatasi sbagliata, che ne faceva una doppia OTTICA non legata a \u03ba2; Gaia DR2/DR3 ha corretto a ~700-730 anni luce e ha mostrato che le due stelle sono fisicamente associate, una coppia vera. \u03ba1, con appena 4 milioni di anni, \u00e8 una delle stelle pi\u00f9 giovani della costellazione e gira a 339 km/s. Distanze: \u03ba1 728 al e \u03ba2 707 al (parallassi Gaia DR3 4,4833\u00b10,0831 e 4,6115\u00b10,0747 mas, SIMBAD TAP); en.wiki d\u00e0 per \u03ba1 'circa 700 al' (Gaia) accanto al vecchio valore 154\u00b147 al, internamente contraddittorio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa1_Coronae_Australis"
+  },
+  {
+   "id": "r_cra",
+   "nome": "R Coronae Australis",
+   "bayer": "R CrA (variabile; HD 176386, HIP 93449, Hen 3-1733, HBC 288, Gaia DR3 6731199293213061632)",
+   "origine_nome": "Nessun nome proprio. Designazione di variabile R CrA (prima lettera assegnata in ordine di scoperta nella costellazione, secondo la convenzione delle variabili; il nome compare nel Second Catalogue of Variable Stars di Annie Jump Cannon, 1907).",
+   "magnitudine": "~11,9 media (SIMBAD 11,917); varia 9,7-13,9 (it.wiki) / 10-14,36 (en.wiki)",
+   "spettro": "B5IIIpe (SIMBAD): variabile Orione pre-sequenza principale (tipo Ae*), stella T Tauri-like di classe A/B; illumina la nebulosa a riflessione/emissione NGC 6729; sistema binario con nana rossa di 0,3-0,55 M\u2609 osservata direttamente (proposta 2019, periodo orbitale 43-47 anni); possibile binaria stretta anche la primaria",
+   "distanza_al": 430,
+   "curiosita": "La stella che accende una nebulosa vivente: la sua luminosit\u00e0 oscilla di mag 10-13 e la nebulosa NGC 6729 cambia forma e luce con lei, anche nell'arco di 24 ore. La variabilit\u00e0 fu scoperta da Johann Friedrich Julius Schmidt nel 1865, il membro pi\u00f9 brillante dell'ammasso Coronet. Un tempo si calcolava che sarebbe passata a soli 1,77 anni luce dal Sole tra ~222.000 anni: Gaia DR2, spostandola 4 volte pi\u00f9 lontano, ha ridotto il minimo a 111\u00b131 anni luce. Distanza: si usa la distanza della regione, ~430 anni luce (nube molecolare Corona Australis, en.wiki): la parallasse Gaia DR3 7,9872\u00b10,4874 mas (SIMBAD TAP \u2192 ~408 al) \u00e8 notoriamente affetta da errore sistematico per le sorgenti giovani/nebulari, e en.wiki cita per la regione 152,9 (+8,1/\u22127,3) pc \u2248 ~500 al \u2014 margine dichiarato in scheda.",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Coronae_Australis"
+  }
+ ]
+}
