@@ -1,0 +1,92 @@
+{
+ "mosca": [
+  {
+   "id": "alf_mus",
+   "nome": "Alpha Muscae",
+   "bayer": "\u03b1 Mus (HD 100546)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "2,69 (variabile)",
+   "spettro": "B2 IV-V",
+   "distanza_al": 315,
+   "curiosita": "Alpha Muscae \u00e8 la stella pi\u00f9 brillante della Mosca: una calda stella azzurra di 2,7 mag a 315 anni luce, variabile di tipo Beta Cephei con periodo di 2 ore e 11 minuti: la superficie pulsa ritmicamente. Emette migliaia di volte la luce solare. Nella tavola FFF sta nel corpo della figura che Hevelius disegn\u00f2 con ali di ape, secondo la primitiva denominazione Apis (l\u2019ape) di Bayer 1603: solo nel XIX secolo il nome si fiss\u00f2 come Musca, la mosca. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Muscae"
+  },
+  {
+   "id": "bet_mus",
+   "nome": "Beta Muscae",
+   "bayer": "\u03b2 Mus (HD 103192)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,07",
+   "spettro": "B2 V + B3 V",
+   "distanza_al": 341,
+   "curiosita": "Beta Muscae \u00e8 una binaria visuale spettacolare: due stelle azzurre calde (B2 e B3) che orbitano attorno al comune centro di massa in circa 194 anni, con periodo e separazione misurati dalle prime osservazioni telescopiche del sud. Al piccolo telescopio si vedono due gemelle azzurre separate di poco pi\u00f9 di un secondo d\u2019arco: una delle doppie pi\u00f9 celebri del cielo australe. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Muscae"
+  },
+  {
+   "id": "gam_mus",
+   "nome": "Gamma Muscae",
+   "bayer": "\u03b3 Mus (HD 102647)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,87 (variabile)",
+   "spettro": "B5 V",
+   "distanza_al": 330,
+   "curiosita": "Gamma Muscae \u00e8 una stella azzurra di 3,9 mag a 330 anni luce: variabile di tipo SPB (Slowly Pulsating B star), un\u2019oscillazione lenta della superficie studiata con le missioni di fotometria spaziale. \u00c8 una delle stelle della costellazione con una periodicit\u00e0 nota: si studia per capire l\u2019interno delle stelle B di massa intermedia. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Muscae"
+  },
+  {
+   "id": "del_mus",
+   "nome": "Delta Muscae",
+   "bayer": "\u03b4 Mus (HD 106849)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,62",
+   "spettro": "K2 III",
+   "distanza_al": 95,
+   "curiosita": "Delta Muscae \u00e8 la stella pi\u00f9 vicina tra le brillanti della Mosca (95 anni luce): una gigante arancione di 3,6 mag, binaria spettroscopica. \u00c8 l\u2019unico astro di classe K della costellazione a superare la terza magnitudine: il colore arancio spicca in un campo dominato da azzurre. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Muscae"
+  },
+  {
+   "id": "eps_mus",
+   "nome": "Epsilon Muscae",
+   "bayer": "\u03b5 Mus (HD 106849 \u00e8 delta; \u03b5 Mus = HD 100507)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,11 (variabile)",
+   "spettro": "M5 III",
+   "distanza_al": 302,
+   "curiosita": "Epsilon Muscae \u00e8 una gigante rossa variabile semiregolare a 302 anni luce: la luce oscilla tra 3,99 e 4,3 mag con periodi multipli di decine di giorni. \u00c8 decine di volte pi\u00f9 larga del Sole, un astro tipico delle giganti M del cielo australe profondo. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Muscae"
+  },
+  {
+   "id": "zet2_mus",
+   "nome": "Zeta2 Muscae",
+   "bayer": "\u03b6\u00b2 Mus (HD 101930)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,47",
+   "spettro": "A5 V",
+   "distanza_al": 330,
+   "curiosita": "Zeta2 Muscae \u00e8 una stella bianca di 5,5 mag a circa 330 anni luce: con zeta1 (gigante G3, 5,7 mag) forma una doppia visuale larga, con le due componenti risolvibili a binocolo. Il sistema sta nella parte settentrionale della Mosca, verso il confine con la Croce del Sud. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta2_Muscae"
+  },
+  {
+   "id": "eta_mus",
+   "nome": "Eta Muscae",
+   "bayer": "\u03b7 Mus (HD 105999)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,77 (variabile)",
+   "spettro": "B8 V",
+   "distanza_al": 330,
+   "curiosita": "Eta Muscae \u00e8 una stella azzurra di 4,8 mag a circa 330 anni luce: \u00e8 in realt\u00e0 una binaria a eclisse, con la compagna che passa davanti alla principale ogni 2,39 giorni; la luce cala di circa 0,05 mag, un\u2019oscillazione misurata dal fotometro moderno. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Muscae"
+  },
+  {
+   "id": "lp145141",
+   "nome": "LAWD 37 (LP 145-141)",
+   "bayer": "LP 145-141 / LAWD 37 (nana bianca, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "11,50",
+   "spettro": "nana bianca DQ",
+   "distanza_al": 15,
+   "curiosita": "LAWD 37 \u00e8 una nana bianca a 15 anni luce, la quarta stella pi\u00f9 vicina al Sole: \u00e8 la stella pi\u00f9 vicina della Mosca, bench\u00e9 invisibile a occhio nudo (11,5 mag). Nel 2023 l\u2019ESA l\u2019ha usata per la prima misura della deflessione gravitazionale della luce di una nana bianca con la fotometria Gaia: la massa misurata coincide con la teoria delle nane bianche di Chandrasekhar. Il suo nome da catalogo ricorda l\u2019astronomo Willem Luyten, che la catalog\u00f2 nel secolo scorso. [Distanza: Gaia DR3 (parallasse \u2248218 mas) via Wikipedia en]",
+   "fonte_url": "https://en.wikipedia.org/wiki/LP_145-141"
+  }
+ ]
+}

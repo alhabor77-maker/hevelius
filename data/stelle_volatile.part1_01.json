@@ -1,0 +1,92 @@
+{
+ "volatile": [
+  {
+   "id": "alf_aps",
+   "nome": "Paradys",
+   "bayer": "\u03b1 Aps (HD 129607)",
+   "origine_nome": "Nome IAU ufficiale: Paradys. (certificato IAU 2025-05-18).",
+   "magnitudine": "3,83",
+   "spettro": "K3 III",
+   "distanza_al": 430,
+   "curiosita": "La stella pi\u00f9 brillante dell\u2019Uccello di Paradiso \u00e8 una gigante arancione a 430 anni luce, 48 volte pi\u00f9 larga del Sole e 928 volte pi\u00f9 luminosa: a quella distanza resta di terza magnitudine. Il nome IAU Paradys, approvato nel 2025, ripristina il nome olandese originale della figura (Paradys-vogel, \u201cuccello del paradiso\u201d) coniato dai navigatori olandesi nel 1598. Nel Firmamentum Sobiescianum l\u2019uccello compare senza piedi, come sugli esemplari essiccati arrivati in Europa: dal greco \u201capous\u201d, senza piedi, il nome scientifico. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Apodis"
+  },
+  {
+   "id": "gam_aps",
+   "nome": "Gamma Apodis",
+   "bayer": "\u03b3 Aps (HD 127304)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,87",
+   "spettro": "G8 III",
+   "distanza_al": 150,
+   "curiosita": "Gamma Apodis \u00e8 una gigante gialla a 150 anni luce, quasi gemella di classe G della beta della stessa costellazione: le due giganti gialle dominano l\u2019uccello di paradiso insieme ad alfa. \u00c8 una sorgente di raggi X catalogata nel 2000, cosa rara per una gigante fredda: si sospetta un\u2019attivit\u00e0 magnetica superiore alla media. Nel disegno di Hevelius l\u2019uccello si apre al vento tra Tucano, Indiano e Mosca. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Apodis"
+  },
+  {
+   "id": "bet_aps",
+   "nome": "Beta Apodis",
+   "bayer": "\u03b2 Aps (HD 130041)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,24",
+   "spettro": "K0 III",
+   "distanza_al": 149,
+   "curiosita": "Beta Apodis \u00e8 una gigante arancione a 149 anni luce, quasi esattamente alla stessa distanza di gamma (150 al): le due giganti appaiono vicine sul cielo ma non sono legate fisicamente. Con 4,2 mag \u00e8 alla soglia della visibilit\u00e0 a occhio nudo: Bayer la numero beta per posizione nel corpo dell\u2019uccello. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Apodis"
+  },
+  {
+   "id": "del_aps",
+   "nome": "Delta Apodis",
+   "bayer": "\u03b4\u00b9 Aps (HD 126582)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,66 (variabile 4,66-4,87)",
+   "spettro": "M4 III",
+   "distanza_al": 630,
+   "curiosita": "Delta1 Apodis \u00e8 una gigante rossa variabile semiregolare a 630 anni luce: la luce oscilla con tre periodi combinati di 68, 95 e 102 giorni, tipico comportamento delle giganti M tard\u0435. Accanto, a circa 100 secondi d\u2019arco, la compagna delta2 (gigante K3, 5,3 mag a 550 al): la coppia si distingue a occhio nudo come doppia dal colore contrastato. \u00c8 una delle stelle pi\u00f9 lontane e luminose della costellazione. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Apodis"
+  },
+  {
+   "id": "eps_aps",
+   "nome": "Epsilon Apodis",
+   "bayer": "\u03b5 Aps (HD 135505)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,06",
+   "spettro": "B4 V",
+   "distanza_al": 655,
+   "curiosita": "Epsilon Apodis \u00e8 una stella azzurra di sequenza principale a 655 anni luce: una B4 V di 5,1 mag, difficile a occhio nudo ma spettacolare al telescopio per il colore azzurro-ghiaccio. \u00c8 calda (circa 16.000 K) e massiccia (circa 5 masse solari): brucer\u00e0 l\u2019idrogeno in poche decine di milioni di anni prima di gonfiarsi in gigante. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Apodis"
+  },
+  {
+   "id": "kap_aps",
+   "nome": "Kappa Apodis",
+   "bayer": "\u03ba Aps (HD 136496)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,49",
+   "spettro": "K2 III",
+   "distanza_al": 340,
+   "curiosita": "Kappa Apodis \u00e8 una gigante arancione di 5,5 mag a circa 340 anni luce: un astro di campo tra i pi\u00f9 lontani della costellazione, numerato kappa per posizione nella testa dell\u2019uccello. Nella tavola FFF la testa dell\u2019uccello di paradiso tocca quasi la Nube Magellane Maggiore, etichettata Nubec. Major sul rame. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Apodis"
+  },
+  {
+   "id": "hd122430",
+   "nome": "HD 122430 (gigante con pianeta)",
+   "bayer": "HD 122430 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "6,49",
+   "spettro": "K3 III",
+   "distanza_al": 445,
+   "curiosita": "HD 122430 \u00e8 una gigante arancione a 445 anni luce: nel 2003 si \u00e8 scoperto che attorno orbita un pianeta gigante di 3,7 masse gioviane in un\u2019orbita ampia. \u00c8 una delle poche giganti K della costellazione con pianeta confermato, un campo di studio nato con l\u2019era dei pianeti attorno ai giganti rossi. Hevelius la incide come un punto di sesta magnitudine ai margini dell\u2019uccello. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_122430"
+  },
+  {
+   "id": "hd127337",
+   "nome": "HD 127337 (subgigante con disco)",
+   "bayer": "HD 127337 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "6,79",
+   "spettro": "A0 V",
+   "distanza_al": 330,
+   "curiosita": "HD 127337 \u00e8 una stella bianca di sequenza principale di 6,8 mag a circa 330 anni luce: circondata da un disco di detriti di polveri risolto all\u2019infrarosso, simile per caratteristiche a una fascia di Kuiper giovane. \u00c8 una delle poche stelle dell\u2019Uccello di Paradiso con un disco circumstellare confermato. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_127337"
+  }
+ ]
+}

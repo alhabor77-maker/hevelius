@@ -1,0 +1,92 @@
+{
+ "pesce_volante": [
+  {
+   "id": "alf_vol",
+   "nome": "Alpha Volantis",
+   "bayer": "\u03b1 Vol (HD 72905)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,00",
+   "spettro": "Am (binaria)",
+   "distanza_al": 124,
+   "curiosita": "Alpha Volantis \u00e8 una stella di tipo Am (metalliche peculiari) a 124 anni luce: la superficie ha abbondanze chimiche anomale, conseguenza di una rotazione lenta che permette agli elementi di separarsi in strati. \u00c8 anche una binaria con compagna stretta. Nonostante il nome \u201calfa\u201d non \u00e8 la stella pi\u00f9 brillante della costellazione: Bayer assegn\u00f2 le lettere per posizione sulla figura, non per luminosit\u00e0. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Volantis"
+  },
+  {
+   "id": "bet_vol",
+   "nome": "Beta Volantis",
+   "bayer": "\u03b2 Vol (HD 71827)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,77",
+   "spettro": "G7 III",
+   "distanza_al": 108,
+   "curiosita": "Beta Volantis \u00e8 una gigante gialla-arancione a circa 108 anni luce, la stella pi\u00f9 brillante della costellazione insieme a gamma: una gigante fredda evoluta, emette decine di volte la luce solare. Hevelius incise il Pesce Volante (Piscis Volans) con le pinne aperte come ali: la figura scappa dal Pesce Spada (oggi Dorado) che la inseguiva, secondo la leggenda dei navigatori olandesi che la introdussero nel 1598. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Volantis"
+  },
+  {
+   "id": "gam_vol",
+   "nome": "Gamma2 Volantis",
+   "bayer": "\u03b3\u00b2 Vol (HD 71827 \u00e8 beta; \u03b3\u00b2 Vol = HD 55859)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,78",
+   "spettro": "K0 III",
+   "distanza_al": 142,
+   "curiosita": "Gamma2 Volantis \u00e8 la gigante arancione pi\u00f9 brillante del Pesce Volante (3,8 mag): con la compagna gamma1 (F2 V, 5,7 mag) forma una delle doppie pi\u00f9 belle del cielo australe, con le due stelle separate di circa 14 secondi d\u2019arco e colori contrastati arancio e giallo-pallido. La coppia si risolve anche a binocolo ed \u00e8 un obiettivo classico per i primi telescopi. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Volantis"
+  },
+  {
+   "id": "del_vol",
+   "nome": "Delta Volantis",
+   "bayer": "\u03b4 Vol (HD 71827 \u00e8 beta; \u03b4 Vol = HD 71135)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,97",
+   "spettro": "F2 Ia (supergigante)",
+   "distanza_al": 740,
+   "curiosita": "Delta Volantis \u00e8 una supergigante gialla a circa 740 anni luce: una F2 di classe di luminosit\u00e0 Ia, tra le stelle pi\u00f9 luminose e rare della costellazione. Emette decine di migliaia di volte la luce solare: a quella distanza resta comunque sotto la quarta magnitudine. \u00c8 una stella solitaria, senza binaria documentata. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Volantis"
+  },
+  {
+   "id": "eps_vol",
+   "nome": "Epsilon Volantis",
+   "bayer": "\u03b5 Vol (HD 70514)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,35",
+   "spettro": "B6 IV (sistema quadruplo)",
+   "distanza_al": 640,
+   "curiosita": "Epsilon Volantis \u00e8 un sistema multiplo a 640 anni luce: la principale \u00e8 una binaria spettroscopica di due stelle azzurre B con periodo di 14,17 giorni, con due compagne visive pi\u00f9 deboli: un sistema quadruplo. Si trova al centro della costellazione, al punto dove le \u201cqua\u201d della figura incisa da Hevelius connettono le pinne del pesce. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Volantis"
+  },
+  {
+   "id": "zet_vol",
+   "nome": "Zeta Volantis",
+   "bayer": "\u03b6 Vol (HD 56362)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,93",
+   "spettro": "K0 III",
+   "distanza_al": 134,
+   "curiosita": "Zeta Volantis \u00e8 una gigante arancione di 3,9 mag a circa 134 anni luce: il terzo astro della costellazione per luminosit\u00e0 apparente, un gigante freddo evoluto. Hevelius la incise nella parte bassa della figura, vicino al confine con la Chiglia: il Pesce Volante della tavola FFF nuota sopra la chiglia dell\u2019Argo, che Hevelius disegn\u00f2 nella vicina tavola EEE. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Volantis"
+  },
+  {
+   "id": "ngc2442",
+   "nome": "NGC 2442 (galassia a spirale)",
+   "bayer": "NGC 2442/2443 (galassia, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "10,40",
+   "spettro": "galassia spirale intermedia",
+   "distanza_al": 50000000,
+   "curiosita": "NGC 2442 \u00e8 una galassia a spirale intermedia a circa 50 milioni di anni luce: la struttura asimmetrica con due bracci sporgenti le ha valso il soprannome di \u201cgalassia Meathook\u201d (gancio da macello). Nel 2015 vi \u00e8 stata osservata una supernova (SN 2015F). \u00c8 l\u2019oggetto pi\u00f9 lontano nominato nel sito, ma Hevelius non poteva vederla: con 10,4 mag \u00e8 oltre ogni strumento seicentesco. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/NGC_2442"
+  },
+  {
+   "id": "am0644",
+   "nome": "AM 0644-741 (galassia anello)",
+   "bayer": "AM 0644-741 (Lindsay-Shapley Ring, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "14,00 circa",
+   "spettro": "galassia ad anello",
+   "distanza_al": 300000000,
+   "curiosita": "AM 0644-741 \u00e8 una galassia ad anello (Lindsay-Shapley Ring) a circa 300 milioni di anni luce: l\u2019anello blu di stelle giovani si \u00e8 formato quando una galassia compagna ha attraversato il disco della principale, generando un\u2019onda di formazione stellare che si allarga come un\u2019increspatura. Fu classificata da Lindsay e Shapley nel secolo scorso tra le galassie del sud. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/AM_0644-741"
+  }
+ ]
+}

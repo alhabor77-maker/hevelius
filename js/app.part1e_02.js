@@ -5,7 +5,7 @@
         });
         return merged;
       }),
-      fetchConcat(['data/hotspots_01.json', 'data/hotspots_02.json']),
+      fetchConcat(['data/hotspots_01.json', 'data/hotspots_02.json', 'data/hotspots_03.json']),
       fetchMulti(TESTI_PARTS),
       fetchMulti(FONTI_PARTS)
     ];

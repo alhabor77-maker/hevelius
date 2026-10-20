@@ -1,0 +1,92 @@
+{
+ "indiani": [
+  {
+   "id": "alf_ind",
+   "nome": "The Persian",
+   "bayer": "\u03b1 Ind (HD 209100)",
+   "origine_nome": "Nome IAU ufficiale: The Persian. (certificato IAU 2016-06-30).",
+   "magnitudine": "3,11 (variabile 3,11-3,22)",
+   "spettro": "K0 III",
+   "distanza_al": 100,
+   "curiosita": "La stella pi\u00f9 brillante dell\u2019Indiano \u00e8 una gigante arancione con un lieve variare di luce (0,1 mag) riconosciuto nel 2006 e confermato dal satellite TESS: una variabile leggera di classe K, poco nota ai pi\u00f9. Il nome IAU \u201cThe Persian\u201d ricorda che la figura dell\u2019Indiano introdotta da Pieter Plancius sulla mappa del 1598 rappresentava secondo le fonti un abitante dell\u2019Estremo Oriente pi\u00f9 che delle Indie. A 100 anni luce, con magnitudine 3,1, \u00e8 facilmente visibile a occhio nudo dal cielo del sud. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Indi"
+  },
+  {
+   "id": "bet_ind",
+   "nome": "Beta Indi",
+   "bayer": "\u03b2 Ind (HD 209969)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,67",
+   "spettro": "K1 II-III",
+   "distanza_al": 600,
+   "curiosita": "Beta Indi \u00e8 una gigante arancione luminosa a 600 anni luce, una delle stelle pi\u00f9 lontane della costellazione: emette migliaia di volte la luce solare, di qui la visibilit\u00e0 nonostante la distanza. Bayer la incise con la lettera beta nel 1603, seguendo l\u2019ordine delle figure di Keyser e de Houtman disegnate sul globo di Plancius del 1598: la figura maschile nuda, con frecce in mano ma senza arco n\u00e9 faretra, pass\u00f2 invariata nel rame di Hevelius. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Indi"
+  },
+  {
+   "id": "del_ind",
+   "nome": "Delta Indi",
+   "bayer": "\u03b4 Ind (HD 216443)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,40",
+   "spettro": "F2 IV",
+   "distanza_al": 185,
+   "curiosita": "Delta Indi \u00e8 una subgigante bianco-gialla di 4,4 mag a 185 anni luce: ha lasciato la sequenza principale e sta espandendosi verso la fase gigante. \u00c8 una binaria spettroscopica con periodo di circa 12,5 anni: la compagna non si risolve al telescopio ma tradisce la sua presenza negli spettri. Una candidata compagna orbita a 4,6 secondi d\u2019arco, probabilmente legata fisicamente. [Distanza: Wikipedia en, tabella stelle della costellazione (fonte dichiarata della voce), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Indi"
+  },
+  {
+   "id": "eps_ind",
+   "nome": "Epsilon Indi",
+   "bayer": "\u03b5 Ind A (HD 209100, stesso HD della primaria)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,69",
+   "spettro": "K5 V",
+   "distanza_al": 11.9,
+   "curiosita": "Epsilon Indi \u00e8 la gemella anziana del Sole: una nana arancione di 5,8 miliardi di anni a appena 11,9 anni luce, tra le dodici stelle pi\u00f9 vicine. Attorno orbitano due nane brune (\u03b5 Ind Ba e Bb, scoperte nel 2003) e un pianeta gigante gassoso di 0,64 masse gioviane, confermato nel 2018 e fotografato dal JWST nel 2024: \u00e8 uno dei sistemi pi\u00f9 studiati della Galassia perch\u00e9 stella, pianeta e nane brune sono tutti osservabili come in nessun altro sistema a questa distanza. Il moto proprio \u00e8 tra i pi\u00f9 alti del cielo: in 21.800 anni la stella attraversa un arco pari al diametro lunare. [Distanza: Gaia DR3 (parallasse \u2248275 mas) via Wikipedia en]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Indi"
+  },
+  {
+   "id": "gam_ind",
+   "nome": "Gamma Indi",
+   "bayer": "\u03b3 Ind (HD 213493)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,59",
+   "spettro": "K1 III",
+   "distanza_al": 220,
+   "curiosita": "Gamma Indi \u00e8 una gigante arancione a circa 220 anni luce: un astro brillante ma poco studiato, visibile a occhio nudo dal cielo del sud. Nella figura di Hevelius l\u2019Indiano impugna le frecce tra le dita della mano: gamma sta nella zona delle frecce, al confine con il Pavone. Nessun nome antico \u00e8 associato alla stella. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Indi"
+  },
+  {
+   "id": "eta_ind",
+   "nome": "Eta Indi",
+   "bayer": "\u03b7 Ind (HD 224712)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,51",
+   "spettro": "A6 V",
+   "distanza_al": 79,
+   "curiosita": "Eta Indi \u00e8 una stella bianco-gialla di sequenza principale a 79 anni luce, pi\u00f9 calda e pi\u00f9 giovane del Sole: con 4,5 mag \u00e8 ben visibile nel cielo australe. \u00c8 un astro di campo, senza binaria documentata n\u00e9 ammasso: la sua importanza \u00e8 quella di essere una stella apparentemente banale che Hevelius disegn\u00f2 tra le braccia della figura dell\u2019Indiano, e che oggi si usa come riferimento per gli studi di sistemi stellari a distanza intermedia. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Indi"
+  },
+  {
+   "id": "the_ind",
+   "nome": "Theta Indi",
+   "bayer": "\u03b8 Ind (HD 213023)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,39",
+   "spettro": "A5 V (binaria)",
+   "distanza_al": 99,
+   "curiosita": "Theta Indi \u00e8 una stella bianca di 4,4 mag a circa 99 anni luce: \u00e8 in realt\u00e0 un sistema doppio con compagna separata di 6 secondi d\u2019arco, risolvibile a piccoli telescopi. Si trova nella parte settentrionale della costellazione, vicino al confine con il Tucano: nella tavola FFF \u00e8 tra le ultime stelle disegnate prima dei confini con la Fenice. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Indi"
+  },
+  {
+   "id": "hd207129",
+   "nome": "HD 207129 (gemella solare)",
+   "bayer": "HD 207129 (senza lettera Bayer, post-Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,75",
+   "spettro": "G2 V",
+   "distanza_al": 56,
+   "curiosita": "HD 207129 \u00e8 una gemella solare di 5,8 mag a 56 anni luce: stesso tipo spettrale G2 V, massa e temperatura vicine a quelle del Sole. Attorno orbita un disco di detriti di polveri risolto all\u2019infrarosso e poi da ALMA, simile a una fascia di Kuiper: \u00e8 un riferimento per gli studi di analogia solare e dischi circumstellari. Hevelius non la individu\u00f2 mai come individuo, ma il cielo dell\u2019Indiano che incise la contiene. [Distanza: Wikipedia en (valore indicativo da tabella di costellazione), consultata 20/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_207129"
+  }
+ ]
+}
