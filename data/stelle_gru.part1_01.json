@@ -1,0 +1,103 @@
+{
+ "gru": [
+  {
+   "id": "alf_gru",
+   "nome": "Alnair (Alpha Gruis)",
+   "bayer": "\u03b1 Gru (\u03b1 Gru; HD 209952, HIP 109268, HR 8425, SAO 230992, GJ 848.2)",
+   "origine_nome": "Nome IAU ufficiale: Alnair, approvato dal WGSN il 21 agosto 2016 (lista IAU-CSN). Dall'arabo al-nayyir min dhanab al-\u1e25\u016bt (al-jan\u016bbiyy), 'la brillante della coda del Pesce (Australe)': le stelle della Gru erano in arabo la coda del Pesce. In cinese \u00e8 H\u00e8 y\u012b (\u9db4\u4e00), 'prima stella della Gru'. Confusione storica: nel XX secolo un'efemeride riport\u00f2 'Alnair' anche per \u03b6 Cen.",
+   "magnitudine": "1,74 (SIMBAD; it/en wiki 1,74) \u2014 la pi\u00f9 brillante della Gru, ~31\u00aa stella pi\u00f9 brillante del cielo; una delle 58 stelle di navigazione",
+   "spettro": "B6V (en; it: B7IV subgigante) bianco-azzurra; Teff 14.245 K (en) / 13.100 K (it), M \u22484 M\u2609, R 3,3\u20133,9 R\u2609 (range tra i valori da diametro interferometrico 1,17 mas e da T/L), L \u2248380\u2013520 L\u2609 (discrepanza tra le wiki, citata come range), v sin i \u2248215\u2013236 km/s: un giro completo in meno di un giorno",
+   "distanza_al": 101.0,
+   "curiosita": "La coda del pesce: il nome arabo la dice 'la brillante della coda del Pesce Australe' \u2014 prima che Plancius disegnasse la Gru, Alnair era la coda del Pesce Australe; \u00e8 la stella pi\u00f9 brillante della costellazione di Plancius, la pi\u00f9 recente con stelle di prima grandezza visibile. Da ricercatori: \u00e8 il capolinea del famoso star hop che dal Grande Quadrato di Pegaso passa per Fomalhaut e arriva ad Alnair. Distanza: 101 anni luce dalla parallasse Hipparcos nuova riduzione 32,29\u00b10,21 mas (van Leeuwen 2007; SIMBAD TAP) \u2014 nessun valore Gaia DR3 (solo Gmag senza parallasse, saturazione); it.wiki d\u00e0 110 al (valore vecchio), en.wiki 101 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Gruis"
+  },
+  {
+   "id": "bet_gru",
+   "nome": "Tiaki (Beta Gruis)",
+   "bayer": "\u03b2 Gru (\u03b2 Gru; HD 214952, HIP 112122, HR 8636, SAO 231096, GC 31538)",
+   "origine_nome": "Nome IAU ufficiale: Tiaki, approvato dal WGSN a luglio 2018 (lista IAU-CSN), da un catalogo maori neozelandese (diminutivo di taki, 'guardiano' \u2014 significato non certo). In cinese \u00e8 H\u00e8'\u00e8r (\u9db4\u4e8c), 'seconda stella della Gru'.",
+   "magnitudine": "2,07 (SIMBAD; en range 2,0\u20132,3; it 2,13) \u2014 seconda pi\u00f9 brillante della Gru. Variabile semiregolare SRb, periodo 37 giorni",
+   "spettro": "M5III gigante rossa brillante; Teff 3.312 K, L \u22483.000\u20133.100 L\u2609 (en; it.wiki 5.000 \u2014 range citato). Raggio arbitrato \u224876\u201380 R\u2609: en.wiki cita 'diametro 0,8 UA' e '180 volte il Sole' in contraddizione interna (180 R\u2609 sarebbe un raggio di 0,84 UA, cio\u00e8 diametro ~1,7 UA); la luminosit\u00e0 3.090 L\u2609 a 3.312 K \u00e8 coerente con R \u224876 R\u2609. Nota di discrepanza dichiarata in curiosit\u00e0",
+   "distanza_al": 177.0,
+   "curiosita": "Un sole gigante fino a Venere: il diametro di Tiaki \u00e8 confrontabile con l'orbita di Venere (0,8 UA secondo en.wiki) \u2014 se la sostituissimo al Sole, la superficie rossa a 3.300 K arriverebbe a lambire l'orbita del nostro pianeta. \u00c8 variabile semiregolare con periodo 37 giorni, e ha ricevuto il nome maori Tiaki solo nel 2018, quando era una delle ultime stelle brillanti del cielo ancora senza nome ufficiale. Distanza: 177 anni luce dalla parallasse Hipparcos nuova riduzione 18,43\u00b10,42 mas (van Leeuwen 2007; SIMBAD TAP) \u2014 nessun valore Gaia DR3 (saturazione); it/en wiki danno ~170 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Gruis"
+  },
+  {
+   "id": "gam_gru",
+   "nome": "Aldhanab (Gamma Gruis)",
+   "bayer": "\u03b3 Gru (\u03b3 Gru; HD 207971, HIP 108085, HR 8353, SAO 230915, Gaia DR3 6598433446118347392)",
+   "origine_nome": "Nome IAU ufficiale: Aldhanab (WGSN 2016). Dall'arabo \u0630\u0646\u0628 al-dhanab, 'la coda', con l'attributo tacito: si riferiva originariamente alla coda del Pesce Australe, prima che la Gru venisse separata. Bayer la chiamava \u03ba PsA. In cinese fa parte di B\u00e0i Ji\u00f9 (\u6557\u81fc), 'Mortaio Rotto', come sesta stella (B\u00e0i Ji\u00f9 li\u00f9).",
+   "magnitudine": "3,00 (SIMBAD/en/it) \u2014 terza pi\u00f9 brillante della Gru, dopo Alnair e Tiaki",
+   "spettro": "B8 III gigante bianco-azzurra (it la d\u00e0 subgigante B8 IV-V; en 'blue-white subgiant' B8III \u2014 range citato); Teff 12.300 K, L 940 L\u2609, R \u22485,3 R\u2609, M \u22484,4 M\u2609, v sin i 57 km/s. Compagna HD 207971 B (mag ~10, moto proprio comune, massa/raggio ~30% solari) a 162.100 UA: binaria larga",
+   "distanza_al": 183.0,
+   "curiosita": "Una stella che ha cambiato costellazione due volte: per gli arabi era 'la coda' del Pesce Australe, per Bayer rest\u00f2 \u03ba Piscis Austrini, e solo con Lacaille (1756) entr\u00f2 nella nuova Gru. La sua compagna B, troppo debole per un telescopio amatoriale, gira attorno a una distanza di oltre 1.500 volte quella di Plutone. Distanza: 183 anni luce dalla parallasse Gaia DR3 17,8080\u00b10,5145 mas (SIMBAD TAP); en.wiki d\u00e0 ~211 al (valore Hipparcos) \u2014 adottata Gaia DR3, la divergenza ~15% \u00e8 dichiarata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Gruis"
+  },
+  {
+   "id": "del_gru",
+   "nome": "Delta Gruis (\u03b41 + \u03b42)",
+   "bayer": "\u03b41 Gru (HD 213009, HIP 111101, HR 8565, SAO 231072, Gaia DR3 6562211186795538816) + \u03b42 Gru (HD 213607, HIP 111593, HR 8585, SAO 231100, Gaia DR3 6562554286389618176) \u2014 doppia designazione",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN: nessuna voce per \u03b41/\u03b42 Gru). Doppia designazione. In cinese entrambe fanno parte dell'asterismo H\u00e8 (\u9db4, Gru) insieme ad \u03b1, \u03b2, \u03b5, \u03b6 e \u03b9 Gru (en.wiki cita solo l'asterismo complessivo, senza numeri individuali verificati).",
+   "magnitudine": "\u03b41: 3,69; \u03b42: 4,14 \u2014 doppia visuale risolvibile a occhio nudo",
+   "spettro": "\u03b41 Gru: K3 III gigante arancione, Teff 4.400 K, L \u2248400 L\u2609, R \u224840 R\u2609. \u03b42 Gru: K3 III gigante arancione, L \u2248340 L\u2609, R \u224830 R\u2609. Le due non sono legate gravitazionalmente: doppia ottica (en.wiki 'optical doubles, unrelated')",
+   "distanza_al": 326.0,
+   "curiosita": "Una coppia illusoria: \u03b41 e \u03b42 Gru sembrano gemelle sullo stesso raggio visivo, ma sono binaria OTTICA \u2014 la pi\u00f9 debole \u03b42 \u00e8 paradossalmente la pi\u00f9 lontana (356 contro 326 anni luce), separata da \u03b41 di decine di anni luce in profondit\u00e0. Distanze: \u03b41 326 al e \u03b42 356 al (parallassi Gaia DR3 9,9981\u00b10,1421 e 9,1556\u00b10,1885 mas, SIMBAD TAP); en.wiki d\u00e0 309 e 325 al dalle parallasse Hipparcos (10,54 e 9,88 mas) \u2014 adottate Gaia DR3 per entrambe.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta1_Gruis"
+  },
+  {
+   "id": "eps_gru",
+   "nome": "Epsilon Gruis",
+   "bayer": "\u03b5 Gru (\u03b5 Gru; HD 213699, HIP 111585, HR 8581, SAO 231099, Gaia DR3 6562592201740839040)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo H\u00e8 (\u9db4, Gru).",
+   "magnitudine": "3,49 (SIMBAD 3,4899; en 3,49) \u2014 quarta pi\u00f9 brillante della Gru",
+   "spettro": "A2 Vn nana bianca (il suffisso 'n' indica righe nebulose, spia di rotazione molto rapida); L 42 L\u2609, Teff \u22488.400 K, M \u22482,2 M\u2609, v sin i 187 km/s",
+   "distanza_al": 126.5,
+   "curiosita": "Il suffisso che gira: nel tipo spettrale 'A2 Vn', la 'n' sta per 'nebulous lines' \u2014 le righe di assorbimento spalmate dalla rotazione velocissima della stella (187 km/s misurati), un dato che si legge direttamente nello spettro. Distanza: 126,5 anni luce dalla parallasse Gaia DR3 25,7902\u00b10,2352 mas (SIMBAD TAP); en.wiki d\u00e0 ~129 al (Hipparcos 25,30 mas) \u2014 adottata Gaia DR3, coerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Gruis"
+  },
+  {
+   "id": "zet_gru",
+   "nome": "Zeta Gruis",
+   "bayer": "\u03b6 Gru (\u03b6 Gru; HD 211720, HIP 110127, HR 8494, SAO 231011, Gaia DR3 6563585493133598080)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo H\u00e8 (\u9db4, Gru).",
+   "magnitudine": "4,11 (SIMBAD; en 4,111)",
+   "spettro": "G8 III gigante arancione; L \u2248190 L\u2609, Teff 5.080 K, R \u224813 R\u2609, M \u22482,8\u20133 M\u2609. Tra le misure di parallasse storiche la dispersione \u00e8 ampia (da SIMBAD: 29,96 mas Hipparcos 2007, 24,5452 mas Gaia DR2, 37,5 mas GCTP), con Gaia DR3 la pi\u00f9 recente e precisa",
+   "distanza_al": 163.9,
+   "curiosita": "Una distanza che \u00e8 cambiata di un quarto: con Hipparcos \u03b6 Gru risultava a ~133 anni luce (24,5 mas), con Gaia DR3 a 164 (19,9 mas) \u2014 un esempio visivo di quanto la parallasse, la misura geometrica 'ordinaria' della scala cosmica, sia sensibile alla qualit\u00e0 dell'osservazione. Distanza: 164 anni luce dalla parallasse Gaia DR3 19,9108\u00b10,6058 mas (SIMBAD TAP); en.wiki d\u00e0 ~133 al (Hipparcos) \u2014 adottata Gaia DR3, divergenza ~20% dichiarata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Gruis"
+  },
+  {
+   "id": "eta_gru",
+   "nome": "Eta Gruis",
+   "bayer": "\u03b7 Gru (\u03b7 Gru; HD 213022, HIP 111128, HR 8563, SAO 231074, Gaia DR3 6562319220525673856)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo H\u00e8 (\u9db4, Gru).",
+   "magnitudine": "4,84 (SIMBAD; en 4,839)",
+   "spettro": "K3 III gigante arancione; L \u2248296 L\u2609, Teff 4.331 K, R \u224838 R\u2609, M \u22482,5 M\u2609",
+   "distanza_al": 452.0,
+   "curiosita": "Fredda ma grande: a 4.331 K \u00e8 pi\u00f9 fredda del Sole, eppure brilla ~296 volte di pi\u00f9, perch\u00e9 con ~38 raggi solari la superficie che emette luce \u00e8 oltre 1.400 volte quella della stella che siamo abituati a guardare. Fa parte dell'asterismo cinese della Gru ed \u00e8 vicina al percorso dello star hop Fomalhaut\u2192Alnair. Distanza: 452 anni luce dalla parallasse Gaia DR3 7,2136\u00b10,1013 mas (SIMBAD TAP), coerente con en.wiki (~452 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Gruis"
+  },
+  {
+   "id": "iot_gru",
+   "nome": "Iota Gruis",
+   "bayer": "\u03b9 Gru (\u03b9 Gru; HD 210320, HIP 109490, HR 8442, SAO 231021, Gaia DR3 6564431966915238016)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo H\u00e8 (\u9db4, Gru).",
+   "magnitudine": "3,90 (SIMBAD; en 3,884)",
+   "spettro": "A2 V nana bianco-azzurra; L \u224850 L\u2609, Teff \u22488.700 K, R \u22482,5 R\u2609, M \u22482,3 M\u2609",
+   "distanza_al": 205.7,
+   "curiosita": "Una delle quattro nane bianche della Gru visibili a occhio nudo (con Alnair, \u03b5 e \u03bb), e il punto in cui la costellazione confina con il Pesce Australe: prima di Lacaille anche \u03b9 Gru era una stella del pesce. Distanza: 206 anni luce dalla parallasse Gaia DR3 15,8566\u00b10,5265 mas (SIMBAD TAP); en.wiki d\u00e0 ~183 al dalla parallasse Hipparcos 17,80 mas \u2014 adottata Gaia DR3, divergenza ~10% dichiarata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Gruis"
+  },
+  {
+   "id": "lam_gru",
+   "nome": "Lambda Gruis",
+   "bayer": "\u03bb Gru (\u03bb Gru; HD 211943, HIP 110402, HR 8509, SAO 231031, Gaia DR3 6564565955814795776)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte di B\u00e0i Ji\u00f9 (\u6557\u81fc), 'Mortaio Rotto', come settima stella (B\u00e0i Ji\u00f9 q\u012b) \u2014 insieme a \u03b3 Gru e \u03b3 PsA.",
+   "magnitudine": "4,46 (SIMBAD; en 4,466)",
+   "spettro": "B8 IV/V subgigante/nana bianco-azzurra (en 'B8 main sequence star', it B8 IV-V \u2014 range arbitrato e dichiarato); L \u2248119 L\u2609, Teff \u224811.000 K, R \u22482,5 R\u2609, M \u22483,1 M\u2609",
+   "distanza_al": 249.2,
+   "curiosita": "Un altro pezzo del 'Mortaio Rotto': come \u03b3 Gru e \u03b3 PsA, \u03bb Gru faceva per i cinesi dell'asterismo B\u00e0i Ji\u00f9, il mortoio dei cieli \u2014 il gruppo dove furono riscritti i nomi IAU recenti di \u03b9 PsA (Baijiu). A 1\u00b0 a ovest si trova IC 5148, la 'Spare Tyre Nebula' (nebulosa planetaria scoperta da Walter Gale nel 1894, con espansione ~50 km/s tra le pi\u00f9 rapide). Distanza: 249 anni luce dalla parallasse Gaia DR3 13,0876\u00b10,1253 mas (SIMBAD TAP); en.wiki d\u00e0 ~242 al (Hipparcos 13,47 mas) \u2014 adottata Gaia DR3, coerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Gruis"
+  }
+ ]
+}

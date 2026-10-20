@@ -1,4 +1,4 @@
-], ss[3], ss[4], ss[5], ss[6], ss[7], ss[8], ss[9], ss[10], ss[11], ss[12], ss[13], ss[14], ss[15], ss[16], ss[17], ss[18], ss[19], ss[20], ss[21], ss[22], ss[23]].forEach(function (src) {
+], ss[3], ss[4], ss[5], ss[6], ss[7], ss[8], ss[9], ss[10], ss[11], ss[12], ss[13], ss[14], ss[15], ss[16], ss[17], ss[18], ss[19], ss[20], ss[21], ss[20], ss[21], ss[22], ss[23], ss[24]].forEach(function (src) {
           if (src && typeof src === 'object') {
             Object.keys(src).forEach(function (k) { merged[k] = src[k]; });
           }

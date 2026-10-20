@@ -1,0 +1,114 @@
+{
+ "pesce_australe": [
+  {
+   "id": "alf_psa",
+   "nome": "Fomalhaut (Alpha Piscis Austrini)",
+   "bayer": "\u03b1 PsA (\u03b1 PsA; HD 216956, HIP 113368, HR 8728, SAO 191524, GJ 881, Flamsteed 24 PsA)",
+   "origine_nome": "Nome IAU ufficiale: Fomalhaut (WGSN luglio 2016; riga lista IAU: '\u03b1 Piscis Austrini A'). Dall'arabo \u0641\u0645 \u0627\u0644\u062d\u0648\u062a fam al-\u1e25\u016bt (al-jan\u016bb\u012b), 'bocca del pesce (australe)'. Nessun altro nome proprio di stella ha cos\u00ec tante varianti ortografiche (Fumahant, Fomahand, Phomault...). Nome popolare arabo correlato: Difdi' al Awwal, 'la prima rana' (la seconda \u00e8 Diphda, \u03b2 Cet). In cinese \u00e8 B\u011bilu\u00f2sh\u012bm\u00e9n (\u5317\u843d\u5e2b\u9580), 'Porta del Campo Militare del Nord'.",
+   "magnitudine": "1,16 (SIMBAD; it/en.wiki 1,16) \u2014 la pi\u00f9 brillante della costellazione e 18\u00aa stella pi\u00f9 brillante del cielo",
+   "spettro": "A3V/A4V bianca di sequenza principale; Teff 8.590\u00b173 K (nuova riduzione Hipparcos), M 1,92\u00b10,02 M\u2609, R 1,84 R\u2609 (interferometria VINCI, Di Folco 2004), L 16,63\u00b10,48 L\u2609, et\u00e0 440\u00b140 mln di anni (Mamajek 2012). Punto di riferimento stabile della classificazione spettrale dal 1943",
+   "distanza_al": 25.1,
+   "curiosita": "Il sistema pi\u00f9 spettacolare del batch: Fomalhaut A \u00e8 il centro di un sistema TRIPLO \u2014 Fomalhaut B (TW PsA, a 0,91 al) e Fomalhaut C (LP 876-10, in Aquario a 2,5 al, con SUO disco di detriti: sistemi multipli con pi\u00f9 dischi sono rarissimi). Intorno ad A il disco esterno a 133 UA (la 'cintura di Kuiper di Fomalhaut': ~2000 comete che collidono al giorno, grani riciclati ogni 1700 anni), visto da IRAS 1983 e ripreso da Hubble 2005 e ALMA 2017; JWST 2023 vi ha aggiunto un TERZO disco intermedio disallineato. 'Dagon' (Fomalhaut b), il primo pianeta candidato fotografato in luce visibile (Hubble, annuncio 2008), \u00e8 stato rimosso dall'archivio NASA il 7/5/2020: G\u00e1sp\u00e1r & Rieke l'hanno reinterpretato come nube di detriti in espansione da una collisione tra asteroidi, confermata dall'assenza nei dati JWST 2023 \u2014 e a dicembre 2025 \u00e8 stata riportata una nuova grande collisione nel sistema. Stella reale persiana (Haftorang, 'Sentinella del Sud', una delle 4 stelle regali con Aldebaran, Regolo e Antares, a cui tradizione medievale associava quattro arcangeli: Gabriele per Fomalhaut) e citata da Dante (Purgatorio VIII, le 'tre facelle' del polo sud con Canopo e Achernar). Distanza: 25,1 anni luce dalla parallasse Hipparcos nuova riduzione 129,81\u00b10,47 mas (van Leeuwen 2007; SIMBAD TAP) \u2014 nessun valore Gaia DR3 per la primaria, saturata; it/en wiki concordi (25,12/25,13 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Fomalhaut"
+  },
+  {
+   "id": "tw_psa",
+   "nome": "TW Piscis Austrini (Fomalhaut B)",
+   "bayer": "TW PsA (variabile; HD 216803, HIP 113283, GJ 879, Gaia DR3 6604147121141267712)",
+   "origine_nome": "Nessun nome proprio: designazione di variabile TW Piscis Austrini. \u00c8 Fomalhaut B, la seconda componente del sistema di Fomalhaut. Per il popolo Wardaman la coppia A+B aveva un nome collettivo.",
+   "magnitudine": "6,44\u20136,51 (variabile BY Draconis; en.wiki)",
+   "spettro": "K4Ve nana arancione attiva (righe Ca II e H\u03b1 in emissione); Teff 4.594 K, M 0,73 M\u2609, R 0,688 R\u2609, L 0,189 L\u2609; una delle poche nane K con diametro misurato da CHARA (2008). Variabile BY Draconis, periodo 10,3 giorni, per l'attivit\u00e0 magnetica",
+   "distanza_al": 24.8,
+   "curiosita": "La compagna nascosta di Fomalhaut: separata da A di 2 gradi visivi (quattro diametri lunari) ma solo 0,91 anni luce fisici \u2014 stesso moto proprio (\u00b119 mas/anno), velocit\u00e0 concordanti entro 0,1\u00b10,5 km/s e et\u00e0 coerente (400\u00b170 contro 440\u00b140 mln di anni), quindi legata gravitazionalmente: l'unico sistema triplo 'naked-eye' del cielo australe vicino. Un pianeta candidato (1,2 MJ, periodo ~25 anni) \u00e8 stato proposto nel 2019 con l'astrometria combinata Hipparcos-Gaia, non ancora confermato. Distanza: 24,8 anni luce dalla parallasse Gaia DR3 131,5525\u00b10,0275 mas (SIMBAD TAP) \u2014 errore minuscolo, parallasse estremamente robusta e coerente con Fomalhaut A (25,1 al); wiki it/en concordi (24,9/24,8 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/TW_Piscis_Austrini"
+  },
+  {
+   "id": "bet_psa",
+   "nome": "Tiangang (Beta Piscis Austrini)",
+   "bayer": "\u03b2 PsA (\u03b2 PsA; HD 213398, HIP 111188, HR 8576, SAO 213883, Gaia DR3 6601750220152445440)",
+   "origine_nome": "Nome IAU ufficiale: Tiangang, approvato dal WGSN il 17 settembre 2026 (lista IAU-CSN, riga 'Tiangang = \u03b2 Piscis Austrini') \u2014 approvazione recentissima. Da Ti\u0101n G\u0101ng (\u5929\u7db1), 'Corda Celestiale', asterismo cinese a stella singola originariamente per la stessa \u03b2 (R.H. Allen dava Tien Kang per \u03b2+\u03b4+\u03b6 PsA).",
+   "magnitudine": "4,29 (SIMBAD; wiki it/en 4,29)",
+   "spettro": "A1V bianca di sequenza principale; M 2,20 M\u2609, L 26 L\u2609. Forma OVALE per rotazione rapida vista quasi pole-on: v sin i solo 26 km/s ma velocit\u00e0 equatoriale 314 (+37/\u221243) km/s, rigonfiamento equatoriale 26%\u00b17% ('oblate spheroid') e gravity darkening (ai poli pi\u00f9 calda di un 20%\u00b14% rispetto all'equatore, modello interferometrico). Compagna CD-32\u00b017127 (G1V, mag 7.04, 1,04 M\u2609) a 1.376 UA",
+   "distanza_al": 147.7,
+   "curiosita": "Una palla schiacciata che gira: il polo \u00e8 rivolto quasi verso di noi, cos\u00ec vediamo 'di costa' il rigonfiamento equatoriale di una stella che al bordo gira a 314 km/s \u2014 e i poli restano pi\u00f9 caldi dell'equatore (gravity darkening, come su Vega/Altair). Ha un disco di detriti (eccesso infrarosso, T 188 K, a ~12 UA) ed \u00e8 una delle sorgenti X pi\u00f9 brillanti della costellazione (probabile accoppiamento casuale con una fonte esterna). Il suo nome \u00e8 nato lo stesso giorno di Baijiu (\u03b9 PsA), 17/9/2026: due nomi cinesi per il Pesce Australe approvati in coppia. Distanza: 148 anni luce dalla parallasse Gaia DR3 22,0836\u00b10,2117 mas (SIMBAD TAP); en.wiki d\u00e0 143\u00b11 al dalla vecchia parallasse Hipparcos 22,84 mas (prima riduzione) \u2014 adottata Gaia DR3.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Piscis_Austrini"
+  },
+  {
+   "id": "gam_psa",
+   "nome": "Gamma Piscis Austrini",
+   "bayer": "\u03b3 PsA (sistema triplo; HD 216336, HIP 112948, HR 8695, SAO 214153, Gaia DR3 6602839458218253824)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN: nessuna voce per \u03b3 PsA). Designazione di Bayer. Nota storica: \u03b3 PsA di Bayer corrisponde a \u03b4 PsA moderno, per il ridisegno di Lacaille.",
+   "magnitudine": "4,45 combinata (SIMBAD 4,448); Aa+Ab combinate 4,59, B mag 8,20",
+   "spettro": "Sistema triplo: Aa A0Vp(SrCrEu) \u2014 stella peculiare A con anomalie di stronzo-cromo-europio, 2,65 M\u2609 e 2,9 R\u2609 \u2014 pi\u00f9 la compagna Ab (0,94 M\u2609, 0,84 R\u2609, periodo 15 anni, separazione media 9 UA) e la terza B, nana giallo-bianca F5V (20% pi\u00f9 massiccia del Sole), separata 4\u2033 (PA 255\u00b0, ep. 2010). Et\u00e0 ~350 mln di anni: tra 14 miliardi di anni sar\u00e0 un triplo di nane bianche",
+   "distanza_al": 222.9,
+   "curiosita": "Un triplo di nane bianche in nascita: le tre componenti del sistema (peculiare A + due ordinarie) bruciano idrogeno a ritmi diversi e fra 14 miliardi di anni si spengono tutte e tre in sequenza, trasformandosi in nane bianche \u2014 il futuro pi\u00f9 comune dell'universo stellare condensato in un solo sistema. La primaria \u00e8 una 'stella chimicamente peculiare': nello spettro spiccano stronzo, cromo e europio, elementi pesanti risaliti in superficie in assenza di convezione. Distanza: 223 anni luce dalla parallasse Gaia DR3 14,634\u00b10,8194 mas (SIMBAD TAP); en.wiki d\u00e0 ~216 al (Hipparcos 15,1 mas) \u2014 adottata Gaia DR3.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Piscis_Austrini"
+  },
+  {
+   "id": "del_psa",
+   "nome": "Delta Piscis Austrini (Aboras)",
+   "bayer": "\u03b4 PsA (\u03b4 PsA; HD 216763, HIP 113246, HR 8720, SAO 214189, Gaia DR3 6603237069110449792)",
+   "origine_nome": "Nessun nome IAU. Il nome tradizionale 'Aboras' compare su it.wiki (sezione stelle principali) ma non \u00e8 nella lista IAU-CSN: riportato come nome tradizionale non ufficiale. In cinese fa parte di Ti\u0101n G\u0101ng (\u5929\u7db1, 'materiali per tende', con \u03b2 e \u03b6 PsA \u2014 lo stesso asterismo che ha dato il nome IAU a \u03b2).",
+   "magnitudine": "4,21 (SIMBAD 4,208; it 4,20; en 4,175)",
+   "spettro": "G8III gigante gialla del red clump (elio nel nucleo: la fase pi\u00f9 'ordinata' della vita delle giganti gialle); M 2,1 M\u2609, R 10,3 R\u2609, L 58 L\u2609, Teff 4.967 K, et\u00e0 3,74 mld di anni. Compagna visuale mag 9,86 a 5,2\u2033 con moto proprio comune \u2014 probabile binaria, non confermata orbitalmente",
+   "distanza_al": 170.2,
+   "curiosita": "Una gigante 'al rosso di bandiera': fa parte del red clump, il gruppo delle giganti gialle che bruciano elio nel nucleo \u2014 la fase pi\u00f9 ordinata e omogenea dell'evoluzione stellare, usata anche come candela standard. it.wiki la descrive 'arancione', ma G8III a 4.967 K \u00e8 gialla secondo la classificazione inglese ('yellow-hued'). Distanza: 170 anni luce dalla parallasse Gaia DR3 19,1618\u00b10,1347 mas (SIMBAD TAP), coerente con en.wiki (172\u00b12 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Piscis_Austrini"
+  },
+  {
+   "id": "eps_psa",
+   "nome": "Epsilon Piscis Austrini",
+   "bayer": "\u03b5 PsA (\u03b5 PsA; HD 214748, HIP 111954, HR 8628, SAO 191318, Gaia DR3 6622561673163882752)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo Y\u01d4 L\u00edn J\u016bn (\u7fbd\u6797\u8ecd), 'Guardia di Palazzo', come sesta stella (Y\u01d4 L\u00edn J\u016bn li\u00f9).",
+   "magnitudine": "4,18 (SIMBAD 4,177; en 4,17; it 4,18) \u2014 seconda stella pi\u00f9 brillante della costellazione dopo Fomalhaut",
+   "spettro": "B8Ve: Be star bianco-azzurra con righe in emissione; v sin i 216 km/s (vicino a circa il 70% della velocit\u00e0 critica di rottura, ~301 km/s), M 6,0 M\u2609, R 7,5 R\u2609, L 661 L\u2609, Teff 11.066 K. Binaria larga con compagna nana rossa a proiezione 11.700 UA",
+   "distanza_al": 550.7,
+   "curiosita": "Un mulino da battaglia rotante: come Be star ruota cos\u00ec in fretta (216 km/s misurati, probabilmente di pi\u00f9 vista di costa) che l'equatore raggiunge quasi i 300 km/s in cui la forza centrifuga dilania la stella \u2014 le righe 'in emissione' dello spettro nascono nel gas espulso da questo girone. I moti propri mostrano un'anomalia Hipparcos-Gaia: possibile compagna astrometrica di massa ~1 M\u2609 con periodo 6\u201330 anni e separazione 6\u201330 UA, non ancora risolta. Distanza: 551 anni luce dalla parallasse Gaia DR3 5,9219\u00b10,2931 mas (SIMBAD TAP); en.wiki d\u00e0 ~550 al (Gaia) mentre it.wiki riporta 744 al, valore vecchio/errato arbitrato a favore di Gaia DR3.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Piscis_Austrini"
+  },
+  {
+   "id": "zet_psa",
+   "nome": "Zeta Piscis Austrini",
+   "bayer": "\u03b6 PsA (\u03b6 PsA; HD 213296, HIP 111138, HR 8570, SAO 191196, Gaia DR3 6622197425577482752)",
+   "origine_nome": "Nessun nome IAU. Designazione di Bayer. In cinese fa parte di Ti\u0101n G\u0101ng (\u5929\u7db1), con \u03b2 e \u03b4 PsA. Designazione NSV 14180: variabile sospetta.",
+   "magnitudine": "6,43 (SIMBAD; en.wiki sez. costellazione 413\u00b12 al coerenza) \u2014 al limite del visibile a occhio nudo",
+   "spettro": "K1III Fe\u22121,2 CN\u22120,5: gigante arancione con carenze di ferro e cianogeno nello spettro; R 9 R\u2609, L 39 L\u2609, Teff 4.865 K, massa non citata. Catalogata NSV 14180 (variabile sospetta)",
+   "distanza_al": 410.5,
+   "curiosita": "Una chimica insolita: lo spettro mostra povert\u00e0 di ferro (Fe\u22121,2) e cianogeno (CN\u22120,5), la firma di stelle vecchie del disco galattico nate con poca metallicit\u00e0. La parallasse Gaia DR3 7,9457\u00b10,0243 mas ha un errore relativo dello 0,3%, tra i pi\u00f9 precisi del batch. Distanza: 411 anni luce dalla parallasse Gaia DR3 7,9457\u00b10,0243 mas (SIMBAD TAP), coerente con en.wiki (413\u00b12 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Piscis_Austrini"
+  },
+  {
+   "id": "eta_psa",
+   "nome": "Eta Piscis Austrini",
+   "bayer": "\u03b7 PsA (binaria; HD 209014, HIP 108661, HR 8386, SAO 190822)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer.",
+   "magnitudine": "5,43 combinata (variabilit\u00e0 sospetta 5,33\u20135,44); A: 5,8, B: 6,8",
+   "spettro": "Sistema binario (separazione 1,818\u2033 a PA 113,4\u00b0, ep. 2000): A = B6 III Be calda, M 4 M\u2609, L 604 L\u2609, Teff 11.272 K, et\u00e0 ~115 mln di anni, v sin i 265 km/s (quasi il 40% della velocit\u00e0 di rottura); B = B8.5 V, mag 6,8. Variabilit\u00e0 sospetta tipo Maia (classe rara e discussa, tra le Be e le shell stars)",
+   "distanza_al": 817.4,
+   "curiosita": "Il mistero delle stelle Maia: \u03b7 PsA A \u00e8 una delle candidate di una classe variabile mai del tutto definita, intorno alle stelle B con righe in emissione troppo fredde per le classiche Be \u2014 il tipo 'Maia', dal nome della stella delle Pleiadi, raro e controverso. La primaria ruota a 265 km/s e la coppia calda (B6+B8.5) \u00e8 una doppia elegante al piccolo telescopio. Distanza: 817 anni luce dalla parallasse Hipparcos nuova riduzione 3,99\u00b10,48 mas (van Leeuwen 2007; SIMBAD TAP) \u2014 la primaria \u00e8 SATURATA in Gaia DR3, nessun valore di parallasse; en.wiki d\u00e0 ~820 al, coerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Piscis_Austrini"
+  },
+  {
+   "id": "iot_psa",
+   "nome": "Baijiu (Iota Piscis Austrini)",
+   "bayer": "\u03b9 PsA (\u03b9 PsA; HD 206742, HIP 107380, HR 8305, SAO 213258, Gaia DR3 6591574171318785664)",
+   "origine_nome": "Nome IAU ufficiale: Baijiu, approvato dal WGSN il 17 settembre 2026 (lista IAU-CSN, riga 'Baijiu = \u03b9 Piscis Austrini') \u2014 recentissimo. Da B\u00e0i Ji\u00f9 (\u6557\u81fc), 'Mortaio Rotto', asterismo cinese di cui \u03b9 PsA faceva originariamente parte, poi migrata a Ti\u0101n Qi\u00e1n (\u5929\u9322), 'Monete Celesti', come terza stella.",
+   "magnitudine": "4,34 (SIMBAD; en 4,35)",
+   "spettro": "A0 V nana bianco-azzurra, stella singola; compagna visuale mag 11,4 a 20\u2033 (PA 290\u00b0, ep. 1910, probabile doppia ottica)",
+   "distanza_al": 212.7,
+   "curiosita": "Un nome appena nato: Baijiu \u00e8 stato approvato dalla IAU il 17 settembre 2026, in coppia con Tiangang (\u03b2 PsA) \u2014 due nomi cinesi per il Pesce Australe lo stesso giorno. L'orbita galattica della stella oscilla tra 18.400 e 24.300 anni luce dal centro della Galassia, con velocit\u00e0 di crociera 29,7 km/s. Nota: en.wiki la colloca 'around 500 light years' senza citare parallasse, in contraddizione con la parallasse Gaia \u2014 arbitrato a favore di Gaia DR3. Distanza: 213 anni luce dalla parallasse Gaia DR3 15,3346\u00b10,1417 mas (SIMBAD TAP).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Piscis_Austrini"
+  },
+  {
+   "id": "lam_psa",
+   "nome": "Lambda Piscis Austrini",
+   "bayer": "\u03bb PsA (\u03bb PsA; HD 210934, HIP 109789, HR 8478, SAO 190985, Gaia DR3 6618669608159645312)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. In cinese fa parte dell'asterismo Y\u01d4 L\u00edn J\u016bn (\u7fbd\u6797\u8ecd), 'Guardia di Palazzo', come settima stella (Y\u01d4 L\u00edn J\u016bn q\u012b).",
+   "magnitudine": "5,42 (en.wiki 5,42; SIMBAD V 5,41)",
+   "spettro": "B7 V nana bianco-azzurra; M 3,58 M\u2609, R 4,2 R\u2609, L 249 L\u2609, Teff 12.023 K, v sin i 50 km/s; ha gi\u00e0 consumato circa il 76% della sua vita in sequenza principale",
+   "distanza_al": 532.1,
+   "curiosita": "Al tramonto della giovinezza: nonostante i soli 3,6 raggi solari e il colore blu, ha gi\u00e0 percorso tre quarti della sua permanenza in sequenza principale \u2014 per una stella B7 di 3,6 masse solari l'intera corsa dura poche centinaia di milioni di anni, e fra poco si gonfier\u00e0 in gigante. L'orbita galattica oscilla tra 23.800 e 29.300 anni luce dal centro. Distanza: 532 anni luce dalla parallasse Gaia DR3 6,1300\u00b10,1195 mas (SIMBAD TAP); en.wiki d\u00e0 ~500 al dalla parallasse Hipparcos 6,51 mas (riduzione 2007) \u2014 adottata Gaia DR3.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lambda_Piscis_Austrini"
+  }
+ ]
+}
