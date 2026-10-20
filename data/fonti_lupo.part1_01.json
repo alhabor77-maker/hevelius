@@ -1,0 +1,14 @@
+{
+ "immagini": [
+  {
+   "costellazione": "Lupo (Lupus)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Prodromus_astronomiae_1690_%285590655%29.jpg/1920px-Prodromus_astronomiae_1690_%285590655%29.jpg",
+   "titolo_tavola": "Fig. YY \u2013 Lupus (Firmamentum Sobiescianum sive Uranographia, 1690)",
+   "pagina_commons": "https://commons.wikimedia.org/wiki/File:Prodromus_astronomiae_1690_(5590655).jpg",
+   "url_sorgente": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Prodromus_astronomiae_1690_%285590655%29.jpg/960px-Prodromus_astronomiae_1690_%285590655%29.jpg",
+   "url_file_originale": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Prodromus_astronomiae_1690_%285590655%29.jpg",
+   "nota": "Tavola YY DEDICATA al Lupo: nel Firmamentum Sobiescianum la Tavola YY ritrae il Lupo (LUPUS) come figura centrale \u2014 animale in posa dinamica, testa rivolta in alto a destra verso lo Scorpione, accovacciato/afferrato davanti al Centauro; etichetta LUPUS sul dorso, etichetta Fig. YY. in basso a DESTRA sopra la scala della Longitudo (verificata da st3 con crop PIL + image_caption). Tavola NON condivisa: a differenza di Fig. P (Ofiuco/Serpente), Fig. S (Delfino/Freccia/Cavallino), Fig. PP (Eridano/Fenice/Tucano) e Fig. XX (Centauro/Croce del Sud), questa tavola serve solo la pagina del Lupo.",
+   "licenza": "Pubblico dominio"
+  }
+ ]
+}
