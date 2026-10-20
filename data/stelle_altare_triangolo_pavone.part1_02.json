@@ -1,0 +1,59 @@
+
+ "pavone": [
+  {
+   "id": "alf_pav",
+   "nome": "Peacock (Alpha Pavonis)",
+   "bayer": "\u03b1 Pavonis (\u03b1 Pav; HD 193924, HIP 100751, HR 7790, SAO 246574)",
+   "origine_nome": "Nome IAU ufficiale: Peacock (\u00abpavone\u00bb), assegnato negli anni Trenta dalla His Majesty's Nautical Almanac Office per l'Air Almanac della RAF e approvato dal WGSN nel primo bollettino di luglio 2016: con Avior (\u03b5 Car) \u00e8 una delle due stelle di quell'almanacco a cui si invent\u00f2 un nome, non avendone di classici. Asterismo arabo al-\u1e63urad\u0101n (\u00able due shrike\u00bb) con \u03b1 Indi; in cinese \u5b54\u96c0\u5341\u4e00, Undicesima stella dell'asterismo del Pavone (\u5b54\u96c0 K\u01d2ng Qi\u0101o).",
+   "magnitudine": "1,94 (variabile sospetta, range 1,93-1,96) \u2014 la pi\u00f9 brillante del Pavone",
+   "spettro": "B2 IV subgigante azzurra (Bright Star Catalogue; en.wiki infobox B3 V, HR B2.5 IV \u2014 varianti da annotare); 5,91 M\u2609, 4,83 R\u2609, ~2.200 L\u2609, Teff 17.711 K, et\u00e0 ~48 mln di anni, probabile membro dell'associazione Tucana-Horologium",
+   "distanza_al": 179,
+   "curiosita": "Un nome da manuale di navigazione: quando negli anni Trenta la RAF compil\u00f2 l'Air Almanac, Peacock e Avior erano le uniche due stelle brillanti ancora senza nome, cos\u00ec l'ufficio dell'almanacco ne invent\u00f2 due sul momento. La stella viaggia con una velocit\u00e0 peculiare di 13 km/s che la cataloga come \u00abyoung runaway star\u00bb (Tetzlaff 2011), ed \u00e8 in realt\u00e0 una binaria spettroscopica con un periodo di 11.753 giorni: la compagna pesa almeno 0,26 masse solari, ma resta invisibile. Il rapporto deuterio/idrogeno nel suo spettro, <5\u00d710\u207b\u2076, \u00e8 insolitamente basso. Distanza: ~179 anni luce dalla parallasse 18,24\u00b10,52 mas (SIMBAD); it.wiki d\u00e0 180 al e List of stars 183.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Pavonis"
+  },
+  {
+   "id": "bet_pav",
+   "nome": "Beta Pavonis",
+   "bayer": "\u03b2 Pavonis (\u03b2 Pav; HD 197051, HIP 102395, HR 7913, SAO 254862)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer.",
+   "magnitudine": "3,42 (en/XHIP; l'infobox it.wiki riporta per errore 3,64, il suo testo 3,43) \u2014 seconda del Pavone",
+   "spettro": "A5 IV subgigante bianca (Zorec & Royer 2012; Houk 1979 la d\u00e0 A7 III); 2,51 M\u2609, 2,3 R\u2609, ~66 L\u2609, Teff 8.184\u00b1278 K; et\u00e0 ~305 mln di anni, v\u00b7sin i 75 km/s",
+   "distanza_al": 137,
+   "curiosita": "Un esercizio di riclassificazione: per decenni i cataloghi l'hanno chiamata \u00abgigante blu A7 III\u00bb, oggi la spectroscopia moderna la ridimensiona a subgigante A5 IV che sta appena uscendo dalla sequenza principale. Nata come stella di classe ~B9.5, nel corso della sua vita di 305 milioni di anni il suo diametro \u00e8 raddoppiato. Fuhrmann (2017) non trova compagne: \u00e8 una stella singola, probabilmente membro del gruppo mobile dell'Orsa Maggiore (Chupina 2006). Distanza: ~137 anni luce dalla parallasse 23,8011 mas (SIMBAD); List of stars d\u00e0 135-137 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Pavonis"
+  },
+  {
+   "id": "del_pav",
+   "nome": "Delta Pavonis",
+   "bayer": "\u03b4 Pavonis (\u03b4 Pav; HD 190248, HIP 99240, HR 7665, GJ 780, LHS 485)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer.",
+   "magnitudine": "3,56 \u2014 terza del Pavone e una delle stelle visibili a occhio nudo pi\u00f9 vicine al Sole",
+   "spettro": "G8 IV subgigante gialla (Gray 2006; it.wiki d\u00e0 G5 IV-V), variabile sospetta (SIMBAD la segnala come NSV, nessuna conferma di variabilit\u00e0); 1,07 M\u2609, 1,197 R\u2609, 1,24 L\u2609, Teff 5.609 K, [Fe/H] +0,371 \u2014 235% di metallicit\u00e0 solare; et\u00e0 6,1\u00b10,3 mld di anni, rotazione ~21,4 giorni",
+   "distanza_al": 19.9,
+   "curiosita": "La migliore candidata SETI: Turnbull e Tarter (2003) l'hanno classificata come il bersaglio ideale tra le 100 stelle di classe G pi\u00f9 vicine al Sole \u2014 metallicit\u00e0 altissima, bassa attivit\u00e0 magnetica, rotazione lenta e nessun segnale artificiale rilevato finora. \u00c8 il pi\u00f9 vicino analogo solare non binario: nella serie di Dune il suo terzo pianeta \u00e8 Caladan, il pianeta natale dei protagonisti. Un possibile pianeta gigante di almeno 69 masse terrestri a 11 unit\u00e0 astronomiche (periodo ~37 anni) \u00e8 stato proposto da due studi indipendenti (Makarov & Zacharias 2021, Laliotis 2023) ma non \u00e8 ancora confermato. Tra circa 49.200 anni si avviciner\u00e0 al minimo di 17,8 anni luce dal Sole (Bailer-Jones 2018). Distanza: 19,9 anni luce dalla parallasse Gaia DR3 163,9544 mas (SIMBAD); it.wiki d\u00e0 19,92 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Pavonis"
+  },
+  {
+   "id": "kap_pav",
+   "nome": "Kappa Pavonis",
+   "bayer": "\u03ba Pavonis (\u03ba Pav; HD 174694, HIP 93015, HR 7107, SAO 254413)",
+   "origine_nome": "Nessun nome proprio IAU. Fa parte dell'asterismo cinese \u5b54\u96c0 (K\u01d2ng Qi\u0101o, \u00abpavone\u00bb).",
+   "magnitudine": "4,35 media, con oscillazione tra 3,91 e 4,78 in 9,0942 giorni (9 giorni e ~2 ore) \u2014 la pi\u00f9 brillante variabile W Virginis del cielo",
+   "spettro": "F5-G5 I-II: la classe cambia col pulsare. Variabile W Virginis (cefeide di tipo II), scoperta da Izak Roberts nel 1901; 0,56\u00b10,08 M\u2609, 22,8\u00b11,1 R\u2609, ~565 L\u2609, [Fe/H] \u22120,5",
+   "distanza_al": 622,
+   "curiosita": "Una cefeide atipica e longeva: \u00e8 la stella pi\u00f9 brillante del cielo nella classe delle variabili W Virginis, vecchie cefeidi di popolazione II in fase di blue loop dal ramo asintotico delle giganti. Scoperta nel 1901, fu prima scambiata per una binaria a eclisse, poi per una cefeide classica; solo nel 1957 Rodgers la riclassific\u00f2 come cefeide di tipo II. Nel 1937 serv\u00ec a calibrare la scala delle distanze delle Cefeidi (Wilson 1939), e mostra cambi improvvisi del periodo fino a \u00b116 minuti rispetto alla media. NOTA: non \u00e8 una variabile \u03b3 Doradus (la definizione ricorrente in rete \u00e8 errata). Distanza: ~622 anni luce dalla parallasse 5,2451 mas (SIMBAD); la misura HST Benedict 2011 dava 543 al, it.wiki 540.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Pavonis"
+  },
+  {
+   "id": "xi_pav",
+   "nome": "Xi Pavonis",
+   "bayer": "\u03be Pavonis (\u03be Pav; HD 168339, HIP 90098, HR 6855, SAO 254226)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer; sistema doppio catalogato GLE 2 da Walter Gale.",
+   "magnitudine": "4,35 combinata (primaria ~4,4; compagna 8,1-8,6) \u2014 la pi\u00f9 debole delle 10 schede del batch",
+   "spettro": "K4 III gigante arancione (Houk 1978); 54,8\u00b13,9 R\u2609, ~729 L\u2609, Teff 4.051\u00b1153 K (Gaia DR2)",
+   "distanza_al": 741,
+   "curiosita": "Un sistema triplo nascosto nel Pavone: la primaria \u00e8 essa stessa una binaria spettroscopica a una riga (SB1) con un'orbita di 2.214 giorni (~6,1 anni) ed eccentricit\u00e0 0,26 (Pourbaix 2004), mentre la compagna visuale di ottava magnitudine a 3,3 secondi d'arco fu scoperta nel 1894 dall'astronomo amatoriale australiano Walter F. Gale \u2014 il sistema \u00e8 catalogato GLE 2. Con 54,8 raggi solari \u00e8 la stella pi\u00f9 grande delle dieci del batch, quasi due volte il raggio dell'orbita di Mercurio. Distanza: ~741 anni luce dalla parallasse 4,4041 mas (SIMBAD); it.wiki d\u00e0 480 al e la vecchia Gaia DR2 440 al: il valore corretto \u00e8 quello recente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Pavonis"
+  }
+ ]
+}

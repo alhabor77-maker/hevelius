@@ -1,0 +1,170 @@
+{
+ "altare": [
+  {
+   "id": "bet_ara",
+   "nome": "Beta Arae",
+   "bayer": "\u03b2 Arae (\u03b2 Ara; HD 157244, HIP 85258, HR 6461, SAO 244725)",
+   "origine_nome": "Nessun nome proprio IAU (verificato sulla lista completa IAU-CSN). Il nome tradizionale turco \u00abVasat-\u00fcl-cemre\u00bb (dall'arabo wasat al-jamar, \u00abmezzo delle braci\u00bb) riprende il nome arabo della costellazione, al-mijmarah, \u00abil braciere/incensiere\u00bb che ha dato anche il latino Ara. In cinese \u00e8 \u6775\u4e09, Terza stella dell'asterismo del Pestle (\u6775 Ch\u01d4: \u03b2 + \u03c3 + \u03b1 Arae).",
+   "magnitudine": "2,84 \u2014 la stella pi\u00f9 brillante dell'Altare, pur portando la lettera \u03b2",
+   "spettro": "K0/1 Ib supergigante arancione (SIMBAD; it.wiki la d\u00e0 K3 Ib-II, gigante brillante); 5,89 o 7,89 M\u2609 (due stime in letteratura), 141,4\u00b16,6 R\u2609, 5.774\u00b1535 L\u2609, Teff 4.232\u00b117 K, [Fe/H] +0,5 (\u22483\u00d7 il Sole); et\u00e0 ~50 mln di anni (Tetzlaff 2011): \u00e8 nata come stella di classe B",
+   "distanza_al": 715,
+   "curiosita": "La stella pi\u00f9 luminosa dell'Altare porta la lettera beta: Bayer stesso, che disegn\u00f2 la costellazione, non rispett\u00f2 l'ordine di brillanza. \u00c8 una supergigante giovane (~50 milioni di anni) con un raggio di oltre 140 volte quello solare, che da sequenza principale di classe B si \u00e8 gi\u00e0 gonfiata verso la fine della sua vita. Il suo nome tradizionale turco \u00abVasat-\u00fcl-cemre\u00bb (mezzo delle braci) richiama l'altare-braciere della costellazione. Distanza: 715 anni luce dalla parallasse Gaia DR3 4,5601\u00b10,2077 mas (SIMBAD); it.wiki d\u00e0 ancora 603 al dalla vecchia parallasse Hipparcos.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Arae"
+  },
+  {
+   "id": "alf_ara",
+   "nome": "Alpha Arae",
+   "bayer": "\u03b1 Arae (\u03b1 Ara; HD 158427, HIP 85792, HR 6510, SAO 228069)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su IAU-CSN). In cinese \u00e8 \u6775\u56db, Quarta stella dell'asterismo del Pestle (\u6775 Ch\u01d4: \u03b2 + \u03c3 + \u03b1 Arae).",
+   "magnitudine": "2,93 \u2014 seconda dell'Altare nonostante la lettera \u03b1 (en.wiki, con estinzione interstellare 0,10 mag applicata; it.wiki d\u00e0 2,84 senza correzione)",
+   "spettro": "B2 Vne stella Be azzurra (righe diffuse per rotazione rapida + emissione H); variabile Gamma Cassiopeiae/Lambda Eridani; 9,6 M\u2609, 4,5 R\u2609, ~5.800 L\u2609, Teff 18.044 K; disco circumstellare kepleriano, asse inclinato 55\u00b0, velocit\u00e0 equatoriale ~470 km/s vicino alla velocit\u00e0 critica di rottura",
+   "distanza_al": 267,
+   "curiosita": "Un laboratorio VLTI a cielo aperto: le osservazioni interferometriche MIDI (2003) e AMBER (2005) di questa stella Be hanno risolto per la prima volta un disco circumstellare in rotazione kepleriana attorno a una stella di questo tipo, e l'ESO le ha dedicato il comunicato \u00abTo Be or Not to Be: Is It All About Spinning?\u00bb (2006). Gira su s\u00e9 stessa cos\u00ec in fretta che il suo equatore, a ~470 km/s, sfiora la velocit\u00e0 di disintegrazione, con un rigonfiamento fino a 2,4-2,7 volte il raggio polare. \u00c8 la seconda stella della costellazione pur essendo la \u00abalfa\u00bb. Distanza: 267 anni luce dalla parallasse Gaia/Hipparcos van Leeuwen 12,20\u00b10,85 mas (SIMBAD); it.wiki d\u00e0 264-268 al ma con una parallasse interna incoerente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Arae"
+  },
+  {
+   "id": "gam_ara",
+   "nome": "Gamma Arae",
+   "bayer": "\u03b3 Arae (\u03b3 Ara; HD 157246, HIP 85267, HR 6462, SAO 244726)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su IAU-CSN).",
+   "magnitudine": "3,34 \u2014 quarta dell'Altare (it.wiki 3,31)",
+   "spettro": "B1 Ib supergigante azzurra; ~12,5 M\u2609 secondo Tetzlaff 2011 (stime alternative 19-25 M\u2609), 14,20\u00b10,28 R\u2609, ~120.000 L\u2609, Teff 21.240\u00b1212 K, v\u00b7sin i 269\u00b111 km/s (un giro in ~4,8 giorni); et\u00e0 15,7\u00b10,1 mln di anni",
+   "distanza_al": 1113,
+   "curiosita": "Una supergigante che si disfa: il vento stellare di \u03b3 Arae, rafforzato dalla rotazione rapidissima, le fa perdere 3\u00d710\u207b\u2078 masse solari all'anno \u2014 l'equivalente di tutto il Sole ogni 33 milioni di anni. Tracciato all'indietro, il suo moto proprio punta alla regione dello Scorpione nel piano galattico. Ha oltre 12 masse solari: evolver\u00e0 in supernova. Distanza: ~1113 anni luce dalla parallasse 2,93\u00b10,16 mas (SIMBAD); it.wiki d\u00e0 1140 al e una luminosit\u00e0 di 32.600 soli, sottostimata rispetto al valore coerente con la classe B1 Ib (~120.000 L\u2609).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Arae"
+  },
+  {
+   "id": "del_ara",
+   "nome": "Delta Arae",
+   "bayer": "\u03b4 Arae (\u03b4 Ara; HD 158094, HIP 85727, HR 6500, SAO 253945)",
+   "origine_nome": "Nessun nome proprio IAU. In cinese \u00e8 \u9f9c\u4e09, Terza stella dell'asterismo della Tartaruga (\u9f9c Gu\u012b: \u03b6 + \u03b5\u00b9 + \u03b3 + \u03b4 + \u03b7 Arae). R.H. Allen le attribu\u00ec per errore il nome \u00abTseen Yin\u00bb (\u5929\u9670), che in realt\u00e0 appartiene all'Ariete.",
+   "magnitudine": "3,62 (it.wiki 3,6) \u2014 quinta dell'Altare",
+   "spettro": "B8 Vn azzurra (SIMBAD); binaria astrometrica scoperta da Gaia: primaria 3,56 M\u2609, 3,12\u00b10,15 R\u2609, 214 L\u2609, Teff 13.882 K, secondaria ~2,03 M\u2609 con Teff ~9.161 K; orbita di 2,467 anni con semiasse 48,7 mas, eccentricit\u00e0 0,738, inclinazione ~90\u00b0 (quasi di taglio); v\u00b7sin i 255 km/s; et\u00e0 ~125 mln di anni",
+   "distanza_al": 225,
+   "curiosita": "Gaia l'ha smascherata: \u03b4 Arae, catalogata per decenni come stella singola, \u00e8 in realt\u00e0 una binaria stretta con un'orbita vista di taglio e molto eccentrica (e=0,74), percorsa in appena due anni e mezzo. Gira anche lei come una trottola: a 255 km/s il suo equatore si gonfia del 13% rispetto ai poli. Distanza: ~225 anni luce dalla parallasse Gaia 14,4688 mas (SIMBAD); le due wiki danno 187-198 al da parallassi precedenti.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Arae"
+  },
+  {
+   "id": "eps1_ara",
+   "nome": "Epsilon\u00b9 Arae",
+   "bayer": "\u03b5\u00b9 Arae (\u03b5\u00b9 Ara; HD 152980, HIP 83153, HR 6295, SAO 244331)",
+   "origine_nome": "Nessun nome proprio IAU. In cinese \u00e8 \u9f9c\u4e00, Prima stella dell'asterismo della Tartaruga (\u9f9c Gu\u012b). R.H. Allen le attribu\u00ec per errore \u00abTso Kang\u00bb (\u5de6\u66f4), che in realt\u00e0 sta nell'Ariete.",
+   "magnitudine": "4,07 (assoluta \u22120,79)",
+   "spettro": "K3 III gigante arancione (SIMBAD; it.wiki d\u00e0 K4 III); 1,63\u00b10,21 M\u2609, 29,52\u00b12,45 R\u2609, 347\u00b190 L\u2609, Teff 4.302\u00b145 K, [Fe/H] \u22120,19; et\u00e0 1,82\u00b10,60 mld di anni; si allontana dal Sole a +23,85 km/s",
+   "distanza_al": 369,
+   "curiosita": "Non confonderla con la vicina \u03b5\u00b2 Arae: le due \u00abEpsilon dell'Altare\u00bb sono a soli 0,54 gradi l'una dall'altra nel cielo, ma non hanno nulla a che fare \u2014 \u03b5\u00b9 \u00e8 una gigante arancione a ~369 anni luce, \u03b5\u00b2 un sistema con nana bianca a 87. Fa parte con \u03b6, \u03b3, \u03b4 ed \u03b7 dell'asterismo cinese della Tartaruga, di cui \u00e8 la prima stella. Distanza: ~369 anni luce dalla parallasse Gaia 8,8520\u00b10,1517 mas (SIMBAD); it.wiki d\u00e0 304 al dalla vecchia parallasse Hipparcos.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon-1_Arae"
+  },
+  {
+   "id": "eps2_ara",
+   "nome": "Epsilon\u00b2 Arae",
+   "bayer": "\u03b5\u00b2 Arae (\u03b5\u00b2 Ara; HD 153580, HIP 83431, HR 6314, SAO 244388, GJ 3985)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer per la seconda stella \u03b5 della costellazione.",
+   "magnitudine": "5,28 (combinata; primaria Aa 5,44 + compagna Ab 8,65)",
+   "spettro": "Sistema multiplo: primaria Aa F5 V Fe+0.5 (1,40\u00b10,01 M\u2609, 1,8 R\u2609, 4,56 L\u2609, Teff 6.577 K), compagna Ab a 0,590\u2033 con orbita di 41,3 anni (e=0,622), nana bianca WD 1659-53 (classe DA3.2, 0,66\u00b10,07 M\u2609, Teff 15.507 K) come compagna a moto proprio comune; candidata stella pulsante",
+   "distanza_al": 87,
+   "curiosita": "Un sistema in miniatura che contiene tre destini stellari diversi: la primaria giallo-bianca di sequenza principale, una compagna su un'orbita di soli 41 anni, e una nana bianca (WD 1659-53) \u2014 un Sole futuro gi\u00e0 giunto al termine, che viaggia insieme al sistema a moto proprio comune. La primaria, inoltre, \u00e8 una candidata stella pulsante. Distanza: ~87 anni luce dalla parallasse Gaia 37,3696\u00b10,1347 mas (SIMBAD); it.wiki d\u00e0 86 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon-2_Arae"
+  },
+  {
+   "id": "zet_ara",
+   "nome": "Zeta Arae",
+   "bayer": "\u03b6 Arae (\u03b6 Ara; HD 152786, HIP 83081, HR 6285, SAO 244315, GJ 9581)",
+   "origine_nome": "Nessun nome proprio IAU. R.H. Allen le attribu\u00ec erroneamente \u00abTseen Yin\u00bb (\u5929\u9670), nome che in realt\u00e0 appartiene all'Ariete (l'errore \u00e8 documentato esplicitamente da en.wiki). In cinese \u00e8 \u9f9c\u4e94, Quinta stella dell'asterismo della Tartaruga (\u9f9c Gu\u012b).",
+   "magnitudine": "3,13 \u2014 terza dell'Altare (en.wiki 3,1)",
+   "spettro": "K3 III gigante arancione (SIMBAD; alcuni studi la classificano supergigante, altri la considerano in fase AGB); 7-8 M\u2609, 114\u00b14 R\u2609, 3.800\u00b1464 L\u2609, Teff 4.246\u00b199 K, [Fe/H] \u22120,40; si avvicina al Sole a \u22126 km/s",
+   "distanza_al": 565,
+   "curiosita": "Una gigante dal raggio di 114 soli la cui classificazione \u00e8 ancora discussa: i cataloghi la chiamano K3 III, ma alcuni studi vedono una supergigante e altri un'evoluta in fase AGB. Nel 2022 \u00e8 stata annunciata una possibile compagna gravitazionalmente legata a ~20.630 unit\u00e0 astronomiche di distanza proiettata. Distanza: ~565 anni luce dalla parallasse Gaia 5,7725\u00b10,1727 mas (SIMBAD); it.wiki d\u00e0 574 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Arae"
+  },
+  {
+   "id": "eta_ara",
+   "nome": "Eta Arae",
+   "bayer": "\u03b7 Arae (\u03b7 Ara; HD 151249, HIP 82363, HR 6229, SAO 244168)",
+   "origine_nome": "Nessun nome proprio IAU. Fa parte dell'asterismo cinese della Tartaruga (\u9f9c Gu\u012b) con \u03b6, \u03b5\u00b9, \u03b3 e \u03b4 Arae.",
+   "magnitudine": "3,76 (it.wiki 3,78)",
+   "spettro": "K5 III gigante arancione (SIMBAD); massa 1,12\u00b10,16 M\u2609 (quasi solare), 40,44\u00b12,62 R\u2609, 575 L\u2609, Teff 4.147\u00b129 K, [Fe/H] \u22120,47; et\u00e0 4,98\u00b11,86 mld di anni; rotazione lentissima, v\u00b7sin i 1,55 km/s: pi\u00f9 di 11 anni per un giro su s\u00e9 stessa",
+   "distanza_al": 305,
+   "curiosita": "Uno specchio del futuro del Sole: con massa quasi identica a quella solare, \u03b7 Arae mostra ci\u00f2 che la nostra stella diventer\u00e0 tra qualche miliardo di anni \u2014 un gigante arancione di 40 raggi solari, freddo in superficie e dal nucleo esausto. La sua rotazione \u00e8 cos\u00ec lenta che un giro completo dura pi\u00f9 di 11 anni. Distanza: ~305 anni luce dalla parallasse Gaia 10,6993\u00b10,1289 mas (SIMBAD); it.wiki d\u00e0 313 al e un raggio di 55,9 R\u2609, soppiantato dalla misura recente con errore piccolo (40,44\u00b12,62 R\u2609).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Arae"
+  },
+  {
+   "id": "mu_ara",
+   "nome": "Cervantes (Mu Arae)",
+   "bayer": "\u03bc Arae (\u03bc Ara; HD 160691, HIP 86796, HR 6585, SAO 244981, GJ 691)",
+   "origine_nome": "Nome IAU ufficiale: Cervantes, approvato con NameExoWorlds 2015 (proposto dal Planetario di Pamplona in onore di Miguel de Cervantes) e incluso nell'IAU Catalog of Star Names dal primo bollettino WGSN di luglio 2016. \u00c8 l'UNICO nome IAU della costellazione dell'Altare.",
+   "magnitudine": "5,12 (it) / 5,15 (en) \u2014 a malapena visibile a occhio nudo",
+   "spettro": "G3 IV-V nana gialla simile al Sole; 1,10\u00b10,01 M\u2609, 1,280\u00b10,025 R\u2609, 1,879\u00b10,019 L\u2609, Teff 5.974\u00b161 K, [Fe/H] +0,29 (\u22482\u00d7 il ferro del Sole); et\u00e0 6,34\u00b10,40 mld di anni, pi\u00f9 vecchia del Sole",
+   "distanza_al": 50.9,
+   "curiosita": "Il sistema del Don Chisciotte: quattro pianeti battezzati dall'IAU nel 2015 con i personaggi del romanzo \u2014 Quijote (b, \u22651,65 M_J, 645 giorni, nella zona abitabile), Dulcinea (c, \u22650,032 M_J, 9,6 giorni: il primo \u00abNettuno caldo\u00bb mai scoperto, con HARPS nel 2004), Rocinante (d, \u22650,448 M_J, 308 giorni) e Sancho (e, \u22651,932 M_J, 4.019 giorni). Fu il secondo sistema a 4 pianeti conosciuto dopo 55 Cancri. Con sei miliardi e mezzo di anni, Cervantes \u00e8 una stella pi\u00f9 anziana del Sole ma metal-rich: il ferro \u00e8 circa il doppio. Distanza: ~50,9 anni luce dalla parallasse Gaia 64,0853\u00b10,0904 mas (SIMBAD); it.wiki d\u00e0 49,8 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Arae"
+  },
+  {
+   "id": "pi_ara",
+   "nome": "Pi Arae",
+   "bayer": "\u03c0 Arae (\u03c0 Ara; HD 159492, HIP 86305, HR 6549, SAO 244896, GJ 683)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer.",
+   "magnitudine": "5,25",
+   "spettro": "A5 IV/V bianca (SIMBAD); 1,73 M\u2609, 1,90 R\u2609, 13,3 L\u2609, Teff 8.215\u00b1279 K, [Fe/H] +0,13; v\u00b7sin i 54,1\u00b10,4 km/s; et\u00e0 319 mln di anni; moto proprio molto alto (\u221250,8, \u2212149,7 mas/anno)",
+   "distanza_al": 134,
+   "curiosita": "Un doppio disco di polvere: l'eccesso infrarosso di \u03c0 Arae \u00e8 spiegato con due dischi circumstellari concentrici \u2014 uno interno caldo (173 K) di polvere di silice cristallizzata a ~9 unit\u00e0 astronomiche, e uno esterno freddo (77 K) di \u00abghiaccio sporco\u00bb a ~117. I grani fini del disco interno suggeriscono una formazione recente per collisioni tra planetesimi: forse un sistema planetario in costruzione. A ~55 minuti d'arco a nord si trova l'ammasso globulare NGC 6397, uno dei pi\u00f9 vicini alla Terra. Distanza: ~134 anni luce dalla parallasse Gaia 24,3817\u00b10,0805 mas (SIMBAD); it.wiki d\u00e0 138 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pi_Arae"
+  }
+ ],
+ "triangolo_australe": [
+  {
+   "id": "alf_tra",
+   "nome": "Atria (Alpha Trianguli Australis)",
+   "bayer": "\u03b1 Trianguli Australis (\u03b1 TrA; HD 150798, HIP 82273, HR 6217, SAO 253700)",
+   "origine_nome": "Nome IAU ufficiale: Atria, contrazione di ALpha TRIanguli AUstralis, approvata dal WGSN nel primo bollettino di luglio 2016. In cinese \u00e8 \u4e09\u89d2\u5f62\u4e09, Terza stella dell'asterismo del Triangolo (\u4e09\u89d2\u5f62 S\u0101n Ji\u01ceo X\u00edng: \u03b1+\u03b2+\u03b3 TrA).",
+   "magnitudine": "1,91 \u2014 la 42\u00aa stella pi\u00f9 brillante del cielo e la prima del Triangolo Australe",
+   "spettro": "K2 IIb-IIIa gigante brillante arancione (Kovacs 1983; riclassificata K2 Ib-IIa da Ayres 2023 con luminosit\u00e0 da supergigante); 6,4 M\u2609, 139 R\u2609, 4.634 L\u2609, Teff 4.043 K, [Fe/H] \u22120,14, et\u00e0 ~48 mln di anni",
+   "distanza_al": 391,
+   "curiosita": "Il vertice della bandiera del Brasile: le tre stelle pi\u00f9 luminose del Triangolo Australe decorano il flag nazionale e ad Atria \u00e8 affidato il Rio Grande do Sul. Con i suoi 139 raggi solari, se fosse al centro del sistema solare inghiottirebbe quasi l'orbita di Venere. \u00c8 anche una delle stelle brillanti pi\u00f9 vicine al Polo Sud celeste, battuta solo da Miaplacidus, e una possibile binaria: le sue misteriose emissioni X hanno ispirato a un gruppo di ricercatori l'ipotesi di una compagna giovane e attiva ribattezzata \u00ab\u03b1 TrA Junior\u00bb (Ayres, Brown, Harper 2007). Distanza: ~391 anni luce dalla parallasse van Leeuwen 8,35 mas (SIMBAD); it.wiki d\u00e0 415\u00b130 al dalla vecchia parallasse Hipparcos, e anche i parametri fisici italiani (130 R\u2609, 7 M\u2609) sono da riferire alla misura precedente.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Trianguli_Australis"
+  },
+  {
+   "id": "bet_tra",
+   "nome": "Beta Trianguli Australis",
+   "bayer": "\u03b2 Trianguli Australis (\u03b2 TrA; HD 141891, HIP 77952, HR 5897, SAO 253346, GJ 601)",
+   "origine_nome": "Nessun nome proprio IAU. Nomi culturali: \u00abBetria\u00bb (uso non ufficiale); \u00abJirradella\u00bb (\u00absegno dell'arcobaleno\u00bb) nella cultura aborigena Wardaman. In cinese \u00e8 \u4e09\u89d2\u5f62\u4e00, Prima stella dell'asterismo del Triangolo.",
+   "magnitudine": "2,85 \u2014 seconda del Triangolo Australe (it.wiki e List of stars danno 2,83)",
+   "spettro": "F1 V nana bianco-gialla (Gray 2006); 1,56-1,61 M\u2609, 1,976\u00b10,021 R\u2609, 9,30\u00b10,17 L\u2609, Teff 7.171\u00b135 K, [Fe/H] \u22120,29; et\u00e0 ~674 mln di anni, v\u00b7sin i 69,63 km/s",
+   "distanza_al": 40.5,
+   "curiosita": "A quaranta anni luce da noi, \u00e8 una delle stelle brillanti pi\u00f9 vicine al Sole, con un moto proprio tra i pi\u00f9 alti del cielo australe. Ma la sua et\u00e0 \u00e8 un enigma: le isocrone dicono circa 674 milioni di anni, eppure il suo movimento nello spazio la rende possibile membro del gruppo mobile di Beta Pictoris, che ne ha appena 12 \u2014 e un eccesso infrarosso visto da Spitzer (Koerner 2010) la inscrive tra i candidati con disco di detriti, compatibile con un sistema giovane. Per la cultura Wardaman australiana il suo nome, Jirradella, significa \u00absegno dell'arcobaleno\u00bb. Sul flag del Brasile rappresenta Santa Catarina. Distanza: 40,5 anni luce dalla parallasse 80,79 mas (SIMBAD); it.wiki d\u00e0 39-40 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Trianguli_Australis"
+  },
+  {
+   "id": "gam_tra",
+   "nome": "Gamma Trianguli Australis",
+   "bayer": "\u03b3 Trianguli Australis (\u03b3 TrA; HD 135382, HIP 74946, HR 5671, SAO 253097)",
+   "origine_nome": "Nessun nome proprio IAU. In cinese \u00e8 \u4e09\u89d2\u5f62\u4e8c, Seconda stella dell'asterismo del Triangolo (\u4e09\u89d2\u5f62 S\u0101n Ji\u01ceo X\u00edng).",
+   "magnitudine": "2,87 \u2014 terza del Triangolo Australe, a pochissima distanza da \u03b2",
+   "spettro": "A1 V/III bianca (classe di luminosit\u00e0 incerta: en.wiki gigante, it.wiki nana); 3,04 M\u2609, ~6,5 R\u2609, ~250 L\u2609, Teff 8.225 K; v\u00b7sin i 199 km/s \u2014 un giro completo in poco pi\u00f9 di un giorno",
+   "distanza_al": 190,
+   "curiosita": "Un mistero di classe: l'eccesso di europio nel suo spettro la rende candidata stella Ap (metallica-peculiare), ma uno studio col VLT non \u00e8 riuscito a confermare la classificazione n\u00e9 a trovare la compagna nana rossa che Gaia DR3 aveva segnalato con un'orbita di 488 giorni. Ha per\u00f2 un eccesso infrarosso certamente reale: un disco di detriti a ~50 K che le orbita attorno a 481 unit\u00e0 astronomiche di distanza media. Sul flag del Brasile rappresenta il Paran\u00e1, e con \u03b1 e \u03b2 chiude il triangolo in cielo come in bandiera. Distanza: ~190 anni luce dalla parallasse Gaia DR3 17,1809\u00b10,3327 mas (SIMBAD); it.wiki d\u00e0 184 al da XHIP.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Trianguli_Australis"
+  },
+  {
+   "id": "del_tra",
+   "nome": "Delta Trianguli Australis",
+   "bayer": "\u03b4 Trianguli Australis (\u03b4 TrA; HD 145544, HIP 79664, HR 6030, SAO 253474)",
+   "origine_nome": "Nessun nome proprio IAU. Aveva la designazione Gould 25 G. Trianguli Australis.",
+   "magnitudine": "3,84 (it.wiki e List of stars 3,86) \u2014 quarta del Triangolo Australe",
+   "spettro": "G2 Ib-IIa gigante brillante gialla (Keenan & McNeil 1989); 6,51 M\u2609 (Kervella 2021), 53,6 R\u2609 (Stassun 2019), ~1.210 L\u2609, Teff 4.705\u00b1122 K, [Fe/H] \u22120,05, v\u00b7sin i 8,2\u00b12 km/s",
+   "distanza_al": 713,
+   "curiosita": "\u00c8 la stella gialla pi\u00f9 luminosa del suo angolo di cielo: una gigante brillante con oltre 6 masse solari, che al centro del sistema solare si estenderebbe fino a met\u00e0 dell'orbita di Mercurio. Eggleton (2008) la classificava solitaria, ma it.wiki segnala una possibile compagna di 12\u00aa magnitudine a 30 secondi d'arco che SIMBAD registra come \u00abstella in sistema doppio\u00bb: natura ancora da chiarire. Nota bibliografica: it.wiki riporta HD 145554, ma il catalogo corretto (SIMBAD + en.wiki) \u00e8 HD 145544. Distanza: ~713 anni luce dalla parallasse 4,5766 mas (SIMBAD); le due wiki danno 606-621 al dalla parallasse van Leeuwen.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Trianguli_Australis"
+  },
+  {
+   "id": "eps_tra",
+   "nome": "Epsilon Trianguli Australis",
+   "bayer": "\u03b5 Trianguli Australis (\u03b5 TrA; HD 138538, HIP 76440, HR 5771, SAO 253226)",
+   "origine_nome": "Nessun nome proprio IAU. Designazione di Bayer per la quinta stella della costellazione.",
+   "magnitudine": "4,11 \u2014 quinta del Triangolo Australe; circumpolare dall'emisfero australe",
+   "spettro": "K1/2 III gigante arancione (SIMBAD; en.wiki K0 III); 16,2\u00b10,2 R\u2609, ~91 L\u2609, Teff ~4.500 K (il valore di 5.039 K nel testo en.wiki \u00e8 incoerente con la classe K)",
+   "distanza_al": 215,
+   "curiosita": "Forse un sistema doppio in miniatura: una compagna di tipo A5, nona magnitudine, le orbita attorno a 81,9 secondi d'arco di separazione (catalogo WDS 2010) \u2014 ma potrebbe trattarsi di un allineamento casuale di fondo. \u00c8 una gigante evoluta che si avvicina al Sole a 15,5 km/s. Nota bibliografica: la voce en.wiki afferma \u00ababout 340 light years\u00bb nel testo, ma la sua stessa parallasse (16,17 mas) d\u00e0 ~202 anni luce: il valore SIMBAD corretto \u00e8 ~215. Distanza: ~215 anni luce dalla parallasse 15,1994 mas (SIMBAD).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Trianguli_Australis"
+  }
+ ],
