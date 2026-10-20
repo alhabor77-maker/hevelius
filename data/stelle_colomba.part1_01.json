@@ -1,0 +1,92 @@
+{
+ "colomba": [
+  {
+   "id": "alf_col",
+   "nome": "Phact (Alpha Columbae)",
+   "bayer": "\u03b1 Col (HD 39357, HIP 26634, SAO 196370, Gaia DR3 2900546759663847168)",
+   "origine_nome": "Nome IAU ufficiale: Phact (WGSN 2016; grafie Phakt/Phaet). Dall'arabo \u0641\u0627\u062e\u062a\u0629 f\u0101khitah, 'colomba selvatica / tortora'. Curiosit\u00e0 etimologica: il nome nasce in origine applicato alla costellazione del CIGNO e fu poi trasferito a questa stella. Fonte etimologia alternativa: had\u0101ri. In cinese \u00e8 Zh\u00e0ng R\u00e9n (\u4e08\u4eba), 'Nonno', prima stella dell'asterismo \u03b1+\u03b5 Col. NOTA dati: it:Phakt d\u00e0 B7 IV subgigante, M 4,4 M\u2609, R 7 R\u2609 \u2014 arbitrato B9Ve (SIMBAD), dati it non seguiti.",
+   "magnitudine": "2,65 (SIMBAD; en 2,6; it 2,60\u20132,7) \u2014 la pi\u00f9 brillante della Colomba",
+   "spettro": "B9 Ve (SIMBAD) \u2014 stella Be con disco gassoso caldo; sospetta variabile Gamma Cassiopeiae (2,62\u20132,66); presumibilmente singola (solo compagna ottica debole a 13,5\u2033); v\u00b7sin i 176 km/s, velocit\u00e0 equatoriale stimata fino a ~457 km/s, vicina alla velocit\u00e0 di rottura",
+   "distanza_al": 286.1,
+   "curiosita": "Una stella Be quasi al limite di rottura: ruota a ~176 km/s misurati (fino a ~457 km/s equatoriali stimati) e soccombe appena a trattenere il proprio disco gassoso. Il suo nome arabo nasce per un'altra costellazione, il Cigno, e solo dopo \u00e8 migrato sulla Colomba. Distanza: 286 anni luce dalla parallasse Gaia DR3 11,4008\u00b10,4452 mas; le wiki citano 261 al (en/it:Phakt) e 268 al (it:costellazione) dalla parallasse Hipparcos van Leeuwen (12,48 mas) \u2014 arbitrato Gaia DR3, discrepanza documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Columbae"
+  },
+  {
+   "id": "bet_col",
+   "nome": "Wazn (Beta Columbae)",
+   "bayer": "\u03b2 Col (HD 39841, HIP 27628, Gaia DR3 2887731882922767744)",
+   "origine_nome": "Nome IAU ufficiale: Wazn (WGSN 2016; grafia Wezn). Dall'arabo \u0648\u0632\u0646 wazn, 'peso': la stessa radice araba di Wezen (\u03b4 CMa). In cinese \u00e8 Z\u01d0 (\u5b50), 'Figlio', seconda stella dell'asterismo \u03b2+\u03bb Col.",
+   "magnitudine": "3,12 (SIMBAD; en 3,1; it 3,12/3,16/3,21 a seconda della pagina \u2014 arbitrato SIMBAD)",
+   "spettro": "K1 IIICN+1 gigante arancione con eccesso di cianogeno nello spettro; R\u224811,5 R\u2609 (interferometria, diametro 3,99 mas), M\u22481,1 M\u2609, T 4.545 K, L\u224842 L\u2609",
+   "distanza_al": 88.4,
+   "curiosita": "Una visitatrice esperta: stella dell'alone galattico con velocit\u00e0 relativa al Sole di ~100 km/s, circa 107.200 anni fa \u00e8 passata a soli 1,9 anni luce dal sistema di Beta Pictoris \u2014 abbastanza da poter perturbare i planetesimi del suo celebre disco di detriti. Lo spettro mostra un eccesso di cianogeno, la firma delle stelle vecchie. Distanza: 88 anni luce dalla parallasse Gaia DR3 36,9038\u00b10,1345 mas; en (87,2 al), it (87 al) e it:costellazione (86 al) coerenti.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Columbae"
+  },
+  {
+   "id": "del_col",
+   "nome": "Delta Columbae (Ghusn al Zaitun)",
+   "bayer": "\u03b4 Col (HD 42545, HIP 30277) \u2014 era '3 Canis Majoris' per Bayer e Flamsteed, le cui carte non includevano ancora la Colomba",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista). Nome tradizionale NON IAU: Ghusn al Zaitun, 'ramo d'ulivo' (da it:Colomba (costellazione)) \u2014 richiama la colomba di No\u00e8. La stella porta ancora il numero del Cane Maggiore: per Bayer e Flamsteed era 3 Canis Majoris, perch\u00e9 le loro carte non includevano la Colomba.",
+   "magnitudine": "3,85 (SIMBAD/en)",
+   "spettro": "G7 II gigante brillante gialla; binaria spettroscopica SB1 con periodo 868,78 giorni ed eccentricit\u00e0 0,7; M 3,4 M\u2609, R 15 R\u2609, L 129 L\u2609, T 5.006 K, et\u00e0 ~271 mln di anni; velocit\u00e0 peculiare 30,2\u00b13,9 km/s \u2192 candidata stella fuggitiva (runaway)",
+   "distanza_al": 216.7,
+   "curiosita": "Una binaria spettroscopica molto eccentrica (e=0,7, periodo 868,78 giorni) che nasconde una compagna invisibile: le righe dello spettro oscillano avanti e indietro ogni 2,4 anni circa. \u00c8 anche una candidata stella fuggitiva, con una velocit\u00e0 peculiare di 30 km/s. Il nome tradizionale, 'ramo d'ulivo', richiama la colomba di No\u00e8 che port\u00f2 il ramoscello all'arca. Distanza: 217 anni luce dalla parallasse Gaia DR3 15,049 mas; en cita 13,94 mas (\u2192217 al con calcolo 66 pc), it:costellazione 237 al dalla riduzione Hipparcos originaria \u2014 arbitrato Gaia DR3, discrepanza documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Columbae"
+  },
+  {
+   "id": "eps_col",
+   "nome": "Epsilon Columbae",
+   "bayer": "\u03b5 Col (HD 39757, HIP 25859, Gaia DR3 4822106194362165760)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). Designazione di Bayer. In cinese \u00e8 la seconda stella dell'asterismo Zh\u00e0ng R\u00e9n (\u4e08\u4eba), 'Nonno' (con \u03b1 Col).",
+   "magnitudine": "3,87 (SIMBAD/en; it 3,86)",
+   "spettro": "K1 II/III gigante arancione; M 2,5 M\u2609, R 25 R\u2609, L 251 L\u2609, T 4.575 K, et\u00e0 ~1,5 mld di anni; velocit\u00e0 peculiare 30,0\u00b13,9 km/s \u2192 candidata stella fuggitiva (runaway); compagna orbitale sospettata dai cambi di moto proprio",
+   "distanza_al": 278.1,
+   "curiosita": "La seconda candidata stella fuggitiva della Colomba: con una velocit\u00e0 peculiare di 30 km/s, potrebbe essere stata scagliata via dal suo luogo d'origine. Ha 25 raggi solari e brilla 251 volte pi\u00f9 del Sole. Distanza: 278 anni luce dalla parallasse Gaia DR3 11,7300\u00b10,1374 mas; en coerente (278 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Columbae"
+  },
+  {
+   "id": "eta_col",
+   "nome": "Eta Columbae",
+   "bayer": "\u03b7 Col (HD 40808, HIP 28328, PLX 1389, Gaia DR3 4803692295174064256)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). Designazione di Bayer. NOTA st1: en d\u00e0 441 al; il valore '3.000 al' era un errore della prima stesura del raw (riga VizieR di un'altra stella, da ignorare).",
+   "magnitudine": "3,96 (SIMBAD/en)",
+   "spettro": "Classificazione discutibile: K0 III (en) oppure G8/K1 II 'bright giant' (SIMBAD) gigante giallo-arancio; M 4,7 M\u2609, R 35,6 R\u2609, L 564 L\u2609, T 4.715 K; singola, vicino al confine meridionale; rv +17 km/s (si allontana)",
+   "distanza_al": 440.6,
+   "curiosita": "Una delle giganti pi\u00f9 luminose e lontane della Colomba visibili a occhio nudo: 35,6 raggi solari e 564 luminosit\u00e0 solari a quasi 440 anni luce. La sua classificazione oscilla tra gigante normale (K0 III) e gigante brillante (G8/K1 II) a seconda del catalogo. Distanza: 441 anni luce dalla parallasse Gaia DR3 7,4021\u00b10,1207 mas; en coerente (441 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Columbae"
+  },
+  {
+   "id": "kap_col",
+   "nome": "Kappa Columbae",
+   "bayer": "\u03ba Col (HD 43785, HIP 29807, PLX 1466, Gaia DR3 2885572407726698880)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). In cinese \u00e8 S\u016bn y\u012b (\u5b6b\u4e00), 'prima stella del Nipote' (asterismo \u03ba+\u03b8 Col = \u5b6b S\u016bn, 'Nipote').",
+   "magnitudine": "4,37 (SIMBAD/en)",
+   "spettro": "K0.5 IIIa (en) / G9 IIIb CN0.5 (SIMBAD) gigante arancione; M 2,5 M\u2609, R 10,7 R\u2609, L 60,7 L\u2609, T 4.937 K, et\u00e0 ~622 mln di anni; velocit\u00e0 peculiare 20,2\u00b11,9 km/s \u2192 candidata stella fuggitiva (runaway); variabile sospetta; singola",
+   "distanza_al": 187.6,
+   "curiosita": "Terza candidata stella fuggitiva della Colomba (20 km/s di velocit\u00e0 peculiare): un'orda di giganti in fuga. Il suo spettro, come quello di \u03b2 Col, mostra cianogeno in eccesso. Il nome cinese, 'prima stella del Nipote', la mette a capo dell'asterismo S\u016bn insieme a \u03b8 Col. Distanza: 188 anni luce dalla parallasse Gaia DR3 17,3842\u00b10,0832 mas; en coerente (187,6 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Columbae"
+  },
+  {
+   "id": "gam_col",
+   "nome": "Gamma Columbae",
+   "bayer": "\u03b3 Col (HD 39564, HIP 27666) \u2014 sistema doppio largo con compagna G8 V mag 12,664 a 33,8\u2033 (~8.844 UA proiettate), moto proprio comune",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). Designazione di Bayer.",
+   "magnitudine": "4,36 (primaria; en.wiki)",
+   "spettro": "B2.5 IV subgigante blu; M\u22486 M\u2609, R\u22485 R\u2609, L>2.000 L\u2609, T 12.904 K, v\u00b7sin i \u224896 km/s, et\u00e0 ~24 mln di anni; candidata Slowly Pulsating B (SPB) con campo magnetico longitudinale 94\u00b128 G. Compagna: G8 V nana gialla, mag 12,664",
+   "distanza_al": 1786.7,
+   "curiosita": "Un oggetto rarissimo, colto sull'attimo giusto: \u03b3 Col \u00e8 il resto di una stella pi\u00f9 massiva che ha appena finito la fusione dell'idrogeno e si sta riaggiustando \u2014 un processo di circa DIECIMILA anni, un istante in scala stellare, che la rende una candidata Slowly Pulsating B con un campo magnetico di 94 G. La sua luminosit\u00e0 supera i 2.000 soli. Curiosit\u00e0: la distanza \u00e8 un caso da manuale di revisione dei dati: en.wiki usa una parallasse 3,09 mas (\u2192~1.050 al), ma la parallasse Gaia DR3 1,8255\u00b10,0132 mas (2020yCat.1350, SIMBAD TAP, errore relativo 0,7%) d\u00e0 ~1.787 al \u2014 adottata Gaia DR3, discrepanza documentata.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Columbae"
+  },
+  {
+   "id": "mu_col",
+   "nome": "Mu Columbae",
+   "bayer": "\u03bc Col (HD 38666, HIP 27204, Gaia DR3 2901155648586891648)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). Designazione di Bayer. In cinese \u00e8 Sh\u01d0 (\u5c4e), 'Escrementi', stella isolata dell'asterismo omonimo nella mansion delle Tre Stelle.",
+   "magnitudine": "5,18 (SIMBAD) \u2014 al limite del visibile a occhio nudo",
+   "spettro": "O9.5 V \u2014 una delle stelle O pi\u00f9 vicine al Sole; M\u224819 M\u2609, R\u22486 R\u2609, L\u224844.000 L\u2609, T\u224833.400 K, et\u00e0 2\u20134 mln di anni, v\u00b7sin i \u2248125 km/s (una rotazione completa ogni ~1,5 giorni)",
+   "distanza_al": 1915.9,
+   "curiosita": "Una stella fuggitiva in senso letterale: con velocit\u00e0 radiale +109 km/s, insieme ad AE Aurigae e 53 Arietis forma il 'trio fuggitivo' espulso ~2,5 mln di anni fa dalla regione della Nebulosa di Orione (Trapezio) \u2014 lo scenario pi\u00f9 probabile \u00e8 la collisione tra due sistemi binari, con le stelle scagliate lungo traiettorie diverse. En.wiki d\u00e0 ~1.300 al dalla parallasse Hipparcos; la parallasse Gaia DR3 1,7024\u00b10,0898 mas (errore relativo 5,3%) d\u00e0 ~1.916 al \u2014 adottata Gaia DR3, discrepanza documentata. Curiosit\u00e0 trasversale per il batch: \u03bc Col e \u03bc Lep sono entrambe stelle fuggitive.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Columbae"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "lepre": [
+  {
+   "id": "alf_lep",
+   "nome": "Arneb (Alpha Leporis)",
+   "bayer": "\u03b1 Lep (HD 36673, HIP 25985, HR 1865, SAO 150547, FK5 207, Gaia DR3 2971266110612490624)",
+   "origine_nome": "Nome IAU ufficiale: Arneb (WGSN 2016; riga lista IAU: '\u03b1 Leporis'). Dall'arabo \u0623\u0631\u0646\u0628 \u02bearnab, semplicemente 'lepre'. La nave USS Arneb della US Navy \u00e8 stata intitolata alla stella.",
+   "magnitudine": "2,58 (SIMBAD; it.wiki box riporta 2,84, la scheda e la voce costellazione 2,58 \u2014 arbitrato 2,58)",
+   "spettro": "F0 Ib supergigante giallo-bianca; T\u22487.300 K, M\u224812\u201313 M\u2609 (Lyubimkov 2010: 13,9; Tetzlaff 2011: 12,2), R\u2248105 R\u2609 (supererebbe l'orbita di Mercurio al posto del Sole), et\u00e0 ~13 mln di anni. Punto di riferimento stabile della classificazione spettrale dal 1943. Debole campo magnetico rilevato, cosa rara nelle supergiganti",
+   "distanza_al": 2218.7,
+   "curiosita": "Un supergigante in 'blue loop': ha gi\u00e0 attraversato la fase di supergigante rossa e ora si sta contraendo e riscaldando \u2014 e se la sua massa supera le 8\u20139 masse solari finir\u00e0 come supernova. Il suo spettro F0 Ib serve da riferimento stabile agli spettroscopisti dal 1943. Distanza: ~2.219 anni luce dalla parallasse Hipparcos nuova riduzione 1,47\u00b10,14 mas (van Leeuwen 2007, adottata da SIMBAD); la vecchia riduzione 1997 (2,54 mas) dava ~1.300 al ed \u00e8 il valore ancora citato da it/en.wiki \u2014 la stella \u00e8 saturata in Gaia DR3 (RUWE 3,9, astrometria inaffidabile), quindi si usa Hipparcos 2007.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Leporis"
+  },
+  {
+   "id": "bet_lep",
+   "nome": "Nihal (Beta Leporis)",
+   "bayer": "\u03b2 Lep (HD 36079, HIP 25606, WDS J05282-2046A, Gaia DR3 2968097043228517120)",
+   "origine_nome": "Nome IAU ufficiale: Nihal (WGSN 2016, '\u03b2 Leporis A'). Dall'arabo al-Nih\u0101l, 'i cammelli che si abbeverano', l'asterismo arabo della Lepre (la grafia 'Nibal' \u00e8 un refuso). In cinese \u00e8 C\u00e8 \u00e8r (\u5ec1\u4e8c), 'seconda stella della Toletta' (asterismo \u03b1+\u03b2+\u03b3+\u03b4 Lep).",
+   "magnitudine": "2,84 (SIMBAD; it 2,81, en 2,84)",
+   "spettro": "G5 II (SIMBAD; en anche G5 II-IIIa) gigante brillante gialla; M 3,5 M\u2609, R 15,9 R\u2609 (diametro angolare interferometrico 3,003\u00b10,066 mas), L\u2248165 L\u2609, et\u00e0 ~240 mln di anni: tra ~1 mln di anni inizier\u00e0 la fusione dell'elio",
+   "distanza_al": 156.3,
+   "curiosita": "Sistema binario stretto: compagna di magnitudine 7,34 a 2,58\u2033 risolta con ottica adattiva (sospetta variabile NSV 2008). Il nome arabico richiama i cammelli che si abbeverano, e la stella si trova a poco pi\u00f9 di 150 anni luce, ma \u00e8 un gigante 165 volte pi\u00f9 luminoso del Sole. Distanza: 156 anni luce dalla parallasse Gaia DR3 20,8697\u00b10,2047 mas (SIMBAD TAP); en.wiki d\u00e0 ~160 al dalla parallasse Hipparcos van Leeuwen (20,34 mas), coerente entro l'errore.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Leporis"
+  },
+  {
+   "id": "gam_lep",
+   "nome": "Gamma Leporis",
+   "bayer": "\u03b3 Lep (HD 38392, HIP 27072, GJ 216 A, Gaia DR3 2964000159821218432)",
+   "origine_nome": "Nessun nome proprio IAU (verificato su lista IAU-CSN). Designazione di Bayer. Nome storico NASA 1971: Kursi al Jabbar, 'lo sgabello del gigante [Orione]' dall'arabo al-Kursiyy al-Jabb\u0101r, l'asterismo \u03b1+\u03b2+\u03b3+\u03b4 Lep.",
+   "magnitudine": "3,60 (SIMBAD; en 3,587, it 3,59) \u2014 la pi\u00f9 vicina della Lepre",
+   "spettro": "F6 V nana giallo-bianca; M 1,17 M\u2609, R 1,30 R\u2609, et\u00e0 ~1,3 mld di anni, rotazione ~6 giorni. Sistema binario LARGO con \u03b3 Lep B = AK Leporis (K2.5 V, mag 6,15, variabile BY Draconis con periodo ~21,4 giorni) a ~97\u2033, visibile in binocolo; orbita \u22658.700 anni a \u2265870 UA. Membro della Corrente dell'Orsa Maggiore",
+   "distanza_al": 29.0,
+   "curiosita": "La stella pi\u00f9 vicina della Lepre (29 al) e una doppia da binocolo: la compagna AK Leporis, nana arancione variabile BY Draconis con un disco di detriti a 24 \u03bcm, condivide il moto ma impiega almeno 8.700 anni a compiere un'orbita. Curiosit\u00e0: la 'compagna' VB 1 di van Biesbroeck \u00e8 in realt\u00e0 una stella di fondo non associata \u2014 una compagna fantasma. Fu bersaglio (poi cancellato) del progetto Terrestrial Planet Finder della NASA. Distanza: 29 anni luce dalla parallasse Gaia DR3 112,2960\u00b10,1452 mas; la compagna AK Lep (112,4661\u00b10,0225 mas) d\u00e0 la stessa distanza.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Leporis"
+  },
+  {
+   "id": "del_lep",
+   "nome": "Delta Leporis",
+   "bayer": "\u03b4 Lep (HIP 27654, Gaia DR3 2965792913525710976; la voce it:costellazione cita HD 35162, che \u00e8 un oggetto DIVERSO nella stessa area)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). In cinese fa parte dell'asterismo C\u00e8 (\u5ec1), 'la Toletta' (\u03b1+\u03b2+\u03b3+\u03b4 Lep).",
+   "magnitudine": "3,85 (SIMBAD/en; it 3,81)",
+   "spettro": "Classificazione discussa: K0 IIIb Fe\u22121,5 CH0,5 (Keenan & McNeil 1989) oppure K1 IV Fe\u22120,5 (Gray 2006), gigante o subgigante; M 0,94 M\u2609 (MENO del Sole!), R 10 R\u2609, L 46 L\u2609, T 4.660 K; et\u00e0 ~10,7 mld di anni; stella di Popolazione II con metallicit\u00e0 ~20% solare",
+   "distanza_al": 114.7,
+   "curiosita": "Un relitto dell'infanzia della Galassia a 'soli' 115 anni luce da noi: nata quando l'universo era giovane, con un ventesimo dei metalli del Sole. La sua massa bassa (0,94 M\u2609) spiega l'et\u00e0 estrema per una gigante: una stella cos\u00ec piccola impiega decine di miliardi di anni a gonfiarsi. Distanza: 115 anni luce dalla parallasse Gaia DR3 28,4234\u00b10,1690 mas; en ed it.wiki concordi (~114 al).",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Leporis"
+  },
+  {
+   "id": "eps_lep",
+   "nome": "Ping (Epsilon Leporis)",
+   "bayer": "\u03b5 Lep (HD 32849, HIP 23685, Gaia DR3 2962546605447869184)",
+   "origine_nome": "Nome IAU ufficiale: Ping, approvato dal WGSN il 22 marzo 2026 (lista IAU-CSN, riga '\u03b5 Leporis') \u2014 recentissimo. Da \u5c4f P\u00edng, 'Schermo', l'asterismo cinese di \u03b5+\u03bc Lep. Nome tradizionale non IAU: Sasin.",
+   "magnitudine": "3,18 (SIMBAD) \u2014 la terza pi\u00f9 brillante della Lepre",
+   "spettro": "K4 III gigante arancione; M 1,70 M\u2609, R 40 R\u2609, L 372 L\u2609, T 4.131 K, et\u00e0 ~1,72 mld di anni; sospetta variabile NSV 1826; rotazione lenta (~1,3 anni)",
+   "distanza_al": 209.1,
+   "curiosita": "Un nome appena nato: Ping \u00e8 stato approvato dalla IAU il 22 marzo 2026 insieme a Bade (\u03bc Lep) \u2014 i due nomi cinesi dell'asterismo Ping per la Lepre nello stesso giorno. Le osservazioni mostrano oscillazioni radiali con trend lineare pi\u00f9 oscillazioni brevi di pochi giorni: 'oscillazioni simili-solari' catturate in una gigante. Distanza: 209 anni luce dalla parallasse Gaia DR3 15,5999\u00b10,1074 mas; en.wiki d\u00e0 213 al dalla parallasse Hipparcos van Leeuwen (15,29 mas), coerente; il valore 227 al di it:Lepre (costellazione) \u00e8 vecchio.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Leporis"
+  },
+  {
+   "id": "zet_lep",
+   "nome": "Darlugal (Zeta Leporis)",
+   "bayer": "\u03b6 Lep (HD 38678, HIP 27978, Gaia DR3 4792645742367412608)",
+   "origine_nome": "Nome IAU ufficiale: Darlugal, approvato dal WGSN il 22 marzo 2026. Dal sumero DAR.LUGAL, 'il Gallo': per i Sumeri la costellazione della Lepre era un gallo. La parallasse in scheda \u00e8 quella SIMBAD A-quality (2020yCat.1350); la riga 'HIP 27978 plx 14,412' del download VizieR era un cross-id errato (Gmag 7,47 incompatibile con la V 3,5 di \u03b6 Lep) ed \u00e8 stata ignorata.",
+   "magnitudine": "3,53 (SIMBAD 3,525; en 3,5, it 3,55)",
+   "spettro": "A2 IV-V(n) bianca con rotazione rapida (v\u00b7sin i \u2248 245 km/s); metallicit\u00e0 solo 17% solare; M 1,46 M\u2609, R 1,5 R\u2609, L 14 L\u2609, et\u00e0 ~231 mln di anni (range 50\u2013347); sospetta binaria spettroscopica non confermata",
+   "distanza_al": 72.8,
+   "curiosita": "Il primato della cintura asteroidale: IRAS 1983 rileva un eccesso infrarosso e Chen & Jura 2001 (Keck) lo interpretano come un disco di polveri calde entro ~5,4 UA (2,5\u201312,2 UA, T\u2248340 K) \u2014 la prima cintura asteroidale extrasolare confermata, con massa ~200 volte la fascia principale del Sistema Solare. La polvere dovrebbe cadere sulla stella in ~20.000 anni: viene continuamente rigenerata da collisioni tra corpi (et\u00e0 della cintura ~300 mln di anni). E 861.000 anni fa (o ~1 mln secondo Garc\u00eda-S\u00e1nchez 2001) \u00e8 passata a ~4\u20135 anni luce dal Sole: era la stella pi\u00f9 brillante del cielo, di magnitudine \u22122. Distanza: 73 anni luce dalla parallasse Gaia DR3 44,794\u00b10,195 mas; en ed it.wiki danno 70,5 al, coerenti.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Leporis"
+  },
+  {
+   "id": "eta_lep",
+   "nome": "Eta Leporis",
+   "bayer": "\u03b7 Lep (HD 40136, HIP 28328, Gaia DR3 4803692295174064256)",
+   "origine_nome": "Nessun nome proprio IAU (verificato per assenza nella lista). Designazione di Bayer.",
+   "magnitudine": "3,72 (SIMBAD; en 3,72, it 3,72)",
+   "spettro": "F2 V (o F1 V) nana bianco-gialla singola; M 1,4 M\u2609, R 1,5 R\u2609, L 6 L\u2609, T\u22486.900 K, et\u00e0 ~1,8 mld di anni, v\u00b7sin i 26 km/s",
+   "distanza_al": 48.8,
+   "curiosita": "Ha un disco di detriti 'in costruzione': l'eccesso infrarosso di Spitzer rivela polvere da 1 a 16 UA, ma la zona interna appare sgombrata \u2014 come se un pianeta (o planetesimi) la stessero ripulendo, lo stesso scenario discusso per \u03b7 Corvi e \u03b2 TrA. Un disco giovane osservabile a meno di 50 anni luce. Distanza: 49 anni luce dalla parallasse Gaia DR3 66,8573\u00b10,1759 mas; en (49 al) ed it (48,5 al) coerenti.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Leporis"
+  },
+  {
+   "id": "mu_lep",
+   "nome": "Bade (Mu Leporis)",
+   "bayer": "\u03bc Lep (HD 33904, HIP 24305, Gaia DR3 2983168461421919488)",
+   "origine_nome": "Nome IAU ufficiale: Bade, approvato dal WGSN il 22 marzo 2026 \u2014 dalla parola balinese bade, la torre funeraria del rito di cremazione Ngaben, associata alla Lepre nel calendario balinese: una delle prime (o la prima) approvazione IAU dalla cultura balinese. In cinese fa parte dell'asterismo \u5c4f P\u00edng 'Schermo' insieme a \u03b5 Lep.",
+   "magnitudine": "3,29 (SIMBAD; en 3,259, it 3,26) \u2014 la quarta pi\u00f9 luminosa della Lepre",
+   "spettro": "B9 IV:HgMn \u2014 sulla carta subgigante azzurra, ma i modelli evolutivi la tengono in sequenza principale. Stella al mercurio-manganese: manganese ~180\u00d7 e mercurio ~70.000\u00d7 la abbondanza solare. Variabile sospetta tipo \u03b1\u00b2 CVn (periodo 2,933 giorni); emissione X da una compagna a 0,93\u2033 (~52 UA proiettate), forse pre-sequenza principale o nana fredda",
+   "distanza_al": 170.1,
+   "curiosita": "Una stella al mercurio-manganese con 70.000 volte il mercurio del Sole e 180 volte il manganese: firme spettrali che su una stella B9 diventano un laboratorio di atmosfere stratificate. Il nome IAU Bade arriva dalla torre funeraria del rito balinese Ngaben, approvato nel marzo 2026. Distanza: 170 anni luce dalla parallasse Gaia DR3 19,1775\u00b10,3265 mas; il valore it.wiki 186 al \u00e8 vecchio/errato, en d\u00e0 170 al.",
+   "fonte_url": "https://en.wikipedia.org/wiki/Mu_Leporis"
+  }
+ ]
+}
