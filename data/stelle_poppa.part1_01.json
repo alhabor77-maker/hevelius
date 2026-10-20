@@ -1,0 +1,114 @@
+{
+ "poppa": [
+  {
+   "id": "zeta_pup",
+   "nome": "Naos",
+   "bayer": "\u03b6 Pup (HD 66811)",
+   "origine_nome": "Nome IAU ufficiale: Naos. (certificato IAU 2016-08-21).",
+   "magnitudine": "2,25",
+   "spettro": "O4 I(n)fp",
+   "distanza_al": 1080,
+   "curiosita": "Naos \u00e8 la stella di classe O pi\u00f9 vicina alla Terra e la pi\u00f9 luminosa della Poppa: con ~35.000 K \u00e8 una delle stelle pi\u00f9 calde visibili a occhio nudo; visivamente supera 10.000 soli, bolometricamente oltre 500.000. \u00c8 una stella fuggitiva (runaway): espulsa circa 2,5 milioni di anni fa dall'associazione Trumpler 10 (Vele), probabilmente quando la compagna in un sistema binario stretto esplose come supernova; oggi si allontana a ~60 km/s e ha gi\u00e0 percorso oltre 400 anni luce dal luogo natale. Il suo vento stellare soffia a 2.500 km/s e le fa perdere oltre un milionesimo di massa solare all'anno \u2014 circa 10 milioni di volte il vento del Sole: la stella O con il vento misurato pi\u00f9 potente tra quelle visibili a occhio nudo. Il nome Naos (\u03bd\u03b1\u03cd\u03c2, 'nave') e l'arabo Suhail Hadar, 'la brillante ruggente', la collegano entrambi alla nave Argo; il 19/8/2016 la IAU ha certificato Naos. [Distanza: Hipparcos van Leeuwen 2007 (plx 3.01\u00b10.10 mas) \u2192 332 pc \u2192 1083.6\u00b136 al; Gaia DR3 senza plx (saturata, G=2.254); Wikipedia it 1086 al, en 1080-1400 al secondo la sezione (en cita anche 970 al e studi dinamici 300-450 pc)]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Puppis"
+  },
+  {
+   "id": "pi_pup",
+   "nome": "Pi Puppis (Ahadi)",
+   "bayer": "\u03c0 Pup (\u03c0. Pup) (HD 56855)",
+   "origine_nome": "Nessun nome IAU: Ahadi (nome tradizionale arabo; NON nella lista IAU-CSN verificata a ottobre 2026).",
+   "magnitudine": "2,70",
+   "spettro": "K4 III",
+   "distanza_al": 566,
+   "curiosita": "Pi Puppis \u00e8 una supergigante arancione che sta evolvendo verso lo stadio di supergigante rossa: 15 milioni di anni fa era una stella B0 azzurra, e tra 30 milioni di anni esploder\u00e0 come supernova. In direzione della stella si trova l'ammasso aperto Collinder 135, leggermente in primo piano rispetto a lei: la compagna visuale B (mag 8.0, B9.5V, separata 69\") condivide il campo ma potrebbe non essere legata gravitazionalmente. Il suo nome proprio Ahadi significa in arabo 'grande promessa'; da un radiante vicino a \u03c0 Pup irradia in aprile lo sciame meteorico delle Pi Puppidi, associato alla cometa 26P/Grigg-Skjellerup. Con 275 raggi solari e 19.200 luminosit\u00e0 solari, \u00e8 una delle supergiganti arancioni pi\u00f9 estese del cielo: al posto del Sole arriverebbe oltre l'orbita di Venere. [Distanza: Gaia DR3 (plx 5.7621\u00b10.8175 mas, Source 5589311357728452608) \u2192 566\u00b180 al; Bailer-Jones 2021 rgeo=183.5 pc \u2192 599 al; Wikipedia it 804 al (da parallasse Hipparcos 2.98\u00b10.55 mas, grande incertezza)] [Nota: SIMBAD sp_type K4III; Wikipedia it d\u00e0 K3 Ib. Membro dell'ammasso Collinder 135 (in primo piano rispetto alla stella). Il punto in \u03c0. Pup indica la designazione completa pi. Pup.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pi_Puppis"
+  },
+  {
+   "id": "rho_pup",
+   "nome": "Tureis",
+   "bayer": "\u03c1 Pup (HD 67523)",
+   "origine_nome": "Nome IAU ufficiale: Tureis. (certificato IAU 2016-09-12).",
+   "magnitudine": "2,81",
+   "spettro": "F5 II (spettri compositi F2mF5II; talvolta classificata subgigante per le dimensioni)",
+   "distanza_al": 63,
+   "curiosita": "Tureis \u00e8 una delle variabili Delta Scuti pi\u00f9 brillanti del cielo: la sua magnitudine oscilla tra 2,81 e 2,87 in poco pi\u00f9 di 3 ore (periodo 0,1405 giorni), misurabile con piccoli telescopi. Il nome deriva dall'arabo al-Turayy\u0101, la 'piccola scaglia': gli Arabi lo dividevano con \u03b9 Carinae, dove il nome tradizionale rest\u00f2 per secoli; la IAU l'ha assegnato a \u03c1 Pup il 12/9/2016. Circondata da un disco circumstellare di polvere a ~50 UA (temperatura 50 K), ed \u00e8 anche una binaria spettroscopica: la compagna orbita in poco pi\u00f9 di 3 giorni. Con una metallicit\u00e0 del 224% del Sole, \u00e8 una stella ricca di metalli di 2 miliardi di anni: 1,85 masse solari, 3,41 raggi solari e 22 luminosit\u00e0 solari. [Distanza: Gaia DR3 (plx 51.3999\u00b10.2445 mas, Source 5698015743046182272) + Bailer-Jones 2021 (rgeo=19.45 pc) \u2192 63.5\u00b10.3 al; wiki it/en 63 al, coerenti]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Rho_Puppis"
+  },
+  {
+   "id": "tau_pup",
+   "nome": "Tau Puppis",
+   "bayer": "\u03c4 Pup (HD 50310)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "2,93",
+   "spettro": "K1 III",
+   "distanza_al": 174,
+   "curiosita": "Tau Puppis \u00e8 una binaria spettroscopica: una gigante arancione con una compagna non risolta che orbita in 2,9 anni (1066 giorni) a circa 3 UA \u2014 probabilmente una nana rossa. Con 26 raggi solari, se fosse al posto del Sole la sua superficie arriverebbe quasi a toccare Mercurio; brilla 270 volte pi\u00f9 del Sole a 4.500 K. Nella tradizione araba era una delle due 'Altaleb\u0101n', il 'leopardo del sud': coppia di stelle (con \u03bd Pup) posta ai margini dell'antica nave. [Distanza: Gaia DR3 (plx 18.7577\u00b10.3475 mas, Source 5502164890740285696) + Bailer-Jones 2021 (rgeo=53.66 pc) \u2192 173.9\u00b13.2 al; wiki it 183 al (Hipparcos 17,85\u00b10,49 mas)] [Nota: SIMBAD registra i nomi tradizionali Altaleban e Taleban (arabo: 'il leopardo del sud'), non certificati IAU.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Tau_Puppis"
+  },
+  {
+   "id": "nu_pup",
+   "nome": "Nu Puppis (Pipit)",
+   "bayer": "\u03bd Pup (\u03bd. Pup) (HD 47670)",
+   "origine_nome": "Nome IAU ufficiale: Pipit. (certificato IAU 2025).",
+   "magnitudine": "3,17",
+   "spettro": "B8 III",
+   "distanza_al": 370,
+   "curiosita": "Pipit \u00e8 il vertice del triangolo con \u03c4 Pup e \u03c3 Pup: si trova poco a sud della linea Sirio-Canopo, tra le due stelle pi\u00f9 brillanti del cielo dopo il Sole. \u00c8 una binaria spettroscopica con compagna che orbita in ~14 giorni, e mostra una piccola variabilit\u00e0 di pochi centesimi di magnitudine tipica delle stelle B con guscio circumstellare. Con 1.340 luminosit\u00e0 solari visive e 12.000 K, considerando l'ultravioletto emesso la luminosit\u00e0 reale supera 5.000 soli; ha 6,5 masse solari e compie la sequenza principale da 40 milioni di anni. Il nome Pipit le \u00e8 stato assegnato dalla IAU nel 2025 nel gruppo di nomi assegnati alle stelle visibili con costellazioni australe: in inglese 'pipit' \u00e8 un piccolo uccello passero. [Distanza: Gaia DR3 (plx 8.8194\u00b10.2883 mas, Source 5557271829408912896) + Bailer-Jones 2021 (rgeo=113.98 pc) \u2192 369.8\u00b112.1 al; wiki it 423 al (Hipparcos 7,71\u00b10,52 mas), wiki en ~440 al: disaccordo con Gaia registrato] [Nota: La stella pi\u00f9 settentrionale della Poppa (dec -43\u00b0), vicina al confine con Canis Major/Colomba.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Puppis"
+  },
+  {
+   "id": "kap_pup",
+   "nome": "p Puppis (Kappa Puppis)",
+   "bayer": "p Pup (HD 60863)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,63",
+   "spettro": "B7 V",
+   "distanza_al": 240,
+   "curiosita": "In Poppa non esiste alcuna 'kappa Puppis' di Bayer: la \u03ba dell'Argo Navis disegnata da Hevelius finisce oggi nelle Vele (\u03ba Velorum, Markeb). La lettera k latina \u00e8 invece assegnata a DUE stelle diverse e visivamente vicine: p Pup (Kappa1) e Kappa2 Pup. p Pup \u00e8 la componente principale della coppia ADS 6205: una binaria visuale con una compagna B7V a 11 secondi d'arco, entrambe stelle calde di sequenza principale. A 240 anni luce \u00e8 una delle stelle B della sequenza principale pi\u00f9 vicine del cielo australe: un riferimento per studiare stelle B 'normali' lontane dai bias delle associazioni OB. [Distanza: Gaia DR3 (plx 13.6185\u00b10.1393 mas, Source 5612056164501840768) + Bailer-Jones 2021 (rgeo=73.69 pc) \u2192 239.5\u00b12.4 al (BJ 240.3 al, coerenti)] [Nota: IMPORTANTE: in Puppis NON esiste una stella Bayer '\u03ba Pup' \u2014 la \u03ba dell'antica Argo finisce oggi in \u03ba Velorum (Vele). La lettera k latina \u00e8 assegnata a DUE stelle distinte: p Pup (o Kappa1 Pup, HD 60863, questa scheda) e Kappa2 Pup (HD 62026, mag 5.7, G7III, non inclusa). Il nome 'Kappa Puppis' in alcuni cataloghi si riferisce quindi a p Pup.]",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kappa_Puppis (voce che copre Kappa1/Kappa2)"
+  },
+  {
+   "id": "l2_pup",
+   "nome": "L2 Puppis",
+   "bayer": "L2 Pup (HD 56096)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,10",
+   "spettro": "M5 IIIe (semiregolare, SRb)",
+   "distanza_al": 188,
+   "curiosita": "L2 Puppis \u00e8 la stella AGB pi\u00f9 vicina con un disco circumstellare ben risolto: nata ~10 miliardi di anni fa con poco pi\u00f9 di una massa solare (come il Sole), oggi \u00e8 un'antica gigante rossa carboniosa che sta perdendo massa a ~5\u00d710\u207b\u2077 masse solari l'anno. SPHERE/VLT nel 2015 ne ha fotografato la polvere a risoluzione altissima: un disco quasi di taglio di ~10 UA con pennacchi bipolari; ALMA nel 2016 ha misurato il gap centrale che potrebbe ospitare un pianeta \u2014 di qui a miliardi di anni il Sole far\u00e0 la stessa fine. \u00c8 una 'culla' di futura nebulosa planetaria a farfalla: la morfologia bipolare gi\u00e0 visibile suggerisce che la stiamo osservando proprio mentre la nebulosa planetaria comincia a formarsi. Variabile semiregolare con periodo ~140 giorni e ampiezza di circa 2 magnitudini (da mag ~5 a ~7 in V): tra le variabili pi\u00f9 facili da seguire ad occhio nudo/col binocolo dell'emisfero sud. [Distanza: Gaia DR3 (plx 17.7906\u00b10.817 mas, Source 5559704601966334848) + Bailer-Jones 2021 (rgeo=57.51 pc) \u2192 183.3\u00b18.4 al (BJ 187.6 al, coerenti); studi SPHERE/ALMA usano 64 pc = 209 al] [Nota: L2 Pup = SIMBAD * L02 Pup = HD 56096. NON confondere con L1 Pup (HD 55879) n\u00e9 con HD 56093 (B8V): le designazioni L1/L2 sono lettere bavesi doppie dell'Argo, non numerazioni Flamsteed.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/L2_Puppis"
+  },
+  {
+   "id": "sig_pup",
+   "nome": "Sigma Puppis (Hadir)",
+   "bayer": "\u03c3 Pup (HD 59717)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,25",
+   "spettro": "K5 III",
+   "distanza_al": 192,
+   "curiosita": "Sigma Puppis forma un triangolo caratteristico con Naos e \u03c0 Pup: in cielo arabo 'Hadir' indicava la 'sorella' di Naos nel corpo della nave. \u00c8 una binaria spettroscopica: la gigante arancione ha una compagna calda (probabilmente di tipo A) che orbita in ~257 giorni, pi\u00f9 una componente B di mag 8.5 visivamente separata di 22\" \u2014 un sistema con almeno tre stelle. La vicinanza della compagna deforma la gigante in un ellissoide: la magnitudine oscilla di ~0,1 con il periodo orbitale, come nelle variabili Beta Lyrae. \u00c8 anche un sistema doppio apparente: con la compagna ottica di mag 9.6 (senza legame fisico) forma una coppia accessibile ai piccoli telescopi. [Distanza: Gaia DR3 (plx 17.0234\u00b10.5614 mas, Source 5512070906394195968) + Bailer-Jones 2021 (rgeo=58.70 pc) \u2192 191.6\u00b16.3 al; wiki it 194 al, coerenti] [Nota: Il nome tradizionale Hadir (NAME Hadir in SIMBAD) NON \u00e8 certificato IAU. Variabile ellissoidale/rotante (type Beta Lyrae) + irregolare lenta.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sigma_Puppis"
+  },
+  {
+   "id": "3_pup",
+   "nome": "3 Puppis",
+   "bayer": "3 Pup (designazione Flamsteed, non lettera Bayer) (HD 62623)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,93",
+   "spettro": "A4 Iabe (supergigante Be, tipo B[e])",
+   "distanza_al": 3350,
+   "curiosita": "3 Puppis \u00e8 una supergigante Be con disco circumstellare: la compagna orbita in 137,52 giorni e il vento della principale, rallentato dalla compagna, permette alla polvere di formarsi fino a ~3,8 UA dalla stella \u2014 insolitamente vicino per una supergigante. Supergigante bianca di tipo A con ~19 masse solari e ~65 raggi solari: si estenderebbe oltre met\u00e0 orbita di Mercurio; la sua emissione tipo B[e] \u00e8 rara \u2014 \u00e8 uno degli esemplari pi\u00f9 vicini e studiati della classe B[e] supergiant. \u00c8 la stella pi\u00f9 brillante della zona sud-orientale della Poppa; la designazione '3 Pup' \u00e8 una numerazione Flamsteed dell'antica Argo, non una lettera Bayer. La sua distanza Gaia (3350\u00b1560 al) \u00e8 IN DISACCORDO con i vecchi valori wiki (~2100-2300 al): la parallasse Gaia 0,9732\u00b10,1627 mas (17% di errore) \u00e8 marginale per una stella cos\u00ec brillante (bias di parallasse noto sulle supergiganti); disaccordo registrato. [Distanza: Gaia DR3 (plx 0.9732\u00b10.1627 mas, Source 5599824647403389952) + Bailer-Jones 2021 (rgeo=1124.4 pc) \u2192 3351\u00b1560 al; wiki it 2120 al (da parallasse inaffidabile), wiki en ~2100-2300 ly prima di Gaia: disaccordo registrato (Gaia plx con 17% di errore su stella supergigante)] [Nota: VERIFICATO su SIMBAD: 3 Puppis = HD 62623 = HIP 37677 (A4Iabe, V=3.93, binaria spettroscopica P=137.52 d). HD 60000 \u00e8 una stella B8V di campo completamente diversa (mag 8.85): fonte di errore frequente. 'V415 Pup' \u00e8 HD 66503A, un'altra stella ancora.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/3_Puppis"
+  },
+  {
+   "id": "xi_pup",
+   "nome": "Azmidi (Asmidiske)",
+   "bayer": "\u03be Pup (\u03be. Pup) (HD 63700)",
+   "origine_nome": "Nome IAU ufficiale: Azmidi. (certificato IAU 2018-06-01 per \u03be Puppis Aa).",
+   "magnitudine": "3,30",
+   "spettro": "G6 Ib",
+   "distanza_al": 1085,
+   "curiosita": "Azmidi \u00e8 una supergigante gialla di ~9 masse solari: tra le stelle pi\u00f9 luminose della Poppa, con 8.300 luminosit\u00e0 solari visive e un'et\u00e0 di soli ~27 milioni di anni. Il nome tradizionale 'Asmidiske' era un refuso e uno spostamento di 'Aspidiske', il nome tradizionale di \u03b9 Carinae (nella Chiglia): nel 2018 la IAU ha certificato Azmidi per \u03be Pup Aa, lasciando Aspidiske alla stella della Chiglia. Il sistema \u00e8 almeno triplo: una compagna B (mag 13, separata di 11,6\") e una terza componente C; la principale a sua volta \u00e8 una binaria spettroscopica Aa+Ab. Come supergigante G6 si estende per ~150 raggi solari (quasi fino all'orbita di Venere): esploder\u00e0 come supernova entro pochi milioni di anni. [Distanza: Gaia DR3 (plx 3.0059\u00b10.1317 mas, Source 5614471482318442240) + Bailer-Jones 2021 (rgeo=332.66 pc) \u2192 1085\u00b147.5 al; wiki it 1348 al (Hipparcos 2,42\u00b10,74 mas): disaccordo ~6\u03c3 da registrare] [Nota: Il nome tradizionale 'Asmidiske' era un refuso storico: spostamento di 'Aspidiske' (\u03b9 Car). Wikipedia it usa ancora 'Asmidiske' come titolo voce.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Puppis"
+  }
+ ]
+}

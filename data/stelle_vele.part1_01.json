@@ -1,0 +1,103 @@
+{
+ "vele": [
+  {
+   "id": "lam_vel",
+   "nome": "Suhail",
+   "bayer": "\u03bb Vel (HD 78647, HIP 44816, HR 3634)",
+   "origine_nome": "Nome IAU ufficiale: Suhail. Nome IAU certificato (WGSN 21/8/2016); arabo suhayl al-wazn, accorciato in Suhail per la stella di navigazione.",
+   "magnitudine": "2,21",
+   "spettro": "K4Ib",
+   "distanza_al": 545,
+   "curiosita": "Variabile lenta irregolare (mag 2,14-2,30), probabilmente in fase AGB: potrebbe finire come supernova da cattura elettronica, a formare una stella di neutroni, oppure spegnersi dolcemente in nebulosa planetaria e nana bianca. \"Suhail\" per gli Arabi era la generica stella brillante a sud, una stella di navigazione per eccellenza; il nome fu tradizionalmente usato anche per Canopo, \u03b3 Vel (Suhail al Muhlif) e \u03b6 Pup (Suhail Hadar). In Cina \u00e8 Tianji, il \"Giudice che stima l'et\u00e0 degli animali\". Supergigante arancione di ~7 masse solari e 207 raggi solari con un campo magnetico superficiale di 1,72 G generato dalla convezione profonda; alla stessa distanza si trova l'associazione dispersa Platais 9.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Lambda_Velorum"
+  },
+  {
+   "id": "del_vel",
+   "nome": "Alsephina",
+   "bayer": "\u03b4 Vel (HD 74956, HIP 42913, HR 3485)",
+   "origine_nome": "Nome IAU ufficiale: Alsephina. Nome IAU certificato (WGSN 5/9/2017 per \u03b4 Vel Aa); dall'arabo al-safinah, \"la nave\".",
+   "magnitudine": "1,96",
+   "spettro": "A2IV+A4V",
+   "distanza_al": 80.6,
+   "curiosita": "\u00c8 la binaria a eclisse pi\u00f9 brillante del cielo: variabile di tipo Algol con periodo di 45,1503 giorni, eclisse primaria del 50% (mag 1,96\u21922,39). Fu scoperta come eclissante solo nel 2000, incrociando le osservazioni visuali 1997-2000 con i dati dello star tracker della sonda Galileo. Il nome IAU Alsephina viene dall'arabo al-safinah, \"la nave\": richiama l'intero Argo Navis di cui \u03b4 Velorum faceva parte; il nome circola fin dalla traduzione araba dell'Almagesto del X secolo. Vertice della Falsa Croce (con \u03ba Vel, \u03b9 Car ed \u03b5 Car), scambiata per la Croce del Sud con errori di navigazione documentati: per precessione il polo sud celeste le passer\u00e0 vicino intorno al 9000 d.C. Il sistema \u00e8 almeno triplo, con una compagna B scoperta da Bailey (1894) e Innes (1895) in orbita di ~142-143 anni.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Delta_Velorum"
+  },
+  {
+   "id": "gam_vel",
+   "nome": "Regor (\u03b3\u00b2 Velorum)",
+   "bayer": "\u03b3 Vel (\u03b3\u00b2 Velorum, HD 68273, WR 11) (HD 68273, HIP 39953, HR 3207, WR 11)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). \"Regor\" = Roger al contrario, scherzo di Gus Grissom per Roger Chaffee (Apollo 1): citato nella lista IAU con simbolo \u2020 ma NON approvato; il tradizionale Suhail al Muhlif \u00e8 duplicato su \u03bb Vel.",
+   "magnitudine": "1,83 (1,72 combinato)",
+   "spettro": "WC8+O7.5III-V",
+   "distanza_al": 1100,
+   "curiosita": "\u00c8 il sistema Wolf-Rayet+O pi\u00f9 vicino alla Terra: la componente WR (WC8, 57.000 K, ~9-10 masse solari) perde massa a un centomillesimo di massa solare l'anno, centinaia di milioni di volte il vento solare. I venti delle due componenti collidono producendo raggi X e l'emissione di raggi gamma rivelata da Fermi-LAT con modulazione orbitale (A&A 2020 e 2025): una delle pochissime binarie sorgente gamma. Periodo orbitale 78,53 giorni; entrambe le stelle esploderanno come supernovae. \"Regor\" \u00e8 \"Roger\" al contrario, lo scherzo dell'astronauta Gus Grissom per il collega Roger Chaffee, morto nell'incendio dell'Apollo 1: il nome \u00e8 citato nella lista IAU col simbolo \u2020 ma non \u00e8 mai stato approvato, e \u03b3\u00b2 Vel resta la stella pi\u00f9 brillante del cielo priva di nome IAU.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Gamma_Velorum"
+  },
+  {
+   "id": "kap_vel",
+   "nome": "Markeb",
+   "bayer": "\u03ba Vel (HIP 45941, HR 3444 (HD 71155 ERRATO: appartiene a 30 Mon, in Monoceros))",
+   "origine_nome": "Nome IAU ufficiale: Markeb. Nome IAU certificato (WGSN 5/9/2017 per \u03ba Vel A); arabo markab, grafia Markeb per distinguerlo da Markab/\u03b1 Peg.",
+   "magnitudine": "2,47",
+   "spettro": "B2IV",
+   "distanza_al": 572,
+   "curiosita": "Binaria spettroscopica con periodo di 116,65-116,80 giorni e semiasse di 1,28 UA: la natura della compagna \u00e8 rimasta a lungo incerta. \u00c8 il vertice pi\u00f9 meridionale della Falsa Croce e per precessione sar\u00e0 la stella polare del sud intorno al 9000 d.C.; il polo celeste di Marte le passa vicino. Nello spettro si vedono righe di assorbimento interstellare che variano nel tempo: una piccola nube densa (100-1.000 UA) sta attraversando la linea di vista.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Kappa_Velorum"
+  },
+  {
+   "id": "mu_vel",
+   "nome": "Mu Velorum",
+   "bayer": "\u03bc Vel (HD 93497, HIP 52727)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nessun nome IAU.",
+   "magnitudine": "2,69",
+   "spettro": "G6III",
+   "distanza_al": 112,
+   "curiosita": "Binaria visuale stretta con periodo di 138 anni ed eccentricit\u00e0 0,94, una delle pi\u00f9 alte tra le visuali brillanti: al periastron le stelle passano a 3,1 UA, all'apoastron a ~100 UA. Nel marzo 1998 l'EUVE (Extreme Ultraviolet Explorer) cattur\u00f2 un flare estremo: emissione X quasi pari a quella di tutta la stella, evento raro per una gigante G. A ~360 milioni di anni, la primaria ha 3,3 masse solari e 107 luminosit\u00e0 solari; la secondaria di mag 6,4 potrebbe perturbare l'astrometria Gaia \u2014 motivo della discrepanza 112 vs 117 al con le wiki.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Mu_Velorum"
+  },
+  {
+   "id": "o_vel",
+   "nome": "Omicron Velorum",
+   "bayer": "\u03bf Vel (HD 74195, HIP 42536, HR 3447)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nessun nome IAU; membro pi\u00f9 brillante dell'ammasso IC 2391 (Caldwell 85).",
+   "magnitudine": "3,63",
+   "spettro": "B3/5(V)",
+   "distanza_al": 460,
+   "curiosita": "\u00c8 il membro pi\u00f9 brillante di IC 2391 (Ammasso di Omicron Velorum, Caldwell 85), ammasso aperto visibile a occhio nudo: descritto da al-Sufi gi\u00e0 nel 964 come \"stella nebulosa\" e risolto da Lacaille nel 1751-52. Variabile SPB (B lentamente pulsante) scoperta da Cousins nel 1959: la magnitudine oscilla tra 3,57 e 3,63 in 2,8 giorni. La designazione \"o vs omicron\" \u00e8 stata discussa per decenni: Lacaille la scriveva \"o\" latina su Argo Navis, ma oggi si usa omicron per \u03bf Vel E \u03bf Pup \u2014 l'unico caso di lettera condivisa tra le tre ex-Argo.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Omicron_Velorum"
+  },
+  {
+   "id": "psi_vel",
+   "nome": "Psi Velorum",
+   "bayer": "\u03c8 Vel (HD 82159, HIP 46480)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nessun nome IAU.",
+   "magnitudine": "3,60",
+   "spettro": "F0IV+F3IV",
+   "distanza_al": 61.4,
+   "curiosita": "Binaria visuale stretta e difficile (periodo 34,11 anni, separazione 0,811\"): sfugg\u00ec a John Herschel nel 1835-36 (era solo 0,3\") e fu scoperta da Ralph Copeland, poi Astronomer Royal for Scotland. \u00c8 la stella visibile a occhio nudo pi\u00f9 vicina delle Vele a 61,4 anni luce, e candidata membro del gruppo cinematico di Castore. \u00c8 la pi\u00f9 settentrionale delle stelle che disegnano le vele.",
+   "fonte_url": "https://it.wikipedia.org/wiki/Psi_Velorum"
+  },
+  {
+   "id": "c_vel",
+   "nome": "c Velorum",
+   "bayer": "c Vel (HD 78004, HIP 44511, HR 3614)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nessun nome IAU; designazione minuscola distinta da C Velorum (HD 73155).",
+   "magnitudine": "3,75",
+   "spettro": "K2III",
+   "distanza_al": 301,
+   "curiosita": "La velocit\u00e0 radiale \u00e8 di +24 km/s: si sta allontanando dal Sole in modo netto. Le designazioni c/C, n/N, b/B delle Vele indicano stelle distinte (errore comune: en dedica pagine di disambiguazione); Lacaille le condivise fra le tre ex-Argo. Terza gigante K delle Vele dopo Suhail e N Vel.",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_78004"
+  },
+  {
+   "id": "n_vel",
+   "nome": "N Velorum",
+   "bayer": "N Vel (HD 82668, HR 3803, HIP 46701)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nessun nome IAU (\"Marut\" di go-astronomy NON ufficiale); MAIUSCOLA, distinta da n Velorum (HD 74272).",
+   "magnitudine": "3,14",
+   "spettro": "K5III",
+   "distanza_al": 223,
+   "curiosita": "Siede esattamente al confine Vela/Carena: delimita il confine tra le vele e la chiglia dell'Argo; in Cina fa parte dell'asterismo Tianshe, il Tempio del Dio della Terra. Gigante arancione evoluta da una stella di ~2 masse solari (pre-ramo orizzontale); nessuna binariet\u00e0 segnalata. Il nome popolare \"Marut\" citato da go-astronomy non \u00e8 certificato IAU: la MAIUSCOLA N la distingue dalla n Velorum minuscola (HD 74272, mag 4,77).",
+   "fonte_url": "https://en.wikipedia.org/wiki/HR_3803"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "bussola": [
+  {
+   "id": "alf_pyx",
+   "nome": "Alfa Pyxidis",
+   "bayer": "\u03b1 Pyxidis (\u03b1 Pyx) (HD 74575)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,68",
+   "spettro": "B1.5III",
+   "distanza_al": 794,
+   "curiosita": "E la stella piu brillante della Bussola (mag 3.68), una gigante azzurra di tipo B1.5 oltre dieci volte piu massiccia del Sole: oscilla come variabile Beta Cephei e nel 2009-2011 le misurazioni di Hubrig e collaboratori le hanno rilevato un campo magnetico superficiale, raro tra le variabili Beta Cephei. Nonostante sia la stella principale della costellazione, non ha alcun nome ufficiale IAU: la voce 'Al Sumut' che si trova su alcune fonti non e nella lista certificata IAU (verificato ottobre 2026). Anche le stelle di Pyxis entrarono nell'astrismo cinese Tiangou (\u5929\u72d7), il Cane Celeste: alfa, beta e gamma Pyxidis ne facevano parte insieme a stelle delle Vele. [Distanza: Gaia DR3 (Source 5639188675501966464, plx 4.1089\u00b10.2147 mas -> 243.4 pc -> 794 al); Bailer-Jones 2021 rgeo 244.90 pc = 799 al. COERENTI (<1%). Fonti popolari (go-astronomy 880 ly) obsolete.] [Nota: Nessun nome IAU: 'Al Sumut' citato da it.wiki NON e nella lista IAU-CSN (verificata interamente il 2026-10-20, v. iau_csn_pyx.txt). SIMBAD adotta plx Gaia (2020yCat.1350).]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Pyxidis"
+  },
+  {
+   "id": "bet_pyx",
+   "nome": "Beta Pyxidis",
+   "bayer": "\u03b2 Pyxidis (\u03b2 Pyx) (HD 74006)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,95",
+   "spettro": "G5II/III",
+   "distanza_al": 386,
+   "curiosita": "Ruota a 11.8 km/s, insolitamente veloce per una gigante gia evoluta: una spiegazione proposta e che da giovane abbia inghiottito un pianeta gigante tipo Giove caldo, acquistandone il momento angolare (Rodrigues da Silva et al. 2015). Seconda stella della Bussola: gigante gialla 3.8 volte piu massiccia del Sole ma gia gonfiata a circa 20 raggi solari, con temperatura di circa 5.300 K. Nel 2022 lo spettrografo CORALIE l ha inclusa nel programma CASCADES di ricerca di pianeti attorno a giganti: il catalogo della campagna la registra ancora senza pianeti confermati attorno a lei. [Distanza: Gaia DR3 (plx 8.4598\u00b10.1079 mas, Source 5626529620176041600 -> 118.2 pc -> 386 al); Bailer-Jones 2021 rgeo 117.87 pc = 384 al. DISCREPANZA: Wikipedia it/en danno ~416-420 al da Hipparcos van Leeuwen 2007 (128 pc) - Gaia DR3 e piu recente e in disaccordo a ~6 sigma col valore wiki; dettagli in discrepanzes_pyx_st5.json.] [Nota: Spettrale arbitrata SIMBAD G5II/III; en.wiki G7II-III; it.wiki G7Ib-II 'supergigante gialla'. Tenuta la classificazione SIMBAD con nota. Binaria visuale (WDS J08401-3518A) con compagna ottica 12.5 mag a 12.7\".]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Pyxidis"
+  },
+  {
+   "id": "gam_pyx",
+   "nome": "Gamma Pyxidis",
+   "bayer": "\u03b3 Pyxidis (\u03b3 Pyx) (HD 75691)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,01",
+   "spettro": "K2.5III",
+   "distanza_al": 210,
+   "curiosita": "Ha un moto proprio tra i piu alti fra le giganti brillanti del cielo australe: si sposta di oltre 150 millisecondi d'arco l'anno, quasi quattro larghezze della Luna piena in un secolo. E una candidata 'red clump': gigante arancione nel nucleo di elio acceso, una delle categorie usate come candela standard per misurare le distanze nella Via Lattea. Con le altre stelle principali della Bussola apparteneva al Cane Celeste (Tiangou, \u5929\u72d7) della tradizione cinese, un asterismo che scavalca il confine con le Vele. [Distanza: Gaia DR3 (plx 15.5142\u00b10.1603 mas, Source 5642935536248627456 -> 64.5 pc -> 210 al); Bailer-Jones 2021 rgeo 64.48 pc = 210 al. COERENTI allo 0.3%. Nessuna discrepanza (fonti popolari citano 200-210 ly).] [Nota: La designazione HD nel draft (75676) era ERRATA: SIMBAD elenca gamma Pyx = HD 75691 (verificato negli ident simbad_idents_st5.json).]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Pyxidis"
+  },
+  {
+   "id": "del_pyx",
+   "nome": "Delta Pyxidis",
+   "bayer": "\u03b4 Pyxidis (\u03b4 Pyx) (HD 76483)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,88",
+   "spettro": "A3IV",
+   "distanza_al": 232,
+   "curiosita": "E una binaria astrometrica: la compagna non si vede, ma la tradisce con le oscillazioni del moto proprio; sul cielo la stella viaggia a oltre 80 km/s combinando ascensione retta e declinazione. Nella tradizione cinese era la settima stella del Cane Celeste (Tiangou qi, \u5929\u72d7\u4e03): l'asterismo raccoglieva anche alfa, beta e gamma Pyxidis e stelle delle Vele. Subgigante bianca di tipo A3 che ruota a 68 km/s: a circa 296 milioni di anni ha gia consumato il 92% del suo idrogeno centrale e sta per lasciare la sequenza principale. [Distanza: Gaia DR3 (plx 14.0808\u00b10.2984 mas, err 2.1%, Source 5648709484119209728 -> 71.0 pc -> 232 al); Bailer-Jones 2021 rgeo 70.96 pc = 231 al. DISCREPANZA moderata con wiki en ~250 ly (Hipparcos van Leeuwen 2007 plx 13.19 mas -> 247 al): disaccordo ~2.7 sigma; arbitrato Gaia DR3 per criterio del batch.] [Nota: La designazione HD nel draft (75928) era ERRATA: SIMBAD elenca delta Pyx = HD 76483 (verificato negli ident simbad_idents_st5.json). Binaria astrometrica (WDS J08555-2741A).]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Pyxidis"
+  },
+  {
+   "id": "t_pyx",
+   "nome": "T Pyxidis (nova ricorrente)",
+   "bayer": "T Pyxidis (variabile, T Pyx; nessun HD attribuito \u2014 post-Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "15,5 in quiescenza; ~7 alle eruzioni (nova ricorrente)",
+   "spettro": "binaria: nana bianca + compagna donatrice (tipo simile al Sole, en wiki 'Sun-like star'; letteratura: nana arancione)",
+   "distanza_al": 8499,
+   "curiosita": "E la nova ricorrente piu famosa del cielo australe: la nana bianca le strappa materia alla compagna tipo Sole e ogni due o tre decenni la superficie esplode, passando da magnitudine 15.5 (quasi invisibile) a circa 7, osservata da astronomi dilettanti nel 1890, 1902, 1920, 1944, 1966-67 e 2011. Attorno a T Pyxidis le immagini dell'Hubble mostrano una nebulosa residua di migliaia di nodi gassosi esplosi nelle eruzioni passate: contrariamente alle novae classiche il guscio NON si espande, e i nodi restano quasi fermi (Shara et al., HST). La distanza e stata a lungo incerta (stime fra 2.000 e 4.900 pc): solo l'eco di luce dell'eruzione 2011 osservata con Hubble l ha fissata attorno a 4.780 pc, circa 15.600 anni luce. [Distanza: Bailer-Jones 2021 (I/352/gedr3dis, Source 5628258258606112768): rgeo=2605.77 pc -> 8.499 al (rpgeo 2.589 pc). Gaia DR3 plx 0.3467\u00b10.0287 mas -> 2.884 pc -> 9.407 al (err 8.3%, disaccordo ~10% con BJ). Wiki en riporta 15.600 al (4.780 pc) da light-echo HST dell'eruzione 2011 (Salvo et al. 2018) - DISCREPANZA registrata in discrepanzes_pyx_st5.json. NON usare il draft (940 al): derivava dalla stella di campo sbagliata (G 12.3, plx 3.46 mas).] [Nota: Nova ricorrente con eruzioni osservate nel 1890, 1902, 1920, 1944, 1966, 1967 e 2011 (ident SIMBAD: NOVA Pyx 1890...2011; il draft diceva 1967, SIMBAD elenca 1966 E 1967). Nel draft la magnitudine 15.5 era listata come 'spettrale': corretto - mag 15.5 e quiescenza, spettrale e la binaria. AAVSO 0900-31; Shell HST non espansiva (Shara et al. 1997).]",
+   "fonte_url": "https://en.wikipedia.org/wiki/T_Pyxidis"
+  }
+ ]
+}

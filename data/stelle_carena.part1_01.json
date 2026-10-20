@@ -1,0 +1,103 @@
+{
+ "carena": [
+  {
+   "id": "alf_care",
+   "nome": "Canopo",
+   "bayer": "\u03b1 Car A (HD 45348)",
+   "origine_nome": "Nome IAU ufficiale: Canopus. (certificato IAU 2016-06-30).",
+   "magnitudine": "-0,74",
+   "spettro": "A9 II",
+   "distanza_al": 309,
+   "curiosita": "Canopo \u00e8 la seconda stella pi\u00f9 brillante dell'intero cielo dopo Sirio, ma per chi osserva dall'Italia resta invisibile: non si pu\u00f2 vedere sopra la latitudine di circa 37\u00b0 N. Nave a parte, il suo nome \u00e8 legato alla mitologia greca del pilota di Menelao; gli arabi lo conoscevano come Suhail, mentre la polinesiana Atutahi lo considerava una stella \"solitaria\" e tapu, fuori dal cesto della Via Lattea. In circa 7500 anni la precessione porter\u00e0 il polo sud celeste vicino a \u03c9 Carinae (intorno al 5800 d.C.) e poi a \u03b9 Carinae: la \"stella polare sud\" del futuro avr\u00e0 due candidate nella stessa costellazione di Canopo. Canopo \u00e8 una delle stelle di riferimento dei programmi spaziali: i tracker stellari di sonde come Mariner 4, Pioneer 10/11 e Voyager la usavano come punto di aggancio per orientarsi nello spazio profondo. [Distanza: Hipparcos van Leeuwen 2007 (plx 10.55\u00b10.56 mas): Gaia DR3 assente per saturazione]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Canopus"
+  },
+  {
+   "id": "bet_care",
+   "nome": "Miaplacidus",
+   "bayer": "\u03b2 Car (HD 80007)",
+   "origine_nome": "Nome IAU ufficiale: Miaplacidus. (certificato IAU 2016-07-20).",
+   "magnitudine": "1,69",
+   "spettro": "A1 III",
+   "distanza_al": 113,
+   "curiosita": "Miaplacidus \u00e8 la stella pi\u00f9 brillante della costellazione dopo Canopo, ma \u00e8 anche una delle poche stelle molto luminose senza un nome antico: \"Miaplacidus\" fu coniato nel 1856 dall'italiano Antonio Coggia e suona latino-maltese, non ha origini classiche. \u00c8 la stella pi\u00f9 meridionale del cielo a superare la magnitudine 1.7 visibile dalla Terra insieme ad Achernar, e la seconda pi\u00f9 luminosa della chiglia. Con 260 milioni di anni di et\u00e0, \u00e8 una gigante A1 gi\u00e0 uscita dalla sequenza principale: ruota a 146 km/s e mostra un disco di detriti ricco di polveri che la circondano. [Distanza: Hipparcos van Leeuwen 2007 (plx 28.82\u00b10.11 mas) \u2192 113.2\u00b10.4 al; Gaia DR3 assente (saturata)]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Carinae"
+  },
+  {
+   "id": "eps_care",
+   "nome": "Avior",
+   "bayer": "\u03b5 Car A (HD 71129)",
+   "origine_nome": "Nome IAU ufficiale: Avior. (certificato IAU 2016-07-20).",
+   "magnitudine": "1,86",
+   "spettro": "K3 III + B2 Vp",
+   "distanza_al": 605,
+   "curiosita": "Avior \u00e8 in realt\u00e0 un sistema doppio: una gigante arancione (10.5 masse solari, 151 raggi solari) con accanto una compagna azzurra di tipo B2 otto volte pi\u00f9 piccola ma molto pi\u00f9 calda. Il nome \"Avior\" non ha radici antiche: fu scelto negli anni Trenta dall'Almanacco Nautico britannico insieme ad altri nomi \"inventati\" per il naviglio aereo e marittimo. \u00c8 una delle stelle della bandiera del Brasile (rappresenta lo stato del Par\u00e0) ed \u00e8 sospettata di essere una binaria a eclisse: la sua luminosit\u00e0 varia lievemente. [Distanza: Hipparcos van Leeuwen 2007 (plx 5.39\u00b10.42 mas) \u2192 185.5 pc \u2192 605 al; Wikipedia en: 610\u00b150 ly; Gaia DR3 assente]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Carinae"
+  },
+  {
+   "id": "iot_care",
+   "nome": "Aspidiske",
+   "bayer": "\u03b9 Car (HD 80404)",
+   "origine_nome": "Nome IAU ufficiale: Aspidiske. (certificato IAU 2016-07-20).",
+   "magnitudine": "2,26",
+   "spettro": "A7 Ib",
+   "distanza_al": 766,
+   "curiosita": "Aspidiske \u00e8 una supergigante bianca di tipo A, circa 49 volte pi\u00f9 larga del Sole e 4900 volte pi\u00f9 luminosa: il nome deriva dallo scudo (\u03b1\u03c3\u03c0\u03af\u03c2) della nave Argo, la parte di chiglia vicino alla poppa. Il polo sud celeste passer\u00e0 vicino a \u03b9 Carinae intorno all'anno 8100, poco dopo il transito presso \u03c9 Carinae: la \"stella polare sud\" del futuro ha gi\u00e0 due candidate nella Chiglia. Il suo colore bianco-azzurro \u00e8 dovuto alla temperatura di circa 7500-7700 K, ed \u00e8 sospettata di essere una variabile lieve. [Distanza: Hipparcos van Leeuwen 2007 (plx 4.26\u00b10.10 mas) \u2192 234.7 pc \u2192 766 al; Gaia DR3 senza plx, nessun dato Bailer-Jones]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Carinae"
+  },
+  {
+   "id": "the_care",
+   "nome": "Theta Carinae",
+   "bayer": "\u03b8 Car (HD 93030)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "2,76",
+   "spettro": "B0.5 Vp",
+   "distanza_al": 454,
+   "curiosita": "Theta Carinae \u00e8 una \"blue straggler\": una stella che appare troppo giovane e troppo azzurra per l'ammasso cui appartiene (IC 2602), probabilmente nata dalla fusione di due stelle minori. Fa parte dell'ammasso aperto IC 2602, i \u201cPleiadi del Sud\u201d, e con 14900 volte la luminosit\u00e0 del Sole domina quel gruppo di stelle giovani e calde. \u00c8 una binaria spettroscopica con periodo di 2.2 giorni, e ruota a 108 km/s \u2014 lenta per una stella B, ma sufficiente a farla ruotare in TESS. [Distanza: Gaia DR3 (plx 7.6371\u00b10.726 mas, Source 5239828735016184448) + Bailer-Jones 2021 (rgeo=139.15 pc) \u2192 454 al; coerenza con van Leeuwen 2007 (7.16\u00b10.21)]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Carinae"
+  },
+  {
+   "id": "ups_care",
+   "nome": "Upsilon Carinae",
+   "bayer": "\u03c5 Car (HD 85123)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "2,97",
+   "spettro": "A8 Ib + B7 III",
+   "distanza_al": 865,
+   "curiosita": "Upsilon Carinae \u00e8 una doppia visuale spettacolare: una supergigante bianca A8 (10.9 masse solari, quasi 100 raggi solari) affiancata da una compagna azzurra di tipo B7 due magnitudini pi\u00f9 debole. Nel 2017 \u00e8 stata una delle prime supergiganti A in cui \u00e8 stata scoperta una superficie magnetica: un'eredit\u00e0 delle fasi magnetiche delle stelle B come la sua compagna. La distanza \u00e8 stata drasticamente ridotta dal passaggio Hipparcos \u2192 Gaia: da circa 1400 anni luce si \u00e8 scesi a 865 al, e la luminosit\u00e0 intrinseca si \u00e8 ridotta di conseguenza. [Distanza: Gaia DR3 (plx 3.7373\u00b10.3174, Source 5249119024128109952) + Bailer-Jones 2021 (rgeo=265.3 pc) \u2192 865 al; Hipparcos van Leeuwen 2007 dava 1436 al (Wikipedia en usa ancora ~1400 ly)]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Upsilon_Carinae"
+  },
+  {
+   "id": "omi_care",
+   "nome": "O Carinae (V448 Carinae)",
+   "bayer": "o Car (HD 49877)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,60",
+   "spettro": "K5 III",
+   "distanza_al": 690,
+   "curiosita": "o Carinae \u00e8 una variabile semiregolare: la sua luminosit\u00e0 oscilla tra magnitudine 5.66 e 5.86 nel tempo, tipico di giganti rosse fredde in tarda evoluzione. Con 3.974 K di temperatura \u00e8 una gigante arancio-rossa: 51 volte pi\u00f9 larga del Sole, ma 582 volte pi\u00f9 luminosa. Con 2.85 miliardi di anni \u00e8 molto pi\u00f9 anziana delle giganti blu che dominano la Chiglia: un retaggio delle stelle che Hevelius disegnava come parte della chiesa della nave. [Distanza: Gaia DR3 (plx 4.7458\u00b10.0858 mas, Source 5497225747068168448) + Bailer-Jones 2021 (rgeo=211.48 pc) \u2192 690 al; van Leeuwen 2007: 4.8123\u00b10.086 mas \u2192 678 al (coerente)] [Nota: o Carinae in SIMBAD \u00e8 V448 Car = HD 49877 (RA 101.83, Dec -55.54); HD 92938 \u00e8 un'altra stella (B3V, Be) e HD 93080 \u00e8 fuori Carina. Verificato con cone SIMBAD/Gaia e pagina wiki en.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/V448_Carinae"
+  },
+  {
+   "id": "p_care",
+   "nome": "p Carinae (PP Carinae)",
+   "bayer": "p Car (HD 91465)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,27",
+   "spettro": "B4 Vne",
+   "distanza_al": 519,
+   "curiosita": "p Carinae \u00e8 una stella Be estremamente veloce: ruota a 325 km/s, prossima al limite oltre cui si disintegrerebbe, e lancia gas dal suo disco circumstellare. \u00c8 una variabile di tipo Gamma Cassiopeiae: la sua luminosit\u00e0 oscilla tra 3.22 e 3.55 quando il disco di gas circostante si forma e si dissipa. Anche se appare isolata, \u00e8 considerata membro dell'ammasso IC 2602, i \u201cPleiadi del Sud\u201d: si trova ai margini esterni del gruppo, ma condivide et\u00e0 e moto con le sue stelle. [Distanza: Gaia DR3 (plx 6.4438\u00b10.3437 mas, Source 5253796346624992128) + Bailer-Jones 2021 (rgeo=159.23 pc) \u2192 519 al; van Leeuwen 2007: 6.75\u00b10.4 mas \u2192 483 al; Wikipedia en ~480 ly] [Nota: SIMBAD V=3.27; VSX d\u00e0 intervallo 3.22-3.55 (variabile Gamma Cas). Coordinate corrette: RA 158.006, Dec -61.685 (le stime 155.4 usate in prima analisi erano sbagliate).]",
+   "fonte_url": "https://en.wikipedia.org/wiki/PP_Carinae"
+  },
+  {
+   "id": "q_care",
+   "nome": "q Carinae (V337 Carinae)",
+   "bayer": "q Car (HD 89388)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,36",
+   "spettro": "K2.5 II",
+   "distanza_al": 758,
+   "curiosita": "q Carinae \u00e8 una gigante luminosa di classe K2.5 II: 128 volte pi\u00f9 larga del Sole, 3236 volte pi\u00f9 luminosa, con Fe/H di +0.54 (arricchita di metalli). \u00c8 una variabile lievemente irregolare: la magnitudine oscilla tra 3.36 e 3.44 senza periodicit\u00e0 chiara, tipico delle giganti fredde in tarda evoluzione. Con 128 raggi solari, se fosse al centro del sistema solare si estenderebbe ben oltre l'orbita di Mercurio, quasi toccando Venere. [Distanza: Gaia DR3 (plx 4.3046\u00b10.1345 mas, Source 5253347574087339776) + Bailer-Jones 2021 (rgeo=232.40 pc) \u2192 758 al; van Leeuwen 2007: 4.96\u00b10.09 mas \u2192 658 al (disaccordo >4\u03c3, dettagli in discrepanzes_st1.json)] [Nota: q Carinae = V337 Car = HD 89388. NON confondere con Q Carinae = HD 61248. Magnitudine variabile LC tra 3.36 e 3.44.]",
+   "fonte_url": "https://en.wikipedia.org/wiki/V337_Carinae"
+  }
+ ]
+}
