@@ -1,0 +1,48 @@
+{
+ "norma": [
+  {
+   "id": "gam_norm1",
+   "nome": "Gamma Normae",
+   "bayer": "γ¹ Nor (HD 145762, CD-52 7311, WDS J16153-5313AB)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Designazione γ della mappa di Lacaille (1756) nella costellazione da lui introdotta.",
+   "magnitudine": "9,19 (V)",
+   "spettro": "B8/9III binaria spettroscopica/visuale",
+   "distanza_al": null,
+   "curiosita": "La coppia centrale di Norma: γ¹ Nor (HD 145762) è una binaria di classe B8/9III, registrata nel Washington Double Star Catalog come B 1804 AB (WDS J16153-5313). Né Hipparcos né Gaia DR3 forniscono una parallasse per l'oggetto doppio, per cui la distanza resta indeterminata e la scheda riporta un testo qualitativo. Norma nacque nel 1756 quando Lacaille divise l'antica area del Robur Carolinum di Halley in figure più piccole: la «squadra e riga» («l'Équerre et la Règle»), da cui il nome attuale. Le costellazioni dello strumento da disegno furono confermate dall'IAU nel 1922 e i confini fissati nel 1930. [Distanza: nessun plx in SIMBAD né in Gaia DR3 (Gaia DR3 5933092909630379776 senza parallasse, verificato 21/10/2026 via SIMBAD TAP) — testo qualitativo «distanza non determinata»]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+145762"
+  },
+  {
+   "id": "del_norm",
+   "nome": "Delta Normae",
+   "bayer": "δ Nor (HD 145765, HIP 79746)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Delta di Lacaille, 1756.",
+   "magnitudine": "8,79 (V); G 8,70",
+   "spettro": "F2IV subgigante giallo-bianca",
+   "distanza_al": 588,
+   "curiosita": "Subgigante di tipo F2 a 588 anni luce, δ Nor è tra le componenti più studiate della costellazione. La designazione Bayer segue la mappa di Lacaille più che una gerarchia di luminosità: a mag 8,8 è ben oltre il limite a occhio nudo. Norma resta una delle costellazioni IAU più povere di stelle brillanti: nessuna componente supera la quarta magnitudine, e la più luminosa, γ² Nor, sta appena fuori dai confini moderni. [Distanza: SIMBAD plx_value 5,5435±0,0165 mas (Gaia DR3) → 588 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+145765"
+  },
+  {
+   "id": "eps_norm",
+   "nome": "Epsilon Normae",
+   "bayer": "ε Nor (HD 145764, CD-52 9412)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Epsilon di Lacaille, 1756.",
+   "magnitudine": "9,63 (V); G 9,59",
+   "spettro": "B9IV subgigante azzurra, classificata Pu* (pulsante) in SIMBAD",
+   "distanza_al": 1271,
+   "curiosita": "Subgigante di tipo B9 a oltre 1.270 anni luce, ε Nor è una delle stelle più lontane della costellazione; SIMBAD la classifica tra le variabili pulsanti di tipo anomalo (classe Pu*). Nella stessa regione di cielo si trova la Nebulosa Norma (Sh2-114), nube a emissione dal profilo indecifrabile che prende il nome dalla costellazione, e poco a nord l'ammasso aperto NGC 6067, tra i più ricchi del cielo australe. [Distanza: SIMBAD plx_value 2,5665±0,0169 mas (Gaia DR3) → 1.271 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+145764"
+  },
+  {
+   "id": "eta_norm",
+   "nome": "Eta Normae",
+   "bayer": "η Nor (HD 146628, HIP 79978)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Eta di Lacaille, 1756.",
+   "magnitudine": "10,06 (V); G 9,78",
+   "spettro": "B1/2Ia supergigante azzurra",
+   "distanza_al": 8367,
+   "curiosita": "Supergigante di tipo B1/2Ia: a oltre 8.300 anni luce stimati, η Nor è tra gli oggetti più remoti della costellazione e una delle stelle più luminose in quella direzione della Via Lattea. A malapena visibile con un piccolo telescopio (mag 10), la stella deve la sua debolezza apparente all'enorme distanza combinata con l'assorbimento del piano galattico; a tali distanze l'incertezza sulla parallasse Gaia resta rilevante. [Distanza: SIMBAD plx_value 0,3898±0,0177 mas (Gaia DR3) → 8.367 al, con incertezza rilevante (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+146628"
+  }
+ ]
+}

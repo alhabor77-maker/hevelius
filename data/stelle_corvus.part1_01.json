@@ -1,0 +1,136 @@
+{
+ "corvus": [
+  {
+   "id": "gam_crv",
+   "nome": "Gienah",
+   "bayer": "γ Crv (HD 106625)",
+   "origine_nome": "Nome IAU ufficiale: Gienah, certificato dal WGSN il 5 ottobre 2016. Dall’arabo janāḥ al-ghurāb, “l’ala del corvo”: la stella segna l’ala sinistra del corvo; il nome è condiviso storicamente con ε Cygni.",
+   "magnitudine": "2,58",
+   "spettro": "B8 III",
+   "distanza_al": 47.1,
+   "curiosita": "Gienah è la stella più luminosa del Corvo: una gigante azzurra B8 a47 anni luce, 355 volte più luminosa del Sole. Il nome Gienah (“l’ala” in arabo) fu assegnato ufficialmente solo nel 2016, anche se gli arabi lo usavano da secoli; la stella gemella ε Cygni porta lo stesso nome tradizionale al Nord. Sulla tavola XIX di Bode γ incide l’ala del corvo che picchietta la coda dell’Idra: la leggenda greca voleva che Apollo avesse trasformato il corvo in costellazione per aver riportato in ritardo l’acqua della coppa, la costellazione del Crater. [Distanza: Hipparcos van Leeuwen 2007 (plx 21.23±0.2 mas) via SIMBAD mesPlx → 47.1 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Corvi"
+  },
+  {
+   "id": "bet_crv",
+   "nome": "Kraz",
+   "bayer": "β Crv (HD 109379)",
+   "origine_nome": "Nome IAU ufficiale: Kraz, certificato dal WGSN il 5 settembre 2017. Origine incerta: probabilmente arabo moderno; il nome compare per la prima volta nell’Almanacco Nautico britannico del Novecento.",
+   "magnitudine": "2,64 (variabile 2,60-2,66)",
+   "spettro": "G5 II (gigante luminosa)",
+   "distanza_al": 44.7,
+   "curiosita": "Kraz è una variabile lieve: la magnitudine oscilla di qualche centesimo in modo irregolare, tipico di una gigante gialla in fase di transizione. A45 anni luce è una delle giganti G più vicine e brillanti del cielo australe: 160 raggi solari di luminosità, 16 volte il raggio solare. Il nome Kraz, dalla derivazione oscura, fu pubblicato nel 1971 e certificato dalla IAU nel 2017: uno dei nomi IAU di origine piõ misteriosa. [Distanza: Hipparcos van Leeuwen 2007 (plx 22.39±0.18 mas) via SIMBAD mesPlx → 44.7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Corvi"
+  },
+  {
+   "id": "del_crv",
+   "nome": "Algorab",
+   "bayer": "δ Crv (HD 108767)",
+   "origine_nome": "Nome IAU ufficiale: Algorab, certificato dal WGSN il 30 giugno 2017. Dall’arabo al-ghurāb, “il corvo”.",
+   "magnitudine": "2,94",
+   "spettro": "B9.5 V (subgigante, schiuma di rotazione)",
+   "distanza_al": 26.6,
+   "curiosita": "Algorab è una binaria visuale: la primaria è una stella B9 di 27 anni luce, tra le più vicine stelle azzurre del cielo, mentre la compagna B — una nana rossa di magnitudine 9,3 — orbita a 24 secondi d’arco ed è risolvibile con piccoli telescopi. È una stella rapida: ruota a oltre 250 km/s, un’alluminatura azzurra che gonfia le sue righe spettrali. Il nome Algorab è semplicemente “il corvo” in arabo: la IAU l’ha certificato nel 2017. [Distanza: Hipparcos van Leeuwen 2007 (plx 37.55±0.16 mas) via SIMBAD mesPlx → 26.6 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Corvi"
+  },
+  {
+   "id": "eps_crv",
+   "nome": "Epsilon Corvi",
+   "bayer": "ε Crv (HD 105707)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Il nome tradizionale Minkar circola ma non è certificato.",
+   "magnitudine": "2,98",
+   "spettro": "K2 III",
+   "distanza_al": 97.5,
+   "curiosita": "Epsilon Corvi è una gigante rossa-arancio a98 anni luce, 930 volte più luminosa del Sole. Il nome arabo tradizionale Minkar (“becco”) la indica come il becco del corvo: non è nella lista IAU, ma compare in molti atlanti storici. È una delle poche stelle brillanti del Corvo che non ha ricevuto un nome IAU ufficiale: resta una delle poche di terza magnitudine ancora anonime nel catalogo. [Distanza: Hipparcos van Leeuwen 2007 (plx 10.26±0.16 mas) via SIMBAD mesPlx → 97.5 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Corvi"
+  },
+  {
+   "id": "alf_crv",
+   "nome": "Alchiba",
+   "bayer": "α Crv (HD 105452)",
+   "origine_nome": "Nome IAU ufficiale: Alchiba, certificato dal WGSN il 30 giugno 2017. Dall’arabo al-khibā, “ la tenda” (origine discussa: altri leggono “il corvo”).",
+   "magnitudine": "4,01 (variabile lieve)",
+   "spettro": "F1 V",
+   "distanza_al": 14.9,
+   "curiosita": "Alchiba è la stella più vicina del Corvo: 15 anni luce, una nana giallo-bianca F1 di 4,0 mag, appena più calda del Sole. È una binaria spettroscopica con compagna che orbita in circa 395 giorni: la compagna non si risolve al telescopio ma tradisce la sua presenza negli spettri. Nella figura classica segna il becco del corvo: i greci raccontavano che il becco fosse bianco prima che Apollo, adirato con l’uccello, lo tingesse di nero. [Distanza: Hipparcos van Leeuwen 2007 (plx 66.95±0.15 mas) via SIMBAD mesPlx → 14.9 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Corvi"
+  },
+  {
+   "id": "eta_crv",
+   "nome": "Eta Corvi",
+   "bayer": "η Crv (HD 109085)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,29",
+   "spettro": "F2 V",
+   "distanza_al": 18.2,
+   "curiosita": "Eta Corvi è una gemella solare evoluta a18 anni luce, celebre per i suoi DUE dischi di detriti: uno interno caldo (a 3,5 unità astronomiche, con polveri ricche di silicati come le comete) e uno esterno freddo, simile alla nostra fascia di Kuiper. L’analisi spettrale delle polveri interne ha rilevato materiali simili a quelli della Terra primitiva: è uno dei sistemi più studiati per la formazione di planetesimi. Un’immagine del 2010 con l’Herschel ha risolto entrambe le cinture, una delle poche doppie fasce mai fotografate. [Distanza: Gaia DR3 (plx 54.8135±0.1562 mas) via SIMBAD mesPlx → 18.2 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Corvi"
+  },
+  {
+   "id": "hd107555",
+   "nome": "HD 107555 (nana gialla di campo)",
+   "bayer": "HD 107555 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "9,72",
+   "spettro": "G5 V",
+   "distanza_al": 128.7,
+   "curiosita": "HD 107555 è una nana gialla di campo a129 anni luce: non è tra le stelle principali del Corvo, ma la sua designazione HD la rende un riferimento per la fotometria della costellazione. È una stella di sequenza principale modesta, poco studiata: un esempio delle migliaia di stelle di campo che il catalogo HD del Novecento ha incrociato su tutte le costellazioni, comprese quelle storiche come il Corvo di Bode. [Distanza: Gaia DR3 (plx 7.7693±0.0168 mas) via SIMBAD mesPlx → 128.7 al]",
+   "fonte_url": "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+107555"
+  },
+  {
+   "id": "hd108283",
+   "nome": "HD 108283 (subgigante settentrionale)",
+   "bayer": "HD 108283 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,95",
+   "spettro": "F1 IV",
+   "distanza_al": 88.6,
+   "curiosita": "HD 108283 è una subgigante bianco-gialla a89 anni luce, tra le stelle piõ luminose del settore settentrionale del Corvo. Subgigante significa che ha appena lasciato la sequenza principale: l’idrogeno del nucleo è esaurito e la stella sta espandendosi verso la fase gigante. La sua magnitudine 5 la rende visibile a occhio nudo sotto cieli scuri, ma resta senza nome proprio né lettera Bayer: una delle stelle di quarta-sesta magnitudine batesi nel cielo del Corvo di Bode. [Distanza: Gaia DR3 (plx 11.2826±0.1085 mas) via SIMBAD mesPlx → 88.6 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_108283"
+  },
+  {
+   "id": "hd108541",
+   "nome": "HD 108541 (azzurra di campo)",
+   "bayer": "HD 108541 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,44",
+   "spettro": "B8/9 V",
+   "distanza_al": 150.4,
+   "curiosita": "HD 108541 è una stella azzurra di sequenza principale B8/9 a 150 anni luce, nel settore meridionale del Corvo: un astro di campo giovane e caldo (12.000 K), senza binaria documentata né ammasso di appartenenza. Le stelle B di campo come questa sono rare fuori dalle associazioni OB: il Corvo ne contiene una manciata, residuo dell’associazione Scorpius-Centaurus che attraversa la regione. [Distanza: Gaia DR3 (plx 6.648±0.166 mas) via SIMBAD mesPlx → 150 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_108541"
+  },
+  {
+   "id": "hd109532",
+   "nome": "HD 109532 (nana A di campo)",
+   "bayer": "HD 109532 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "9,38",
+   "spettro": "A2/3 mA5-F0",
+   "distanza_al": 331.7,
+   "curiosita": "HD 109532 è una stella bianca molto lontana: oltre 330 anni luce, una nana A con spettro composto (A2/3 con righe metalliche mA5-F0), tipico di stelle a doppia classificazione spettrale. È una delle stelle più lontane del Corvo con parallasse affidabile: un riferimento per il fondo della costellazione. Restò senza nome né lettera Bayer: le stelle così deboli entrarono nei cataloghi solo con l’era fotografica del Novecento. [Distanza: Gaia DR3 (plx 3.015±0.025 mas) via SIMBAD mesPlx → 332 al]",
+   "fonte_url": "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+109532"
+  },
+  {
+   "id": "hd110432",
+   "nome": "HD 110432 (Be calda)",
+   "bayer": "HD 110432 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,31",
+   "spettro": "B0.5 IVpe",
+   "distanza_al": 438.1,
+   "curiosita": "HD 110432 è una stella Be molto calda: una subgigante B0.5 con disco circumstellare di gas espulso dalla rotazione veloce, a438 anni luce — una delle stelle più luminose e lontane del Corvo. Il suffisso “e” indica righe di emissione nell’idrogeno: il disco di gas orbitante produce emissioni variabili che la classificano tra le variabili Gamma Cassiopeiae. È una delle stelle Be piõ calde con parallasse affidabile: un laboratorio per lo studio dei dischi circumstellari delle stelle massicce. [Distanza: Gaia DR3 (plx 2.2826±0.0765 mas) via SIMBAD mesPlx → 438.1 al]",
+   "fonte_url": "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+110432"
+  },
+  {
+   "id": "hd111996",
+   "nome": "HD 111996 (nana K fredda)",
+   "bayer": "HD 111996 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "7,5",
+   "spettro": "K4 V",
+   "distanza_al": 33.8,
+   "curiosita": "HD 111996 è una nana arancione di sequenza principale a 34 anni luce: una stella fredda (4.700 K), piccola e stabile, senza binaria documentata. È un astro di campo modesto, ma utile come riferimento per la fotometria delle nane K vicine: tipologia molto studiata per la ricerca di pianeti con il metodo delle velocità radiali, nel quadro dei programmi sui sistemi planetari intorno a nane fredde. [Distanza: Gaia DR3 (plx 29.613±0.015 mas) via SIMBAD mesPlx → 34 al]",
+   "fonte_url": "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+111996"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "horologium": [
+  {
+   "id": "alf_hor",
+   "nome": "Alpha Horologii",
+   "bayer": "α Hor (HD 26967)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,85",
+   "spettro": "K1III",
+   "distanza_al": 117,
+   "curiosita": "Alpha Horologii è la stella più brillante dell’Orologio, a 117 anni luce: una gigante arancione evoluta, un astro in tarda espansione che domina la figura dell’Horologium Pendulum, l’orologio a pendolo che Lacaille dedicò all’invenzione di Huygens, base della navigazione precisa. [Distanza: SIMBAD parallasse Gaia 27,72 mas → 36,1 pc → 118 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Horologii"
+  },
+  {
+   "id": "iota_hor",
+   "nome": "Iota Horologii",
+   "bayer": "ι Hor (HD 17051)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,40",
+   "spettro": "G0Vp",
+   "distanza_al": 56.5,
+   "curiosita": "Iota Horologii è una gemella solare giovane a 56,5 anni luce: una nana G con 1,21 masse solari e circa 480 milioni di anni, usata come modello per studiare il Sole in giovane età. Attorno orbita un pianeta gigante scoperto nel 1999 con un periodo di 320 giorni, un quasi gemello di Giove: uno dei primi sistemi planetari simili al nostro a essere identificati. [Distanza: Wikipedia en, voce Iota Horologii (56,5 al), consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Horologii"
+  },
+  {
+   "id": "bet_hor",
+   "nome": "Beta Horologii",
+   "bayer": "β Hor (HD 18866)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,98",
+   "spettro": "A3/5III(m)",
+   "distanza_al": 321,
+   "curiosita": "Beta Horologii è una gigante bianca a 321 anni luce con spettro metallico peculiare (classe Am): la rotazione lenta ha permesso la separazione chimica in strati, un fenomeno che si studia con lo spettroscopio. Sta nella parte sud della figura dell’orologio. [Distanza: SIMBAD parallasse Gaia 10,16 mas → 98,5 pc → 321 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Horologii"
+  },
+  {
+   "id": "r_hor",
+   "nome": "R Horologii",
+   "bayer": "R Hor (variabile Mira, HD 18242)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "variabile 4,7-14,3",
+   "spettro": "M7IIIe",
+   "distanza_al": 754,
+   "curiosita": "R Horologii è una variabile Mira estrema a 754 anni luce: oscilla tra 4,7 e 14,3 mag in 407 giorni, quasi dieci magnitudini di escursione, tra le più ampie del cielo. Al massimo si vede a occhio nudo, al minimo sparisce nei telescopi amatoriali: un ciclo completo di evoluzione stellare finale visibile con mezzi di media taglia. [Distanza: SIMBAD parallasse Gaia 4,32 mas → 231 pc → 754 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Horologii"
+  },
+  {
+   "id": "gj1061",
+   "nome": "GJ 1061 (nana rossa con pianeti)",
+   "bayer": "GJ 1061 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "13,03",
+   "spettro": "M5.5V",
+   "distanza_al": 12,
+   "curiosita": "GJ 1061 è una nana rossa a 12 anni luce, tra le venti stelle più vicine al Sole: nel 2020 sono stati confermati tre pianeti di massa terrestre, con il più esterno nella zona abitabile. La stella è così debole (13 mag) che nessun catalogo pre-Novecento la registrò: un mondo potenzialmente temperato a un passo galattico, invisibile agli strumenti di Bode. [Distanza: Wikipedia en, tabella stelle della costellazione (12 al), consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/GJ_1061"
+  },
+  {
+   "id": "tw_hor",
+   "nome": "TW Horologii (stella al carbonio)",
+   "bayer": "TW Hor (HD 20234)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "variabile 5,5-6,0",
+   "spettro": "C5II (stella al carbonio)",
+   "distanza_al": 1502,
+   "curiosita": "TW Horologii è la stella al carbonio più brillante del cielo: il carbonio formatosi nella fusione interna risale in superficie e assorbe la luce blu, dando al cielo un rosso rubino evidente anche a binocolo. Variabile semiregolare con periodo di 270 giorni, a circa 1500 anni luce: un’atmosfera di fuliggine cosmica in evoluzione terminale. [Distanza: SIMBAD parallasse 2,17 mas → 460 pc → 1502 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/TW_Horologii"
+  }
+ ]
+}

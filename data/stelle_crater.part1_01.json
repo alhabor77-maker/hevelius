@@ -1,0 +1,103 @@
+{
+ "crater": [
+  {
+   "id": "del_crt",
+   "nome": "Delta Crateris",
+   "bayer": "δ Crt (HD 98430)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,56",
+   "spettro": "G9 III (gigante arancione in transizione)",
+   "distanza_al": 58.8,
+   "curiosita": "Delta Crateris è la stella più luminosa della Coppa: una gigante arancione a59 anni luce, 55 volte più larga e 400 volte più luminosa del Sole. È in transizione tra il ramo delle giganti rosse e lo stadio di \"red clump\" con elio acceso al nucleo: una fase evolutiva che la rende una candela standard per la misura delle distanze galattiche. Nel disegno di Bode segna la base della coppa, la stella più profonda della figura. [Distanza: Gaia DR3 (plx 17.017±0.1617 mas) via SIMBAD mesPlx → 58.8 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Crateris"
+  },
+  {
+   "id": "bet_crt",
+   "nome": "Beta Crateris",
+   "bayer": "β Crt (HD 97277)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Il nome arabo tradizionale Al Sharasif circola in letteratura ma non è certificato.",
+   "magnitudine": "4,44 (con la compagna 4,49)",
+   "spettro": "A1 V + compagna bianca (subgigante A2)",
+   "distanza_al": 97.0,
+   "curiosita": "Beta Crateris è una binaria visuale stretta: una stella bianca A1 con una compagna di magnitudine 4,49 separata di appena 2,6 secondi d’arco, risolvibile solo con telescopi medi. Il nome tradizionale Al Sharasif, “il collo” o “la coppa rovesciata” in arabo, rimanda alla figura della coppa rovesciata del corvo: non è mai entrato nella lista IAU. È una delle stelle più meridionali della costellazione, segnata da Bode sul bordo della coppa. [Distanza: Gaia DR3 (plx 10.3043±0.1166 mas) via SIMBAD mesPlx → 97.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Crateris"
+  },
+  {
+   "id": "gam_crt",
+   "nome": "Gamma Crateris",
+   "bayer": "γ Crt (HD 99211)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,06",
+   "spettro": "A7 V (nana bianco-gialla, rotazione veloce)",
+   "distanza_al": 26.5,
+   "curiosita": "Gamma Crateris è la stella più vicina della Coppa:26 anni luce, una nana bianco-gialla A7 che ruota a oltre 150 km/s, al punto che le sue righe spettrali si allargano per la velocità di rotazione. È anche una binaria visuale con una compagna debolissima di magnitudine 9,6 a 5 secondi d’arco: una nana rossa o arancione in orbita di lunga durata. Con 4,1 mag è visibile a occhio nudo sotto cieli scuri. [Distanza: Gaia DR3 (plx 37.7065±0.1972 mas) via SIMBAD mesPlx → 26.5 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Crateris"
+  },
+  {
+   "id": "zet_crt",
+   "nome": "Zeta Crateris",
+   "bayer": "ζ Crt (HD 102070)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,71",
+   "spettro": "G8.5 III",
+   "distanza_al": 105.1,
+   "curiosita": "Zeta Crateris è una gigante arancione a105 anni luce: con delta segna la base della coppa, formando una coppia di giganti G della stessa tipologia evolutiva. È 130 volte più luminosa del Sole con 16 raggi solari, in fase di espansione post-sequenza principale. Nell’atlante di Bode le due giganti disegnano il fondo della coppa: la figura era già quella del corvo che beve nell’acqua del mito di Apollo. [Distanza: Gaia DR3 (plx 9.5113±0.2042 mas) via SIMBAD mesPlx → 105.1 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Crateris"
+  },
+  {
+   "id": "eps_crt",
+   "nome": "Epsilon Crateris",
+   "bayer": "ε Crt (HD 99167)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Il nome tradizionale Bai Shi, riportato da alcune fonti, non è certificato IAU.",
+   "magnitudine": "4,80",
+   "spettro": "K4 III (binaria spettroscopica)",
+   "distanza_al": 122.3,
+   "curiosita": "Epsilon Crateris è una gigante arancione a122 anni luce, la più lontana delle giganti K della Coppa: 100 volte più luminosa del Sole. È anche una binaria spettroscopica: la compagna non si risolve al telescopio ma si vede negli spettri, in orbita di qualche anno. Nella figura di Bode sta sul bordo orientale della coppa, accanto a zeta. [Distanza: Gaia DR3 (plx 8.178±0.1653 mas) via SIMBAD mesPlx → 122.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Crateris"
+  },
+  {
+   "id": "r_crv",
+   "nome": "R Crateris (variabile Mira)",
+   "bayer": "V* R Crv (HD 107199)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). R Crateris è una variabile Mira (attenzione: R CRV è nella Coppa, non nel Corvo).",
+   "magnitudine": "6,70 (media; variabile 6,7-14,4)",
+   "spettro": "M4.5-9e",
+   "distanza_al": 824.0,
+   "curiosita": "R Crateris è una variabile Mira della Coppa: la luminosità oscilla di quasi 8 magnitudini in circa 160 giorni, da visibile con il binocolo a invisibile nei telescopi amatoriali. A824 anni luce è una delle variabili Mira più lontane con parallasse Gaia affidabile: la sua perdita di massa (vento stellare M tipico) sta formando un involucro di polveri circumstellare studiato all’infrarosso. [Distanza: Gaia DR3 (plx 1.2136±0.0718 mas) via SIMBAD mesPlx → 824.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Crateris"
+  },
+  {
+   "id": "lc_crt",
+   "nome": "LC Crateris (nova ricorrente 1891)",
+   "bayer": "V* LC Crt (nova ricorrente, senza HD attribuito)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). LC Crt = Nova Crateris 1891.",
+   "magnitudine": "~7 all’eruzione; quiescenza ~15",
+   "spettro": "binaria: nana bianca + compagna donatrice",
+   "distanza_al": null,
+   "curiosita": "LC Crateris è la nova ricorrente scoperta nel 1891 da Williamina Fleming sulle lastre fotografiche di Harvard: la nova australe pið antica mai fotografata. Esplose con magnitudine circa 7 e si spense in poche settimane; la sua natura di binaria interagente con nana bianca è stata confermata solo nel Novecento avanzato, quando gli studi di fotometria hanno riconosciuto il pattern delle novae ricorrenti. La distanza non ha una parallasse affidabile in SIMBAD: resta incerta su alcune migliaia di anni luce, e per questo la scheda la cita senza distanza numerica. [Distanza: nessun valore affidabile in SIMBAD mesPlx: testo qualitativo]",
+   "fonte_url": "https://en.wikipedia.org/wiki/LC_Crateris"
+  },
+  {
+   "id": "hd98630",
+   "nome": "HD 98630 (gigante gialla di campo)",
+   "bayer": "HD 98630 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "8,08",
+   "spettro": "G0",
+   "distanza_al": 107.6,
+   "curiosita": "HD 98630 è una stella gialla di campo a 108 anni luce: una G0 leggermente più calda del Sole in una fase intermedia tra nana e gigante. È un astro di campo senza binaria documentata: la sua importanza è quella di essere una delle stelle HD del settore della Coppa con parallasse Gaia molto precisa (errore inferiore all’1%), riferimento per la fotometria della regione. [Distanza: Gaia DR3 (plx 9.290±0.074 mas) via SIMBAD mesPlx → 108 al]",
+   "fonte_url": "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+98630"
+  },
+  {
+   "id": "tt_crt",
+   "nome": "TT Crateris (variabile cataclismica)",
+   "bayer": "V* TT Crt",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). TT Crt è una variabile cataclismica.",
+   "magnitudine": "16,0 (in quiete)",
+   "spettro": "binaria: nana bianca + compagna M",
+   "distanza_al": 547.3,
+   "curiosita": "TT Crateris è una variabile cataclismica (nana nova) a circa547 anni luce: una nana bianca che strappa materia a una compagna rossa, con eruzioni minori (dwarf novae) documentate dal Novecento in poi. A quella distanza è una delle variabili cataclismiche più lontane con parallasse Gaia misurata: un laboratorio per lo studio del trasferimento di massa a bassa velocità di accrescimento. Hevelius non la conosceva: il cielo della Coppa che incise nascondeva sistemi binari che solo la fotometria moderna ha rivelato. [Distanza: Gaia DR3 (plx 1.8271±0.0438 mas) via SIMBAD mesPlx → 547.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/TT_Crateris"
+  }
+ ]
+}

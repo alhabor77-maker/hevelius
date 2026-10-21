@@ -1,0 +1,81 @@
+{
+ "fornax": [
+  {
+   "id": "alf_for",
+   "nome": "Dalim (Alpha Fornacis)",
+   "bayer": "α For (HD 20010)",
+   "origine_nome": "Nome IAU ufficiale: Dalim (certificato IAU 2017-10-05). Nella tavola di Bode la stella compare ancora come parte dell’Eridano (12 Eri), perché il Forno fu separato da Lacaille nel 1752.",
+   "magnitudine": "3,85",
+   "spettro": "F8V",
+   "distanza_al": 46,
+   "curiosita": "Dalim è la stella più brillante del Forno, a 46 anni luce: una nana gialla leggermente più evoluta del Sole, in coppia con una compagna debole che le osservazioni moderne risolvono come sistema evoluto. Prima di Lacaille era numerata tra le ultime stelle dell’Eridano: Bayer non le aveva mai dato una lettera. Il nome IAU Dalim riprende una denominazione araba tardiva della tradizione stellare. [Distanza: SIMBAD parallasse Gaia 71,43 mas → 14,0 pc → 46 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Fornacis"
+  },
+  {
+   "id": "bet_for",
+   "nome": "Beta Fornacis",
+   "bayer": "β For (HD 17652)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,45",
+   "spettro": "G8III",
+   "distanza_al": 177,
+   "curiosita": "Beta Fornacis è una gigante gialla a 177 anni luce: con 4,4 mag è la seconda stella del Forno, e ai suoi piedi sta l’oggetto più celebre della costellazione, la galassia nana sferoidale di Fornax, un piccolo satellite della Via Lattea scoperto solo nel 1938. [Distanza: SIMBAD parallasse Gaia 18,46 mas → 54,2 pc → 177 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Fornacis"
+  },
+  {
+   "id": "nu_for",
+   "nome": "Nu Fornacis",
+   "bayer": "ν For (HD 12767)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,68 (variabile 4,68-4,73)",
+   "spettro": "B9.5p Si (peculiare)",
+   "distanza_al": 347,
+   "curiosita": "Nu Fornacis è una stella peculiare a silicio a 347 anni luce: le classi Ap/Bp hanno atmosfere stratificate da campi magnetici, con abbondanze chimiche anomale che rendono lo spettro riconoscibile. La luce oscilla con periodo di 1,89 giorni, come le variabili Alpha2 CVn: un’anomalia chimica osservabile con lo spettroscopio, invisibile all’occhio nudo. [Distanza: SIMBAD parallasse Gaia 9,40 mas → 106 pc → 347 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Fornacis"
+  },
+  {
+   "id": "eps_for",
+   "nome": "Epsilon Fornacis",
+   "bayer": "ε For (HD 18907)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,85",
+   "spettro": "G9V",
+   "distanza_al": 104,
+   "curiosita": "Epsilon Fornacis è una nana arancione a 104 anni luce: una binaria spettroscopica con compagna stretta, tra le stelle di classe G più vicine al Sole nel cielo australe profondo. [Distanza: SIMBAD parallasse Gaia 31,31 mas → 31,9 pc → 104 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Fornacis"
+  },
+  {
+   "id": "hd20781",
+   "nome": "HD 20781 (sistema planetario)",
+   "bayer": "HD 20781 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "8,44",
+   "spettro": "G9.5V",
+   "distanza_al": 117,
+   "curiosita": "HD 20781 è una nana gialla debole a 117 anni luce con quattro pianeti di massa superiore alla Terra: il sistema fa coppia con HD 20794, un’altra nana G della stessa costellazione con un sistema multiplu studiato per il moto oscillante dei pianeti. Un campo di ricerca moderno in una zona che Bode incise quasi vuota. [Distanza: SIMBAD parallasse Gaia 27,81 mas → 36,0 pc → 117 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_20781"
+  },
+  {
+   "id": "fornax_dsph",
+   "nome": "Galassia nana di Fornax",
+   "bayer": "Fornax dSph (galassia nana sferoidale)",
+   "origine_nome": "Nessun nome IAU: scoperta nel 1938 da Harlow Shapley, oltre un secolo dopo il rame di Bode.",
+   "magnitudine": "8,5 (integrata)",
+   "spettro": "galassia nana sferoidale",
+   "distanza_al": 460000,
+   "curiosita": "La nana sferoidale di Fornax è un satellite della Via Lattea a 460.000 anni luce: contiene sei ammassi globulari, un numero record per una nana di questo tipo, e le sue popolazioni stellari multiple ne fanno un laboratorio di archeologia galattica. Il cielo apparentemente vuoto che Bode incise come Apparatus Chemicus, il forno chimico, è in realtà popolato di galassie. [Distanza: Wikipedia en, voce Fornax Dwarf, consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Fornax_Dwarf"
+  },
+  {
+   "id": "ngc1365",
+   "nome": "NGC 1365 (galassia spirale barrata)",
+   "bayer": "NGC 1365 (galassia, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU: catalogata da John Herschel nel 1835, trentaquattro anni dopo la tavola.",
+   "magnitudine": "9,63",
+   "spettro": "galassia spirale barrata (Seyfert 1)",
+   "distanza_al": 61000000,
+   "curiosita": "NGC 1365 è una delle spirali barrate più fotogeniche del cielo, a 61 milioni di anni luce: la barra centrale convoglia gas verso il buco nero centrale, attivo come Seyfert 1. È il membro principale dell’ammasso di Fornax, il secondo ammasso ricco di galassie più vicino: il Forno custodisce uno dei grandi monumenti extragalattici. [Distanza: Wikipedia en, voce NGC 1365, consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/NGC_1365"
+  }
+ ]
+}

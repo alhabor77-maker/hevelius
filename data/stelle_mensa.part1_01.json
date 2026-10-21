@@ -1,0 +1,70 @@
+{
+ "mensa": [
+  {
+   "id": "alf_men",
+   "nome": "Alpha Mensae",
+   "bayer": "α Men (HD 35294, CD-77 219)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). α Mensae di Lacaille, 1756: la Montagna della Tavola («Mons Mensae» in latino, «le Montagne de la Table» in francese), il monte Table che domina il Capo di Buona Speranza.",
+   "magnitudine": "8,4 (V); G 8,22",
+   "spettro": "G1/3(IV) subgigante gialla, SB* (binaria spettroscopica) in SIMBAD",
+   "distanza_al": null,
+   "curiosita": "Mensa detiene il primato negativo della stella «alfa» più debole dell'intero cielo: nessuna componente della costellazione è ben visibile a occhio nudo, e α Men a mag 8,4 resta oltre il limite della vista. SIMBAD la classifica come binaria spettroscopica a lungo periodo, con la compagna non risolvibile; il dato di parallasse Gaia DR3 per oggetti doppi di questo tipo è poco affidabile, per cui la distanza resta indicativa. La costellazione celebra un luogo terrestre: il monte Table (1.086 m), il profilo piatto che domina il Capo di Buona Speranza, da cui Lacaille compilò il suo catalogo australe nel 1751-1753. [Distanza: SIMBAD plx_value 1,6308±0,0251 mas (Gaia DR3) → 2.000 al; otype SB*: valore indicativo — verificato 21/10/2026 via SIMBAD TAP]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+35294"
+  },
+  {
+   "id": "bet_men",
+   "nome": "Beta Mensae",
+   "bayer": "β Men (HD 35875, HIP 25307)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Beta di Lacaille, 1756.",
+   "magnitudine": "8,31 (V); G 8,30",
+   "spettro": "A3/4V stella bianca di sequenza principale, classe Pu* in SIMBAD",
+   "distanza_al": 1137,
+   "curiosita": "Stella bianca di tipo A3/4V a 1.137 anni luce: anche la «beta» della Montagna della Tavola resta oltre il limite della vista a occhio nudo. Mensa è l'unica costellazione IAU che celebra un luogo terrestre, e si estende nell'emisfero australe fino a contenere gran parte della Grande Nube di Magellano, la galassia satellite più vicina alla Via Lattea, visibile come chiazza nebbiosa a occhio nudo. [Distanza: SIMBAD plx_value 2,8686±0,042 mas (Gaia DR3) → 1.137 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+35875"
+  },
+  {
+   "id": "gam_men",
+   "nome": "Gamma Mensae",
+   "bayer": "γ Men (HD 35708, HIP 25539)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Gamma di Lacaille, 1756.",
+   "magnitudine": "4,87 (V); G 4,83",
+   "spettro": "B2.5V stella azzurra di sequenza principale",
+   "distanza_al": 604,
+   "curiosita": "La stella azzurra più calda di Mensa: primaria di tipo B2.5V a 604 anni luce, è la stella più luminosa della costellazione in assoluto e l'unica visibile a occhio nudo da un cielo medio. Curiosamente SIMBAD elenca la stella con la designazione «o Tau»: la stella si trova infatti in una regione di confine storicamente contesa tra Mensa e il Toro (Taurus) delle vecchie mappe, e la designazione principale di SIMBAD segue il catalogo BD. La designazione γ segue il catalogo di Lacaille. [Distanza: SIMBAD plx_value 5,3969±0,1405 mas (Gaia DR3) → 604 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+35708"
+  },
+  {
+   "id": "del_men",
+   "nome": "Delta Mensae",
+   "bayer": "δ Men (HD 32818, HIP 23689)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Delta di Lacaille, 1756.",
+   "magnitudine": "8,32 (V); G 8,31",
+   "spettro": "A2V stella bianca di sequenza principale",
+   "distanza_al": 864,
+   "curiosita": "Stella bianca di tipo A2V a 864 anni luce. La Montagna della Tavola, stretta tra Dorado, Volans, Chamaeleon e Octans, fu per decenni una delle costellazioni più trascurate dell'emisfero australe: solo nel Novecento, con lo studio della Grande Nube di Magellano che ne occupa gran parte del territorio, divenne una delle zone più osservate del cielo australe. [Distanza: SIMBAD plx_value 3,7734±0,0287 mas (Gaia DR3) → 864 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+32818"
+  },
+  {
+   "id": "eps_men",
+   "nome": "Epsilon Mensae",
+   "bayer": "ε Men (HD 35263, CD-77 219)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Epsilon di Lacaille, 1756.",
+   "magnitudine": "9,72 (V); G 9,51",
+   "spettro": "G6V nana gialla",
+   "distanza_al": 991,
+   "curiosita": "Nana gialla di tipo G6V a 991 anni luce, tra le componenti più deboli della costellazione. Mensa non esisteva nell'atlas di Bayer (1603): nacque nel 1756 con le mappe di Lacaille e comparve nella Uranographia di Bode del 1801 come «Mons Mensae», mantenendo il nome fino a oggi. È l'unica costellazione IAU a celebrare una montagna, scelta che Lacaille fece per ricordare il sito delle sue osservazioni. [Distanza: SIMBAD plx_value 3,2909±0,0132 mas (Gaia DR3) → 991 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+35263"
+  },
+  {
+   "id": "pi_men",
+   "nome": "Pi Mensae",
+   "bayer": "π Men (HD 39091, HIP 26394)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Pi di Lacaille, 1756.",
+   "magnitudine": "5,67 (V); G 5,51",
+   "spettro": "G0V gemella solare",
+   "distanza_al": 60,
+   "curiosita": "La stella più vicina e una delle più luminose della costellazione: una gemella del Sole (G0V) a 60 anni luce, appena visibile a occhio nudo. Nel 2001 lo spettrografo CORALIE le ha scoperto un pianeta gigante gassoso su un'orbita molto eccentrica; successivamente il satellite TESS, nel 2018, vi ha aggiunto un secondo pianeta, un super-Terra su un'orbita di 6,27 giorni, rilevato con il metodo del transito: π Men è così uno dei pochi sistemi con un gigante su orbita larga e un pianeta roccioso ravvicinato. Nella campagna NameExoWorlds dell'IAU del 2019 il pianeta gigante ha ricevuto il nome Anna, dalla tradizione delle Isole Marshall. [Distanza: SIMBAD plx_value 54,6825±0,0354 mas (Gaia DR3) → 60 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+39091"
+  }
+ ]
+}

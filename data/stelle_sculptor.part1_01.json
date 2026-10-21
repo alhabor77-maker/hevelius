@@ -1,0 +1,81 @@
+{
+ "sculptor": [
+  {
+   "id": "alf_scl",
+   "nome": "Alpha Sculptoris",
+   "bayer": "α Scl (HD 5737)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,30",
+   "spettro": "B7IIIp (variabile SX Ari)",
+   "distanza_al": 705,
+   "curiosita": "Alpha Sculptoris è la stella più brillante dello Scultore, a 705 anni luce: una gigante B7 peculiare, variabile SX Arietis con campo magnetico e righe chimiche anomale. La costellazione è tra le più povere di stelle brillanti: Lacaille la disegnò nel 1752 proprio in una zona vuota intorno al polo sud, come cavalletto con un busto marmoreo. [Distanza: SIMBAD parallasse Gaia 4,62 mas → 216 pc → 705 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Sculptoris"
+  },
+  {
+   "id": "bet_scl",
+   "nome": "Beta Sculptoris",
+   "bayer": "β Scl (HD 221507)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,38 (variabile 4,35-4,39)",
+   "spettro": "B9.5IV HgMn (peculiare)",
+   "distanza_al": 183,
+   "curiosita": "Beta Sculptoris è una stella peculiare al mercurio-manganese a 183 anni luce: una B con abbondanze chimiche anomale generate dalla stratificazione dell’atmosfera sotto rotazione lenta, con lievi oscillazioni di classe Alpha2 CVn. È la seconda stella della costellazione per luminosità. [Distanza: SIMBAD parallasse Gaia 17,81 mas → 56,2 pc → 183 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Sculptoris"
+  },
+  {
+   "id": "gam_scl",
+   "nome": "Gamma Sculptoris",
+   "bayer": "γ Scl (HD 219784)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,41",
+   "spettro": "K1III",
+   "distanza_al": 189,
+   "curiosita": "Gamma Sculptoris è una gigante arancione a 189 anni luce: variabile di lieve entità (0,004 mag in 0,1 giorni), misurabile solo con la fotometria spaziale di precisione. Nella tavola XVII sta nel corpo dell’Apparatus Sculptoris, il cavalletto dello scultore disegnato da Lacaille. [Distanza: SIMBAD parallasse Gaia 17,29 mas → 57,8 pc → 189 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Sculptoris"
+  },
+  {
+   "id": "eps_scl",
+   "nome": "Epsilon Sculptoris",
+   "bayer": "ε Scl (HD 10830)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,29",
+   "spettro": "F1IV",
+   "distanza_al": 92,
+   "curiosita": "Epsilon Sculptoris è una subgigante gialla a 92 anni luce, un astro in transizione che sta finendo l’idrogeno centrale: al telescopio si risolve in doppia con una compagna debole a 4,5 secondi d’arco, una coppia con periodo orbitale stimato in decenni. [Distanza: SIMBAD parallasse Gaia 35,64 mas → 28,1 pc → 92 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Sculptoris"
+  },
+  {
+   "id": "gliese1",
+   "nome": "Gliese 1 (nana rossa vicina)",
+   "bayer": "CD-37 15492 / Gl 1 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "8,63",
+   "spettro": "M1.5V",
+   "distanza_al": 14.2,
+   "curiosita": "Gliese 1 è una nana rossa a 14,1 anni luce, tra le stelle più vicine al Sole: invisibile a occhio nudo per la debolezza, ma memorabile nel catalogo Gliese delle nane rosse di prossimità. Nel 1801 il cielo inciso da Bode conteneva vicine così strette, solo senza una luce sufficiente a farle entrare nei cataloghi d’epoca. [Distanza: SIMBAD parallasse 230,10 mas → 4,35 pc → 14,2 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gliese_1"
+  },
+  {
+   "id": "sculptor_dsph",
+   "nome": "Galassia nana dello Scultore",
+   "bayer": "Sculptor dSph (galassia nana sferoidale)",
+   "origine_nome": "Nessun nome IAU: scoperta nel 1937 da Harlow Shapley, la prima galassia nana sferoidale mai individuata.",
+   "magnitudine": "8,1 (integrata)",
+   "spettro": "galassia nana sferoidale",
+   "distanza_al": 280000,
+   "curiosita": "La nana sferoidale dello Scultore, a 280.000 anni luce, fu la prima galassia nana sferoidale mai scoperta (Shapley, 1937): un fossile povero di gas, dominato da stelle antiche, studiato oggi come laboratorio di materia oscura. La costellazione assegnata da Lacaille a un cavalletto da scultura è diventata un campo chiave dell’archeologia galattica. [Distanza: Wikipedia en, voce Sculptor Dwarf Galaxy, consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sculptor_Dwarf_Galaxy"
+  },
+  {
+   "id": "ngc253",
+   "nome": "NGC 253 (galassia dello Scultore)",
+   "bayer": "NGC 253 (galassia, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU: scoperta da Caroline Herschel nel 1783, quindi già nota come nebbia ai tempi di Bode.",
+   "magnitudine": "7,1",
+   "spettro": "galassia spirale starburst (Seyfert)",
+   "distanza_al": 11000000,
+   "curiosita": "NGC 253 è una delle galassie più luminose del cielo australe dopo le Nubi Magellane: una spirale starburst a 11 milioni di anni luce, con un tasso di formazione stellare molto superiore al nostro. Con 7,1 mag è visibile con binocoli di media apertura: nella stessa zona di cielo Lacaille aveva visto solo vuoto, e le nebbie del sud furono catalogate sistematicamente solo un secolo dopo. [Distanza: Wikipedia en, voce Sculptor Galaxy, consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Sculptor_Galaxy"
+  }
+ ]
+}

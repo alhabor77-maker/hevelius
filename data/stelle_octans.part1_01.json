@@ -1,0 +1,59 @@
+{
+ "octans": [
+  {
+   "id": "sigma_oct",
+   "nome": "Sigma Octantis (Polaris Australis)",
+   "bayer": "σ Oct (HD 222325, SAO 258800)",
+   "origine_nome": "Nome IAU ufficiale: Polaris Australis, approvato dall'IAU (certificato nel 2016 nella prima lista del WGSN). Prima della latinizzazione il nome compariva come «Sigma Octantis» nelle carte del Novecento.",
+   "magnitudine": "7,98 (V); G 7,51",
+   "spettro": "K0 gigante arancione",
+   "distanza_al": 2166,
+   "curiosita": "La «stella polare sud»: σ Octanis dista dal polo sud celeste poco più di un grado e ne condivide il destino di riferimento per la navigazione australe. Ma a differenza della Polaris boreale, è così debole (mag 7,98, G 7,51) da essere invisibile a occhio nudo: per trovarla al telescopio serve un cielo molto buio, per questo i navigatori austruali usano la Croce del Sud per orientarsi. Il nome Polaris Australis è registrato dall'IAU tra i nomi ufficiali; la costellazione Octans («loctante», lo strumento di navigazione che misura l'altezza delle stelle) fu disegnata da Lacaille nel 1756 proprio in onore di quel naviglio. [Distanza: SIMBAD plx_value 1,5058±0,0165 mas (Gaia DR3) → 2.166 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+222325"
+  },
+  {
+   "id": "beta_oct",
+   "nome": "Beta Octantis",
+   "bayer": "β Oct (HD 224809, CD-82 779)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Beta di Lacaille, 1756.",
+   "magnitudine": "9,56 (V); G 9,28",
+   "spettro": "G8IV subgigante gialla",
+   "distanza_al": 1974,
+   "curiosita": "Subgigante di tipo G8IV a quasi 2.000 anni luce, β Oct è tra le componenti più lontane della costellazione. Octans è la costellazione più meridionale dell'intero cielo IAU e contiene il polo sud celeste: nessuna stella brillante lo segna, e la regione resta una delle più povere dell'intera sfera celeste. Il nome fa riferimento all'octans, l'ottavo di cerchio usato per la navigazione prima del sestante, che Lacaille aveva effettivamente usato per le sue osservazioni. [Distanza: SIMBAD plx_value 1,6519±0,0336 mas (Gaia DR3) → 1.974 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+224809"
+  },
+  {
+   "id": "theta_oct",
+   "nome": "Theta Octantis",
+   "bayer": "θ Oct (HD 222369, HIP 116782)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Theta di Lacaille, 1756.",
+   "magnitudine": "10,57 (V); G 10,43",
+   "spettro": "F2 stella bianco-gialla",
+   "distanza_al": 656,
+   "curiosita": "Stella di tipo F2 a 656 anni luce, tra le componenti più deboli della costellazione: serve un telescopio di media apertura per individuarla. Theta Octantis si trova vicino al polo sud celeste, che nel 2100 sarà ancora più prossimo a σ Oct; la precessione degli equinozi porterà il polo vicino a β Oct e poi a δ Oct nei prossimi millenni, senza mai avvicinarsi a una stella davvero brillante. [Distanza: SIMBAD plx_value 4,9711±0,0241 mas (Gaia DR3) → 656 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+222369"
+  },
+  {
+   "id": "nu_oct",
+   "nome": "Nu Octantis",
+   "bayer": "ν Oct (HD 205478, HIP 107089)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Nu di Lacaille, 1756.",
+   "magnitudine": "3,73 (V); G 3,47",
+   "spettro": "K1III gigante arancione, SB* (binaria spettroscopica) in SIMBAD",
+   "distanza_al": 63,
+   "curiosita": "La stella più brillante dell'Octante: una gigante arancione di tipo K1III a soli 63 anni luce, ben visibile a occhio nudo dal cielo australe. È una binaria spettroscopica con periodo di circa 2,9 anni: la compagna, di massa bassa, fu rilevata con la spettroscopia di precisione; sul cielo la coppia è anche risolvibile come doppia visuale (WDS J21415-7723AB). Studi recenti di HARPS hanno discusso la presenza di un eventuale pianeta nel sistema, con dati ancora discussi in letteratura. [Distanza: SIMBAD plx_value 51,5172±0,6525 mas (Gaia DR3) → 63 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+205478"
+  },
+  {
+   "id": "lam_oct",
+   "nome": "Lambda Octantis",
+   "bayer": "λ Oct (HD 216403, HIP 112985)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Lambda di Lacaille, 1756.",
+   "magnitudine": "8,39 (V); G 8,10",
+   "spettro": "G8/K0III gigante arancione",
+   "distanza_al": 851,
+   "curiosita": "Gigante arancione di tipo G8/K0III a 851 anni luce: anche λ Oct resta oltre il limite della vista a occhio nudo. La costellazione dell'Octante, introdotta da Lacaille per ricordare lo strumento che portò con sé al Capo di Buona Speranza, è oggi l'unica il cui nome in latino (Octans) deriva da uno strumento di navigazione: l'IAU la confermò nel 1922 tra le 88 costellazioni, con i confini fissati da Delporte nel 1930. [Distanza: SIMBAD plx_value 3,8316±0,0237 mas (Gaia DR3) → 851 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+216403"
+  }
+ ]
+}

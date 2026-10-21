@@ -1,0 +1,81 @@
+{
+ "microscopium": [
+  {
+   "id": "alf_mic",
+   "nome": "Alpha Microscopii",
+   "bayer": "α Mic (HD 197693)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,89",
+   "spettro": "G7III",
+   "distanza_al": 395,
+   "curiosita": "Alpha Microscopii è la stella più brillante del Microscopio, a 395 anni luce: una gigante gialla evoluta, con oltre 6 volte la massa solare e una luminosità di circa 100 soli. La costellazione fu disegnata da Lacaille nel 1752 come omaggio allo strumento che rivoluzionò la biologia nel Settecento: un microscopio inciso in cielo, con le stelle deboli a comporre il disegno. [Distanza: SIMBAD parallasse Gaia 8,25 mas → 121 pc → 395 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Microscopii"
+  },
+  {
+   "id": "gam_mic",
+   "nome": "Gamma Microscopii",
+   "bayer": "γ Mic (HD 199951)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,68",
+   "spettro": "G6III",
+   "distanza_al": 254,
+   "curiosita": "Gamma Microscopii è una gigante gialla a 254 anni luce: un’antica nana G in fase di espansione, con circa 2,5 masse solari, ora classificata K. È la seconda stella della costellazione per luminosità e al telescopio mostra un colore giallo-arancio distintivo, un astro evoluto visibile a occhio nudo in un cielo australe buono. [Distanza: SIMBAD parallasse Gaia 12,83 mas → 77,9 pc → 254 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Microscopii"
+  },
+  {
+   "id": "eps_mic",
+   "nome": "Epsilon Microscopii",
+   "bayer": "ε Mic (HD 197630)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,71",
+   "spettro": "A1V",
+   "distanza_al": 169,
+   "curiosita": "Epsilon Microscopii è una nana bianca di classe A a 169 anni luce: con 4,7 mag è la stella più facile da identificare della costellazione, un astro giovane e caldo che spicca in un campo di giganti evolute. [Distanza: SIMBAD parallasse Gaia 19,30 mas → 51,8 pc → 169 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Microscopii"
+  },
+  {
+   "id": "th_mic",
+   "nome": "Theta Microscopii",
+   "bayer": "θ Mic (θ¹ HD 201892 + θ² HD 201958)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,80 (θ¹) e 6,75 (θ²)",
+   "spettro": "A2IV (variabile Alpha2 CVn) + A0V",
+   "distanza_al": 162,
+   "curiosita": "Theta Microscopii è una coppia di stelle A a 162 anni luce: la principale, Theta1, è peculiare con righe metalliche anomale e variabilità di classe Alpha2 CVn, la secondaria è una A0 debolissima. La costellazione del Microscopio è tra le più povere di stelle brillanti: Lacaille la disegnò in una zona che i cartografi precedenti avevano lasciato vuota. [Distanza: SIMBAD parallasse Gaia 20,17 mas → 49,6 pc → 162 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Microscopii"
+  },
+  {
+   "id": "at_mic",
+   "nome": "AT Microscopii (nane rosse flare)",
+   "bayer": "AT Mic (variabile, HD 196982)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "variabile 10,2-10,6",
+   "spettro": "M4.5Ve + M4.5Ve (binaria)",
+   "distanza_al": 35,
+   "curiosita": "AT Microscopii è una coppia di nane rosse a 35 anni luce, entrambe stelle flare: ben note per i lampi di raggi X e UV generati dall’attività magnetica, con picchi luminosi osservabili in tempo reale. Nel 1990 la sonda Voyager 2 ha registrato i brilli della coppia dal lato opposto del cielo: un episodio raro di osservazione interplanetaria. [Distanza: SIMBAD parallasse 93,5 mas → 10,7 pc → 34,9 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/AT_Microscopii"
+  },
+  {
+   "id": "au_mic_mic",
+   "nome": "AU Microscopii (AU Mic, nana rossa con disco e pianeti)",
+   "bayer": "HD 197481 / AU Mic (variabile, senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "variabile 8,6-8,9",
+   "spettro": "M1Ve",
+   "distanza_al": 32,
+   "curiosita": "AU Microscopii è la variabile più studiata del Microscopio: nana rossa a 32 anni luce con 22 milioni di anni, disco di detriti di 235 unità astronomiche e due pianeti terrestri confermati con il transito. È il gemello australe di Beta Pictoris nel campo della formazione planetaria: il Microscopio ospita uno dei laboratori stellari giovanissimi più accessibili. [Distanza: SIMBAD parallasse Gaia 102,94 mas → 9,71 pc → 31,7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/AU_Microscopii"
+  },
+  {
+   "id": "lak9",
+   "nome": "Lacaille 9352 (nana rossa vicina)",
+   "bayer": "Lacaille 9352 / GJ 887 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "7,34",
+   "spettro": "M0.5V",
+   "distanza_al": 10.7,
+   "curiosita": "Lacaille 9352 è una nana rossa a 10,7 anni luce, tra le venti stelle più vicine al Sole: fu catalogata da Lacaille stesso nel 1752, durante la spedizione al Capo di Buona Speranza, e porta il suo nome nel catalogo di prossimità. Nel 2020 sono stati confermati due pianeti di massa superiore alla Terra e un segnale di un terzo nella zona abitabile. La costellazione dedicata al microscopio custodisce una delle nostre vicine. [Distanza: SIMBAD/Wikipedia Lacaille 9352 (10,72 al)]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Lacaille_9352"
+  }
+ ]
+}

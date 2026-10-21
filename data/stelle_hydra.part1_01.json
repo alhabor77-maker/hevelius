@@ -1,0 +1,136 @@
+{
+ "hydra": [
+  {
+   "id": "alf_hya",
+   "nome": "Alphard",
+   "bayer": "α Hya (HD 81797)",
+   "origine_nome": "Nome IAU ufficiale: Alphard, certificato dal WGSN il 6 novembre 2016. Dall’arabo al-fard al-shuja‘, “la solitaria del serpente”: la stella brillante più vicina alla Croce del Sud del cielo boreale non ha alcuna vicina di magnitudine simile, di qui il nome.",
+   "magnitudine": "1,97 (variabile 1,80-2,30 circa)",
+   "spettro": "K3 III",
+   "distanza_al": 55.3,
+   "curiosita": "Alphard è la “cuore solitario” dell’Idra: una gigante arancione K3 di55 anni luce con un lieve campo magnetico rilevato nel 2016 dalla missione TESS, tra le prime giganti fredde con magnetismo misurato direttamente. I cinesi la chiamavano Xingguan, il “colonnino”, il sesto capitello del tempio celeste della Fenice; i navigatori arabi la usavano come punto di riferimento del cielo australe. Sulla tavola XIX di Bode la stella domina il collo dell’Idra, incisa come un punto grande e brillante. [Distanza: Hipparcos van Leeuwen 2007 (plx 18.09±0.18 mas) via SIMBAD mesPlx → 55.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Hydrae"
+  },
+  {
+   "id": "gam_hya",
+   "nome": "Gamma Hydrae",
+   "bayer": "γ Hya (HD 115659)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,00",
+   "spettro": "G8 IIIa",
+   "distanza_al": 41.0,
+   "curiosita": "Gamma Hydrae è una gigante gialla-arancio di41 anni luce, la terza stella della costellazione per luminosità. Nel 2020 la IAU le ha assegnato un nome dalla tradizione cinese: Naga, il “serpente”, in una serie di nomi assegnati a stelle di costellazioni senza mitologia greca. È una delle stelle più meridionali della costellazione: sulla tavola XIX di Bode chiude la coda dell’Idra vicino al Corvo. [Distanza: Hipparcos van Leeuwen 2007 (plx 24.37±0.15 mas) via SIMBAD mesPlx → 41.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Hydrae"
+  },
+  {
+   "id": "r_hya",
+   "nome": "R Hydrae",
+   "bayer": "R Hya (HD 117287)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). R Hya è una variabile Mira, designazione di variabile R.",
+   "magnitudine": "4,97 (media; variabile 3,5-10,9)",
+   "spettro": "M6-9e",
+   "distanza_al": 148.5,
+   "curiosita": "R Hydrae è stata la prima variabile Mira con periodo noto dopo Mira stessa: il suo periodo è sceso da circa 500 giorni (misurati nel Settecento) ai circa 389 giorni attuali, la prima variazione di periodo mai documentata in una stella variabile. Ha un gigantesco bow shock di polvere, fotografato da Spitzer: il vento della stella collida con il mezzo interstellare creando un’onda di prua di oltre 16.000 unità astronomiche, la più ampia mai risolta attorno a una gigante rossa. A circa148 anni luce è una delle variabili Mira più vicine e luminose, osservabile col binocolo al massimo. [Distanza: Gaia DR3 (plx 6.7355±0.4635 mas) via SIMBAD mesPlx → 148.5 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Hydrae"
+  },
+  {
+   "id": "eps_hya",
+   "nome": "Epsilon Hydrae",
+   "bayer": "ε Hya (HD 74874)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,38",
+   "spettro": "G1 III + A8 V",
+   "distanza_al": 39.6,
+   "curiosita": "Epsilon Hydrae è un sistema multiplo di almeno quattro stelle a40 anni luce: una coppia stretta di gigante gialla e subgigante bianca (periodo di 15 anni, separazione di appena 0,2 secondi d’arco) e una compagna A8 visivamente separata di 8 secondi d’arco, risolvibile con piccoli telescopi. È anche una binaria a eclisse (frazione minima di luce dell’ordine del centesimo di magnitudine): un sistema complesso per la variabilità di ogni componente. Nella figura di Bode sta sulla spalla dell’Idra. [Distanza: Hipparcos van Leeuwen 2007 (plx 25.23±0.98 mas) via SIMBAD mesPlx → 39.6 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Hydrae"
+  },
+  {
+   "id": "zet_hya",
+   "nome": "Zeta Hydrae",
+   "bayer": "ζ Hya (HD 76294)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,10",
+   "spettro": "G8.5 III",
+   "distanza_al": 51.3,
+   "curiosita": "Zeta Hydrae è una gigante gialla di51 anni luce che, con epsilon e eta, forma la testa dell’Idra: le tre stelle di magnitudine 3-4 disegnano il capo del serpente nell’atlante di Bode. È una gigante evoluta di campo, senza binaria documentata: 40 volte più luminosa del Sole con 9 raggi solari, in rapida espansione verso lo stadio di gigante rossa. [Distanza: Hipparcos van Leeuwen 2007 (plx 19.51±0.18 mas) via SIMBAD mesPlx → 51.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Hydrae"
+  },
+  {
+   "id": "nu_hya",
+   "nome": "Nu Hydrae",
+   "bayer": "ν Hya (HD 93813)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,11",
+   "spettro": "K1.5 III",
+   "distanza_al": 42.0,
+   "curiosita": "Nu Hydrae è una gigante arancione di42 anni luce, una delle stelle più vicine della costellazione. È una sorgente X debole e una variabile lieve di classe K: rientra nella famiglia delle giganti con attività magnetica, in una fase evolutiva in cui il motore magnetoconvettivo sta diminuendo con il raffreddamento della stella. Nella tradizione cinese fa parte dell’asterismo Xingguan insieme ad Alphard. [Distanza: Gaia DR3 (plx 23.794±0.1695 mas) via SIMBAD mesPlx → 42.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Nu_Hydrae"
+  },
+  {
+   "id": "pi_hya",
+   "nome": "Pi Hydrae",
+   "bayer": "π Hya (HD 123123)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,28",
+   "spettro": "K2 III",
+   "distanza_al": 31.0,
+   "curiosita": "Pi Hydrae è una gigante arancione a31 anni luce: la stella più vicina tra le giganti K della costellazione. È una sorgente X documentata, con attività coronale residua tipica di una gigante giovane appena uscita dalla sequenza principale: 3 miliardi di anni, 1,4 masse solari e 13 raggi solari. Nella figura di Bode sta sul ventre dell’Idra, poco prima del tornante della coda. [Distanza: Hipparcos van Leeuwen 2007 (plx 32.3±0.16 mas) via SIMBAD mesPlx → 31.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Pi_Hydrae"
+  },
+  {
+   "id": "ksi_hya",
+   "nome": "Xi Hydrae",
+   "bayer": "ξ Hya (HD 100407)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,54",
+   "spettro": "G7 IIIb",
+   "distanza_al": 39.7,
+   "curiosita": "Xi Hydrae è una gigante gialla-arancio a40 anni luce: una variabile semiregolare documentata con piccole oscillazioni di luce (0,05 mag) tipiche delle giganti fredde in fase di pulsazione radiale. Con 31 raggi solari e 135 luminosità solari, è una stella di media età (circa 1 miliardo di anni) che sta attraversando lo stadio di gigante: nel futuro prossimo gonfierà ancora, prima di esplodere come supernova o spegnersi come nana bianca. [Distanza: Hipparcos van Leeuwen 2007 (plx 25.16±0.16 mas) via SIMBAD mesPlx → 39.7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Xi_Hydrae"
+  },
+  {
+   "id": "vy_hya",
+   "nome": "VY Hydrae (binaria a eclisse con disco)",
+   "bayer": "VY Hya (HD 89639)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). VY Hya è una designazione di variabile.",
+   "magnitudine": "9,64 (variabile)",
+   "spettro": "A8/9 V",
+   "distanza_al": 283.7,
+   "curiosita": "VY Hydrae è una stella poco nota ma curiosa: una binaria interagente a circa284 anni luce in cui una stella A8 si accresce di materia da una compagna vicino al confine gigante, con un disco circumstellare compatto e un alto moto spaziale (circa 120 km/s): un sistema di trasferimento di massa in un’antica configurazione binaria. È una delle variabili V della costellazione con il numero più alto di studi fotometrici, studiata come laboratorio di evoluzione binaria. [Distanza: Gaia DR3 (plx 3.5254±0.0228 mas) via SIMBAD mesPlx → 283.7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/VY_Hydrae"
+  },
+  {
+   "id": "hd10180",
+   "nome": "HD 10180 (sistema con 9 pianeti)",
+   "bayer": "HD 10180 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "7,32",
+   "spettro": "G1 V",
+   "distanza_al": 39.0,
+   "curiosita": "HD 10180 è una gemella solare a39 anni luce con uno dei sistemi planetari piõ ricchi mai scoperti: confermati 6 pianeti, con due ulteriori candidati, per un totale di 9 corpi possibili — comparabile col sistema solare. Scoperto nel 2010 con il metodo delle velocità radiali, contiene planeti di tipo nettuniano caldi e una cintura di asteroidi analoga alla nostra. È il riferimento dei sistemi planetari densi della costellazione: un laboratorio naturale per la dinamica planetaria. [Distanza: Gaia DR3 (plx 25.6611±0.0146 mas) via SIMBAD mesPlx → 39.0 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_10180"
+  },
+  {
+   "id": "gj357",
+   "nome": "GJ 357 (nana rossa con 3 pianeti)",
+   "bayer": "GJ 357 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "10,91",
+   "spettro": "M2.5 V",
+   "distanza_al": 30.6,
+   "curiosita": "GJ 357 è una nana rossa a soli 31 anni luce con tre pianeti scoperti nel 2019 dal satellite TESS, tra cui GJ 357 d — una super Terra in zona abitabile che ha fatto notizia per il potenziale di osservazione atmosferica con il JWST. Il pianeta interno, GJ 357 b, è una super Terra caldissima di 3,4 masse terrestri con periodo di 3,9 giorni: uno dei sistemi multipli piõ facili da studiare con lo spettrografo infrarosso. Hevelius non la vide mai: la stella è troppo debole per i cataloghi storici, ma il cielo dell’Idra che incise la contiene. [Distanza: Gaia DR3 (plx ~77 mas) via Wikipedia en → 31 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/GJ_357"
+  },
+  {
+   "id": "hydra_m48",
+   "nome": "Ammasso M48 (in campo dell’Idra)",
+   "bayer": "ammasso aperto M48 (NGC 2548), post-Bayer",
+   "origine_nome": "Oggetto profondo, non una stella: nessun nome IAU. Messier 48.",
+   "magnitudine": "5,8 (integrandi)",
+   "spettro": "ammasso aperto (~80 stelle)",
+   "distanza_al": 1550.0,
+   "curiosita": "M48 è il più grande ammasso aperto dell’Idra: circa 80 stelle sparse su oltre 1 grado di cielo, a 1.550 anni luce. Messier lo registrò nel 1771 con una coordinate sbagliata di 4 gradi: perse di vista per 168 anni, fino a quando nel 1959 T.F. Morris lo ritrovò incrociando i cataloghi del XIX secolo. È l’oggetto piõ noto del tratto medio della costellazione: al binocolo appare come una macchia granulosa tra Canis Minor e il Corvo. [Distanza: Wikipedia en (tabella M48), consultata 21/10/2026 → 1550 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Messier_48"
+  }
+ ]
+}

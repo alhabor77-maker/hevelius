@@ -1,0 +1,103 @@
+{
+ "antlia": [
+  {
+   "id": "alf_ant",
+   "nome": "Alpha Antliae",
+   "bayer": "α Ant (HD 90610)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,25 (variabile lieve)",
+   "spettro": "K3 III (gigante arancione in transizione)",
+   "distanza_al": 112.3,
+   "curiosita": "Alpha Antliae è la stella più luminosa della Macchina Pneumatica: una gigante arancione a112 anni luce, circa 480 volte più luminosa del Sole. È una variabile lieve di classe K, con oscillazioni di pochi centesimi di magnitudine documentate dal fotometria moderna. La costellazione nacque in Francia: Lacaille la creò nel 1752 durante la spedizione al Capo di Buona Speranza, e Bode la incise nella Uranographia del 1801 con il nome latino Antlia Pneumatica, in onore della macchina di Denis Papin. [Distanza: Gaia DR3 (plx 8.9069±0.1513 mas) via SIMBAD mesPlx → 112.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Antliae"
+  },
+  {
+   "id": "eps_ant",
+   "nome": "Epsilon Antliae",
+   "bayer": "ε Ant (HD 82150)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,51",
+   "spettro": "K3 III (gigante arancione)",
+   "distanza_al": 215.8,
+   "curiosita": "Epsilon Antliae è una gigante arancione a216 anni luce: circa 700 volte più luminosa del Sole, una delle stelle più lontane e luminose della costellazione. Con alpha forma la coppia di giganti K che dominano la figura di Lacaille e Bode: entrambe evolute da progenitrici di circa 3 masse solari, in fase di espansione verso il ramo delle giganti rosse. [Distanza: Gaia DR3 (plx 4.6349±0.092 mas) via SIMBAD mesPlx → 215.8 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Antliae"
+  },
+  {
+   "id": "iot_ant",
+   "nome": "Iota Antliae",
+   "bayer": "ι Ant (HD 94890)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,60",
+   "spettro": "K0 III (gigante arancione)",
+   "distanza_al": 63.6,
+   "curiosita": "Iota Antliae è una gigante arancione a64 anni luce, 80 volte piõ luminosa del Sole. È una terza gigante K della costellazione, senza binaria documentata né ammasso di appartenenza: un astro di campo evoluto, tipico del cielo della Macchina Pneumatica, povera di stelle brillanti ma ricca di giganti arancioni. [Distanza: Gaia DR3 (plx 15.7132±0.1156 mas) via SIMBAD mesPlx → 63.6 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Iota_Antliae"
+  },
+  {
+   "id": "tet_ant",
+   "nome": "Theta Antliae",
+   "bayer": "θ Ant (HD 84367)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,79",
+   "spettro": "A7 V + G8 III (binaria spettroscopica)",
+   "distanza_al": 104.1,
+   "curiosita": "Theta Antliae è un sistema doppio spettacolare: una nana bianco-gialla A7 che orbita con una gigante arancione G8 in un periodo di qualche anno, un sistema con due stelle in fasi evolutive completamente diverse. La compagna non si risolve al telescopio: solo gli spettri rivelano la coppia. È una delle stelle piõ interessanti della costellazione per lo studio dell’evoluzione binaria asincrona. [Distanza: Hipparcos van Leeuwen 2007 (plx 9.61±0.46 mas) via SIMBAD mesPlx → 104.1 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Theta_Antliae"
+  },
+  {
+   "id": "eta_ant",
+   "nome": "Eta Antliae",
+   "bayer": "η Ant (HD 86629)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,22",
+   "spettro": "F1 V (nana bianco-gialla)",
+   "distanza_al": 33.3,
+   "curiosita": "Eta Antliae è la stella più vicina della Macchina Pneumatica:33 anni luce, una nana bianco-gialla F1 più calda e più giovane del Sole. È un astro di campo semplice, senza binaria documentata: la sua importanza è quella di essere la nana F più vicina della costellazione, tipologia molto studiata per la ricerca di esopianeti con il metodo delle velocità radiali. [Distanza: Gaia DR3 (plx 30.0499±0.0776 mas) via SIMBAD mesPlx → 33.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Eta_Antliae"
+  },
+  {
+   "id": "del_ant",
+   "nome": "Delta Antliae",
+   "bayer": "δ Ant (HD 90972)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,56",
+   "spettro": "B9/9.5 V (binaria spettroscopica)",
+   "distanza_al": 142.7,
+   "curiosita": "Delta Antliae è una stella azzurra B9 a143 anni luce: la piõ calda (10.000 K) delle stelle con parallasse affidabile della costellazione. È una binaria spettroscopica: la compagna orbita stretta, invisibile al telescopio ma visibile negli spettri. Nella figura di Lacaille e Bode segna il bordo settentrionale della macchina pneumatica, accanto a una serie di stelle di quinta magnitudine che disegnano il corpo dello strumento. [Distanza: Gaia DR3 (plx 7.0076±0.1567 mas) via SIMBAD mesPlx → 142.7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Antliae"
+  },
+  {
+   "id": "hd82943",
+   "nome": "HD 82943 (sistema con 2 pianeti)",
+   "bayer": "HD 82943 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "6,53",
+   "spettro": "F9 V",
+   "distanza_al": 27.7,
+   "curiosita": "HD 82943 è una gemella solare leggermente piõ calda del Sole a28 anni luce, celebre per il sistema di due pianeti giganti gassosi in risonanza orbitale 2:1, scoperto nel 2001 con il metodo delle velocità radiali. È stato uno dei primi sistemi multipli confermati con la risonanza documentata: un riferimento per gli studi di migrazione planetaria. Nel 2019 è stato segnalato un pianeta terzo candidato, non ancora confermato. [Distanza: Gaia DR3 (plx 36.1158±0.0264 mas) via SIMBAD mesPlx → 27.7 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_82943"
+  },
+  {
+   "id": "hd93083",
+   "nome": "HD 93083 (nana arancione con pianeta)",
+   "bayer": "HD 93083 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "8,33",
+   "spettro": "K2 IV-V",
+   "distanza_al": 28.5,
+   "curiosita": "HD 93083 è una nana arancione a 28,5 anni luce con un pianeta gigante confermato (HD 93083 b, circa 0,4 masse gioviane, periodo di 144 giorni), scoperto nel 2005 con il metodo delle velocità radiali dallo strumento HARPS dell’ESO. La stella è meno massiccia e fredda del Sole: un sistema planetario attorno a una nana K, tipologia molto studiata nel quadro dell’abitudinabilità attorno alle stelle fredde. [Distanza: Gaia DR3 (plx 35.106±0.021 mas) via SIMBAD mesPlx → 28.5 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_93083"
+  },
+  {
+   "id": "r_ant",
+   "nome": "R Antliae (variabile semi-irregolare)",
+   "bayer": "V* R Ant (HD 88262)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). R Ant è una designazione di variabile.",
+   "magnitudine": "7,62 (media; variabile 6,3-8,4)",
+   "spettro": "A0 V (con involucro di polveri)",
+   "distanza_al": 166.3,
+   "curiosita": "R Antliae è una stella curiosa: classificata A0 in luce visibile, ma con un eccesso di emissione infrarossa che tradisce un disco o involucro circumstellare di polveri: un sistema che sta passando da stella normale a stella pre-nebulosa planetaria, con la perdita di massa già avviata. La sua variabilità è lieve e irregolare (qualche decimo di magnitudine). A166 anni luce è tra le stelle A della costellazione con il fondo studiato: un ponte tra le nane bianche e le fasi finali dell’evoluzione stellare. [Distanza: Gaia DR3 (plx 6.0127±0.0294 mas) via SIMBAD mesPlx → 166.3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/R_Antliae"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "telescopium": [
+  {
+   "id": "alf_tel",
+   "nome": "Alfa Telescopii",
+   "bayer": "α Tel (HD 176440, CD-46 11908)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Alfa di Lacaille, 1756, che battezzò la costellazione «le Télescope».",
+   "magnitudine": "9,71 (V); G 9,59",
+   "spettro": "G5 gigante/subgigante gialla, PM* in SIMBAD",
+   "distanza_al": 334,
+   "curiosita": "Con la sua magnitudine 9,7, α Tel è una delle stelle «alfa» più deboli dell'intero cielo: nessuna componente del Telescopio supera la sesta magnitudine, e per individuare la costellazione servono cieli molto bui. Lacaille la inserì tra le 14 costellazioni di strumenti scientifici disegnate osservando dal Capo di Buona Speranza nel 1751-1753; il «le Télescope» di Lacaille è già il nome attuale, latinizzato in Telescopium dall'IAU nel 1922. Nella Uranographia di Bode del 1801 la figura compare come «Tubus Astronomicus». [Distanza: SIMBAD plx_value 9,7672±0,0396 mas (Gaia DR3) → 334 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+176440"
+  },
+  {
+   "id": "bet_tel",
+   "nome": "Beta Telescopii",
+   "bayer": "β Tel (HD 169776, CD-51 11838)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Beta di Lacaille, 1756.",
+   "magnitudine": "8,72 (V); G 8,63",
+   "spettro": "K0 gigante arancione, PM* in SIMBAD",
+   "distanza_al": 266,
+   "curiosita": "Gigante arancione a 266 anni luce, β Tel è la seconda stella della costellazione per designazione Bayer. Il Telescopio, come l'Altare e il Microscopio, onora uno strumento dell'astronomia del Settecento: nessuna sua stella ha un nome proprio IAU, e la costellazione non contiene nemmeno un oggetto Messier. La figura, disegnata da Lacaille con l'obiettivo in basso e l'oculare in alto, occupa una porzione di cielo povera di stelle brillanti tra Corona Australis, Pavo e Ara. [Distanza: SIMBAD plx_value 12,2527±0,0132 mas (Gaia DR3) → 266 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+169776"
+  },
+  {
+   "id": "del_tel",
+   "nome": "Delta Telescopii",
+   "bayer": "δ Tel (HD 174830, HIP 92496)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Delta di Lacaille, 1756.",
+   "magnitudine": "7,14 (V); G 7,12",
+   "spettro": "A2 stella bianca",
+   "distanza_al": 534,
+   "curiosita": "Stella bianca di tipo A2 a 534 anni luce, la più brillante della costellazione in assoluto. Il Telescopio di Lacaille occupa una regione del cielo attraversata dalla Via Lattea meridionale: tra le costellazioni di strumenti è quella con il maggior numero di campi ricchi, ma le sue stelle più luminose restano comunque deboli, e δ Tel a mag 7,14 è invisibile a occhio nudo. [Distanza: SIMBAD plx_value 6,1041±0,0308 mas (Gaia DR3) → 534 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+174830"
+  },
+  {
+   "id": "eps_tel",
+   "nome": "Epsilon Telescopii",
+   "bayer": "ε Tel (HD 176269, HIP 93368)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Epsilon di Lacaille, 1756.",
+   "magnitudine": "6,69 (V); G 6,72",
+   "spettro": "B9V stella azzurra, classificata Or* (associazione OB) in SIMBAD",
+   "distanza_al": 500,
+   "curiosita": "Stella azzurra di sequenza principale di tipo B9 a 500 anni luce, ε Tel è appena visibile a occhio nudo. SIMBAD la classifica nel gruppo delle associazioni OB per età e posizione: appartiene all'ambiente giovanile del complesso Scorpione-Centauro, la culla di stelle giovani più vicina al Sole. Al binocolo è una delle componenti più facili del Telescopio da individuare. [Distanza: SIMBAD plx_value 6,5201±0,0407 mas (Gaia DR3) → 500 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+176269"
+  },
+  {
+   "id": "zet_tel",
+   "nome": "Zeta Telescopii",
+   "bayer": "ζ Tel (HD 176087, HIP 93037)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Zeta di Lacaille, 1756.",
+   "magnitudine": "7,52 (V); G 7,51",
+   "spettro": "F8, segnata ** (doppia) in SIMBAD",
+   "distanza_al": 228,
+   "curiosita": "Stella di tipo F8 a 228 anni luce, tra le più vicine della costellazione insieme a β Tel; SIMBAD la segnala come doppia (**). Nel Settecento il Telescopio di Lacaille compare anche nella Uranographia di Bode del 1801 con il nome di «Tubus Astronomicus», che Bode usò nella sua carta dedicata a Scorpius e alle costellazioni meridionali. [Distanza: SIMBAD plx_value 14,2947±0,1174 mas (Gaia DR3) → 228 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+176087"
+  },
+  {
+   "id": "hd168746",
+   "nome": "HD 168746",
+   "bayer": "HD 168746 (HIP 90004, SAO 229698)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Identificazione da catalogo Henry Draper, in area Telescopium.",
+   "magnitudine": "7,95 (V); G 7,78",
+   "spettro": "G5V analogo solare",
+   "distanza_al": 136,
+   "curiosita": "Una delle stelle più vicine del Telescopio e una cugina del Sole: nana G5V a 136 anni luce, con temperatura e luminosità prossime a quelle solari. Nel 2000 lo spettrografo CORALIE dell'osservatorio di La Silla le ha scoperto un pianeta gigante gassoso su un'orbita stretta di 6,4 giorni; nella campagna NameExoWorlds dell'IAU del 2019 il sistema ha ricevuto nomi ispirati alla leggenda argentina di Salta: la stella è Sumajmajta e il pianeta, gigante gassoso a «Anno caldo», fu chiamato con il nome della compagna della tradizione locale. [Distanza: SIMBAD plx_value 23,9884±0,0259 mas (Gaia DR3) → 136 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+168746"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "reticulum": [
+  {
+   "id": "alf_ret",
+   "nome": "Alpha Reticuli",
+   "bayer": "α Ret (HD 27256)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,33",
+   "spettro": "G7IIIa",
+   "distanza_al": 161,
+   "curiosita": "Alpha Reticuli è la stella più brillante del Reticolo, a 163 anni luce: una gigante gialla luminosa, con una compagna debole risolvibile al telescopio. Il nome della costellazione ricorda il reticolo del telescopio: Lacaille disegnò la figura come griglia a rombi (Reticulus Rhomboidalis), lo strumento che gli serviva per posizionare le stelle del cielo australe. [Distanza: SIMBAD parallasse Gaia 20,34 mas → 49,2 pc → 160 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Reticuli"
+  },
+  {
+   "id": "zet_ret",
+   "nome": "Zeta Reticuli (coppia di gemelle solari)",
+   "bayer": "ζ Ret (ζ¹ HD 20766 + ζ² HD 20807)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,53 (ζ¹) e 5,24 (ζ²)",
+   "spettro": "G3-5V + G2V",
+   "distanza_al": 39,
+   "curiosita": "Zeta Reticuli è una coppia di gemelle solari a 39 anni luce, separate nel cielo di circa 1/4 di grado: due nane G quasi identiche al Sole, con moto proprio condiviso e le stesse proprietà chimiche, quasi certamente nate insieme e legate fisicamente. Nel 1961 il caso Barney Hill rese celebri le “zeta reticulane” nella cultura pop: l’astronomia ha risposto con lo studio serio di un sistema binario largo e molto simile al nostro. [Distanza: SIMBAD parallasse Gaia 83,02/83,06 mas → 12,0/12,0 pc → 39,2/39,3 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Reticuli"
+  },
+  {
+   "id": "bet_ret",
+   "nome": "Beta Reticuli",
+   "bayer": "β Ret (HD 23817)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,84",
+   "spettro": "K0IV SB (binaria spettroscopica)",
+   "distanza_al": 107,
+   "curiosita": "Beta Reticuli è una gigante arancione a 107 anni luce, binaria spettroscopica: la compagna è invisibile direttamente, ma le righe dello spettro oscillano con il moto orbitale. Con 3,8 mag è la seconda stella del Reticolo, visibile a occhio nudo anche dal cielo del sud poco buono. [Distanza: SIMBAD parallasse Gaia 30,44 mas → 32,9 pc → 107 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Reticuli"
+  },
+  {
+   "id": "eps_ret",
+   "nome": "Epsilon Reticuli (gigante con pianeta)",
+   "bayer": "ε Ret (HD 27442)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,44",
+   "spettro": "K2IVa-Ib",
+   "distanza_al": 60,
+   "curiosita": "Epsilon Reticuli è una subgigante arancione a 60 anni luce con un pianeta gigante scoperto nel 2000, di oltre 1,5 masse gioviane in un’orbita ampia: è anche una doppia visuale, con una nana bianca a 13 mag a 13 secondi d’arco, il residuo evolutivo di una stella anteriore. Un sistema completo: pianeta attorno a una stella già evoluta, con una nana bianca come testimone del passato. [Distanza: SIMBAD parallasse Gaia 54,23 mas → 18,4 pc → 60 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Epsilon_Reticuli"
+  },
+  {
+   "id": "hd21749",
+   "nome": "HD 21749 (nana K con pianeti TESS)",
+   "bayer": "HD 21749 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "8,1",
+   "spettro": "K4.5V",
+   "distanza_al": 53,
+   "curiosita": "HD 21749 è una nana arancione a 53 anni luce con due pianeti confermati da TESS: uno di tipo sub-Nettuno con periodo di 36 giorni e uno terrestre con periodo di 7,8 giorni, uno dei primi risultati planetari del satellite. Il sistema sta nel cielo del Reticolo, la griglia a rombi incisa da Bode. [Distanza: Wikipedia en, tabella stelle della costellazione (53 al), consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_21749"
+  },
+  {
+   "id": "kappa_ret",
+   "nome": "Kappa Reticuli",
+   "bayer": "κ Ret (HD 22001)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,71",
+   "spettro": "F5IV-V",
+   "distanza_al": 70,
+   "curiosita": "Kappa Reticuli è una subgigante gialla a 70 anni luce, in realtà una binaria con una compagna a breve distanza: con 4,7 mag è una delle stelle più accessibili della costellazione. Nel disegno di Lacaille la griglia a rombi si salda con il Reticolo alla vicina Dorado: le stelle della figura segnano i vertici della griglia. [Distanza: Wikipedia en, tabella stelle della costellazione, consultata 21/10/2026; SIMBAD parallasse 45,91 mas]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Reticuli"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "pictor": [
+  {
+   "id": "alf_pic",
+   "nome": "Alpha Pictoris",
+   "bayer": "α Pic (HD 33090)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,27",
+   "spettro": "A8III-IV",
+   "distanza_al": 108,
+   "curiosita": "Alpha Pictoris è la stella più brillante del Cavalletto, a 108 anni luce: una subgigante bianca variabile della classe Gamma Doradus, con pulsazioni non radiali di basso ordine. Attorno alla stella, la costellazione ospita uno dei luoghi celebri dell’astrofisica moderna: il disco protoplanetario di Beta Pictoris, che si trova a pochi gradi di distanza in cielo. [Distanza: SIMBAD parallasse Gaia 30,24 mas → 33,1 pc → 108 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Pictoris"
+  },
+  {
+   "id": "bet_pic",
+   "nome": "Beta Pictoris",
+   "bayer": "β Pic (HD 39060)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "3,86",
+   "spettro": "A6V",
+   "distanza_al": 63.4,
+   "curiosita": "Beta Pictoris è il laboratorio protoplanetario più celebre: a 63,4 anni luce, con 24 milioni di anni, mostra un disco di detriti visto di taglio, primi pianeti confermati nel 2009 e composizione atmosferica studiata con lo spettroscopio. Fu tra le prime stelle con disco osservato: un monumento della formazione planetaria, dentro una costellazione creata da Lacaille solo per riempire un buco di cielo. [Distanza: Wikipedia en, voce Beta Pictoris (63,4 al), consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Pictoris"
+  },
+  {
+   "id": "gam2_pic",
+   "nome": "Gamma Pictoris",
+   "bayer": "γ Pic (HD 35860)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,49",
+   "spettro": "K1III",
+   "distanza_al": 174,
+   "curiosita": "Gamma Pictoris è una gigante arancione a 174 anni luce, la terza stella del Cavalletto per luminosità: un astro evoluto di classe K, con un moto proprio relativamente elevato per il suo tipo. La costellazione prende il nome dal cavalletto con cui gli astronomi fissano gli strumenti: Lacaille nel 1752 la disegnò come Pluteum Pictoris. [Distanza: Wikipedia en, tabella stelle della costellazione, consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma_Pictoris"
+  },
+  {
+   "id": "kap_pic",
+   "nome": "Kappa Pictoris",
+   "bayer": "κ Pic (HD 36554)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,72",
+   "spettro": "F0III-IV",
+   "distanza_al": 637,
+   "curiosita": "Kappa Pictoris è una stella bianca a 637 anni luce, la quinta del Cavalletto per luminosità: è anche la più vicina tra le brillanti della costellazione, un astro di campo al limite tra nana e subgigante. Con lo spettroscopio mostra una lieve variazione di classe, tipica delle stelle in transizione evolutiva. [Distanza: SIMBAD parallasse Gaia 5,12 mas → 195 pc → 637 al; discrepanza con la voce Wikipedia (65 al) documentata]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Kappa_Pictoris"
+  },
+  {
+   "id": "hd40307",
+   "nome": "HD 40307 (nana K con 6 pianeti)",
+   "bayer": "HD 40307 (senza lettera Bayer)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "7,91",
+   "spettro": "K2.5V",
+   "distanza_al": 42,
+   "curiosita": "HD 40307 è una nana arancione a 42 anni luce con sei pianeti confermati, tra i sistemi multipli più studiati del cielo australe: la stella è metal-poor e i pianeti sono super-Terre, con il più esterno nella zona abitabile. Un paradigma della ricerca moderna, in una zona di cielo che Bode incise con il cavalletto del pittore quasi vuoto. [Distanza: Wikipedia en, tabella stelle della costellazione (42 al), consultata 21/10/2026]",
+   "fonte_url": "https://en.wikipedia.org/wiki/HD_40307"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "circinus": [
+  {
+   "id": "bet_cir",
+   "nome": "Beta Circini",
+   "bayer": "β Cir (HD 135379, HIP 74824)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Beta di Lacaille, 1756, nella costellazione allora battezzata «le Compas».",
+   "magnitudine": "4,07 (V); G 4,06",
+   "spettro": "A3Va stella azzurra di sequenza principale, marcata PM* (alto moto proprio) in SIMBAD",
+   "distanza_al": 96,
+   "curiosita": "La seconda stella più brillante del Compasso è anche una delle più vicine: a 96 anni luce, con 4,1 mag, è una delle poche componenti della costellazione visibili a occhio nudo dal cielo australe. Il nome Circinus deriva dal compasso da disegno a due punte, lo strumento con cui si tracciano i cerchi; Lacaille lo chiamò «le Compas» nel 1756 e l'IAU latinizzò il nome nel 1922. β Cir è segnata in SIMBAD come PM* per il moto proprio marcato: si avvicina al Sole a circa 10 km/s. [Distanza: SIMBAD plx_value 33,8205±0,2515 mas (Gaia DR3) → 96 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+135379"
+  },
+  {
+   "id": "eps_cir",
+   "nome": "Epsilon Circini",
+   "bayer": "ε Cir (HD 135591, HIP 74941)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Epsilon di Lacaille, 1756.",
+   "magnitudine": "5,46 (V); G 5,38",
+   "spettro": "O8IV((f)) subgigante azzurra di tipo O",
+   "distanza_al": 2698,
+   "curiosita": "La stella più massiccia del Compasso: una classe O con massa stimata oltre 20 masse solari, a quasi 2.700 anni luce. Le stelle di tipo O della fascia australe sono rare, e ε Cir serve da studio dell'estinzione del piano galattico in direzione del Centauro. A occhio nudo resta appena visibile con 5,5 mag dal cielo buio dell'emisfero australe; al binocolo è facilmente individuabile. [Distanza: SIMBAD plx_value 1,2091±0,082 mas (Gaia DR3) → 2.698 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+135591"
+  },
+  {
+   "id": "gam_cir",
+   "nome": "Gamma Circini",
+   "bayer": "γ Cir (HD 135585, CD-57 5712)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Gamma di Lacaille, 1756.",
+   "magnitudine": "9,75 (V); G 9,26",
+   "spettro": "K0/1(III) gigante arancione",
+   "distanza_al": 1282,
+   "curiosita": "Gigante arancione di tipo K0/1III a 1.282 anni luce: nonostante la debolezza apparente (9,7 mag), la luminosità intrinseca è decine di volte quella solare. La grande distanza la colloca nel braccio di Perseo visto di traverso. Circinus resta una delle costellazioni IAU più piccole e con meno stelle catalogate: Lacaille vi contò appena una ventina di stelle nel 1756. [Distanza: SIMBAD plx_value 2,5444±0,0165 mas (Gaia DR3) → 1.282 al (verificato 21/10/2026 via SIMBAD TAP)]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD+135585"
+  },
+  {
+   "id": "circx1",
+   "nome": "Circinus X-1 (BR Cir)",
+   "bayer": "Circinus X-1 / V* BR Cir (variabile, nessun HD attribuito — sorgente X)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026). Il nome deriva dai catalogi di sorgenti X: «Circinus X-1», la prima sorgente X registrata nella costellazione.",
+   "magnitudine": "21,4 in V (controparte ottica); in X varia fortemente",
+   "spettro": "binaria X: nana di neutroni + compagna donatrice di tipo B5-A0I",
+   "distanza_al": null,
+   "curiosita": "La binaria X più eccentrica conosciuta: una nana di neutroni che orbita ogni 16,6 giorni attorno a una compagna di tipo spettrale incerto tra B5 e A0I, con la materia che fluisce solo nel pericentro. Ogni passaggio ravvicinato innesca un'esplosione di raggi X osservata da Uhuru, Rossi XTE e NICER; le immagini radio di MeerKAT del 2018 ne hanno rivelato il resto di supernova, con età stimata di poche migliaia di anni — una delle binarie X più giovani conosciute. Il profilo spettrale in SIMBAD oscilla tra B5 e A0I perché la compagna è parzialmente oscurata dal disco di accrescimento. [Distanza: nessun plx in Gaia DR3 (mag ottica 21,4); stime in letteratura dell'ordine di ~10.000 al — testo qualitativo. SIMBAD: main_id V* BR Cir, otype HXB (binaria X ad alta massa), verificato 21/10/2026 via SIMBAD TAP]",
+   "fonte_url": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=Circinus+X-1"
+  }
+ ]
+}

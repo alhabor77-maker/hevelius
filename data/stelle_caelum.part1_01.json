@@ -1,0 +1,59 @@
+{
+ "caelum": [
+  {
+   "id": "alf_cae",
+   "nome": "Alpha Caeli",
+   "bayer": "α Cae (HD 29875)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,44 (binaria)",
+   "spettro": "F2V",
+   "distanza_al": 67,
+   "curiosita": "Alpha Caeli è la stella più brillante dello Scalpello, a 66 anni luce: una doppia con la principale F2 e una compagna nana rossa a circa 6,5 secondi d’arco, esattamente il tipo di coppia che l’ottica moderna risolve con un piccolo telescopio. La principale è sospettata variabile Delta Scuti, con lievi pulsazioni. [Distanza: SIMBAD parallasse Gaia 49,06 mas → 20,4 pc → 67 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Alpha_Caeli"
+  },
+  {
+   "id": "gam1_cae",
+   "nome": "Gamma1 Caeli",
+   "bayer": "γ¹ Cae (HD 32831)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "4,55",
+   "spettro": "K2III",
+   "distanza_al": 185,
+   "curiosita": "Gamma1 Caeli è una gigante arancione a 185 anni luce: con la vicina Gamma2 (6,3 mag a 334 al, variabile Delta Scuti) forma una doppia visuale largamente separata, con il contrasto di colore tra gigante K e subgigante F. La coppia domina la parte settentrionale dello Scalpello disegnato da Lacaille e inciso da Bode nella tavola XVII. [Distanza: SIMBAD parallasse Gaia 17,59 mas → 56,8 pc → 185 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Gamma1_Caeli"
+  },
+  {
+   "id": "bet_cae",
+   "nome": "Beta Caeli",
+   "bayer": "β Cae (HD 29992)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,04",
+   "spettro": "F3V",
+   "distanza_al": 94,
+   "curiosita": "Beta Caeli è una nana gialla a 94 anni luce: un astro di classe F sulla sequenza principale, più caldo e massiccio del Sole. Con 5 mag sta alla soglia della visibilità a occhio nudo: un test di vista utile in un cielo buono, in una costellazione che non supera mai la quarta magnitudine. [Distanza: SIMBAD parallasse Gaia 34,61 mas → 28,9 pc → 94 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Beta_Caeli"
+  },
+  {
+   "id": "del_cae",
+   "nome": "Delta Caeli",
+   "bayer": "δ Cae (HD 28873)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "5,07",
+   "spettro": "B2IV-V",
+   "distanza_al": 682,
+   "curiosita": "Delta Caeli è la stella più massiccia e più lontana delle brillanti dello Scalpello: una B2 a 682 anni luce, con una luminosità di oltre 10.000 soli, che da quella distanza appare appena di quinta magnitudine. È sospettata variabile leggera. La costellazione è tra le più povere del cielo: Lacaille la creò nel 1752 proprio riempendo una zona senza figura. [Distanza: SIMBAD parallasse Gaia 4,78 mas → 209 pc → 682 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Delta_Caeli"
+  },
+  {
+   "id": "zet_cae",
+   "nome": "Zeta Caeli",
+   "bayer": "ζ Cae (HD 30608)",
+   "origine_nome": "Nessun nome IAU (verificato per assenza nella lista IAU-CSN ottobre 2026).",
+   "magnitudine": "6,35",
+   "spettro": "K0III",
+   "distanza_al": 476,
+   "curiosita": "Zeta Caeli è una gigante arancione di sesta magnitudine a 476 anni luce: alla soglia dell’occhio nudo, un classico astro di campo della classe K in fase di espansione. Nella tavola XVII sta tra i punti deboli della figura dello Scalpello, con le lettere greche della convenzione di Lacaille. [Distanza: SIMBAD parallasse Gaia 6,85 mas → 146 pc → 476 al]",
+   "fonte_url": "https://en.wikipedia.org/wiki/Zeta_Caeli"
+  }
+ ]
+}
