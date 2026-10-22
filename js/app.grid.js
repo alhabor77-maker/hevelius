@@ -69,9 +69,13 @@
   }
 
   // Tenta i path in sequenza; risponde cb(data) o cb(null) se nessuno va bene.
+  // Ogni path viene ritentato fino a RETRY volte con una piccola pausa: su rete
+  // mobile un fetch che fallisce una volta non deve lasciare la griglia vuota
+  // (in quel caso l'utente vedrebbe per sempre il segnaposto / il noscript).
+  var RETRY = 3, RETRY_MS = 700;
   function fetchFirst(paths, cb) {
     var i = 0;
-    (function next() {
+    (function next(tryN) {
       if (i >= paths.length) { cb(null); return; }
       // fetch globale (del browser); in ambiente senza fetch si salta al fallback
       if (typeof fetch !== 'function') { cb(null); return; }
@@ -81,8 +85,14 @@
       }).then(function (d) {
         if (Object.prototype.toString.call(d) === '[object Array]' && d.length) cb(d);
         else throw new Error('dati non validi');
-      }).catch(function () { i += 1; next(); });
-    })();
+      }).catch(function () {
+        if (tryN + 1 < RETRY) {
+          setTimeout(function () { next(tryN + 1); }, RETRY_MS);
+          return;
+        }
+        i += 1; next(0);
+      });
+    })(0);
   }
 
   // Fallback: ricostruisce i dati dalle card legacy già presenti in #cards
@@ -279,23 +289,27 @@
 
   /* ------------------------------ wiring ------------------------------ */
 
-  // Listener sull'input #search-box, debounce 150ms. Il listener è registrato
-  // UNA sola volta (guard con flag su window) e non entra in conflitto con
-  // pageHome di app.js (che non tocca #search-box).
+  // Ricerca DELEGATA a livello document, registrata SUBITO (non dopo initGrid):
+  // se l'utente digita mentre la griglia carica, il filtro viene comunque
+  // applicato appena initGrid finisce (che a sua volta rilegge #search-box).
+  // Il flag su window evita doppi listener se lo script venisse incluso 2 volte.
   function wireSearch() {
-    var box = $id('search-box');
-    if (!box) return;
-    if (window.__appGridSearchWired) { box.__appGridFilter = filterGrid; return; }
+    if (window.__appGridSearchWired) return;
     window.__appGridSearchWired = true;
 
     var t = null;
-    box.addEventListener('input', function () {
+    document.addEventListener('input', function (e) {
+      var box = e.target;
+      if (!box || box.id !== 'search-box') return;
       if (t) clearTimeout(t);
       t = setTimeout(function () { filterGrid(box.value); }, 150);
     });
-    box.addEventListener('search', function () { filterGrid(box.value); }); // clear (x) di type=search
-    box.__appGridFilter = filterGrid; // hook per altri script
+    // clear (x) di type=search su Safari iOS: evento 'search' + click sulla x
+    document.addEventListener('search', function (e) {
+      if (e.target && e.target.id === 'search-box') filterGrid(e.target.value);
+    });
   }
+  wireSearch();
   /* ------------------------------ avvio ------------------------------ */
 
   // Partenza: al DOM se non è ancora passato, altrimenti subito.

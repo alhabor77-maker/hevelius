@@ -152,6 +152,18 @@
   #loading-placeholder, .loading-placeholder { min-height: 200px; }
 }
 
+/* header NON fisso in home: con 88 link .nav in flex-wrap l'header sticky
+   diventa una banda altissima che copre il contenuto (soprattutto su phone).
+   Stessa soluzione gia' usata per la modalita' puntamento
+   (.edit-mode .site-header { position: static }): in home l'header scorre
+   via col contenuto, nessuna sovrapposizione. Le altre pagine restano sticky. */
+body[data-page="home"] .site-header { position: static; }
+/* Da 820px in giu' la nav con gli 88 link e' inutile in home (occupa decine
+   di righe sopra la griglia): si naviga dalle card stesse. */
+@media (max-width: 820px) {
+  body[data-page="home"] .nav { display: none; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   #loading-placeholder, .loading-placeholder { animation: none; }
   .grid-card, .card-mini { transition: none; }
