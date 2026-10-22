@@ -1,0 +1,1278 @@
+[
+ {
+  "slug": "orione",
+  "titolo": "Orione",
+  "latino": "Orion",
+  "alt_names": [
+   "Cacciatore",
+   "Cintura di Orione"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg/960px-Orion_constellation_-_Prodromus_astronomiae_1690_%285590584%29.jpg",
+  "img_w": 1920,
+  "img_h": 1514,
+  "tavola": "Tavola QQ",
+  "search": "orione orion cacciatore cintura di orione orione"
+ },
+ {
+  "slug": "scorpione",
+  "titolo": "Scorpione",
+  "latino": "Scorpius",
+  "alt_names": [
+   "Scorpio",
+   "Antares"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Johannes_Hevelius_-_Scorpius.jpg/960px-Johannes_Hevelius_-_Scorpius.jpg",
+  "img_w": 1920,
+  "img_h": 1567,
+  "tavola": "Tavola II",
+  "search": "scorpione scorpius scorpio antares scorpione"
+ },
+ {
+  "slug": "cane_minore",
+  "titolo": "Cane Minore",
+  "latino": "Canis Minor",
+  "alt_names": [
+   "Canicula",
+   "Procyon"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg/960px-Canis_Minor_-_Prodromus_astronomiae_1690_%285590605%29.jpg",
+  "img_w": 1920,
+  "img_h": 1511,
+  "tavola": "Tavola SS",
+  "search": "cane minore canis minor canicula procyon cane minore"
+ },
+ {
+  "slug": "toro",
+  "titolo": "Toro",
+  "latino": "Taurus",
+  "alt_names": [
+   "Aldebaran",
+   "Pleiadi",
+   "M45",
+   "Sette Sorelle"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg/960px-Taurus_-_Prodromus_astronomiae_1690_%285590444%29.jpg",
+  "img_w": 1920,
+  "img_h": 1503,
+  "tavola": "Tavola CC",
+  "search": "toro taurus aldebaran pleiadi m45 sette sorelle toro"
+ },
+ {
+  "slug": "cane_maggiore",
+  "titolo": "Cane Maggiore",
+  "latino": "Canis Major",
+  "alt_names": [
+   "Sirio",
+   "Canis Maior"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg/960px-Canis_Major_-_Prodromus_astronomiae_1690_%28436425%29.jpg",
+  "img_w": 1920,
+  "img_h": 1512,
+  "tavola": "Fig. DDd",
+  "search": "cane maggiore canis major sirio canis maior cane maggiore"
+ },
+ {
+  "slug": "orsa_maggiore",
+  "titolo": "Orsa Maggiore",
+  "latino": "Ursa Major",
+  "alt_names": [
+   "Grande Carro",
+   "Carro di Davide",
+   "Mizar",
+   "Big Dipper",
+   "Ursa Maior"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg/960px-Ursa_Major_constellation_-_Prodromus_astronomiae_1690_%285590247%29.jpg",
+  "img_w": 1920,
+  "img_h": 1526,
+  "tavola": "Fig. D",
+  "search": "orsa maggiore ursa major grande carro carro di davide mizar big dipper ursa maior orsa maggiore"
+ },
+ {
+  "slug": "perseo",
+  "titolo": "Perseo",
+  "latino": "Perseus",
+  "alt_names": [
+   "Medusa",
+   "Algol",
+   "Mirfak"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Perseus_-_Prodromus_astronomiae_1690_%285590393%29.jpg/960px-Perseus_-_Prodromus_astronomiae_1690_%285590393%29.jpg",
+  "img_w": 1920,
+  "img_h": 1520,
+  "tavola": "Fig. W",
+  "search": "perseo perseus medusa algol mirfak perseo"
+ },
+ {
+  "slug": "andromeda",
+  "titolo": "Andromeda",
+  "latino": "Andromeda",
+  "alt_names": [
+   "Galassia di Andromeda",
+   "M31",
+   "Alpheratz"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Andromeda_-_Prodromus_astronomiae_1690_%285590389%29.jpg/960px-Andromeda_-_Prodromus_astronomiae_1690_%285590389%29.jpg",
+  "img_w": 1920,
+  "img_h": 1508,
+  "tavola": "Fig. V",
+  "search": "andromeda andromeda galassia di andromeda m31 alpheratz andromeda"
+ },
+ {
+  "slug": "cassiopea",
+  "titolo": "Cassiopea",
+  "latino": "Cassiopeia",
+  "alt_names": [
+   "Regina",
+   "W di Cassiopea"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cassiopea-_Prodromus_astronomiae_1690_%28436071%29.jpg/960px-Cassiopea-_Prodromus_astronomiae_1690_%28436071%29.jpg",
+  "img_w": 1920,
+  "img_h": 2427,
+  "tavola": "Tavola N",
+  "search": "cassiopea cassiopeia regina w di cassiopea cassiopea"
+ },
+ {
+  "slug": "cefeo",
+  "titolo": "Cefeo",
+  "latino": "Cepheus",
+  "alt_names": [],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cepheus_-_Prodromus_astronomiae_1690_%28435975%29.jpg/960px-Cepheus_-_Prodromus_astronomiae_1690_%28435975%29.jpg",
+  "img_w": 1920,
+  "img_h": 1519,
+  "tavola": "Fig. C",
+  "search": "cefeo cepheus cefeo"
+ },
+ {
+  "slug": "balena",
+  "titolo": "Balena",
+  "latino": "Cetus",
+  "alt_names": [
+   "Mira"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg/960px-Cetus_-_Prodromus_astronomiae_1690_%285590562%29.jpg",
+  "img_w": 1920,
+  "img_h": 1511,
+  "tavola": "Fig. OO",
+  "search": "balena cetus mira balena"
+ },
+ {
+  "slug": "pegaso",
+  "titolo": "Pegaso",
+  "latino": "Pegasus",
+  "alt_names": [
+   "Cavallo Alato",
+   "Enif",
+   "Grande Quadrato di Pegaso"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg/960px-Pegasus_-_Prodromus_astronomiae_1690_%285590373%29.jpg",
+  "img_w": 1920,
+  "img_h": 1507,
+  "tavola": "Fig. T",
+  "search": "pegaso pegasus cavallo alato enif grande quadrato di pegaso pegaso"
+ },
+ {
+  "slug": "cigno",
+  "titolo": "Cigno",
+  "latino": "Cygnus",
+  "alt_names": [
+   "Deneb",
+   "Croce del Nord",
+   "Cigno Reale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cygnus.jpg/960px-Cygnus.jpg",
+  "img_w": 992,
+  "img_h": 801,
+  "tavola": "Fig. K",
+  "search": "cigno cygnus deneb croce del nord cigno reale cigno"
+ },
+ {
+  "slug": "lira",
+  "titolo": "Lira",
+  "latino": "Lyra",
+  "alt_names": [
+   "Vega"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lyra_Hevelius1690.jpg/960px-Lyra_Hevelius1690.jpg",
+  "img_w": 1920,
+  "img_h": 1440,
+  "tavola": "Fig. I",
+  "search": "lira lyra vega lira"
+ },
+ {
+  "slug": "aquila",
+  "titolo": "Aquila",
+  "latino": "Aquila",
+  "alt_names": [
+   "Altair",
+   "Aquila Reale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_R_-_Aquila_et_Antinous.jpg",
+  "img_w": 571,
+  "img_h": 472,
+  "tavola": "Fig. R",
+  "search": "aquila aquila altair aquila reale aquila",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "gemelli",
+  "titolo": "Gemelli",
+  "latino": "Gemini",
+  "alt_names": [
+   "Castor",
+   "Polluce"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemini.jpg/960px-Gemini.jpg",
+  "img_w": 1920,
+  "img_h": 1549,
+  "tavola": "Fig. DD",
+  "search": "gemelli gemini castor polluce gemelli"
+ },
+ {
+  "slug": "auriga",
+  "titolo": "Auriga",
+  "latino": "Auriga",
+  "alt_names": [
+   "Capella"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_X_-_Auriga.jpg",
+  "img_w": 587,
+  "img_h": 482,
+  "tavola": "Fig. X",
+  "search": "auriga auriga capella auriga",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "boote",
+  "titolo": "Boote",
+  "latino": "Boötes",
+  "alt_names": [
+   "Arturo",
+   "Guardiano dell'Orso"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bootes.jpg/960px-Bootes.jpg",
+  "img_w": 1920,
+  "img_h": 1571,
+  "tavola": "Fig. F",
+  "search": "boote bootes arturo guardiano dell orso boote"
+ },
+ {
+  "slug": "corona_boreale",
+  "titolo": "Corona Boreale",
+  "latino": "Corona Borealis",
+  "alt_names": [
+   "Corona Settentrionale",
+   "Alphecca",
+   "Gemma"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hev_10_fig_G_corona.jpg",
+  "img_w": 583,
+  "img_h": 484,
+  "tavola": "Fig. G",
+  "search": "corona boreale corona borealis corona settentrionale alphecca gemma corona boreale",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "vergine",
+  "titolo": "Vergine",
+  "latino": "Virgo",
+  "alt_names": [
+   "Spica"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_GG_-_Virgo.jpg",
+  "img_w": 577,
+  "img_h": 474,
+  "tavola": "Fig. GG",
+  "search": "vergine virgo spica vergine",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "leone",
+  "titolo": "Leone",
+  "latino": "Leo",
+  "alt_names": [
+   "Regolo",
+   "Denebola",
+   "La Falce"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leo_Hevelius.jpg/960px-Leo_Hevelius.jpg",
+  "img_w": 960,
+  "img_h": 773,
+  "tavola": "Fig. FF",
+  "search": "leone leo regolo denebola la falce leone"
+ },
+ {
+  "slug": "sagittario",
+  "titolo": "Sagittario",
+  "latino": "Sagittarius",
+  "alt_names": [
+   "Archiere",
+   "Teiera",
+   "Nunki"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sagittarius_Hevelius.jpg/960px-Sagittarius_Hevelius.jpg",
+  "img_w": 960,
+  "img_h": 776,
+  "tavola": "Fig. KK",
+  "search": "sagittario sagittarius archiere teiera nunki sagittario"
+ },
+ {
+  "slug": "bilancia",
+  "titolo": "Bilancia",
+  "latino": "Libra",
+  "alt_names": [
+   "Zubenelgenubi",
+   "Zubeneschamali"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_HH_-_Libra.jpg",
+  "img_w": 584,
+  "img_h": 477,
+  "tavola": "Fig. HH",
+  "search": "bilancia libra zubenelgenubi zubeneschamali bilancia",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "acquario",
+  "titolo": "Acquario",
+  "latino": "Aquarius",
+  "alt_names": [
+   "Versatore",
+   "Sadalmelik"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_MM_-_Aquarius.jpg",
+  "img_w": 586,
+  "img_h": 485,
+  "tavola": "Fig. MM",
+  "search": "acquario aquarius versatore sadalmelik acquario",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "pesci",
+  "titolo": "Pesci",
+  "latino": "Pisces",
+  "alt_names": [
+   "Corda dei Pesci",
+   "Alrescha"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_NN_-_Pisces.jpg",
+  "img_w": 578,
+  "img_h": 467,
+  "tavola": "Fig. NN",
+  "search": "pesci pisces corda dei pesci alrescha pesci",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "cancro",
+  "titolo": "Cancro",
+  "latino": "Cancer",
+  "alt_names": [
+   "Presepe",
+   "M44",
+   "Tegmine"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_EE_-_Cancer.jpg",
+  "img_w": 573,
+  "img_h": 464,
+  "tavola": "Fig. EE",
+  "search": "cancro cancer presepe m44 tegmine cancro",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "capricorno",
+  "titolo": "Capricorno",
+  "latino": "Capricornus",
+  "alt_names": [
+   "Capricorno Australe",
+   "Deneb Algedi"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_LL_-_Capricornus.jpg",
+  "img_w": 590,
+  "img_h": 483,
+  "tavola": "Fig. LL",
+  "search": "capricorno capricornus capricorno australe deneb algedi capricorno",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "ariete",
+  "titolo": "Ariete",
+  "latino": "Aries",
+  "alt_names": [
+   "Hamal",
+   "Sheratan"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_BB_-_Aries.jpg",
+  "img_w": 576,
+  "img_h": 467,
+  "tavola": "Fig. BB",
+  "search": "ariete aries hamal sheratan ariete",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "triangolo",
+  "titolo": "Triangolo",
+  "latino": "Triangulum",
+  "alt_names": [
+   "Deltoton",
+   "Isola",
+   "Trigonum"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_AA_-_Triangulum_Majus_Minus_et_Musca.jpg",
+  "img_w": 577,
+  "img_h": 469,
+  "tavola": "Fig. AA",
+  "search": "triangolo triangulum deltoton isola trigonum triangolo",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "orsa_minore",
+  "titolo": "Orsa Minore",
+  "latino": "Ursa Minor",
+  "alt_names": [
+   "Carro Minore",
+   "Piccolo Carro",
+   "Stella Polare",
+   "Polaris"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg/960px-Ursa_Minor_-_Prodromus_astronomiae_1690_%285590209%29.jpg",
+  "img_w": 960,
+  "img_h": 753,
+  "tavola": "Fig. A",
+  "search": "orsa minore ursa minor carro minore piccolo carro stella polare polaris orsa minore"
+ },
+ {
+  "slug": "drago",
+  "titolo": "Drago",
+  "latino": "Draco",
+  "alt_names": [
+   "Thuban",
+   "Eltanin"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg/960px-Draco_Hevelius_-_Prodromus_astronomiae_1690_%285590223%29.jpg",
+  "img_w": 960,
+  "img_h": 758,
+  "tavola": "Fig. B",
+  "search": "drago draco thuban eltanin drago"
+ },
+ {
+  "slug": "lince",
+  "titolo": "Lince",
+  "latino": "Lynx",
+  "alt_names": [
+   "Lince di Hevelius"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg/960px-Lynx_-_Prodromus_astronomiae_1690_%285590412%29.jpg",
+  "img_w": 960,
+  "img_h": 755,
+  "tavola": "Fig. Y",
+  "search": "lince lynx lince di hevelius lince"
+ },
+ {
+  "slug": "giraffa",
+  "titolo": "Giraffa",
+  "latino": "Camelopardalis",
+  "alt_names": [
+   "Camaleonte del Nord",
+   "Giraffa di Hevelius"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes_Hevelius_-_Camelo_Pardalus.jpg/960px-Johannes_Hevelius_-_Camelo_Pardalus.jpg",
+  "img_w": 960,
+  "img_h": 793,
+  "tavola": "Fig. O",
+  "search": "giraffa camelopardalis camaleonte del nord giraffa di hevelius giraffa"
+ },
+ {
+  "slug": "ercole",
+  "titolo": "Ercole",
+  "latino": "Hercules",
+  "alt_names": [
+   "Eracle",
+   "Giovanetto"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hercules_et_Cerberus_-_Prodromus_astronomiae_1690_%28436025%29.jpg/960px-Hercules_et_Cerberus_-_Prodromus_astronomiae_1690_%28436025%29.jpg",
+  "img_w": 960,
+  "img_h": 756,
+  "tavola": "Fig. H",
+  "search": "ercole hercules eracle giovanetto ercole"
+ },
+ {
+  "slug": "sestante",
+  "titolo": "Sestante",
+  "latino": "Sextans",
+  "alt_names": [
+   "Sestante di Urania",
+   "Uraniae Sceptrum"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg/960px-Sextans_Uraniae_-_Prodromus_astronomiae_1690_%285590626%29.jpg",
+  "img_w": 960,
+  "img_h": 754,
+  "tavola": "Fig. VV",
+  "search": "sestante sextans sestante di urania uraniae sceptrum sestante"
+ },
+ {
+  "slug": "volpetta",
+  "titolo": "Volpetta",
+  "latino": "Vulpecula",
+  "alt_names": [
+   "Anitra",
+   "Anser",
+   "Vulpes",
+   "Vulpecula cum Ansere"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg/960px-Prodromus_astronomiae_1690_%28436055%29_%28cropped%29.jpg",
+  "img_w": 1920,
+  "img_h": 1510,
+  "tavola": "Fig. L",
+  "search": "volpetta vulpecula anitra anser vulpes vulpecula cum ansere volpetta"
+ },
+ {
+  "slug": "lucertola",
+  "titolo": "Lucertola",
+  "latino": "Lacerta",
+  "alt_names": [
+   "Stellio",
+   "Stellione",
+   "Lacertus"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prodromus_astronomiae_1690_%285590307%29.jpg/960px-Prodromus_astronomiae_1690_%285590307%29.jpg",
+  "img_w": 1920,
+  "img_h": 1474,
+  "tavola": "Fig. M",
+  "search": "lucertola lacerta stellio stellione lacertus lucertola"
+ },
+ {
+  "slug": "leone_minore",
+  "titolo": "Leone Minore",
+  "latino": "Leo Minor",
+  "alt_names": [
+   "Leonis Minoris"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Johannes_Hevelius_-_Leo_Minor.jpg/960px-Johannes_Hevelius_-_Leo_Minor.jpg",
+  "img_w": 1920,
+  "img_h": 1604,
+  "tavola": "Fig. Z",
+  "search": "leone minore leo minor leonis minoris leone minore"
+ },
+ {
+  "slug": "scudo",
+  "titolo": "Scudo",
+  "latino": "Scutum",
+  "alt_names": [
+   "Scudo di Sobieski",
+   "Scutum Sobiescianum",
+   "Scudo di Giovanni Sobieski"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg/960px-Scutum_Sobiescianum_-_Prodromus_astronomiae_1690_%285590349%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. Q",
+  "search": "scudo scutum scudo di sobieski scutum sobiescianum scudo di giovanni sobieski scudo"
+ },
+ {
+  "slug": "levrieri",
+  "titolo": "Levieri",
+  "latino": "Canes Venatici",
+  "alt_names": [
+   "Cani da Caccia",
+   "Cor Caroli",
+   "Levrieri di Boote"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg/960px-Canes_Venatici_-_Prodromus_astronomiae_1690_%285590250%29.jpg",
+  "img_w": 1920,
+  "img_h": 1507,
+  "tavola": "Fig. E",
+  "search": "levieri canes venatici cani da caccia cor caroli levrieri di boote levrieri"
+ },
+ {
+  "slug": "chioma",
+  "titolo": "Chioma di Berenice",
+  "latino": "Coma Berenices",
+  "alt_names": [],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg/960px-Bootes_-_Prodromus_astronomiae_1690_%285590255%29.jpg",
+  "img_w": 1920,
+  "img_h": 1515,
+  "tavola": "Fig. F",
+  "search": "chioma di berenice coma berenices chioma"
+ },
+ {
+  "slug": "ofiucu",
+  "titolo": "Ofiuco",
+  "latino": "Ophiuchus",
+  "alt_names": [
+   "Serpentario",
+   "Portatore di Serpente",
+   "Rasalhague"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Serpens_et_Serpentarius_-_Prodromus_astronomiae_1690_%285590345%29.jpg/960px-Serpens_et_Serpentarius_-_Prodromus_astronomiae_1690_%285590345%29.jpg",
+  "img_w": 1920,
+  "img_h": 1510,
+  "tavola": "Fig. P",
+  "search": "ofiuco ophiuchus serpentario portatore di serpente rasalhague ofiucu"
+ },
+ {
+  "slug": "serpente",
+  "titolo": "Serpente",
+  "latino": "Serpens",
+  "alt_names": [
+   "Serpens Caput",
+   "Serpens Cauda",
+   "Unukalhai"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Serpens_et_Serpentarius_-_Prodromus_astronomiae_1690_%285590345%29.jpg/960px-Serpens_et_Serpentarius_-_Prodromus_astronomiae_1690_%285590345%29.jpg",
+  "img_w": 1920,
+  "img_h": 1510,
+  "tavola": "Fig. P",
+  "search": "serpente serpens serpens caput serpens cauda unukalhai serpente"
+ },
+ {
+  "slug": "delfino",
+  "titolo": "Delfino",
+  "latino": "Delphinus",
+  "alt_names": [
+   "Sualocin",
+   "Delfino Reale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg/960px-Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg",
+  "img_w": 1920,
+  "img_h": 1501,
+  "tavola": "Fig. S",
+  "search": "delfino delphinus sualocin delfino reale delfino"
+ },
+ {
+  "slug": "freccia",
+  "titolo": "Freccia",
+  "latino": "Sagitta",
+  "alt_names": [
+   "Frecce di Ercole"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg/960px-Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg",
+  "img_w": 1920,
+  "img_h": 1501,
+  "tavola": "Fig. S",
+  "search": "freccia sagitta frecce di ercole freccia"
+ },
+ {
+  "slug": "cavallino",
+  "titolo": "Cavallino",
+  "latino": "Equuleus",
+  "alt_names": [
+   "Cavalluccio",
+   "Cavallo"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg/960px-Sagitta_Delphinus_et_Equuleus_-_Prodromus_astronomiae_1690_%28436114%29.jpg",
+  "img_w": 1920,
+  "img_h": 1501,
+  "tavola": "Fig. S",
+  "search": "cavallino equuleus cavalluccio cavallo cavallino"
+ },
+ {
+  "slug": "eridano",
+  "titolo": "Eridano",
+  "latino": "Eridanus",
+  "alt_names": [
+   "Fiume",
+   "Achernar"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg/960px-Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. PP",
+  "search": "eridano eridanus fiume achernar eridano"
+ },
+ {
+  "slug": "fenice",
+  "titolo": "Fenice",
+  "latino": "Phoenix",
+  "alt_names": [
+   "Fenice Austral"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg/960px-Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. PP",
+  "search": "fenice phoenix fenice austral fenice"
+ },
+ {
+  "slug": "tucano",
+  "titolo": "Tucano",
+  "latino": "Tucana",
+  "alt_names": [
+   "Nube Piccola di Magellano",
+   "SMC"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg/960px-Eridanus_Phoenix_et_Toucan_-_Prodromus_astronomiae_1690_%285590575%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. PP",
+  "search": "tucano tucana nube piccola di magellano smc tucano"
+ },
+ {
+  "slug": "unicorno",
+  "titolo": "Unicorno",
+  "latino": "Monoceros",
+  "alt_names": [],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Monoceros_-_Prodromus_astronomiae_1690_%28436319%29.jpg/960px-Monoceros_-_Prodromus_astronomiae_1690_%28436319%29.jpg",
+  "img_w": 1920,
+  "img_h": 1507,
+  "tavola": "Fig. RR",
+  "search": "unicorno monoceros unicorno"
+ },
+ {
+  "slug": "centauro",
+  "titolo": "Centauro",
+  "latino": "Centaurus",
+  "alt_names": [
+   "Alfa Centauri",
+   "Rigil Kentaurus",
+   "Proxima"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_%285590647%29.jpg/960px-Centaurus_et_Crux_-_Prodromus_astronomiae_1690_%285590647%29.jpg",
+  "img_w": 960,
+  "img_h": 763,
+  "tavola": "Fig. XX",
+  "search": "centauro centaurus alfa centauri rigil kentaurus proxima centauro",
+  "nota_img": "URL thumb corretto con hash dir canonico da API Commons"
+ },
+ {
+  "slug": "croce_del_sud",
+  "titolo": "Croce del Sud",
+  "latino": "Crux",
+  "alt_names": [
+   "Crucis",
+   "Acrux"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_%285590647%29.jpg/960px-Centaurus_et_Crux_-_Prodromus_astronomiae_1690_%285590647%29.jpg",
+  "img_w": 960,
+  "img_h": 763,
+  "tavola": "Fig. XX",
+  "search": "croce del sud crux crucis acrux croce del sud",
+  "nota_img": "URL thumb corretto con hash dir canonico da API Commons"
+ },
+ {
+  "slug": "lupo",
+  "titolo": "Lupo",
+  "latino": "Lupus",
+  "alt_names": [
+   "Lupo Centaurino",
+   "Bestia"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Prodromus_astronomiae_1690_%285590655%29.jpg/960px-Prodromus_astronomiae_1690_%285590655%29.jpg",
+  "img_w": 1920,
+  "img_h": 1444,
+  "tavola": "Fig. YY",
+  "search": "lupo lupus lupo centaurino bestia lupo"
+ },
+ {
+  "slug": "altare",
+  "titolo": "Altare",
+  "latino": "Ara",
+  "alt_names": [
+   "Altare Australe",
+   "Sacrario"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg/960px-Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg",
+  "img_w": 1920,
+  "img_h": 1505,
+  "tavola": "Fig. ZZ",
+  "search": "altare ara altare australe sacrario altare"
+ },
+ {
+  "slug": "triangolo_australe",
+  "titolo": "Triangolo Australe",
+  "latino": "Triangulum Australe",
+  "alt_names": [
+   "Triangolo del Sud"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg/960px-Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg",
+  "img_w": 1920,
+  "img_h": 1505,
+  "tavola": "Fig. ZZ",
+  "search": "triangolo australe triangulum australe triangolo del sud triangolo australe"
+ },
+ {
+  "slug": "pavone",
+  "titolo": "Pavone",
+  "latino": "Pavo",
+  "alt_names": [
+   "Pavo Reale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg/960px-Pavo_-_Prodromus_astronomiae_1690_%285590667%29.jpg",
+  "img_w": 1920,
+  "img_h": 1505,
+  "tavola": "Fig. ZZ",
+  "search": "pavone pavo pavo reale pavone"
+ },
+ {
+  "slug": "corona_australe",
+  "titolo": "Corona Australe",
+  "latino": "Corona Australis",
+  "alt_names": [
+   "Corona Meridionale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_AAA_-_Corona_Australis.jpg",
+  "img_w": 591,
+  "img_h": 487,
+  "tavola": "Fig. AAA",
+  "search": "corona australe corona australis corona meridionale corona australe",
+  "nota_img": "originale Commons (file piu piccolo di 960px, nessuna thumb disponibile)"
+ },
+ {
+  "slug": "pesce_australe",
+  "titolo": "Pesce Australe",
+  "latino": "Piscis Austrinus",
+  "alt_names": [
+   "Fomalhaut",
+   "Bocca del Pesce Australe",
+   "Piscis Australis"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johannes_Hevelius_-_Piscis_Notius_%26_Grus.jpg/960px-Johannes_Hevelius_-_Piscis_Notius_%26_Grus.jpg",
+  "img_w": 1920,
+  "img_h": 1575,
+  "tavola": "Fig. BBB",
+  "search": "pesce australe piscis austrinus fomalhaut bocca del pesce australe piscis australis pesce australe"
+ },
+ {
+  "slug": "gru",
+  "titolo": "Gru",
+  "latino": "Grus",
+  "alt_names": [
+   "Gru Australiana",
+   "Alnair"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johannes_Hevelius_-_Piscis_Notius_%26_Grus.jpg/960px-Johannes_Hevelius_-_Piscis_Notius_%26_Grus.jpg",
+  "img_w": 1920,
+  "img_h": 1575,
+  "tavola": "Fig. BBB",
+  "search": "gru grus gru australiana alnair gru"
+ },
+ {
+  "slug": "lepre",
+  "titolo": "Lepre",
+  "latino": "Lepus",
+  "alt_names": [
+   "Lepre di Hevelius"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lepus_et_Columba_-_Prodromus_astronomiae_1690_%285590691%29.jpg/960px-Lepus_et_Columba_-_Prodromus_astronomiae_1690_%285590691%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. CCC",
+  "search": "lepre lepus lepre di hevelius lepre"
+ },
+ {
+  "slug": "colomba",
+  "titolo": "Colomba",
+  "latino": "Columba",
+  "alt_names": [
+   "Colomba di Noè",
+   "Columba Noae"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lepus_et_Columba_-_Prodromus_astronomiae_1690_%285590691%29.jpg/960px-Lepus_et_Columba_-_Prodromus_astronomiae_1690_%285590691%29.jpg",
+  "img_w": 1920,
+  "img_h": 1513,
+  "tavola": "Fig. CCC",
+  "search": "colomba columba colomba di noe columba noae colomba"
+ },
+ {
+  "slug": "carena",
+  "titolo": "Carena",
+  "latino": "Carina",
+  "alt_names": [
+   "Canopo",
+   "Nave Argo",
+   "Nebulosa della Carena"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg/960px-Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg",
+  "img_w": 1920,
+  "img_h": 1525,
+  "tavola": "Fig. EEe",
+  "search": "carena carina canopo nave argo nebulosa della carena carena"
+ },
+ {
+  "slug": "vele",
+  "titolo": "Vele",
+  "latino": "Vela",
+  "alt_names": [
+   "Vele della Nave Argo"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg/960px-Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg",
+  "img_w": 1920,
+  "img_h": 1525,
+  "tavola": "Fig. EEe",
+  "search": "vele vela vele della nave argo vele"
+ },
+ {
+  "slug": "poppa",
+  "titolo": "Poppa",
+  "latino": "Puppis",
+  "alt_names": [
+   "Prua",
+   "Poppa della Nave Argo"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg/960px-Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg",
+  "img_w": 1920,
+  "img_h": 1525,
+  "tavola": "Fig. EEe",
+  "search": "poppa puppis prua poppa della nave argo poppa"
+ },
+ {
+  "slug": "bussola",
+  "titolo": "Bussola",
+  "latino": "Pyxis",
+  "alt_names": [
+   "Bussola della Nave",
+   "Malo",
+   "Pyxis Nautica"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg/960px-Argo_Navis_-_Prodromus_astronomiae_1690_%28436433%29.jpg",
+  "img_w": 1920,
+  "img_h": 1525,
+  "tavola": "Fig. EEe",
+  "search": "bussola pyxis bussola della nave malo pyxis nautica bussola"
+ },
+ {
+  "slug": "indiani",
+  "titolo": "Indiano",
+  "latino": "Indus",
+  "alt_names": [
+   "Indu",
+   "Pellerossa",
+   "Tigris"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "indiano indus indu pellerossa tigris indiani"
+ },
+ {
+  "slug": "volatile",
+  "titolo": "Uccello di Paradiso",
+  "latino": "Apus",
+  "alt_names": [
+   "Uccello di Paradiso Australe",
+   "Paradisea",
+   "Apoda"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "uccello di paradiso apus uccello di paradiso australe paradisea apoda volatile"
+ },
+ {
+  "slug": "cidneo",
+  "titolo": "Idra Maschio",
+  "latino": "Hydrus",
+  "alt_names": [
+   "Piccola Idra",
+   "Serpente Maschio"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "idra maschio hydrus piccola idra serpente maschio cidneo"
+ },
+ {
+  "slug": "camaeleonte",
+  "titolo": "Camaleonte",
+  "latino": "Chamaeleon",
+  "alt_names": [
+   "Camaleonte Australe"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "camaleonte chamaeleon camaleonte australe camaeleonte"
+ },
+ {
+  "slug": "mosca",
+  "titolo": "Mosca",
+  "latino": "Musca",
+  "alt_names": [
+   "Mosca Australiana",
+   "Apis",
+   "Musca Australis"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "mosca musca mosca australiana apis musca australis mosca"
+ },
+ {
+  "slug": "pesce_volante",
+  "titolo": "Pesce Volante",
+  "latino": "Volans",
+  "alt_names": [
+   "Pesce Volante Australe",
+   "Piscis Volans"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "pesce volante volans pesce volante australe piscis volans pesce volante"
+ },
+ {
+  "slug": "doradina",
+  "titolo": "Dorado",
+  "latino": "Dorado",
+  "alt_names": [
+   "Grande Nube di Magellano",
+   "LMC",
+   "Xiphias",
+   "Pesciolino"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg/960px-Johannes_Hevelius_-_Prodromus_Astronomia_-_Volume_III_%22Firmamentum_Sobiescianum%2C_sive_uranographia%22_-_Tavola_FFF_-_Polus_Antarcticus.jpg",
+  "img_w": 1920,
+  "img_h": 1552,
+  "tavola": "Fig. FFF",
+  "search": "dorado dorado grande nube di magellano lmc xiphias pesciolino doradina"
+ },
+ {
+  "slug": "antlia",
+  "titolo": "Macchina Pneumatica",
+  "latino": "Antlia",
+  "alt_names": [
+   "Pompa",
+   "Pompa Pneumatica"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg/960px-XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg",
+  "img_w": 1920,
+  "img_h": 1314,
+  "tavola": "Bode 1801, Tav. XIX",
+  "search": "macchina pneumatica antlia pompa pompa pneumatica antlia"
+ },
+ {
+  "slug": "caelum",
+  "titolo": "Bulino",
+  "latino": "Caelum",
+  "alt_names": [
+   "Cesello",
+   "Caelum Scalptorium"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg/960px-XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg",
+  "img_w": 1920,
+  "img_h": 1306,
+  "tavola": "Bode 1801, Tav. XVII",
+  "search": "bulino caelum cesello caelum scalptorium caelum"
+ },
+ {
+  "slug": "circinus",
+  "titolo": "Compasso",
+  "latino": "Circinus",
+  "alt_names": [
+   "Circolo",
+   "Compasso da Disegno"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg/960px-XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg",
+  "img_w": 1536,
+  "img_h": 1039,
+  "tavola": "Bode 1801, Tav. XV",
+  "search": "compasso circinus circolo compasso da disegno circinus"
+ },
+ {
+  "slug": "corvus",
+  "titolo": "Corvo",
+  "latino": "Corvus",
+  "alt_names": [],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg/960px-XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg",
+  "img_w": 1920,
+  "img_h": 1314,
+  "tavola": "Bode 1801, Tav. XIX",
+  "search": "corvo corvus corvus"
+ },
+ {
+  "slug": "crater",
+  "titolo": "Coppa",
+  "latino": "Crater",
+  "alt_names": [
+   "Coppa di Apollo",
+   "Tazza"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg/960px-XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg",
+  "img_w": 1920,
+  "img_h": 1314,
+  "tavola": "Bode 1801, Tav. XIX",
+  "search": "coppa crater coppa di apollo tazza crater"
+ },
+ {
+  "slug": "fornax",
+  "titolo": "Fornace",
+  "latino": "Fornax",
+  "alt_names": [
+   "Forno",
+   "Fornax Chemica"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg/960px-XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg",
+  "img_w": 1920,
+  "img_h": 1306,
+  "tavola": "Bode 1801, Tav. XVII",
+  "search": "fornace fornax forno fornax chemica fornax"
+ },
+ {
+  "slug": "horologium",
+  "titolo": "Orologio",
+  "latino": "Horologium",
+  "alt_names": [
+   "Orologio a Pendolo",
+   "Horologium Pendulorum"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg/960px-XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg",
+  "img_w": 1920,
+  "img_h": 1315,
+  "tavola": "Bode 1801, Tav. XX",
+  "search": "orologio horologium orologio a pendolo horologium pendulorum horologium"
+ },
+ {
+  "slug": "hydra",
+  "titolo": "Idra",
+  "latino": "Hydra",
+  "alt_names": [
+   "Idra Femmina",
+   "Serpente Acquatico"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg/960px-XIX._Hydra..._%28Coelum_Stellatum%29._%28IA_dr_xix-hydra-coelum-stellatum-12130025%29.jpg",
+  "img_w": 1920,
+  "img_h": 1314,
+  "tavola": "Bode 1801, Tav. XIX",
+  "search": "idra hydra idra femmina serpente acquatico hydra"
+ },
+ {
+  "slug": "mensa",
+  "titolo": "Tavola",
+  "latino": "Mensa",
+  "alt_names": [
+   "Monte Tavola",
+   "Monte Menalo",
+   "Mons Mensae",
+   "Table Mountain"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lacaille%E2%80%99s_southern_planisphere_of_1756.png/960px-Lacaille%E2%80%99s_southern_planisphere_of_1756.png",
+  "img_w": 1280,
+  "img_h": 960,
+  "tavola": "Lacaille 1756, planisfero australe",
+  "search": "tavola mensa monte tavola monte menalo mons mensae table mountain mensa"
+ },
+ {
+  "slug": "microscopium",
+  "titolo": "Microscopio",
+  "latino": "Microscopium",
+  "alt_names": [
+   "Microscopio Semplice",
+   "Microscopio Composito"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/XVI._Capricornus..._%28Coelum_Stellatum%29._%28IA_dr_xvi-capricornus-coelum-stellatum-12130022%29.jpg/960px-XVI._Capricornus..._%28Coelum_Stellatum%29._%28IA_dr_xvi-capricornus-coelum-stellatum-12130022%29.jpg",
+  "img_w": 1920,
+  "img_h": 1299,
+  "tavola": "Bode 1801, Tav. XVI",
+  "search": "microscopio microscopium microscopio semplice microscopio composito microscopium"
+ },
+ {
+  "slug": "norma",
+  "titolo": "Squadra",
+  "latino": "Norma",
+  "alt_names": [
+   "Regolo",
+   "Squadretta",
+   "Norma et Regula"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg/960px-XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg",
+  "img_w": 1536,
+  "img_h": 1039,
+  "tavola": "Bode 1801, Tav. XV",
+  "search": "squadra norma regolo squadretta norma et regula norma"
+ },
+ {
+  "slug": "octans",
+  "titolo": "Ottante",
+  "latino": "Octans",
+  "alt_names": [
+   "Ottante di Hadley",
+   "Octans Hadleyanus",
+   "Polo Sud Celeste"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Apus_and_Octans_in_Lacaille%27s_planisphere_%281756%29.jpg",
+  "img_w": 640,
+  "img_h": 640,
+  "tavola": "Lacaille 1756, ritaglio Apus + Octans",
+  "search": "ottante octans ottante di hadley octans hadleyanus polo sud celeste octans"
+ },
+ {
+  "slug": "pictor",
+  "titolo": "Cavalletto del Pittore",
+  "latino": "Pictor",
+  "alt_names": [
+   "Cavalletto",
+   "Equuleus Pictoris",
+   "Beta Pictoris"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg/960px-XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg",
+  "img_w": 1920,
+  "img_h": 1315,
+  "tavola": "Bode 1801, Tav. XX",
+  "search": "cavalletto del pittore pictor cavalletto equuleus pictoris beta pictoris pictor"
+ },
+ {
+  "slug": "reticulum",
+  "titolo": "Reticolo",
+  "latino": "Reticulum",
+  "alt_names": [
+   "Reticolo da Disegno",
+   "Reticulum Rhomboidale"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg/960px-XX._Phonix.._%28Coelum_Stellatum%29._%28IA_dr_xx-phonix-coelum-stellatum-12130026%29.jpg",
+  "img_w": 1920,
+  "img_h": 1315,
+  "tavola": "Bode 1801, Tav. XX",
+  "search": "reticolo reticulum reticolo da disegno reticulum rhomboidale reticulum"
+ },
+ {
+  "slug": "sculptor",
+  "titolo": "Officina dello Scultore",
+  "latino": "Sculptor",
+  "alt_names": [
+   "Scultore",
+   "Apparatus Sculptoris",
+   "Officina Sculptoris"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg/960px-XVII._Cetus..._%28Coelum_Stellatum%29._%28IA_dr_xvii-cetus-coelum-stellatum-12130023%29.jpg",
+  "img_w": 1920,
+  "img_h": 1306,
+  "tavola": "Bode 1801, Tav. XVII",
+  "search": "officina dello scultore sculptor scultore apparatus sculptoris officina sculptoris sculptor"
+ },
+ {
+  "slug": "telescopium",
+  "titolo": "Telescopio",
+  "latino": "Telescopium",
+  "alt_names": [
+   "Cannocchiale",
+   "Tubo"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg/960px-XV._Scorpius.._%28Coelum_Stellatum%29._%28IA_dr_xv-scorpius-coelum-stellatum-12130021%29.jpg",
+  "img_w": 1536,
+  "img_h": 1039,
+  "tavola": "Bode 1801, Tav. XV",
+  "search": "telescopio telescopium cannocchiale tubo telescopium"
+ },
+ {
+  "slug": "pleiadi",
+  "titolo": "Pleiadi",
+  "latino": "Pleiades",
+  "alt_names": [
+   "M45",
+   "Sette Sorelle",
+   "Messier 45",
+   "Le Sette Sorelle",
+   "Seven Sisters"
+  ],
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/960px-Pleiades_large.jpg",
+  "img_w": 960,
+  "img_h": 692,
+  "tavola": "Ammasso aperto (su tavola del Toro)",
+  "nota_img": "Immagine verificata visivamente (caption: Pleiadi M45, stelle blu + nebulosita). Originale Commons File:Pleiades_large.jpg 4877x3515.",
+  "search": "pleiadi pleiades m45 sette sorelle messier 45 le sette sorelle seven sisters pleiadi"
+ }
+]

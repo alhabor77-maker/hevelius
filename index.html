@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="css/style.part6_02.css">
 <link rel="stylesheet" href="css/style.part7_01.css">
 <link rel="stylesheet" href="css/style.part7_02.css">
+<link rel="stylesheet" href="css/style.grid.css">
 </head>
 <body data-page="home">
 <header class="site-header" id="site-header"></header>
@@ -34,9 +35,17 @@
     <p class="muted small">Le tavole mostrano il cielo visto dall’esterno della sfera celeste: l’immagine è <strong>speculare</strong> rispetto a come lo vediamo da Terra.</p>
   </section>
 
+  <section class="wrap" aria-label="Ricerca costellazioni">
+    <div class="search-bar" id="search-bar">
+      <label class="sr-only" for="search-box">Cerca una costellazione</label>
+      <input type="search" id="search-box" placeholder="Cerca costellazione…" autocomplete="off" spellcheck="false">
+    </div>
+  </section>
+
   <section class="wrap" aria-labelledby="cost-h">
     <h2 id="cost-h" class="sr-only">Le costellazioni</h2>
     <div class="cards" id="cards">
+      <div class="plate-loading" id="loading-placeholder" aria-live="polite">Carico le 89 tavole…</div>
       <noscript><p class="notice">Serve JavaScript per mostrare le tavole. In alternativa: <a href="constellation.html?c=orione">Orione</a>, <a href="constellation.html?c=scorpione">Scorpione</a>, <a href="constellation.html?c=cane_minore">Cane Minore</a>, <a href="constellation.html?c=toro">Toro</a>, <a href="constellation.html?c=cane_maggiore">Cane Maggiore</a>, <a href="constellation.html?c=orsa_maggiore">Orsa Maggiore</a>, <a href="constellation.html?c=perseo">Perseo</a>, <a href="constellation.html?c=andromeda">Andromeda</a>, <a href="constellation.html?c=cassiopea">Cassiopea</a>, <a href="constellation.html?c=cefeo">Cefeo</a>, <a href="constellation.html?c=balena">Balena</a>, <a href="constellation.html?c=pegaso">Pegaso</a>, <a href="constellation.html?c=cigno">Cigno</a>, <a href="constellation.html?c=lira">Lira</a>, <a href="constellation.html?c=aquila">Aquila</a>, <a href="constellation.html?c=gemelli">Gemelli</a>, <a href="constellation.html?c=auriga">Auriga</a>, <a href="constellation.html?c=boote">Boote</a>, <a href="constellation.html?c=corona_boreale">Corona Boreale</a>, <a href="constellation.html?c=vergine">Vergine</a>, <a href="constellation.html?c=leone">Leone</a>, <a href="constellation.html?c=sagittario">Sagittario</a>, <a href="constellation.html?c=bilancia">Bilancia</a>, <a href="constellation.html?c=acquario">Acquario</a>, <a href="constellation.html?c=pesci">Pesci</a>, <a href="constellation.html?c=cancro">Cancro</a>, <a href="constellation.html?c=capricorno">Capricorno</a>, <a href="constellation.html?c=ariete">Ariete</a>, <a href="constellation.html?c=triangolo">Triangolo</a>, <a href="constellation.html?c=orsa_minore">Orsa Minore</a>, <a href="constellation.html?c=drago">Drago</a>, <a href="constellation.html?c=lince">Lince</a>, <a href="constellation.html?c=giraffa">Giraffa</a>, <a href="constellation.html?c=ercole">Ercole</a>, <a href="constellation.html?c=sestante">Sestante</a>, <a href="constellation.html?c=volpetta">Volpetta</a>, <a href="constellation.html?c=lucertola">Lucertola</a>, <a href="constellation.html?c=leone_minore">Leone Minore</a>, <a href="constellation.html?c=scudo">Scudo</a>, <a href="constellation.html?c=levrieri">Levieri</a>, <a href="constellation.html?c=chioma">Chioma di Berenice</a>, <a href="constellation.html?c=ofiucu">Ofiuco</a>, <a href="constellation.html?c=serpente">Serpente</a>, <a href="constellation.html?c=delfino">Delfino</a>, <a href="constellation.html?c=freccia">Freccia</a>, <a href="constellation.html?c=cavallino">Cavallino</a>, <a href="constellation.html?c=eridano">Eridano</a>, <a href="constellation.html?c=fenice">Fenice</a>, <a href="constellation.html?c=tucano">Tucano</a>, <a href="constellation.html?c=unicorno">Unicorno</a>, <a href="constellation.html?c=centauro">Centauro</a>, <a href="constellation.html?c=croce_del_sud">Croce del Sud</a>, <a href="constellation.html?c=lupo">Lupo</a>, <a href="constellation.html?c=altare">Altare</a>, <a href="constellation.html?c=triangolo_australe">Triangolo Australe</a>, <a href="constellation.html?c=pavone">Pavone</a>, <a href="constellation.html?c=corona_australe">Corona Australe</a>, <a href="constellation.html?c=pesce_australe">Pesce Australe</a>, <a href="constellation.html?c=gru">Gru</a>, <a href="constellation.html?c=lepre">Lepre</a>, <a href="constellation.html?c=colomba">Colomba</a>, <a href="constellation.html?c=carena">Carena</a>, <a href="constellation.html?c=vele">Vele</a>, <a href="constellation.html?c=poppa">Poppa</a>, <a href="constellation.html?c=bussola">Bussola</a>, <a href="constellation.html?c=hydra">Idra</a>, <a href="constellation.html?c=corvus">Corvo</a>, <a href="constellation.html?c=crater">Coppa</a>, <a href="constellation.html?c=antlia">Macchina Pneumatica</a>, <a href="constellation.html?c=caelum">Bulino</a>, <a href="constellation.html?c=fornax">Fornace</a>, <a href="constellation.html?c=sculptor">Scultore</a>, <a href="constellation.html?c=horologium">Orologio</a>, <a href="constellation.html?c=reticulum">Reticolo</a>, <a href="constellation.html?c=pictor">Cavalletto del Pittore</a>, <a href="constellation.html?c=microscopium">Microscopio</a>, <a href="constellation.html?c=norma">Squadra</a>, <a href="constellation.html?c=circinus">Compasso</a>, <a href="constellation.html?c=telescopium">Telescopio</a>, <a href="constellation.html?c=mensa">Tavola del Monte Menalo</a>, <a href="constellation.html?c=octans">Ottante</a>.</p></noscript>
     </div>
   </section>
@@ -69,6 +78,7 @@
 </main>
 <footer class="site-footer" id="site-footer"></footer>
 <script src="js/app.js"></script>
+<script src="js/app.grid.js" defer></script>
 <script src="js/header_hide.js" defer></script>
 </body>
 </html>
