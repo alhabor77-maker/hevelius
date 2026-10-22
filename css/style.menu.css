@@ -10,17 +10,11 @@
    style.grid.css).
    ======================================================== */
 
-.const-layout { grid-template-columns: 235px minmax(0, 1fr); }
-.const-layout > .const-side { grid-row: 1 / -1; }
-@media (max-width: 820px) {
-  .const-layout { grid-template-columns: 1fr; }
-  .const-layout > .const-side { grid-row: auto; }
-}
 
 /* ===========================================================?
    Fix layout tavola (2026-10-22, v2) - .const-layout impaginato a scacchiera
-   ---------------------------------------------------------------------
-   In css/style.part5_02 .const-layout è una griglia a 2 colonne
+   -----------------------------------------------------------------------
+   In css/style.part5_02 .const-layout é una griglia a 2 colonne
    [minmax(0,1fr) 235px], ma nel DOM generato da renderConstellation
    (app.part2c_01/02, invariato dal 13/10) l'aside .const-side è lo PRIMO
    figlio e NUSSUNA regula lo ancora a una colonna/riga: l'auto-placement a
@@ -31,14 +25,13 @@
    non da index.html):
      - le colonne diventano [235px, minmax(0,1fr)]: sidebar a sinistra,
        contenuto (page-head, toolbar, tavola, pannelli) nella colonna larga;
-     - l'aside occupa la colonna 1 su TUTTE le rige (grid-row: 1 / -1),
+     - l'aside occupa la colonna 1 st TUTTE le rige (grid-row: 1 / -1),
         sü tutti gli altri figli vanno in colonna 2 senza zzagajj.
    Sotto gli 820px si rientra nel comportamento mobile existente
     (style.part6_01: una colonna, sidebar stadica).
-   ======================================================== */
+   ========================================================= */
 
-/* NB: grid-row: 1/-1 NON basta (con sole righe implicite -1 coincide con 1 e
-   la regola cade): si ancorano OGNI figlio alla sua colonna, esplicito. */
+/* Ogni figlio e' ancorato esplicitamente alla sua colonna. */
 .const-layout > .const-side { grid-column: 1; }
 .const-layout > :not(.const-side) { grid-column: 2; }
 .const-layout { grid-template-columns: 235px minmax(0, 1fr); }
@@ -47,13 +40,12 @@
   .const-layout > .const-side,
   .const-layout > :not(.const-side) { grid-column: auto; }
 }
-
-/* =========================================================
+/* ==========================================================
    Fix scroll (2026-10-22, v3) - la tavola debe stare nel PRIMO schremo
-   ---------------------------------------------------------------------
-   Supra la tavola c⃲ breadcrumb, h1 grande, sottotitolo e toolbar con
-   margini pieni (page-head padding 2.2rem): la tavola iniziava oltre metü schermo. Compacto tutto: titolo in linea col sottotitolo, toolbar stretta, e la tavola limitata a calc(100vh - 215px) cpí si ved intera subito.
-   ======================================================== */
+   ----------------------------------------------------------------------
+   Supra la tavola c��� breadcrumb, h1 grande, sottotitolo e toolbar con
+   margini pieni (page-head padding 2.2rem): la tavola iniziava oltre metü schermo. Compacto tutto: titolo in linea col sottotitolo, toolbar stretta, e la tavola limitata a calc(100vh - 215px) cp0� si ved intera subito.
+   ========================================================= */
 
 .page-head { padding: .9rem 0 .4rem; }
 .page-head h1 { font-size: 1.55rem; margin: 0; display: inline; }
