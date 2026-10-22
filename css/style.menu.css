@@ -31,4 +31,31 @@
   #nav-jump { max-width: 11rem; }
 }
 
+/* =========================================================================
+   Fix layout tavola (2026-10-22, v2) — .const-layout impaginato a scacchiera
+   -------------------------------------------------------------------------
+   In css/style.part5_02 .const-layout è una griglia a 2 colonne
+   [minmax(0,1fr) 235px], ma nel DOM generato da renderConstellation
+   (app.part2c_01/02, invariato dal 13/10) l'aside .const-side è il PRIMO
+   figlio e NESSUNA regola lo ancora a una colonna/riga: l'auto-placement a
+   riga dispone i 9 figli alternandoli tra colonna 1 e colonna 2
+   (sidebar in alto a sinistra, titolo stretto in colonna fissa, toolbar a
+   zigzag sopra la sidebar, tavola nella colonna stretta...).
+   Fix minimo, solo su questo file (linkato da constellation.html e star.html,
+   non da index.html):
+     - le colonne diventano [235px, minmax(0,1fr)]: sidebar a sinistra,
+       contenuto (page-head, toolbar, tavola, pannelli) nella colonna larga;
+     - l'aside occupa la colonna 1 su TUTTE le righe (grid-row: 1 / -1),
+       così tutti gli altri figli vanno in colonna 2 senza zigzag.
+   Sotto gli 820px si rientra nel comportamento mobile esistente
+   (style.part6_01: una colonna, sidebar statica).
+   ========================================================================= */
+
+.const-layout { grid-template-columns: 235px minmax(0, 1fr); }
+.const-layout > .const-side { grid-row: 1 / -1; }
+@media (max-width: 820px) {
+  .const-layout { grid-template-columns: 1fr; }
+  .const-layout > .const-side { grid-row: auto; }
+}
+
 /* ---------------------------- fine fix menu ---------------------------- */
