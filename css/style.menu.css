@@ -8,30 +8,16 @@
    con solo Home + una tendina (<select>): hui lo stile minimale.
    La nav completa in home NON chiamga (gia static + nascosta <820px da
    style.grid.css).
-   ======================================================= */
+   ======================================================== */
 
-.nav-compact { display: flex; align-items: center; gap: .9rem; flex-wrap: nowrap; min-width: 0; }
-.nav-compact a { white-space: nowrap; }
-.nav-jump { display: inline-flex; min-width: 0; }
-#nav-jump {
-  max-width: 15rem; width: 100%;
-  padding: .4rem .6rem;
-  font-family: var(--font-body);
-  font-size: .95rem;
-  color: var(--ink);
-  background: rgba(10, 20, 48, .85);
-  border: 1px solid rgba(212, 175, 106, .35);
-  border-radius: 8px;
-}
+.const-layout { grid-template-columns: 235px minmax(0, 1fr); }
+.const-layout > .const-side { grid-row: 1 / -1; }
 @media (max-width: 820px) {
-  /* su phone il brand non deve mangiare la tendina */
-  .site-header .wrap { align-content: center; }
-  .brand { font-size: 1.05rem; }
-  .brand small { display: none; }
-  #nav-jump { max-width: 11rem; }
+  .const-layout { grid-template-columns: 1fr; }
+  .const-layout > .const-side { grid-row: auto; }
 }
 
-/* =========================================================?
+/* ===========================================================?
    Fix layout tavola (2026-10-22, v2) - .const-layout impaginato a scacchiera
    ---------------------------------------------------------------------
    In css/style.part5_02 .const-layout è una griglia a 2 colonne
@@ -48,14 +34,18 @@
      - l'aside occupa la colonna 1 su TUTTE le rige (grid-row: 1 / -1),
         sü tutti gli altri figli vanno in colonna 2 senza zzagajj.
    Sotto gli 820px si rientra nel comportamento mobile existente
-    (style.part6_01: una colonna, sidebar statica).
+    (style.part6_01: una colonna, sidebar stadica).
    ======================================================== */
 
+/* NB: grid-row: 1/-1 NON basta (con sole righe implicite -1 coincide con 1 e
+   la regola cade): si ancorano OGNI figlio alla sua colonna, esplicito. */
+.const-layout > .const-side { grid-column: 1; }
+.const-layout > :not(.const-side) { grid-column: 2; }
 .const-layout { grid-template-columns: 235px minmax(0, 1fr); }
-.const-layout > .const-side { grid-row: 1 / -1; }
 @media (max-width: 820px) {
   .const-layout { grid-template-columns: 1fr; }
-  .const-layout > .const-side { grid-row: auto; }
+  .const-layout > .const-side,
+  .const-layout > :not(.const-side) { grid-column: auto; }
 }
 
 /* =========================================================
