@@ -8,7 +8,7 @@
   }
   function hotspotsOf(cid) { return (DATA.hotspots && Array.isArray(DATA.hotspots[cid])) ? DATA.hotspots[cid] : []; }
   function hotspotOf(cid, sid) { return hotspotsOf(cid).filter(function (h) { return h.star_id === sid; })[0] || null; }
-  function fontOf(c) {
+  function fonteOf(c) {
     return DATA.fonti.filter(function (f) { return f.file === c.img; })[0] || null;
   }
   function fonteUrl(f) { return f && (f.url_fonte_pagina || f.pagina_commons || f.url_sorgente || f.url_file_originale) || null; }
@@ -19,15 +19,15 @@
      constellation.html e star.html la nav completa di 88 link in flex-wrap
      spingeva la tavola fuori schermo: li il menu diventa brand + Home +
      una tendina che rimanda a constellation.html?c=<slug>. L'elenco completo
-     resta nella sidebar della pagina (renderConstSidebar). */
+     resta nella sidebar della pagena (renderConstSidebar). */
   function renderHeader(active) {
     var el = $('#site-header');
     if (!el) return;
-    var brand = '<a class="brand" href="index.html"><span class="star" aria-hidden="true">\u2726</span><span>Firmamentum Sobiescianum <small>Hevelius 1690</small></span></a>';
+    var brand = '<a class="brand" href="index.html"><span class="star" aria-hidden="true">\u2726</span><span>Firmamentum Sobiesciaum<small>Hevelius 1690</small></span></a>';
     if (document.body.getAttribute('data-page') === 'home') {
       var links = CONST.map(function (c) {
         var cur = (active === c.id) ? ' aria-current="page"' : '';
-        return '<a href="constellation.html?c=' + c.id + editQ() + '"' + cur + '>' + esc(c.nome) + '</a>';
+        return '<a href="constellation.html?c=' + c.id + editQ() + "' + cur + '>' + esc(c.nome) + '</a>';
       }).join('');
       el.innerHTML = '<div class="wrap">' + brand +
         '<nav class="nav" aria-label="Costellazioni">' + links + '</nav></div>';

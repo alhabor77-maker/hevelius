@@ -1,6 +1,6 @@
 /* =========================================================================
    Fix menu compatto (2026-10-22) — NAV su pagine NON-home
-   ----------------------------------------------------------------------------
+   -------------------------------------------------------------------------
    Con 89 card la nav dell'header contiene ~89 link in flex-wrap: su
    constellation.html e star.html (header sticky) diventava una banda di
    decine di righe che copriva e spingeva fuori schermo la tavola.
@@ -31,4 +31,4 @@
   #nav-jump { max-width: 11rem; }
 }
 
-/* -------------------------------- fine fix menu -------------------------------- */
+/* ----------------------------- fine fix menu ----------------------------- */
