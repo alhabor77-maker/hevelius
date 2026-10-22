@@ -18,6 +18,10 @@
     renderHeader('');
     var grid = $('#cards');
     if (!grid) return;
+    if (grid.querySelectorAll('a.grid-card').length) {
+      loadAll().then(renderFooter);
+      return;
+    }
     grid.innerHTML = CONST.map(function (c) {
       return '<a class="card" href="constellation.html?c=' + c.id + '">' +
         '<div class="thumb"><img src="' + c.thumb + '" alt="Tavola di Hevelius: ' + esc(c.nome) + '" loading="lazy" onerror="this.onerror=null;this
