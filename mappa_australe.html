@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Il Cielo Australe — Firmamentum Sobiescianum</title>
+<style>
+  :root{
+    --parchment:#f4ecd8;
+    --ink:#5a4632;
+    --ink-soft:#7a6650;
+    --night:#0a1430;
+    --ivory:#f3ecd8;
+    --gold:#c9a227;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--night);color:var(--ivory);font-family:Georgia,'Times New Roman',serif;}
+  header.site{
+    background:var(--night);
+    padding:14px 28px;
+    display:flex;align-items:baseline;gap:22px;
+    border-bottom:1px solid rgba(201,162,39,.45);
+  }
+  header.site .brand{font-size:1.15rem;letter-spacing:.06em;color:var(--gold);text-decoration:none;}
+  header.site nav a{color:var(--ivory);text-decoration:none;font-size:.92rem;opacity:.85;}
+  header.site nav a:hover{color:var(--gold);opacity:1;}
+  .titleblock{text-align:center;padding:26px 16px 4px;}
+  .titleblock h1{
+    margin:0;font-size:2rem;font-weight:normal;letter-spacing:.14em;
+    color:var(--ivory);font-variant:small-caps;
+  }
+  .titleblock .subtitle{margin-top:6px;font-style:italic;color:#cbbd9a;font-size:1.02rem;}
+  .titleblock .nota{margin-top:4px;font-size:.8rem;color:#9a8f74;letter-spacing:.05em;}
+  .mapwrap{
+    max-width:1060px;margin:10px auto 40px;padding:0 12px;
+  }
+  svg#sky{width:100%;height:auto;display:block;background:var(--parchment);
+    border-radius:6px;box-shadow:0 3px 18px rgba(0,0,0,.5);}
+  .grat{fill:none;stroke:var(--ink);stroke-width:.5;opacity:.28;}
+  .grat-par{fill:none;stroke:var(--ink);stroke-width:.5;opacity:.28;}
+  .label-bg{fill:#faf4e4;fill-opacity:.75;stroke:none;pointer-events:none;}
+  .rim-outer{fill:none;stroke:var(--ink);stroke-width:2;}
+  .rim-inner{fill:none;stroke:var(--ink);stroke-width:.8;}
+  .tick{stroke:var(--ink);stroke-width:.8;opacity:.8;}
+  .ralabel{fill:var(--ink);font-size:15px;font-variant:small-caps;letter-spacing:.08em;}
+  .pole-dot{fill:var(--ink);}
+  .pole-label{fill:var(--ink);font-size:13px;font-variant:small-caps;letter-spacing:.1em;text-anchor:middle;}
+  .cst{fill:#faf4e4;fill-opacity:.55;stroke:transparent;stroke-width:0;cursor:pointer;}
+  .cst:hover{fill:#e6c97a;fill-opacity:.5;stroke:#8a6f4d;stroke-width:1.4;}
+  .cst.noclick{cursor:default;}
+  .cst.noclick:hover{fill:#faf4e4;fill-opacity:.55;stroke:transparent;stroke-width:0;}
+  .lines{fill:none;stroke:var(--ink);stroke-width:1.1;stroke-opacity:.8;stroke-linecap:round;stroke-linejoin:round;pointer-events:none;}
+  .cname{fill:var(--ink);font-size:10.5px;font-variant:small-caps;letter-spacing:.12em;
+    text-anchor:middle;pointer-events:none;opacity:.92;}
+  footer{max-width:1060px;margin:0 auto 30px;padding:0 16px;color:#8d836b;font-size:.82rem;font-style:italic;}
+</style>
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="index.html">Firmamentum Sobiescianum</a>
+  <nav><a href="index.html">Home</a></nav>
+</header>
+
+<div class="titleblock">
+  <h1>Il Cielo Australe</h1>
+  <div class="subtitle">Firmamentum Sobiescianum — mappa interattiva</div>
+  <div class="nota">Prototipo — emisfero australe</div>
+</div>
+
+<div class="mapwrap">
+<svg id="sky" viewBox="-55 -55 1110 1110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mappa del cielo australe"></svg>
+</div>
+
+<footer>Johannes Hevelius, <em>Firmamentum Sobiescianum</em> (1690) — confini e figure IAU, proiezione stereografica polare.</footer>
+
+<script type="application/json" id="boundaries">{"Ant":{"name":"Macchina Pneumatica","poly":[[[141.9,-24.54],[147.68,-24.58],[147.66,-27.08],[155.2,-27.13],[155.18,-29.79],[160.21,-29.82],[160.2,-31.82],[163.98,-31.83],[163.96,-35.67],[166.48,-35.67],[166.46,-40.42],[141.73,-40.29],[141.77,-37.29]]]},"Aps":{"name":"Uccello di Paradiso","poly":[[[209.11,-83.12],[207.46,-70.62],[258.47,-70.16],[258.24,-67.66],[273.28,-67.48],[274.2,-74.97],[276.87,-82.46]]]},"Ara":{"name":"Altare","poly":[[[249.03,-60.26],[248.57,-45.77],[272.31,-45.49],[272.67,-56.98],[265.17,-57.07],[265.78,-67.57],[255.72,-67.69],[255.54,-65.19],[254.28,-65.21],[254.2,-63.79],[251.68,-63.82],[251.54,-61.24],[249.08,-61.26]]]},"CMa":{"name":"Cane Maggiore","poly":[[[93.22,-11.03],[111.97,-11.25],[111.68,-33.25],[92.9,-33.03],[92.99,-27.28]]]},"Cae":{"name":"Bulino","poly":[[[65.08,-39.7],[65.13,-36.7],[69.86,-36.75],[69.98,-29.75],[71.72,-29.77],[71.76,-27.02],[76.25,-27.08],[75.97,-42.83],[73.48,-42.8],[73.4,-46.3],[68.42,-46.24],[68.36,-48.74],[64.88,-48.7]]]},"Car":{"name":"Carena","poly":[[[170.16,-57.18],[169.86,-75.68],[135.24,-75.5],[136.09,-64.5],[102.7,-64.15],[103.01,-58.15],[98.0,-58.09],[98.11,-55.09],[93.11,-55.03],[93.19,-52.53],[90.69,-52.5],[90.75,-50.75],[123.38,-51.13],[123.32,-53.38],[127.61,-53.42],[127.57,-54.92],[133.38,-54.97],[133.32,-56.97],[166.34,-57.17]]]},"Cen":{"name":"Centauro","poly":[[[179.06,-64.7],[170.08,-64.68],[170.16,-57.18],[166.34,-57.17],[166.48,-35.67],[180.0,-35.69],[180.0,-55.69],[179.07,-55.7]],[[185.39,-33.69],[190.43,-33.69],[190.42,-30.19],[225.63,-29.99],[225.8,-42.49],[214.45,-42.58],[214.66,-55.58],[220.23,-55.54],[220.51,-64.54],[194.44,-64.68],[194.33,-55.68],[180.0,-55.69],[180.0,-35.69],[185.39,-35.69]]]},"Cha":{"name":"Camaleonte","poly":[[[209.11,-83.12],[180.0,-83.02],[180.0,-75.67],[207.78,-75.62]],[[114.21,-75.29],[180.0,-75.67],[180.0,-83.02],[111.65,-82.78]]]},"Cir":{"name":"Compasso","poly":[[[204.68,-64.64],[220.51,-64.54],[220.23,-55.54],[232.38,-55.44],[232.59,-61.44],[230.05,-61.46],[230.17,-64.04],[226.35,-64.08],[226.56,-67.99],[224.0,-68.01],[224.17,-70.51],[207.46,-70.62],[207.27,-65.62],[204.71,-65.64]]]},"Col":{"name":"Colomba","poly":[[[75.97,-42.83],[76.25,-27.08],[92.99,-27.28],[92.9,-33.03],[99.9,-33.11],[99.71,-43.11],[90.95,-43.01]]]},"CrA":{"name":"Corona Australe","poly":[[[269.63,-37.02],[289.6,-36.78],[289.77,-45.28],[269.81,-45.52]]]},"Cru":{"name":"Croce del Sud","poly":[[[179.07,-55.7],[180.0,-55.69],[180.0,-64.69],[179.06,-64.7]],[[194.44,-64.68],[180.0,-64.69],[180.0,-55.69],[194.33,-55.68]]]},"Dor":{"name":"Dorado","poly":[[[58.32,-52.8],[58.38,-50.63],[62.1,-50.67],[62.15,-48.67],[68.36,-48.74],[68.22,-53.74],[75.68,-53.82],[75.55,-57.32],[83.02,-57.41],[82.86,-60.91],[90.35,-61.0],[90.17,-64.0],[98.94,-64.11],[98.45,-70.1],[68.58,-69.75],[69.27,-58.75],[65.55,-58.71],[65.65,-56.21],[60.69,-56.16],[60.8,-52.82]]]},"Eri":{"name":"Eridano","poly":[[[55.35,0.4],[71.6,0.23],[71.56,-3.77],[77.8,-3.84],[77.72,-10.84],[75.22,-10.81],[75.18,-14.31],[73.93,-14.3],[73.76,-27.05],[71.76,-27.02],[71.72,-29.77],[69.98,-29.75],[69.86,-36.75],[65.13,-36.7],[65.08,-39.7],[59.11,-39.64],[59.03,-43.64],[52.33,-43.57],[52.29,-45.57],[46.09,-45.51],[46.03,-48.51],[41.09,-48.47],[41.05,-50.47],[37.34,-50.44],[37.28,-53.44],[33.58,-53.42],[33.49,-57.92],[21.21,-57.85],[21.27,-52.85],[24.97,-52.87],[24.99,-50.87],[28.69,-50.89],[28.74,-47.55],[36.15,-47.6],[36.26,-39.43],[53.64,-39.17],[53.7,-35.58],[57.43,-35.62],[57.59,-24.0],[41.15,-23.85],[41.34,-1.22],[55.34,-1.35]]]},"For":{"name":"Fornace","poly":[[[26.47,-23.76],[57.59,-24.0],[57.43,-35.62],[53.7,-35.58],[53.64,-39.17],[26.35,-39.37],[26.46,-24.87]]]},"Gru":{"name":"Gru","poly":[[[321.93,-36.46],[351.68,-36.31],[351.77,-56.31],[332.11,-56.39],[332.0,-49.39],[322.12,-49.46],[322.04,-44.96]]]},"Hor":{"name":"Orologio","poly":[[[65.08,-39.7],[64.88,-48.7],[62.15,-48.67],[62.1,-50.67],[58.38,-50.63],[58.32,-52.8],[53.37,-52.75],[53.24,-57.08],[48.79,-57.04],[48.36,-67.04],[33.2,-66.92],[33.58,-53.42],[37.28,-53.44],[37.34,-50.44],[41.05,-50.47],[41.09,-48.47],[46.03,-48.51],[46.09,-45.51],[52.29,-45.57],[52.33,-43.57],[59.03,-43.64],[59.11,-39.64]]]},"Hya":{"name":"Idra","poly":[[[190.4,-22.69],[215.51,-22.57],[215.53,-25.07],[225.58,-25.0],[225.63,-29.99],[190.42,-30.19],[190.43,-33.69],[185.39,-33.69],[185.39,-35.69],[180.0,-35.69],[180.0,-25.2],[190.4,-25.19]],[[140.4,6.47],[145.4,6.43],[145.27,-11.57],[162.81,-11.66],[162.78,-19.66],[164.03,-19.67],[164.01,-25.17],[180.0,-25.2],[180.0,-35.69],[163.96,-35.67],[163.98,-31.83],[160.2,-31.82],[160.21,-29.82],[155.18,-29.79],[155.2,-27.13],[147.66,-27.08],[147.68,-24.58],[137.64,-24.51],[137.69,-19.51],[130.16,-19.44],[130.18,-17.44],[126.93,-17.41],[126.99,-11.41],[122.73,-11.37],[122.92,6.63]]]},"Hyi":{"name":"Idra Maschio","poly":[[[68.79,-67.25],[67.96,-74.74],[52.08,-74.57],[50.09,-82.06],[1.53,-81.8],[1.57,-74.3],[20.65,-75.35],[21.21,-57.85],[33.49,-57.92],[33.2,-66.92],[48.36,-67.04]]]},"Ind":{"name":"Indiano","poly":[[[323.18,-74.45],[322.35,-59.46],[307.56,-59.59],[307.17,-45.09],[322.04,-44.96],[322.12,-49.46],[332.0,-49.39],[332.4,-66.89],[351.86,-66.81],[352.0,-74.31]]]},"Lup":{"name":"Lupo","poly":[[[214.66,-55.58],[214.45,-42.58],[225.8,-42.49],[225.63,-29.99],[241.95,-29.84],[242.15,-42.34],[237.12,-42.39],[237.25,-48.39],[232.21,-48.44],[232.35,-54.44],[220.23,-55.54]]]},"Men":{"name":"Tavola","poly":[[[109.02,-85.26],[48.23,-84.56],[50.09,-82.06],[52.08,-74.57],[67.96,-74.74],[68.58,-69.75],[98.45,-70.1],[97.77,-75.1],[114.21,-75.29],[111.65,-82.78]]]},"Mic":{"name":"Microscopio","poly":[[[306.9,-27.59],[321.83,-27.46],[322.04,-44.96],[307.17,-45.09]]]},"Mus":{"name":"Mosca","poly":[[[170.08,-64.68],[180.0,-64.69],[180.0,-75.67],[169.86,-75.68]],[[204.68,-64.64],[204.71,-65.64],[207.27,-65.62],[207.78,-75.62],[180.0,-75.67],[180.0,-64.69],[194.44,-64.68]]]},"Nor":{"name":"Squadra","poly":[[[232.55,-60.44],[232.38,-55.44],[228.08,-55.48],[228.06,-54.48],[232.35,-54.44],[232.21,-48.44],[237.25,-48.39],[237.12,-42.39],[248.49,-42.27],[249.03,-60.26]]]},"Oct":{"name":"Ottante","poly":[[[180.0,-88.66],[180.0,-83.12],[276.87,-82.46],[274.2,-74.97],[352.0,-74.31],[1.57,-74.3],[1.53,-81.8],[50.09,-82.06],[48.23,-84.56],[109.02,-85.26],[111.65,-82.78],[180.0,-83.02]]]},"Pav":{"name":"Pavone","poly":[[[274.2,-74.97],[273.28,-67.48],[265.78,-67.57],[265.17,-57.07],[307.46,-56.59],[307.56,-59.59],[322.35,-59.46],[323.18,-74.45]]]},"Phe":{"name":"Fenice","poly":[[[351.69,-39.31],[0.6,-39.3],[36.26,-39.43],[36.15,-47.6],[28.74,-47.55],[28.69,-50.89],[24.99,-50.87],[24.97,-52.87],[21.27,-52.85],[21.21,-57.85],[351.78,-57.81],[351.77,-56.31]]]},"Pic":{"name":"Cavalletto del Pittore","poly":[[[90.95,-43.01],[90.69,-52.5],[93.19,-52.53],[93.11,-55.03],[98.11,-55.09],[98.0,-58.09],[103.01,-58.15],[102.7,-64.15],[90.17,-64.0],[90.35,-61.0],[82.86,-60.91],[83.02,-57.41],[75.55,-57.32],[75.68,-53.82],[68.22,-53.74],[68.42,-46.24],[73.4,-46.3],[73.48,-42.8],[75.97,-42.83]]]},"PsA":{"name":"Pesce Australe","poly":[[[346.68,-24.82],[346.73,-36.33],[321.93,-36.46],[321.81,-24.96],[329.77,-24.9]]]},"Pup":{"name":"Poppa","poly":[[[111.97,-11.25],[126.99,-11.41],[126.57,-43.41],[121.04,-43.35],[120.86,-51.1],[90.75,-50.75],[90.95,-43.01],[99.71,-43.11],[99.9,-33.11],[111.68,-33.25]]]},"Pyx":{"name":"Bussola","poly":[[[126.93,-17.41],[130.18,-17.44],[130.16,-19.44],[137.69,-19.51],[137.64,-24.51],[141.9,-24.54],[141.77,-37.29],[126.68,-37.16]]]},"Ret":{"name":"Reticolo","poly":[[[48.36,-67.04],[48.79,-57.04],[53.24,-57.08],[53.37,-52.75],[58.32,-52.8],[60.8,-52.82],[60.69,-56.16],[65.65,-56.21],[65.55,-58.71],[69.27,-58.75],[68.79,-67.25]]]},"Scl":{"name":"Officina dello Scultore","poly":[[[346.68,-24.82],[359.11,-24.8],[26.46,-24.87],[26.35,-39.37],[0.6,-39.3],[351.69,-39.31],[351.68,-36.31],[346.73,-36.33]]]},"Sco":{"name":"Scorpione","poly":[[[240.44,-8.35],[245.69,-8.3],[245.81,-18.55],[247.44,-18.53],[247.45,-19.53],[245.82,-19.55],[245.89,-24.88],[253.16,-24.8],[253.24,-30.21],[269.5,-30.02],[269.81,-45.52],[248.57,-45.77],[248.49,-42.27],[242.15,-42.34],[241.95,-29.84],[236.93,-29.89],[236.81,-20.39],[240.57,-20.35]]]},"Sgr":{"name":"Sagittario","poly":[[[284.74,-11.87],[301.73,-11.68],[301.92,-27.64],[306.9,-27.59],[307.17,-45.09],[289.77,-45.28],[289.6,-36.78],[269.63,-37.02],[269.5,-30.02],[266.0,-30.06],[265.8,-16.06],[284.79,-15.83]]]},"Tel":{"name":"Telescopio","poly":[[[307.46,-56.59],[272.67,-56.98],[272.31,-45.49],[307.17,-45.09]]]},"TrA":{"name":"Triangolo Australe","poly":[[[224.17,-70.51],[224.0,-68.01],[226.56,-67.99],[226.35,-64.08],[230.17,-64.04],[230.05,-61.46],[232.59,-61.44],[232.55,-60.44],[249.03,-60.26],[249.08,-61.26],[251.54,-61.24],[251.68,-63.82],[254.2,-63.79],[254.28,-65.21],[255.54,-65.19],[255.72,-67.69],[258.24,-67.66],[258.47,-70.16]]]},"Tuc":{"name":"Tucano","poly":[[[352.0,-74.31],[351.86,-66.81],[332.4,-66.89],[332.11,-56.39],[351.77,-56.31],[351.78,-57.81],[21.21,-57.85],[20.65,-75.35],[1.57,-74.3]]]},"Vel":{"name":"Vele","poly":[[[166.34,-57.17],[133.32,-56.97],[133.38,-54.97],[127.57,-54.92],[127.61,-53.42],[123.32,-53.38],[123.38,-51.13],[120.86,-51.1],[121.04,-43.35],[126.57,-43.41],[126.68,-37.16],[141.77,-37.29],[141.73,-40.29],[166.46,-40.42]]]},"Vol":{"name":"Pesce Volante","poly":[[[98.94,-64.11],[136.09,-64.5],[135.24,-75.5],[97.77,-75.1],[98.45,-70.1]]]}}</script>
+<script type="application/json" id="lines">{"Ant":[[[142.31,-35.95],[156.79,-31.07],[164.18,-37.14]]],"Aps":[[[221.97,-79.04],[245.09,-78.7],[250.77,-77.52],[248.36,-78.9]]],"Ara":[[[261.35,-56.38],[262.77,-60.68],[252.45,-59.04],[254.66,-55.99],[254.9,-53.16],[262.96,-49.88],[261.32,-55.53]]],"Cae":[[[67.71,-44.95],[70.14,-41.86],[70.51,-37.14],[76.1,-35.48]]],"CMa":[[[95.67,-17.96],[101.29,-16.72],[105.76,-23.83],[107.1,-26.39],[105.43,-27.93],[104.66,-28.97],[95.08,-30.06]],[[101.29,-16.72],[104.03,-17.05],[105.94,-15.63],[103.55,-12.04],[104.03,-17.05]],[[111.02,-29.3],[107.1,-26.39]]],"Car":[[[99.44,-43.2],[95.99,-52.7],[138.3,-69.72],[153.43,-70.04],[160.74,-64.39],[158.01,-61.69],[154.27,-61.33],[139.27,-59.28],[125.63,-59.51],[119.19,-52.98],[122.38,-47.34],[131.18,-54.71],[139.27,-59.28]],[[160.74,-64.39],[166.64,-62.42],[167.14,-61.95],[168.15,-60.32],[167.15,-58.98],[163.37,-58.85],[158.01,-61.69]]],"Cen":[[[187.01,-50.23],[182.91,-52.37],[180.0,-54.44]],[[180.0,-51.39],[182.09,-50.72],[187.01,-50.23],[190.38,-48.96],[204.97,-53.47],[208.88,-47.29],[207.4,-42.47],[207.38,-41.69],[211.67,-36.37],[218.88,-42.16],[224.79,-42.1]],[[207.38,-41.69],[200.15,-36.71]],[[219.9,-60.84],[204.97,-53.47],[210.96,-60.37]],[[170.25,-54.49],[180.0,-51.39]],[[180.0,-54.44],[172.94,-59.44]]],"Cha":[[[180.0,-79.54],[184.59,-79.31],[180.0,-78.24]],[[124.63,-76.92],[158.87,-78.61],[161.32,-80.47],[180.0,-79.54]],[[180.0,-78.24],[179.91,-78.22],[158.87,-78.61]]],"Cir":[[[229.38,-58.8],[220.63,-64.98],[230.84,-59.32]]],"Col":[[[95.53,-33.44],[87.74,-35.77],[84.91,-34.07],[82.8,-35.47]],[[87.74,-35.77],[89.79,-42.82]]],"CrA":[[[284.68,-37.11],[286.6,-37.06],[287.37,-37.9],[287.51,-39.34],[287.09,-40.5],[285.78,-42.1],[282.4,-43.43],[278.38,-42.31]]],"Cru":[[[191.93,-59.69],[183.79,-58.75]],[[186.65,-63.1],[187.79,-57.11]]],"Dor":[[[64.01,-51.49],[68.5,-55.05],[83.41,-62.49],[86.19,-65.74],[88.53,-63.09],[83.41,-62.49],[76.38,-57.47],[68.5,-55.05]]],"Eri":[[[76.96,-5.09],[71.38,-3.25],[69.08,-3.35],[62.97,-6.84],[59.51,-13.51],[56.54,-12.1],[55.81,-9.76],[53.23,-9.46],[44.11,-8.9],[41.03,-13.86],[41.28,-18.57],[45.6,-23.62],[49.88,-21.76],[53.45,-21.63],[56.71,-23.25],[68.89,-30.56],[66.01,-34.02],[64.47,-33.8],[57.36,-36.2],[54.27,-40.27],[49.98,-43.07],[44.57,-40.3],[40.17,-39.86],[36.75,-47.7],[34.13,-51.51],[28.99,-51.61],[24.43,-57.24]]],"For":[[[48.02,-28.99],[42.27,-32.41],[31.12,-29.3]]],"Gru":[[[337.32,-43.5],[333.9,-41.35],[331.53,-39.54],[328.48,-37.36]],[[345.22,-52.75],[342.14,-51.32],[340.67,-46.88],[337.44,-43.75],[332.06,-46.96],[340.67,-46.88]]],"Hor":[[[63.5,-42.29],[40.64,-50.8],[39.35,-52.54],[40.17,-54.55],[45.9,-59.74],[44.7,-64.07]]],"Hya":[[[180.0,-33.02],[199.73,-23.17],[211.59,-26.68],[222.57,-27.96]],[[131.69,6.42],[132.11,5.84],[130.81,3.4],[129.69,3.34],[129.41,5.7],[131.69,6.42],[133.85,5.95],[138.59,2.31],[144.96,-1.14],[141.9,-8.66],[147.87,-14.85],[152.65,-12.35],[156.52,-16.84],[162.41,-16.19],[173.25,-31.86],[178.23,-33.91],[180.0,-33.02]]],"Hyi":[[[6.44,-77.25],[56.81,-74.24],[39.9,-68.27],[35.44,-68.66],[28.73,-67.65],[29.69,-61.57]]],"Ind":[[[309.39,-47.29],[311.01,-51.92],[313.7,-58.45],[329.48,-54.99],[319.97,-53.45],[309.39,-47.29]]],"Lup":[[[230.34,-40.65],[233.79,-41.17]],[[237.74,-33.63],[234.94,-34.41],[230.45,-36.26],[230.34,-40.65],[224.63,-43.13],[220.48,-47.39],[228.07,-52.1],[229.63,-47.88],[230.67,-44.69],[233.79,-41.17],[240.03,-38.4],[241.65,-36.8]]],"Men":[[[92.56,-74.75],[82.97,-76.34],[73.8,-74.94],[75.68,-71.31]]],"Mic":[[[312.49,-33.78],[312.12,-43.99],[320.19,-40.81],[319.48,-32.17],[315.32,-32.26],[312.49,-33.78]]],"Mus":[[[180.0,-67.28],[184.39,-67.96],[189.3,-69.14],[191.57,-68.11],[195.57,-71.55],[188.12,-72.13],[189.3,-69.14]],[[176.4,-66.73],[180.0,-67.28]]],"Nor":[[[241.62,-45.17],[246.8,-47.55],[244.96,-50.16],[240.8,-49.23],[241.62,-45.17]]],"Oct":[[[216.73,-83.67],[341.51,-81.38],[325.37,-77.39],[216.73,-83.67]]],"Pav":[[[306.41,-56.74],[311.24,-66.2],[302.18,-66.18],[283.05,-62.19],[275.81,-61.49],[272.15,-63.67],[266.43,-64.72],[280.76,-71.43],[300.15,-72.91],[311.24,-66.2],[321.61,-65.37]]],"Phe":[[[6.57,-42.31],[16.52,-46.72],[22.09,-43.32],[22.81,-49.07],[17.1,-55.25],[16.52,-46.72],[2.35,-45.75],[6.57,-42.31]]],"Pic":[[[102.05,-61.94],[87.46,-56.17],[86.82,-51.07]]],"PsA":[[[340.16,-27.04],[344.41,-29.62],[343.99,-32.54],[343.13,-32.88],[337.88,-32.35],[332.1,-32.99],[326.24,-33.03],[326.93,-30.9],[332.1,-32.99],[340.16,-27.04]]],"Pup":[[[99.44,-43.2],[109.29,-37.1],[113.85,-28.37],[114.71,-26.8],[117.32,-24.86],[119.21,-22.88],[121.89,-24.3],[120.9,-40.0],[122.38,-47.34]],[[117.32,-24.86],[117.02,-25.94],[115.95,-28.95],[113.85,-28.37]]],"Pyx":[[[120.9,-40.0],[130.03,-35.31],[130.9,-33.19],[132.63,-27.71]]],"Ret":[[[63.61,-62.47],[64.12,-59.3],[59.69,-61.4],[56.05,-64.81],[63.61,-62.47]]],"Sgr":[[[274.41,-36.76],[276.04,-34.38],[275.25,-29.83],[276.99,-25.42],[273.44,-21.06]],[[290.66,-44.46],[290.97,-40.62],[285.65,-29.88],[281.41,-26.99],[276.99,-25.42]],[[286.17,-21.74],[284.43,-21.11],[283.54,-22.74],[283.82,-26.3]],[[298.82,-41.87],[299.93,-35.28],[298.96,-26.3],[294.18,-24.88],[291.32,-24.51],[288.89,-25.26],[283.82,-26.3],[281.41,-26.99],[275.25,-29.83],[271.45,-30.42],[276.04,-34.38],[285.65,-29.88],[286.74,-27.67],[283.82,-26.3],[286.17,-21.74],[287.44,-21.02],[289.41,-18.95],[290.42,-17.85],[290.43,-15.96]]],"Sco":[[[239.71,-26.11],[240.08,-22.62],[241.36,-19.81]],[[240.08,-22.62],[245.3,-25.59],[247.35,-26.43],[248.97,-28.22],[252.54,-34.29],[252.97,-38.05],[253.65,-42.36],[258.04,-43.24],[264.33,-43.0],[266.9,-40.13],[265.62,-39.03],[263.4,-37.1]]],"Scl":[[[14.65,-29.36],[357.23,-28.13],[349.71,-32.53],[353.24,-37.82]]],"Tel":[[[272.81,-45.95],[276.74,-45.97],[277.21,-49.07]]],"TrA":[[[252.17,-69.03],[238.79,-63.43],[229.73,-68.68],[252.17,-69.03]]],"Tuc":[[[334.63,-60.26],[349.36,-58.24],[7.89,-62.96],[5.02,-64.87],[359.98,-65.58],[336.83,-64.97],[334.63,-60.26]]],"Vel":[[[131.18,-54.71],[140.53,-55.01],[149.22,-54.57],[161.69,-49.42],[153.68,-42.12],[142.68,-40.47],[137.0,-43.43],[122.38,-47.34]]],"Vol":[[[135.61,-66.4],[126.43,-66.14],[121.98,-68.62],[109.21,-67.96],[107.19,-70.5],[121.98,-68.62],[135.61,-66.4]]]}</script>
+<script type="application/json" id="slugs">{"Ori":{"slug":"orione","nome":"Orione","latino":"Orion"},"Sco":{"slug":"scorpione","nome":"Scorpione","latino":"Scorpius"},"CMi":{"slug":"cane_minore","nome":"Cane Minore","latino":"Canis Minor"},"Tau":{"slug":"toro","nome":"Toro","latino":"Taurus"},"CMa":{"slug":"cane_maggiore","nome":"Cane Maggiore","latino":"Canis Major"},"UMa":{"slug":"orsa_maggiore","nome":"Orsa Maggiore","latino":"Ursa Major"},"Per":{"slug":"perseo","nome":"Perseo","latino":"Perseus"},"And":{"slug":"andromeda","nome":"Andromeda","latino":"Andromeda"},"Cas":{"slug":"cassiopea","nome":"Cassiopea","latino":"Cassiopeia"},"Cep":{"slug":"cefeo","nome":"Cefeo","latino":"Cepheus"},"Cet":{"slug":"balena","nome":"Balena","latino":"Cetus"},"Peg":{"slug":"pegaso","nome":"Pegaso","latino":"Pegasus"},"Cyg":{"slug":"cigno","nome":"Cigno","latino":"Cygnus"},"Lyr":{"slug":"lira","nome":"Lira","latino":"Lyra"},"Aql":{"slug":"aquila","nome":"Aquila","latino":"Aquila"},"Gem":{"slug":"gemelli","nome":"Gemelli","latino":"Gemini"},"Aur":{"slug":"auriga","nome":"Auriga","latino":"Auriga"},"Boo":{"slug":"boote","nome":"Boote","latino":"Boötes"},"CrB":{"slug":"corona_boreale","nome":"Corona Boreale","latino":"Corona Borealis"},"Vir":{"slug":"vergine","nome":"Vergine","latino":"Virgo"},"Leo":{"slug":"leone","nome":"Leone","latino":"Leo"},"Sgr":{"slug":"sagittario","nome":"Sagittario","latino":"Sagittarius"},"Lib":{"slug":"bilancia","nome":"Bilancia","latino":"Libra"},"Aqr":{"slug":"acquario","nome":"Acquario","latino":"Aquarius"},"Psc":{"slug":"pesci","nome":"Pesci","latino":"Pisces"},"Cnc":{"slug":"cancro","nome":"Cancro","latino":"Cancer"},"Cap":{"slug":"capricorno","nome":"Capricorno","latino":"Capricornus"},"Ari":{"slug":"ariete","nome":"Ariete","latino":"Aries"},"Tri":{"slug":"triangolo","nome":"Triangolo","latino":"Triangulum"},"UMi":{"slug":"orsa_minore","nome":"Orsa Minore","latino":"Ursa Minor"},"Dra":{"slug":"drago","nome":"Drago","latino":"Draco"},"Lyn":{"slug":"lince","nome":"Lince","latino":"Lynx"},"Cam":{"slug":"giraffa","nome":"Giraffa","latino":"Camelopardalis"},"Her":{"slug":"ercole","nome":"Ercole","latino":"Hercules"},"Sex":{"slug":"sestante","nome":"Sestante","latino":"Sextans"},"Vul":{"slug":"volpetta","nome":"Volpetta","latino":"Vulpecula"},"Lac":{"slug":"lucertola","nome":"Lucertola","latino":"Lacerta"},"LMi":{"slug":"leone_minore","nome":"Leone Minore","latino":"Leo Minor"},"Sct":{"slug":"scudo","nome":"Scudo","latino":"Scutum"},"CVn":{"slug":"levrieri","nome":"Levieri","latino":"Canes Venatici"},"Com":{"slug":"chioma","nome":"Chioma di Berenice","latino":"Coma Berenices"},"Oph":{"slug":"ofiucu","nome":"Ofiuco","latino":"Ophiuchus"},"Ser":{"slug":"serpente","nome":"Serpente","latino":"Serpens"},"Del":{"slug":"delfino","nome":"Delfino","latino":"Delphinus"},"Sge":{"slug":"freccia","nome":"Freccia","latino":"Sagitta"},"Equ":{"slug":"cavallino","nome":"Cavallino","latino":"Equuleus"},"Eri":{"slug":"eridano","nome":"Eridano","latino":"Eridanus"},"Phe":{"slug":"fenice","nome":"Fenice","latino":"Phoenix"},"Tuc":{"slug":"tucano","nome":"Tucano","latino":"Tucana"},"Mon":{"slug":"unicorno","nome":"Unicorno","latino":"Monoceros"},"Cen":{"slug":"centauro","nome":"Centauro","latino":"Centaurus"},"Cru":{"slug":"croce_del_sud","nome":"Croce del Sud","latino":"Crux"},"Lup":{"slug":"lupo","nome":"Lupo","latino":"Lupus"},"Ara":{"slug":"altare","nome":"Altare","latino":"Ara"},"TrA":{"slug":"triangolo_australe","nome":"Triangolo Australe","latino":"Triangulum Australe"},"Pav":{"slug":"pavone","nome":"Pavone","latino":"Pavo"},"CrA":{"slug":"corona_australe","nome":"Corona Australe","latino":"Corona Australis"},"PsA":{"slug":"pesce_australe","nome":"Pesce Australe","latino":"Piscis Austrinus"},"Gru":{"slug":"gru","nome":"Gru","latino":"Grus"},"Lep":{"slug":"lepre","nome":"Lepre","latino":"Lepus"},"Col":{"slug":"colomba","nome":"Colomba","latino":"Columba"},"Car":{"slug":"carena","nome":"Carena","latino":"Carina"},"Vel":{"slug":"vele","nome":"Vele","latino":"Vela"},"Pup":{"slug":"poppa","nome":"Poppa","latino":"Puppis"},"Pyx":{"slug":"bussola","nome":"Bussola","latino":"Pyxis"},"Ind":{"slug":"indiani","nome":"Indiano","latino":"Indus"},"Aps":{"slug":"volatile","nome":"Uccello di Paradiso","latino":"Apus"},"Hyi":{"slug":"cidneo","nome":"Idra Maschio","latino":"Hydrus"},"Cha":{"slug":"camaeleonte","nome":"Camaleonte","latino":"Chamaeleon"},"Mus":{"slug":"mosca","nome":"Mosca","latino":"Musca"},"Vol":{"slug":"pesce_volante","nome":"Pesce Volante","latino":"Volans"},"Dor":{"slug":"doradina","nome":"Dorado","latino":"Dorado"},"Ant":{"slug":"antlia","nome":"Macchina Pneumatica","latino":"Antlia"},"Cae":{"slug":"caelum","nome":"Bulino","latino":"Caelum"},"Cir":{"slug":"circinus","nome":"Compasso","latino":"Circinus"},"Crv":{"slug":"corvus","nome":"Corvo","latino":"Corvus"},"Crt":{"slug":"crater","nome":"Coppa","latino":"Crater"},"For":{"slug":"fornax","nome":"Fornace","latino":"Fornax"},"Hor":{"slug":"horologium","nome":"Orologio","latino":"Horologium"},"Hya":{"slug":"hydra","nome":"Idra","latino":"Hydra"},"Men":{"slug":"mensa","nome":"Tavola","latino":"Mensa"},"Mic":{"slug":"microscopium","nome":"Microscopio","latino":"Microscopium"},"Nor":{"slug":"norma","nome":"Squadra","latino":"Norma"},"Oct":{"slug":"octans","nome":"Ottante","latino":"Octans"},"Pic":{"slug":"pictor","nome":"Cavalletto del Pittore","latino":"Pictor"},"Ret":{"slug":"reticulum","nome":"Reticolo","latino":"Reticulum"},"Scl":{"slug":"sculptor","nome":"Officina dello Scultore","latino":"Sculptor"},"Tel":{"slug":"telescopium","nome":"Telescopio","latino":"Telescopium"}}</script>
+<script>
+(function(){
+  "use strict";
+  var B = JSON.parse(document.getElementById('boundaries').textContent);
+  var L = JSON.parse(document.getElementById('lines').textContent);
+  var S = JSON.parse(document.getElementById('slugs').textContent);
+
+  var CX = 500, CY = 500, R = 430;
+  var EDGE_DEC = 20;                       // bordo esterno: declinazione +20°
+  var K = Math.tan((Math.PI/180) * (90 + EDGE_DEC) / 2);  // tan(55°): normalizza il raggio al bordo
+  var D2R = Math.PI/180;
+
+  function normRA(ra){ ra = ra % 360; if (ra < 0) ra += 360; return ra; }
+
+  // Proiezione stereografica polare SUD: polo sud celeste al centro,
+  // RA in senso ORARIO (come visto dall'emisfero sud), 0h in alto.
+  function proj(ra, dec){
+    var th = normRA(ra) * D2R;
+    var c = (90 + dec) * D2R;              // distanza angolare dal polo sud
+    var r = Math.tan(c/2) / K * R;
+    // orario visto dall'emisfero sud (speculare alla boreale)
+    var x = CX + r * Math.sin(th);
+    var y = CY - r * Math.cos(th);
+    return [x, y];
+  }
+
+  function f(n){ return (Math.round(n*100)/100).toString(); }
+
+  function polyPath(rings){
+    var d = '';
+    for (var i=0;i<rings.length;i++){
+      var pts = rings[i];
+      if (pts.length < 3) continue;
+      for (var j=0;j<pts.length;j++){
+        var p = proj(pts[j][0], pts[j][1]);
+        d += (j===0 ? 'M' : 'L') + f(p[0]) + ',' + f(p[1]);
+      }
+      var p0 = proj(pts[0][0], pts[0][1]);
+      d += 'L' + f(p0[0]) + ',' + f(p0[1]) + 'Z';
+    }
+    return d;
+  }
+
+  function linePath(segs){
+    var d = '';
+    for (var i=0;i<segs.length;i++){
+      var pts = segs[i];
+      if (pts.length < 2) continue;
+      for (var j=0;j<pts.length;j++){
+        var p = proj(pts[j][0], pts[j][1]);
+        d += (j===0 ? 'M' : 'L') + f(p[0]) + ',' + f(p[1]);
+      }
+    }
+    return d;
+  }
+
+  // centroide d'area (shoelace) del poligono, per l'etichetta
+  function centroid(rings){
+    var best = null, bestA = 0;
+    for (var i=0;i<rings.length;i++){
+      var pts = rings[i], a = 0, cx = 0, cy = 0;
+      for (var j=0;j<pts.length;j++){
+        var p1 = proj(pts[j][0], pts[j][1]);
+        var p2 = proj(pts[(j+1)%pts.length][0], pts[(j+1)%pts.length][1]);
+        var cross = p1[0]*p2[1] - p2[0]*p1[1];
+        a += cross; cx += (p1[0]+p2[0])*cross; cy += (p1[1]+p2[1])*cross;
+      }
+      a /= 2;
+      if (Math.abs(a) > Math.abs(bestA)){ bestA = a; best = [cx/(6*a), cy/(6*a)]; }
+    }
+    return best || [CX, CY];
+  }
+
+  var svg = document.getElementById('sky');
+  var NS = 'http://www.w3.org/2000/svg';
+  function el(tag, attrs){
+    var e = document.createElementNS(NS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    return e;
+  }
+
+  // ---- sfondo e griglia ----
+  svg.appendChild(el('circle', {cx:CX, cy:CY, r:R+8, fill:'#efe5cc'}));
+
+  // meridiani ogni 2h (dal bordo dec +20 fino quasi al polo sud)
+  for (var h=0; h<24; h+=2){
+    var ra = h*15, d = '';
+    for (var dec=EDGE_DEC; dec>=-88; dec-=4){
+      var p = proj(ra, dec);
+      d += (dec===EDGE_DEC?'M':'L') + f(p[0]) + ',' + f(p[1]);
+    }
+    svg.appendChild(el('path', {'class':'grat', d:d}));
+  }
+  // paralleli ogni 30°
+  [0,-30,-60].forEach(function(dec){
+    var d = '';
+    for (var h=0; h<=360; h+=3){
+      var p = proj(h, dec);
+      d += (h===0?'M':'L') + f(p[0]) + ',' + f(p[1]);
+    }
+    svg.appendChild(el('circle', {'class':'grat-par', cx:CX, cy:CY,
+      r: f(Math.tan((90-dec)*D2R/2)/K*R)}));
+  });
+
+  // ---- clip: nulla puo' uscire dal cerchio della mappa ----
+  var defs = el('defs', {});
+  var clip = el('clipPath', {id:'clip-circle'});
+  clip.appendChild(el('circle', {cx:CX, cy:CY, r:R}));
+  defs.appendChild(clip);
+  svg.appendChild(defs);
+
+  // ---- poligoni ----
+  var gPoly = el('g', {'clip-path':'url(#clip-circle)'});
+  svg.appendChild(gPoly);
+  var codes = Object.keys(B);
+  codes.forEach(function(code){
+    var info = B[code];
+    var slugObj = S[code];
+    var clickable = !!(slugObj && slugObj.slug);
+    var p = el('path', {'class': clickable ? 'cst' : 'cst noclick', d: polyPath(info.poly)});
+    if (clickable){
+      p.addEventListener('click', function(){
+        window.location.href = 'constellation.html?c=' + encodeURIComponent(slugObj.slug);
+      });
+      var t = el('title', {});
+      t.textContent = info.name;
+      p.appendChild(t);
+    } else {
+      console.warn('[mappa] slug mancante per', code, info.name, '— poligono non cliccabile');
+    }
+    gPoly.appendChild(p);
+  });
+
+  // ---- figure stilizzate ----
+  var gLines = el('g', {'class':'lines', 'clip-path':'url(#clip-circle)'});
+  svg.appendChild(gLines);
+  Object.keys(L).forEach(function(code){
+    var segs = L[code];
+    for (var i=0;i<segs.length;i++){
+      if (segs[i].length < 2) continue;
+      gLines.appendChild(el('path', {d: linePath([segs[i]])}));
+    }
+  });
+
+  // ---- etichette costellazioni ----
+  var gNames = el('g', {});
+  svg.appendChild(gNames);
+  codes.forEach(function(code){
+    var c = centroid(B[code].poly);
+    if (!c) return;
+    var w = B[code].name.length * 5.6 + 6;
+    gNames.appendChild(el('rect', {'class':'label-bg',
+      x:f(c[0]-w/2), y:f(c[1]-6.5), width:f(w), height:13}));
+    var t = el('text', {'class':'cname', x:f(c[0]), y:f(c[1]+3)});
+    t.textContent = B[code].name;
+    gNames.appendChild(t);
+  });
+
+  // ---- bordo doppio, tacche, etichette RA ----
+  svg.appendChild(el('circle', {'class':'rim-outer', cx:CX, cy:CY, r:R}));
+  svg.appendChild(el('circle', {'class':'rim-inner', cx:CX, cy:CY, r:R-5}));
+
+  for (var m=0; m<360; m+=1){           // tacche fini ogni grado, grosse ogni ora
+    var big = (m % 15 === 0);
+    var r1 = R, r2 = R - (big ? 9 : 5);
+    var s = Math.sin(m*D2R), c2 = Math.cos(m*D2R);
+    svg.appendChild(el('line', {'class':'tick',
+      x1:f(CX - r1*s), y1:f(CY - r1*c2), x2:f(CX - r2*s), y2:f(CY - r2*c2)}));
+  }
+  for (var hl=0; hl<24; hl+=2){          // etichette ogni 2h
+    var th = hl*15*D2R;
+    var rr = R + 26;
+    var tx = CX - rr*Math.sin(th), ty = CY - rr*Math.cos(th);
+    var lbl = el('text', {'class':'ralabel', x:f(tx), y:f(ty+5), 'text-anchor':'middle'});
+    lbl.textContent = hl + 'h';
+    svg.appendChild(lbl);
+  }
+
+  // ---- Polo Sud celeste ----
+  svg.appendChild(el('circle', {'class':'pole-dot', cx:CX, cy:CY, r:2.5}));
+  var pole = el('text', {'class':'pole-label', x:CX, y:CY+16});
+  pole.textContent = 'Polo Sud Celeste';
+  svg.appendChild(pole);
+})();
+</script>
+</body>
+</html>
