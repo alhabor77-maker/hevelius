@@ -1,148 +1,3 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Demo glow · Croce del Sud · Hevelius 1690</title>
-<meta name="description" content="Prototipo di evidenziazione luminosa della costellazione corrente sulla tavola condivisa Fig. XX (Centauro + Croce del Sud).">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
-<style>
-:root {
-  --pergamena: #f4ecd8;
-  --inchiostro: #5a4632;
-  --oro: #e6c97a;
-  --oro-chiaro: #f6e3ae;
-  --notte-0: #050a1a;
-  --notte-1: #0a1430;
-  --notte-2: #101d44;
-  --oro-classico: #d4af6a;
-  --radius: 10px;
-  --font-serif: 'Cormorant Garamond', 'EB Garamond', Garamond, Georgia, serif;
-  --font-body: 'EB Garamond', 'Cormorant Garamond', Garamond, Georgia, serif;
-}
-*, *::before, *::after { box-sizing: border-box; }
-body {
-  margin: 0;
-  font-family: var(--font-body);
-  font-size: 19px;
-  line-height: 1.6;
-  color: var(--pergamena);
-  background:
-    radial-gradient(1200px 600px at 20% -5%, #16264f 0%, transparent 60%),
-    radial-gradient(900px 500px at 90% 10%, #1a2a5c 0%, transparent 55%),
-    var(--notte-0);
-  min-height: 100vh;
-}
-.site-header {
-  background: linear-gradient(180deg, var(--notte-1) 0%, var(--notte-2) 100%);
-  border-bottom: 1px solid rgba(212, 175, 106, .45);
-  padding: 1.1rem 1.5rem;
-  display: flex;
-  align-items: baseline;
-  gap: .8rem;
-  flex-wrap: wrap;
-}
-.site-header .brand {
-  font-family: var(--font-serif);
-  font-weight: 700;
-  font-size: 1.5rem;
-  color: var(--oro-classico);
-  letter-spacing: .02em;
-}
-.site-header .sub { color: #a9adc0; font-size: .95rem; }
-main.wrap { max-width: 1180px; margin: 0 auto; padding: 1.4rem 1rem 3rem; }
-h1.page-title {
-  font-family: var(--font-serif);
-  color: var(--oro-classico);
-  font-size: 2rem;
-  margin: .4rem 0 .3rem;
-}
-p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
-
-/* toolbar in stile sito */
-.toolbar {
-  display: flex;
-  align-items: center;
-  gap: .6rem;
-  flex-wrap: wrap;
-  margin: 0 0 .8rem;
-}
-.toolbar .btn {
-  font-family: var(--font-body);
-  font-size: .95rem;
-  padding: .45rem 1rem;
-  border-radius: 8px;
-  border: 1px solid rgba(212, 175, 106, .45);
-  background: #101d44;
-  color: #e9e4d4;
-  cursor: pointer;
-  transition: background .2s, color .2s;
-}
-.toolbar .btn:hover { background: var(--oro-classico); color: var(--notte-0); }
-.toolbar .btn[aria-pressed="true"] {
-  background: var(--oro-classico);
-  color: var(--notte-0);
-  font-weight: 600;
-}
-.toolbar .hint { color: #a9adc0; font-size: .9rem; }
-
-/* viewport tavola: coerente col sito ma con il limite richiesto per la demo */
-.plate-viewport {
-  position: relative;
-  overflow: auto;
-  max-height: calc(100vh - 300px);
-  border: 1px solid rgba(212, 175, 106, .45);
-  border-radius: var(--radius);
-  background: var(--pergamena);
-  box-shadow: 0 10px 40px rgba(0, 0, 0, .6);
-}
-.plate-inner { position: relative; width: 100%; line-height: 0; }
-.plate-inner > img { width: 100%; height: auto; display: block; }
-.plate-inner > svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
-
-/* etichetta zona */
-.zone-caption {
-  margin-top: .7rem;
-  font-family: var(--font-serif);
-  font-size: 1.25rem;
-  color: var(--oro-chiaro);
-  text-align: center;
-}
-.notice { padding: .8rem 1rem; border: 1px solid rgba(212,175,106,.45); border-radius: 8px; background: rgba(212,175,106,.08); color: #e9e4d4; font-size: .95rem; }
-</style>
-</head>
-<body>
-<header class="site-header">
-  <span class="brand">Hevelius · Firmamentum Sobiescianum</span>
-  <span class="hint" style="color:#a9adc0">Demo: evidenziazione luminosa della costellazione corrente</span>
-</header>
-<main class="wrap">
-  <h1 class="page-title">Croce del Sud — tavola Fig. XX</h1>
-  <p class="zone-caption" id="zone-caption">Zona evidenziata: <strong>Crux</strong> — Croce del Sud <span class="sub" style="color:#a9adc0">(tavola condivisa col Centauro)</span></p>
-  <div class="toolbar" id="toolbar">
-    <button class="btn" type="button" data-intensity="tenue" aria-pressed="false">Tenue</button>
-    <button class="btn" type="button" data-intensity="medio" aria-pressed="false">Medio</button>
-    <button class="btn" type="button" data-intensity="forte" aria-pressed="true">Forte</button>
-    <button class="btn" id="toggle-glow" type="button" aria-pressed="true">Nascondi evidenziazione</button>
-  </div>
-  <div class="plate-viewport" id="viewport">
-    <div class="plate-inner" id="plate">
-      <img id="plate-img" alt="Tavola Fig. XX del Firmamentum Sobiescianum di Hevelius (1690): Centaurus et Crux" src="https://commons.wikimedia.org/wiki/Special:FilePath/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_(5590647).jpg?width=1920">
-      <svg id="glow-svg" viewBox="0 0 1000 795" preserveAspectRatio="none" aria-hidden="true">
-        <defs>
-          <filter id="gblur" x="-60%" y="-60%" width="220%" height="220%">
-            <feGaussianBlur stdDeviation="26"></feGaussianBlur>
-          </filter>
-        </defs>
-        <g id="glow-layer" style="mix-blend-mode: screen;"></g>
-        <g id="dim-layer" style="mix-blend-mode: multiply;"></g>
-      </svg>
-    </div>
-  </div>
-  <p class="notice" id="data-note" hidden></p>
-</main>
 <script>
 (function () {
   'use strict';
@@ -158,23 +13,20 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     { id: 'ginan',      nome: 'Ginan',       x: 38.6, y: 79.3, r: 1.1 },
     { id: 'mu_crucis',  nome: 'Mu Crucis',   x: 47.3, y: 82.0, r: 1.0 }
   ];
-  /* Tre intensita': raggio dei cerchi, opacita' del bagliore, estensione della zona.
-     zoneFill = riempimento dorato semitrasparente del poligono di zona (leggibile
-     anche senza blend). dim = scurisce il resto della tavola (contrasto inverso). */
-  var INTENSITA = {
-    tenue: { blur: 30, alpha: 0.55, ring: 3.4, pad: 112, zoneFill: 0.26, dim: false },
-    medio: { blur: 20, alpha: 0.75, ring: 4.4, pad: 118, zoneFill: 0.33, dim: false },
-    forte: { blur: 14, alpha: 0.95, ring: 5.6, pad: 126, zoneFill: 0.40, dim: true }
+  /* Tre stili di annotazione a penna: contorno tratteggiato attorno alla zona,
+     con eventuale velo leggerissimo. dashPattern = pattern tratteggio SVG,
+     lineCap round per 'punto e linea' (effetto linea puntinata). */
+  var STILI = {
+    rosso:      { stroke: '#8b2f2f', dash: '8 6',  width: 2.5, fill: 'rgba(139,47,47,0.06)' },
+    inchiostro: { stroke: '#5a4632', dash: '6 4',  width: 2,   fill: 'rgba(90,70,50,0.05)' },
+    punto:      { stroke: '#b03a2e', dash: '2 6',  width: 2.5, fill: 'rgba(230,201,122,0.12)', round: true }
   };
-  var GOLD = 'rgba(230,201,122,';
-
-  var svg = document.getElementById('glow-svg');
-  var img = document.getElementById('plate-img');
-  var layer = document.getElementById('glow-layer');
-  var dimLayer = document.getElementById('dim-layer');
-  var maskEl = document.getElementById('dim-mask');
-  var intensity = 'forte';
+  var stile = 'rosso';
   var visible = true;
+
+  var svg = document.getElementById('annotazione-svg');
+  var img = document.getElementById('plate-img');
+  var layer = document.getElementById('annotazione-layer');
 
   function dims() {
     var w = (img && img.naturalWidth) || 1920;
@@ -182,61 +34,94 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     return { W: 1000, H: 1000 * h / w };
   }
 
+  /* Poligono ad angoli arrotondati = buffer poligonale: prendo l'inviluppo
+     convesso dei punti e lo dilato di `pad`, smussando ogni angolo con
+     un quarto di cerchio di raggio `pad` (arco quadratico sul vertice). */
+  function zonaPoligono(pad) {
+    var pts = STELLE.map(function (s) {
+      return { x: (s.x / 100) * dW, y: (s.y / 100) * dH };
+    });
+    /* inviluppo convesso (Andrew monotone chain) */
+    pts.sort(function (a, b) { return a.x - b.x || a.y - b.y; });
+    var cross = function (o, a, b) {
+      return (a.x - o.x) * (b.y - o.y) - (a.y - o.y) * (b.x - o.x);
+    };
+    var lo = [];
+    for (var i = 0; i < pts.length; i++) {
+      while (lo.length >= 2 && cross(lo[lo.length - 2], lo[lo.length - 1], pts[i]) <= 0) lo.pop();
+      lo.push(pts[i]);
+    }
+    var up = [];
+    for (var j = pts.length - 1; j >= 0; j--) {
+      while (up.length >= 2 && cross(up[up.length - 2], up[up.length - 1], pts[j]) <= 0) up.pop();
+      up.push(pts[j]);
+    }
+    lo.pop(); up.pop();
+    var hull = lo.concat(up);
+    /* buffer: offset verso l'esterno di pad, angoli smussati */
+    var n = hull.length, out = [];
+    for (var k = 0; k < n; k++) {
+      var p = hull[k], prev = hull[(k - 1 + n) % n], next = hull[(k + 1) % n];
+      var v1 = { x: p.x - prev.x, y: p.y - prev.y };
+      var v2 = { x: next.x - p.x, y: next.y - p.y };
+      var l1 = Math.hypot(v1.x, v1.y), l2 = Math.hypot(v2.x, v2.y);
+      var n1 = { x: v1.y / l1, y: -v1.x / l1 };
+      var n2 = { x: v2.y / l2, y: -v2.x / l2 };
+      /* esterno = normale che si allontana dal baricentro */
+      var cxs = 0, cys = 0;
+      for (var m = 0; m < n; m++) { cxs += hull[m].x; cys += hull[m].y; }
+      cxs /= n; cys /= n;
+      if ((p.x + n1.x * pad - cxs) * n1.x + (p.y + n1.y * pad - cys) * n1.y < 0) { n1.x = -n1.x; n1.y = -n1.y; }
+      if ((p.x + n2.x * pad - cxs) * n2.x + (p.y + n2.y * pad - cys) * n2.y < 0) { n2.x = -n2.x; n2.y = -n2.y; }
+      var a1 = { x: p.x + n1.x * pad, y: p.y + n1.y * pad };
+      var a2 = { x: p.x + n2.x * pad, y: p.y + n2.y * pad };
+      /* angolo smussato: arco quadratico con controllo sul vertice dilatato */
+      var corner = { x: p.x + (n1.x + n2.x) * pad, y: p.y + (n1.y + n2.y) * pad };
+      out.push({ type: 'L', x: a1.x, y: a1.y });
+      out.push({ type: 'Q', cx: corner.x, cy: corner.y, x: a2.x, y: a2.y });
+    }
+    return out;
+  }
+
+  var dW = 1000, dH = 795;
+
   function draw() {
     if (!layer) return;
     var d = dims();
-    var cfg = INTENSITA[intensity];
-    var parts = STELLE.map(function (s) {
-      var cx = (s.x / 100) * d.W;
-      var cy = (s.y / 100) * d.H;
-      var r = (s.r * cfg.ring) * 10;
-      return '<circle cx="' + cx.toFixed(1) + '" cy="' + cy.toFixed(1) + '" r="' + r.toFixed(1) +
-             '" fill="' + GOLD + (cfg.alpha * 0.9).toFixed(3) + ')" filter="url(#gblur)"/>';
+    dW = d.W; dH = d.H;
+    svg.setAttribute('viewBox', '0 0 ' + d.W.toFixed(1) + ' ' + d.H.toFixed(1));
+    var cfg = STILI[stile];
+    var pad = 46; /* buffer attorno alle 6 stelle: stretto, da annotazione */
+    var path = zonaPoligono(pad);
+    var pd = path.map(function (seg) {
+      if (seg.type === 'L') return 'L ' + seg.x.toFixed(1) + ' ' + seg.y.toFixed(1);
+      return 'Q ' + seg.cx.toFixed(1) + ' ' + seg.cy.toFixed(1) +
+             ' ' + seg.x.toFixed(1) + ' ' + seg.y.toFixed(1);
+    }).join(' ') + ' Z';
+    /* piccoli anelli a penna sulle sei stelle, come segni di richiamo */
+    var stelle = STELLE.map(function (s) {
+      return '<circle cx="' + ((s.x / 100) * d.W).toFixed(1) + '" cy="' + ((s.y / 100) * d.H).toFixed(1) +
+             '" r="7" fill="none" stroke="' + cfg.stroke + '" stroke-width="1.4" opacity="0.75"/>';
     }).join('');
-    layer.innerHTML = parts;
-    /* alone diffuso attorno all'intera zona della Croce */
+    /* etichetta d'epoca: Crux in corsivo, posizionata sotto la zona */
     var xs = STELLE.map(function (s) { return (s.x / 100) * d.W; });
     var ys = STELLE.map(function (s) { return (s.y / 100) * d.H; });
     var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
-    var minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
-    var pad = cfg.pad;
-    var zx = (minX - pad).toFixed(1), zy = (minY - pad).toFixed(1);
-    var zw = (maxX - minX + 2 * pad).toFixed(1), zh = (maxY - minY + 2 * pad).toFixed(1);
-    /* riempimento dorato della zona: si legge a colpo d'occhio anche senza blend */
-    var zona = '<rect x="' + zx + '" y="' + zy + '" width="' + zw + '" height="' + zh +
-               '" rx="90" fill="' + GOLD + cfg.zoneFill.toFixed(3) + ')"/>';
-    var alone = '<rect x="' + zx + '" y="' + zy + '" width="' + zw + '" height="' + zh +
-                '" rx="90" fill="' + GOLD + (cfg.alpha * 0.55).toFixed(3) +
-                '" filter="url(#gblur2)"/>';
-    layer.innerHTML = zona + alone + parts;
-    /* contrasto inverso (solo Forte): scurisce il resto della tavola, la zona
-       della Croce resta protetta da una maschera dai bordi sfumati */
-    if (dimLayer && maskEl) {
-      if (cfg.dim) {
-        var ix = (minX - pad * 0.55).toFixed(1), iy = (minY - pad * 0.55).toFixed(1);
-        var iw = (maxX - minX + 1.1 * pad).toFixed(1), ih = (maxY - minY + 1.1 * pad).toFixed(1);
-        maskEl.innerHTML =
-          '<rect x="0" y="0" width="' + d.W.toFixed(0) + '" height="' + d.H.toFixed(0) + '" fill="white"/>' +
-          '<rect x="' + ix + '" y="' + iy + '" width="' + iw + '" height="' + ih +
-          '" rx="90" fill="black" filter="url(#gblur2)"/>';
-        dimLayer.innerHTML = '<rect x="0" y="0" width="' + d.W.toFixed(0) + '" height="' + d.H.toFixed(0) +
-          '" fill="rgba(10,20,48,0.28)" mask="url(#dim-mask)"/>';
-      } else {
-        maskEl.innerHTML = '';
-        dimLayer.innerHTML = '';
-      }
-    }
+    var maxY = Math.max.apply(null, ys);
+    var labelFill = cfg.stroke;
+    var label = '<text id="zone-label" x="' + ((minX + maxX) / 2).toFixed(1) +
+                '" y="' + (maxY + pad + 34).toFixed(1) +
+                '" font-size="44" text-anchor="middle" fill="' + labelFill + '">Crux</text>';
+    layer.innerHTML =
+      '<path d="' + pd + '" fill="' + cfg.fill + '" stroke="' + cfg.stroke +
+      '" stroke-width="' + cfg.width + '" stroke-dasharray="' + cfg.dash + '"' +
+      (cfg.round ? ' stroke-linecap="round"' : '') + '/>' + stelle + label;
   }
 
-  function setIntensity(name) {
-    intensity = name;
-    var cfg = INTENSITA[name];
-    var b1 = document.getElementById('gblur');
-    var b2 = document.getElementById('gblur2');
-    if (b1) b1.querySelector('feGaussianBlur').setAttribute('stdDeviation', String(cfg.blur));
-    if (b2) b2.querySelector('feGaussianBlur').setAttribute('stdDeviation', String(cfg.blur * 1.8));
-    Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-intensity]'), function (b) {
-      b.setAttribute('aria-pressed', String(b.getAttribute('data-intensity') === name));
+  function setStile(name) {
+    stile = name;
+    Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-stile]'), function (b) {
+      b.setAttribute('aria-pressed', String(b.getAttribute('data-stile') === name));
     });
     draw();
   }
@@ -244,30 +129,19 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   function setVisibility(v) {
     visible = v;
     layer.style.display = v ? '' : 'none';
-    if (dimLayer) dimLayer.style.display = v ? '' : 'none';
-    var btn = document.getElementById('toggle-glow');
+    var btn = document.getElementById('toggle-annotazione');
     if (btn) {
       btn.setAttribute('aria-pressed', String(v));
       btn.textContent = v ? 'Nascondi evidenziazione' : 'Mostra evidenziazione';
     }
   }
 
-  Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-intensity]'), function (b) {
-    b.addEventListener('click', function () { setIntensity(b.getAttribute('data-intensity')); });
+  Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-stile]'), function (b) {
+    b.addEventListener('click', function () { setStile(b.getAttribute('data-stile')); });
   });
-  var toggle = document.getElementById('toggle-glow');
+  var toggle = document.getElementById('toggle-annotazione');
   if (toggle) toggle.addEventListener('click', function () { setVisibility(!visible); });
 
-  /* filtri: uno per i punti, uno piu' largo per l'alone di zona */
-  var defs = svg.querySelector('defs');
-  defs.innerHTML =
-    '<filter id="gblur" x="-60%" y="-60%" width="220%" height="220%">' +
-      '<feGaussianBlur stdDeviation="26"/>' +
-    '</filter>' +
-    '<filter id="gblur2" x="-60%" y="-60%" width="220%" height="220%">' +
-      '<feGaussianBlur stdDeviation="55"/>' +
-    '</filter>' +
-    '<mask id="dim-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="800"></mask>';
   if (img) {
     if (!img.complete || !img.naturalWidth) {
       img.addEventListener('load', function () { draw(); });
@@ -278,7 +152,7 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     }
   }
   window.addEventListener('resize', draw);
-  setIntensity('forte');
+  setStile('rosso');
   if (img && img.complete && img.naturalWidth) draw();
 })();
 </script>
