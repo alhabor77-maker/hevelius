@@ -122,21 +122,21 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   <h1 class="page-title">Croce del Sud — tavola Fig. XX</h1>
   <p class="zone-caption" id="zone-caption">Zona evidenziata: <strong>Crux</strong> — Croce del Sud <span class="sub" style="color:#a9adc0">(tavola condivisa col Centauro)</span></p>
   <div class="toolbar" id="toolbar">
-    <button class="btn" type="button" data-intensity="soffuso" aria-pressed="true">Soffuso</button>
-    <button class="btn" type="button" data-intensity="medio" aria-pressed="false">Medio</button>
-    <button class="btn" type="button" data-intensity="forte" aria-pressed="false">Forte</button>
-    <button class="btn" id="toggle-glow" type="button" aria-pressed="true">Nascondi evidenziazione</button>
+    <button class="btn" type="button" data-stile="rosso" aria-pressed="true">Rosso cupo</button>
+    <button class="btn" type="button" data-stile="inchiostro" aria-pressed="false">Inchiostro</button>
+    <button class="btn" type="button" data-stile="punto" aria-pressed="false">Punto e linea</button>
+    <button class="btn" id="toggle-annotazione" type="button" aria-pressed="true">Nascondi evidenziazione</button>
   </div>
   <div class="plate-viewport" id="viewport">
     <div class="plate-inner" id="plate">
       <img id="plate-img" alt="Tavola Fig. XX del Firmamentum Sobiescianum di Hevelius (1690): Centaurus et Crux" src="https://commons.wikimedia.org/wiki/Special:FilePath/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_(5590647).jpg?width=1920">
-      <svg id="glow-svg" viewBox="0 0 1000 795" preserveAspectRatio="none" aria-hidden="true">
+      <svg id="annotazione-svg" viewBox="0 0 1000 795" preserveAspectRatio="none" aria-hidden="true">
         <defs>
           <filter id="gblur" x="-60%" y="-60%" width="220%" height="220%">
             <feGaussianBlur stdDeviation="26"></feGaussianBlur>
           </filter>
         </defs>
-        <g id="glow-layer" style="mix-blend-mode: screen;"></g>
+        <g id="annotazione-layer" style="mix-blend-mode: screen;"></g>
       </svg>
     </div>
   </div>
