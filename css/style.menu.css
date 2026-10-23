@@ -1,21 +1,71 @@
 /*========================================================
    Fix menu compatto (2026-10-22) - NAV su pagine NON-home
   -----------------------------------------------------------------
-   Con 89 card la nav del`'header contiene ~89 link in flex-wrap: su
-   constellation.html e star.html (header sticky) diventaba una banda de
-   decine line che copriva e spingeva fuori schremo la tavola.
+   Con 89 card la nav dell'header contiene ~89 link in flex-wrap: su
+   constellation.html e star.html (header sticky) diventava una banda di
+   decine di linee che copriva e spingeva fuori schermo la tavola.
    renderHeader (app.part2a_01) su quelle pagine ora genera nav.nav-compact
-   con solo Home + una tendina (<select>): hui lo stile minimale.
-   La nav completa in home NON chiamga (gia static + nascosta <820px da
+   con solo Home + una tendina (<select>): qui lo stile minimale.
+   La nav completa in home NON cambia (gia' static + nascosta <820px da
    style.grid.css).
    ======================================================== */
 
-.const-layout { grid-template-columns: 235px minmax(0, 1fr); gap: 1.4rem; }
-.const-layout > .const-side { grid-row: 1 / -1; }
-@media (max-width: 820px) {
-  .const-layout { grid-template-columns: 1fr; }
-  .const-layout > .const-side { grid-row: auto; }
+/* --------------------------------------------------------------
+   Fix layout desktop (2026-10-23, v6) - lista costellazioni SOTTO
+   -----------------------------------------------------------------
+   Obiettivo (richiesta di Francesco): da desktop la lista costellazioni
+   (.const-side, 89 voci) sta SOTTO tutto il contenuto (tavola + descrizione
+   + schede stelle), come gia' avviene da mobile. La tavola resta nel primo
+   schermo senza scroll (max-height calc(100vh - 300px), fix v3 invariato).
+   L'HTML non cambia: l'aside .const-side resta il PRIMO figlio di
+   .const-layout nel DOM (app.part2c_02 invariato); e' solo il CSS a
+   riposizionarlo visivamente.
+
+   Approccio: .const-layout passa da grid a flex column su desktop.
+   - display:flex + flex-direction:column rende l'ordine di visualizzazione
+     uguale all'ordine del DOM, e la proprieta' order funziona in flex
+     senza i vincoli di grid (dove grid-row non puo' spingere un figlio
+     DOPO righe implicite non ancora create).
+   - .const-side prende order:99 (in fondo), width:100% e position:static
+     (lo sticky top:84px di part5_02 non ha senso in fondo alla pagina).
+   - Le regole v2 qui sotto che ancoravano i figli alle colonne grid
+     (grid-column: 1 / 2) vengono neutralizzate con grid-column:auto:
+     in un flex container grid-column e' inerte, ma la azzero comunque
+     per chiarezza e per sicurezza con eventuali cascade future.
+   - La regola grid-row: 1 / -1 del primo blocco (v1) e' pure inerte in
+     flex; non fa danni, ma la neutralizzo per coerenza.
+
+   Mobile (<=820px) NON cambia:
+   - part6_01 forza gia' .const-layout { grid-template-columns: 1fr } e
+     .const-side { position: static } sotto 820px;
+   - style.menu.css v5 (blocco in fondo a questo file) impone display:grid
+     + order 10/1 sotto 820px, che continua a funzionare identico perche'
+     i nostri override sono FUORI dal media query, quindi solo desktop;
+   - sotto 820px vince comunque il media query (stessa specificita', ultima
+     in cascata = i blocchi @media, che restano dopo i nuovi override).
+   - La regola grid-row: 1 / -1 del primo blocco (v1) e' pure inerte in
+     flex; non fa danni, ma la neutralizzo per coerenza.
+   - align-items: stretch (invece dell'align-items:start di part5_02)
+     perche' in flex column i figli altrimenti si stringono al contenuto.
+   - Gli override sono racchiusi in @media (min-width: 821px): cosi' il
+     flex e gli order 99/1 valgono SOLO oltre gli 820px; sotto, i media
+     query v2/v5 in fondo a questo file e di part6_01 re-impostano
+     display:grid + order:10/1 come prima della modifica (nessun rischio
+     di regressione mobile).
+   - L'ordine visivo resta garantito anche se il display cambiasse: il
+     media query v5 in fondo al file continua a imporre order 10 (aside)
+     / 1 (contenuti) da mobile, e il blocco v6 sopra impone order 99/1
+     da desktop in flex.
+   ======================================================== */
+/* Desktop (oltre 820px): flex column, sidebar in fondo (order 99).
+   NOTA bene: questo blocco DEVE restare PRIMA dei media query
+   (max-width: 820px) piu' sotto nel file, cosi' da mobile vincono quelli. */
+@media (min-width: 821px) {
+  .const-layout { display: flex; flex-direction: column; align-items: stretch; }
+  .const-layout > .const-side { order: 99; width: 100%; position: static; grid-column: auto; grid-row: auto; }
+  .const-layout > :not(.const-side) { order: 1; grid-column: auto; }
 }
+
 
 /* ===========================================================?
    Fix layout tavola (2026-10-22, v2) - .const-layout impaginato a scacchiera
@@ -38,9 +88,12 @@
    ======================================================== */
 
 /* Ogni figlio e' ancorato esplicitamente alla sua colonna. */
+/* (v6, 2026-10-23) NEUTRATE su desktop: con il flex del blocco v6 sopra
+   grid-column e' inerte, e il media query v5 in fondo al file ripristina
+   grid-column:auto sotto gli 820px come prima. Restano solo come fallback
+   se .const-layout tornasse a display:grid. */
 .const-layout > .const-side { grid-column: 1; }
 .const-layout > :not(.const-side) { grid-column: 2; }
-.const-layout { grid-template-columns: 235px minmax(0, 1fr); gap: 1.4rem; }
 @media (max-width: 820px) {
   .const-layout { grid-template-columns: 1fr; }
   .const-layout > .const-side,
@@ -80,7 +133,7 @@
    da mobile c'e' la tendina nell'header (nav-jump).
    ========================================================================= */
 @media (max-width: 820px) {
-  .const-layout { display: grid; }
-  .const-layout > .const-side { order: 10; }
-  .const-layout > :not(.const-side) { order: 1; }
+  .const-layout { display: grid; grid-template-columns: 1fr; }
+  .const-layout > .const-side { order: 10; position: static; }
+  .const-layout > :not(.const-side) { order: 1; grid-column: auto; }
 }
