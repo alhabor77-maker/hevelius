@@ -122,9 +122,9 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   <h1 class="page-title">Croce del Sud — tavola Fig. XX</h1>
   <p class="zone-caption" id="zone-caption">Zona evidenziata: <strong>Crux</strong> — Croce del Sud <span class="sub" style="color:#a9adc0">(tavola condivisa col Centauro)</span></p>
   <div class="toolbar" id="toolbar">
-    <button class="btn" type="button" data-intensity="soffuso" aria-pressed="true">Soffuso</button>
+    <button class="btn" type="button" data-intensity="tenue" aria-pressed="false">Tenue</button>
     <button class="btn" type="button" data-intensity="medio" aria-pressed="false">Medio</button>
-    <button class="btn" type="button" data-intensity="forte" aria-pressed="false">Forte</button>
+    <button class="btn" type="button" data-intensity="forte" aria-pressed="true">Forte</button>
     <button class="btn" id="toggle-glow" type="button" aria-pressed="true">Nascondi evidenziazione</button>
   </div>
   <div class="plate-viewport" id="viewport">
@@ -137,6 +137,7 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
           </filter>
         </defs>
         <g id="glow-layer" style="mix-blend-mode: screen;"></g>
+        <g id="dim-layer" style="mix-blend-mode: multiply;"></g>
       </svg>
     </div>
   </div>
@@ -157,18 +158,22 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     { id: 'ginan',      nome: 'Ginan',       x: 38.6, y: 79.3, r: 1.1 },
     { id: 'mu_crucis',  nome: 'Mu Crucis',   x: 47.3, y: 82.0, r: 1.0 }
   ];
-  /* Tre intensità: raggio dei cerchi e opacità del bagliore */
+  /* Tre intensita': raggio dei cerchi, opacita' del bagliore, estensione della zona.
+     zoneFill = riempimento dorato semitrasparente del poligono di zona (leggibile
+     anche senza blend). dim = scurisce il resto della tavola (contrasto inverso). */
   var INTENSITA = {
-    soffuso: { blur: 34, alpha: 0.30, ring: 2.6 },
-    medio:   { blur: 20, alpha: 0.48, ring: 3.4 },
-    forte:   { blur: 13, alpha: 0.68, ring: 4.4 }
+    tenue: { blur: 30, alpha: 0.55, ring: 3.4, pad: 112, zoneFill: 0.26, dim: false },
+    medio: { blur: 20, alpha: 0.75, ring: 4.4, pad: 118, zoneFill: 0.33, dim: false },
+    forte: { blur: 14, alpha: 0.95, ring: 5.6, pad: 126, zoneFill: 0.40, dim: true }
   };
   var GOLD = 'rgba(230,201,122,';
 
   var svg = document.getElementById('glow-svg');
   var img = document.getElementById('plate-img');
   var layer = document.getElementById('glow-layer');
-  var intensity = 'soffuso';
+  var dimLayer = document.getElementById('dim-layer');
+  var maskEl = document.getElementById('dim-mask');
+  var intensity = 'forte';
   var visible = true;
 
   function dims() {
@@ -194,17 +199,33 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     var ys = STELLE.map(function (s) { return (s.y / 100) * d.H; });
     var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
     var minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
-    var pad = 70;
-    var path = 'M ' + (minX - pad).toFixed(1) + ' ' + (minY - pad).toFixed(1) +
-               ' H ' + (maxX + pad).toFixed(1) +
-               ' V ' + (maxY + pad).toFixed(1) +
-               ' H ' + (minX - pad).toFixed(1) + ' Z';
-    var alone = '<rect x="' + (minX - pad).toFixed(1) + '" y="' + (minY - pad).toFixed(1) +
-                '" width="' + (maxX - minX + 2 * pad).toFixed(1) +
-                '" height="' + (maxY - minY + 2 * pad).toFixed(1) +
-                '" rx="90" fill="' + GOLD + (cfg.alpha * 0.45).toFixed(3) +
+    var pad = cfg.pad;
+    var zx = (minX - pad).toFixed(1), zy = (minY - pad).toFixed(1);
+    var zw = (maxX - minX + 2 * pad).toFixed(1), zh = (maxY - minY + 2 * pad).toFixed(1);
+    /* riempimento dorato della zona: si legge a colpo d'occhio anche senza blend */
+    var zona = '<rect x="' + zx + '" y="' + zy + '" width="' + zw + '" height="' + zh +
+               '" rx="90" fill="' + GOLD + cfg.zoneFill.toFixed(3) + ')"/>';
+    var alone = '<rect x="' + zx + '" y="' + zy + '" width="' + zw + '" height="' + zh +
+                '" rx="90" fill="' + GOLD + (cfg.alpha * 0.55).toFixed(3) +
                 '" filter="url(#gblur2)"/>';
-    layer.innerHTML = parts + alone;
+    layer.innerHTML = zona + alone + parts;
+    /* contrasto inverso (solo Forte): scurisce il resto della tavola, la zona
+       della Croce resta protetta da una maschera dai bordi sfumati */
+    if (dimLayer && maskEl) {
+      if (cfg.dim) {
+        var ix = (minX - pad * 0.55).toFixed(1), iy = (minY - pad * 0.55).toFixed(1);
+        var iw = (maxX - minX + 1.1 * pad).toFixed(1), ih = (maxY - minY + 1.1 * pad).toFixed(1);
+        maskEl.innerHTML =
+          '<rect x="0" y="0" width="' + d.W.toFixed(0) + '" height="' + d.H.toFixed(0) + '" fill="white"/>' +
+          '<rect x="' + ix + '" y="' + iy + '" width="' + iw + '" height="' + ih +
+          '" rx="90" fill="black" filter="url(#gblur2)"/>';
+        dimLayer.innerHTML = '<rect x="0" y="0" width="' + d.W.toFixed(0) + '" height="' + d.H.toFixed(0) +
+          '" fill="rgba(10,20,48,0.28)" mask="url(#dim-mask)"/>';
+      } else {
+        maskEl.innerHTML = '';
+        dimLayer.innerHTML = '';
+      }
+    }
   }
 
   function setIntensity(name) {
@@ -223,6 +244,7 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   function setVisibility(v) {
     visible = v;
     layer.style.display = v ? '' : 'none';
+    if (dimLayer) dimLayer.style.display = v ? '' : 'none';
     var btn = document.getElementById('toggle-glow');
     if (btn) {
       btn.setAttribute('aria-pressed', String(v));
@@ -244,7 +266,8 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     '</filter>' +
     '<filter id="gblur2" x="-60%" y="-60%" width="220%" height="220%">' +
       '<feGaussianBlur stdDeviation="55"/>' +
-    '</filter>';
+    '</filter>' +
+    '<mask id="dim-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="800"></mask>';
   if (img) {
     if (!img.complete || !img.naturalWidth) {
       img.addEventListener('load', function () { draw(); });
@@ -255,7 +278,7 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
     }
   }
   window.addEventListener('resize', draw);
-  setIntensity('soffuso');
+  setIntensity('forte');
   if (img && img.complete && img.naturalWidth) draw();
 })();
 </script>
