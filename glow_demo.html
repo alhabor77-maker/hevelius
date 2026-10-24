@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Demo glow · Croce del Sud · Hevelius 1690</title>
-<meta name="description" content="Prototipo di evidenziazione luminosa della costellazione corrente sulla tavola condivisa Fig. XX (Centauro + Croce del Sud).">
+<title>Lente d'ingrandimento · Croce del Sud · Hevelius 1690</title>
+<meta name="description" content="Demo: zona cliccabile che si ingrandisce sulla Croce del Sud della tavola Fig. XX (Centaurus et Crux, Prodromus astronomiae 1690).">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
@@ -61,7 +61,6 @@ h1.page-title {
 }
 p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
 
-/* toolbar in stile sito */
 .toolbar {
   display: flex;
   align-items: center;
@@ -88,7 +87,6 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
 }
 .toolbar .hint { color: #a9adc0; font-size: .9rem; }
 
-/* viewport tavola: coerente col sito ma con il limite richiesto per la demo */
 .plate-viewport {
   position: relative;
   overflow: auto;
@@ -98,206 +96,141 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   background: var(--pergamena);
   box-shadow: 0 10px 40px rgba(0, 0, 0, .6);
 }
-.plate-inner { position: relative; width: 100%; line-height: 0; }
-.plate-inner > img { width: 100%; height: auto; display: block; }
-.plate-inner > svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
-
-/* etichetta zona */
-.zone-caption {
-  margin-top: .7rem;
-  font-family: var(--font-serif);
-  font-size: 1.25rem;
-  color: var(--oro-chiaro);
-  text-align: center;
+.plate-viewport.zoomed { overflow: hidden; }
+.plate-inner {
+  position: relative;
+  width: 100%;
+  line-height: 0;
+  transition: transform .8s cubic-bezier(.25, .7, .3, 1);
+  will-change: transform;
 }
-.notice { padding: .8rem 1rem; border: 1px solid rgba(212,175,106,.45); border-radius: 8px; background: rgba(212,175,106,.08); color: #e9e4d4; font-size: .95rem; }
+.plate-inner > img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Zona cliccabile della Croce del Sud: trasparente, in percentuale sull'immagine */
+.crux-zone {
+  position: absolute;
+  left: 34.9%;
+  top: 72.6%;
+  width: 16%;
+  height: 14%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+.plate-viewport.zoomed .crux-zone { cursor: zoom-out; }
+.crux-zone:focus-visible {
+  outline: 2px solid var(--oro);
+  outline-offset: -2px;
+}
+
+p.note {
+  color: #a9adc0;
+  font-size: .95rem;
+  margin: .7rem 0 0;
+}
+@media (max-width: 640px) {
+  body { font-size: 17px; }
+  h1.page-title { font-size: 1.6rem; }
+  main.wrap { padding: 1rem .8rem 2.2rem; }
+  .plate-viewport { max-height: calc(100vh - 260px); }
+}
 </style>
 </head>
 <body>
 <header class="site-header">
-  <span class="brand">Hevelius · Firmamentum Sobiescianum</span>
-  <span class="hint" style="color:#a9adc0">Demo: evidenziazione luminosa della costellazione corrente</span>
+  <span class="brand">Hevelius 1690</span>
+  <span class="sub">Prodromus astronomiae · demo interattiva</span>
 </header>
 <main class="wrap">
-  <h1 class="page-title">Croce del Sud — tavola Fig. XX</h1>
-  <p class="zone-caption" id="zone-caption">Zona evidenziata: <strong>Crux</strong> — Croce del Sud <span class="sub" style="color:#a9adc0">(tavola condivisa col Centauro)</span></p>
-  <div class="toolbar" id="toolbar">
-    <button class="btn" type="button" data-stile="rosso" aria-pressed="true">Rosso cupo</button>
-    <button class="btn" type="button" data-stile="inchiostro" aria-pressed="false">Inchiostro</button>
-    <button class="btn" type="button" data-stile="punto" aria-pressed="false">Punto e linea</button>
-    <button class="btn" id="toggle-annotazione" type="button" aria-pressed="true">Nascondi evidenziazione</button>
+  <h1 class="page-title">Lente d'ingrandimento: la Croce del Sud</h1>
+  <p class="lead">La tavola Fig. XX (Centaurus et Crux) si vede intera, come nella pagina della costellazione. Sulla Croce del Sud c'è una zona cliccabile che la porta in primo piano.</p>
+
+  <div class="toolbar">
+    <button id="reset-zoom" class="btn" type="button" aria-pressed="false">Vedi tutta la tavola</button>
+    <span class="hint" id="zoom-hint">Tocca la zona della Croce del Sud per ingrandirla</span>
   </div>
+
   <div class="plate-viewport" id="viewport">
-    <div class="plate-inner" id="plate">
-      <img id="plate-img" alt="Tavola Fig. XX del Firmamentum Sobiescianum di Hevelius (1690): Centaurus et Crux" src="https://commons.wikimedia.org/wiki/Special:FilePath/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_(5590647).jpg?width=1920">
-      <svg id="annotazione-svg" viewBox="0 0 1000 795" preserveAspectRatio="none" aria-hidden="true">
-        <defs>
-          <filter id="gblur" x="-60%" y="-60%" width="220%" height="220%">
-            <feGaussianBlur stdDeviation="26"></feGaussianBlur>
-          </filter>
-        </defs>
-        <g id="annotazione-layer" style="mix-blend-mode: screen;"></g>
-      </svg>
+    <div class="plate-inner" id="plate-inner">
+      <img id="plate-img"
+           src="https://commons.wikimedia.org/wiki/Special:FilePath/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_(5590647).jpg?width=1920"
+           alt="Tavola Fig. XX del Prodromus astronomiae di Hevelius (1690): Centaurus e Croce del Sud">
+      <button class="crux-zone" id="crux-zone" type="button" aria-label="Ingrandisci la zona della Croce del Sud"></button>
     </div>
   </div>
-  <p class="notice" id="data-note" hidden></p>
+
+  <p class="note" id="note">Tocca la zona della Croce del Sud per ingrandirla.</p>
 </main>
 <script>
 (function () {
   'use strict';
-  /* Stelle della Croce del Sud: posizioni misurate sulla tavola Fig. XX.
-     Cinque su sei derivano da verifica visiva sull'immagine (fit geometrico con
-     le distanze angolari reali tra le stelle), mu_crucis APPROSSIMATA:
-     vedi modifica.md. Le posizioni sono % sull'immagine piena (1920x1526). */
-  var STELLE = [
-    { id: 'acrux',      nome: 'Acrux',       x: 39.2, y: 75.0, r: 1.6 },
-    { id: 'mimosa',     nome: 'Mimosa',      x: 45.4, y: 76.3, r: 1.3 },
-    { id: 'gacrux',     nome: 'Gacrux',      x: 45.9, y: 82.6, r: 1.2 },
-    { id: 'imai',       nome: 'Imai',        x: 41.2, y: 82.6, r: 1.2 },
-    { id: 'ginan',      nome: 'Ginan',       x: 38.6, y: 79.3, r: 1.1 },
-    { id: 'mu_crucis',  nome: 'Mu Crucis',   x: 47.3, y: 82.0, r: 1.0 }
-  ];
-  /* Tre stili di annotazione a penna: contorno tratteggiato attorno alla zona,
-     con eventuale velo leggerissimo. dashPattern = pattern tratteggio SVG,
-     lineCap round per 'punto e linea' (effetto linea puntinata). */
-  var STILI = {
-    rosso:      { stroke: '#8b2f2f', dash: '8 6',  width: 2.5, fill: 'rgba(139,47,47,0.06)' },
-    inchiostro: { stroke: '#5a4632', dash: '6 4',  width: 2,   fill: 'rgba(90,70,50,0.05)' },
-    punto:      { stroke: '#b03a2e', dash: '2 6',  width: 2.5, fill: 'rgba(230,201,122,0.12)', round: true }
-  };
-  var stile = 'rosso';
-  var visible = true;
 
-  var svg = document.getElementById('annotazione-svg');
+  var viewport = document.getElementById('viewport');
+  var inner = document.getElementById('plate-inner');
+  var zone = document.getElementById('crux-zone');
+  var resetBtn = document.getElementById('reset-zoom');
+  var hint = document.getElementById('zoom-hint');
+  var note = document.getElementById('note');
   var img = document.getElementById('plate-img');
-  var layer = document.getElementById('annotazione-layer');
 
-  function dims() {
-    var w = (img && img.naturalWidth) || 1920;
-    var h = (img && img.naturalHeight) || 1526;
-    return { W: 1000, H: 1000 * h / w };
-  }
+  if (!viewport || !inner || !zone || !resetBtn) return;
 
-  /* Poligono ad angoli arrotondati = buffer poligonale: prendo l'inviluppo
-     convesso dei punti e lo dilato di `pad`, smussando ogni angolo con
-     un quarto di cerchio di raggio `pad` (arco quadratico sul vertice). */
-  function zonaPoligono(pad) {
-    var pts = STELLE.map(function (s) {
-      return { x: (s.x / 100) * dW, y: (s.y / 100) * dH };
-    });
-    /* inviluppo convesso (Andrew monotone chain) */
-    pts.sort(function (a, b) { return a.x - b.x || a.y - b.y; });
-    var cross = function (o, a, b) {
-      return (a.x - o.x) * (b.y - o.y) - (a.y - o.y) * (b.x - o.x);
-    };
-    var lo = [];
-    for (var i = 0; i < pts.length; i++) {
-      while (lo.length >= 2 && cross(lo[lo.length - 2], lo[lo.length - 1], pts[i]) <= 0) lo.pop();
-      lo.push(pts[i]);
-    }
-    var up = [];
-    for (var j = pts.length - 1; j >= 0; j--) {
-      while (up.length >= 2 && cross(up[up.length - 2], up[up.length - 1], pts[j]) <= 0) up.pop();
-      up.push(pts[j]);
-    }
-    lo.pop(); up.pop();
-    var hull = lo.concat(up);
-    /* buffer: offset verso l'esterno di pad, angoli smussati */
-    var n = hull.length, out = [];
-    for (var k = 0; k < n; k++) {
-      var p = hull[k], prev = hull[(k - 1 + n) % n], next = hull[(k + 1) % n];
-      var v1 = { x: p.x - prev.x, y: p.y - prev.y };
-      var v2 = { x: next.x - p.x, y: next.y - p.y };
-      var l1 = Math.hypot(v1.x, v1.y), l2 = Math.hypot(v2.x, v2.y);
-      var n1 = { x: v1.y / l1, y: -v1.x / l1 };
-      var n2 = { x: v2.y / l2, y: -v2.x / l2 };
-      /* esterno = normale che si allontana dal baricentro */
-      var cxs = 0, cys = 0;
-      for (var m = 0; m < n; m++) { cxs += hull[m].x; cys += hull[m].y; }
-      cxs /= n; cys /= n;
-      if ((p.x + n1.x * pad - cxs) * n1.x + (p.y + n1.y * pad - cys) * n1.y < 0) { n1.x = -n1.x; n1.y = -n1.y; }
-      if ((p.x + n2.x * pad - cxs) * n2.x + (p.y + n2.y * pad - cys) * n2.y < 0) { n2.x = -n2.x; n2.y = -n2.y; }
-      var a1 = { x: p.x + n1.x * pad, y: p.y + n1.y * pad };
-      var a2 = { x: p.x + n2.x * pad, y: p.y + n2.y * pad };
-      /* angolo smussato: arco quadratico con controllo sul vertice dilatato */
-      var corner = { x: p.x + (n1.x + n2.x) * pad, y: p.y + (n1.y + n2.y) * pad };
-      out.push({ type: 'L', x: a1.x, y: a1.y });
-      out.push({ type: 'Q', cx: corner.x, cy: corner.y, x: a2.x, y: a2.y });
-    }
-    return out;
-  }
+  var zoomed = false;
+  var ZOOM = 3;
+  /* Centro della zona Croce, in percentuale sull'immagine */
+  var ORIGIN_X = 42.9;
+  var ORIGIN_Y = 79.6;
 
-  var dW = 1000, dH = 795;
-
-  function draw() {
-    if (!layer) return;
-    var d = dims();
-    dW = d.W; dH = d.H;
-    svg.setAttribute('viewBox', '0 0 ' + d.W.toFixed(1) + ' ' + d.H.toFixed(1));
-    var cfg = STILI[stile];
-    var pad = 46; /* buffer attorno alle 6 stelle: stretto, da annotazione */
-    var path = zonaPoligono(pad);
-    var pd = path.map(function (seg) {
-      if (seg.type === 'L') return 'L ' + seg.x.toFixed(1) + ' ' + seg.y.toFixed(1);
-      return 'Q ' + seg.cx.toFixed(1) + ' ' + seg.cy.toFixed(1) +
-             ' ' + seg.x.toFixed(1) + ' ' + seg.y.toFixed(1);
-    }).join(' ') + ' Z';
-    /* piccoli anelli a penna sulle sei stelle, come segni di richiamo */
-    var stelle = STELLE.map(function (s) {
-      return '<circle cx="' + ((s.x / 100) * d.W).toFixed(1) + '" cy="' + ((s.y / 100) * d.H).toFixed(1) +
-             '" r="7" fill="none" stroke="' + cfg.stroke + '" stroke-width="1.4" opacity="0.75"/>';
-    }).join('');
-    /* etichetta d'epoca: Crux in corsivo, posizionata sotto la zona */
-    var xs = STELLE.map(function (s) { return (s.x / 100) * d.W; });
-    var ys = STELLE.map(function (s) { return (s.y / 100) * d.H; });
-    var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs);
-    var maxY = Math.max.apply(null, ys);
-    var labelFill = cfg.stroke;
-    var label = '<text id="zone-label" x="' + ((minX + maxX) / 2).toFixed(1) +
-                '" y="' + (maxY + pad + 34).toFixed(1) +
-                '" font-size="44" text-anchor="middle" fill="' + labelFill + '">Crux</text>';
-    layer.innerHTML =
-      '<path d="' + pd + '" fill="' + cfg.fill + '" stroke="' + cfg.stroke +
-      '" stroke-width="' + cfg.width + '" stroke-dasharray="' + cfg.dash + '"' +
-      (cfg.round ? ' stroke-linecap="round"' : '') + '/>' + stelle + label;
-  }
-
-  function setStile(name) {
-    stile = name;
-    Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-stile]'), function (b) {
-      b.setAttribute('aria-pressed', String(b.getAttribute('data-stile') === name));
-    });
-    draw();
-  }
-
-  function setVisibility(v) {
-    visible = v;
-    layer.style.display = v ? '' : 'none';
-    var btn = document.getElementById('toggle-annotazione');
-    if (btn) {
-      btn.setAttribute('aria-pressed', String(v));
-      btn.textContent = v ? 'Nascondi evidenziazione' : 'Mostra evidenziazione';
+  function apply() {
+    if (zoomed) {
+      inner.style.transformOrigin = ORIGIN_X + '% ' + ORIGIN_Y + '%';
+      inner.style.transform = 'scale(' + ZOOM + ')';
+      viewport.classList.add('zoomed');
+      resetBtn.setAttribute('aria-pressed', 'true');
+      zone.setAttribute('aria-label', 'Torna alla tavola intera');
+      if (hint) hint.textContent = 'Tocca di nuovo la zona, o il pulsante, per tornare alla tavola intera';
+      if (note) note.textContent = 'Vista ingrandita della Croce del Sud: tocca di nuovo la zona, oppure il pulsante "Vedi tutta la tavola", per tornare alla vista completa.';
+    } else {
+      inner.style.transform = 'scale(1)';
+      viewport.classList.remove('zoomed');
+      resetBtn.setAttribute('aria-pressed', 'false');
+      zone.setAttribute('aria-label', 'Ingrandisci la zona della Croce del Sud');
+      if (hint) hint.textContent = 'Tocca la zona della Croce del Sud per ingrandirla';
+      if (note) note.textContent = 'Tocca la zona della Croce del Sud per ingrandirla.';
     }
   }
 
-  Array.prototype.forEach.call(document.querySelectorAll('#toolbar .btn[data-stile]'), function (b) {
-    b.addEventListener('click', function () { setStile(b.getAttribute('data-stile')); });
+  function toggle() {
+    zoomed = !zoomed;
+    apply();
+  }
+
+  /* Click (mouse) e tap (touch) arrivano entrambi come click */
+  zone.addEventListener('click', function (e) {
+    e.stopPropagation();
+    toggle();
   });
-  var toggle = document.getElementById('toggle-annotazione');
-  if (toggle) toggle.addEventListener('click', function () { setVisibility(!visible); });
 
-  if (img) {
-    if (!img.complete || !img.naturalWidth) {
-      img.addEventListener('load', function () { draw(); });
-      img.addEventListener('error', function () {
-        var vp = document.getElementById('viewport');
-        if (vp) vp.innerHTML = '<p class="notice">Impossibile caricare l\u2019immagine della tavola.</p>';
-      });
+  resetBtn.addEventListener('click', function () {
+    if (zoomed) {
+      zoomed = false;
+      apply();
     }
+  });
+
+  if (img && !img.complete) {
+    img.addEventListener('error', function () {
+      viewport.innerHTML = '<p class="note">Impossibile caricare l\u2019immagine della tavola.</p>';
+    });
   }
-  window.addEventListener('resize', draw);
-  setStile('rosso');
-  if (img && img.complete && img.naturalWidth) draw();
 })();
 </script>
 </body>
