@@ -131,6 +131,34 @@ p.lead { color: #c9cdd8; margin: 0 0 1.2rem; max-width: 62ch; }
   outline-offset: -2px;
 }
 
+/* Evidenziazione leggera della zona: "velo" (predefinita) o "ombra".
+   In vista ingrandita l'evidenziazione sfuma, per non coprire il dettaglio. */
+.plate-viewport.ev-velo .crux-zone {
+  background: rgba(230, 201, 122, .12);
+  border: 1px solid rgba(230, 201, 122, .28);
+  border-radius: 6px;
+  transition: background .25s ease, border-color .25s ease;
+}
+.plate-viewport.ev-velo .crux-zone:hover {
+  background: rgba(230, 201, 122, .18);
+  border-color: rgba(230, 201, 122, .4);
+}
+.plate-viewport.ev-ombra .crux-zone {
+  background: rgba(230, 201, 122, .07);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  box-shadow:
+    0 0 0 1px rgba(230, 201, 122, .12),
+    0 3px 14px rgba(58, 44, 26, .35),
+    0 0 10px rgba(230, 201, 122, .18);
+  transition: box-shadow .25s ease, background .25s ease;
+}
+.plate-viewport.zoomed .crux-zone {
+  background: rgba(230, 201, 122, .04);
+  border-color: transparent;
+  box-shadow: none;
+}
+
 p.note {
   color: #a9adc0;
   font-size: .95rem;
@@ -155,10 +183,12 @@ p.note {
 
   <div class="toolbar">
     <button id="reset-zoom" class="btn" type="button" aria-pressed="false">Vedi tutta la tavola</button>
+    <button id="ev-velo" class="btn" type="button" aria-pressed="true">Velo</button>
+    <button id="ev-ombra" class="btn" type="button" aria-pressed="false">Ombra</button>
     <span class="hint" id="zoom-hint">Tocca la zona della Croce del Sud per ingrandirla</span>
   </div>
 
-  <div class="plate-viewport" id="viewport">
+  <div class="plate-viewport ev-velo" id="viewport">
     <div class="plate-inner" id="plate-inner">
       <img id="plate-img"
            src="https://commons.wikimedia.org/wiki/Special:FilePath/Centaurus_et_Crux_-_Prodromus_astronomiae_1690_(5590647).jpg?width=1920"
@@ -182,6 +212,20 @@ p.note {
   var img = document.getElementById('plate-img');
 
   if (!viewport || !inner || !zone || !resetBtn) return;
+
+  /* Evidenziazione leggera della zona: "velo" (predefinita) o "ombra" */
+  var veloBtn = document.getElementById('ev-velo');
+  var ombraBtn = document.getElementById('ev-ombra');
+
+  function setHighlight(mode) {
+    viewport.classList.toggle('ev-velo', mode === 'velo');
+    viewport.classList.toggle('ev-ombra', mode === 'ombra');
+    if (veloBtn) veloBtn.setAttribute('aria-pressed', String(mode === 'velo'));
+    if (ombraBtn) ombraBtn.setAttribute('aria-pressed', String(mode === 'ombra'));
+  }
+
+  if (veloBtn) veloBtn.addEventListener('click', function () { setHighlight('velo'); });
+  if (ombraBtn) ombraBtn.addEventListener('click', function () { setHighlight('ombra'); });
 
   var zoomed = false;
   var ZOOM = 3;
