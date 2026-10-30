@@ -15,7 +15,16 @@
     }
     var html = '', used = {};
     SECTIONS.forEach(function (s) {
-      if (t[s[0]]) { used[s[0]] = 1; html += '<h2>' + s[1] + '</h2>' + paragraphs(t[s[0]]); }
+      if (t[s[0]]) {
+        used[s[0]] = 1;
+        var label = s[1];
+        if (s[0] === 'hevelius') {
+          var tv = String(c.tavola || '');
+          if (tv.indexOf('Bode') === 0) label = 'La tavola di Bode (1801)';
+          else if (tv.indexOf('Lacaille') === 0) label = 'La tavola di Lacaille (1756)';
+        }
+        html += '<h2>' + label + '</h2>' + paragraphs(t[s[0]]);
+      }
     });
     Object.keys(t).forEach(function (k) {
       if (used[k] || SKIP_KEYS[k] || typeof t[k] !== 'string' || !t[k]) return;
