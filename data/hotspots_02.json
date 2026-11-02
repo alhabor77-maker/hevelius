@@ -77,16 +77,176 @@
  "cefeo": [],
  "balena": [],
  "pegaso": [],
- "cigno": [],
- "lira": [],
- "aquila": [],
+ "cigno": [
+  {
+   "star_id": "deneb",
+   "x_pct": 62.3,
+   "y_pct": 42.2,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "sadr",
+   "x_pct": 54.6,
+   "y_pct": 47.4,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "aljanah",
+   "x_pct": 55.5,
+   "y_pct": 58.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "albireo",
+   "x_pct": 31.4,
+   "y_pct": 59.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "fawaris",
+   "x_pct": 48.2,
+   "y_pct": 32.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "xi_cygni",
+   "x_pct": 67.7,
+   "y_pct": 48.5,
+   "r_pct": 1.2
+  }
+ ],
+ "lira": [
+  {
+   "star_id": "vega",
+   "x_pct": 46.4,
+   "y_pct": 48.6,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "sheliak",
+   "x_pct": 49.4,
+   "y_pct": 64.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "sulafat",
+   "x_pct": 52.8,
+   "y_pct": 67.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "delta_lyrae",
+   "x_pct": 52.1,
+   "y_pct": 55.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zeta_lyrae",
+   "x_pct": 48.8,
+   "y_pct": 52.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "epsilon_lyrae",
+   "x_pct": 49.4,
+   "y_pct": 46.9,
+   "r_pct": 1.2
+  }
+ ],
+ "aquila": [
+  {
+   "star_id": "altair",
+   "x_pct": 58.4,
+   "y_pct": 44.8,
+   "r_pct": 1.5
+  },
+  {
+   "star_id": "tarazed",
+   "x_pct": 57.1,
+   "y_pct": 40.6,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "alshain",
+   "x_pct": 59.7,
+   "y_pct": 49.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "delta_aquilae",
+   "x_pct": 47.7,
+   "y_pct": 53.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zeta_aquilae",
+   "x_pct": 42.4,
+   "y_pct": 30.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "theta_aquilae",
+   "x_pct": 64.6,
+   "y_pct": 66.3,
+   "r_pct": 1.2
+  }
+ ],
  "gemelli": [],
  "auriga": []
 ,
  "boote": [],
  "corona_boreale": [],
  "vergine": [],
- "leone": [],
+ "leone": [
+  {
+   "star_id": "regulus",
+   "x_pct": 42.6,
+   "y_pct": 48.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "denebola",
+   "x_pct": 80.4,
+   "y_pct": 22.5,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "algieba",
+   "x_pct": 42.4,
+   "y_pct": 29.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zosma",
+   "x_pct": 62.7,
+   "y_pct": 17.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "chertan",
+   "x_pct": 66.4,
+   "y_pct": 28.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "adhafera",
+   "x_pct": 38.9,
+   "y_pct": 22.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_leonis",
+   "x_pct": 39.3,
+   "y_pct": 38.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "ras_elased",
+   "x_pct": 27.0,
+   "y_pct": 27.5,
+   "r_pct": 1.2
+  }
+ ],
  "sagittario": [],
  "bilancia": [],
  "acquario": [],
