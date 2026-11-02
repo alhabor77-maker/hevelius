@@ -114,10 +114,20 @@
       if (!plate || !vp) return;
       function place() {
         state.zoom = Math.min(4, Math.max(1, z.z));
+        /* Senza questo la transition CSS (.plate-inner { transition: width .25s }) fa si' che
+         * offsetWidth/scrollWidth siano ancora quelli di partenza (1x) e lo scroll venga
+         * troncato a ~0 (vista in alto a sinistra). Quindi: transition off, width, reflow
+         * forzato, scroll, e transition ripristinata al frame successivo. */
+        var prevTr = plate.style.transition;
+        plate.style.transition = 'none';
         plate.style.width = (state.zoom * 100) + '%';
+        void plate.offsetWidth;
         vp.scrollLeft = (z.cx / 100) * plate.offsetWidth - vp.clientWidth / 2;
         vp.scrollTop = (z.cy / 100) * plate.offsetHeight - vp.clientHeight / 2;
         showViewAll(true);
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () { plate.style.transition = prevTr; });
+        });
       }
       var img = $('#plate-img');
       if (img && img.complete && img.naturalWidth) place();
