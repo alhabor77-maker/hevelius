@@ -13,6 +13,43 @@
  "norma": [],
  "circinus": [],
  "telescopium": [],
- "mensa": [],
+ "mensa": [
+  {
+   "star_id": "alf_men",
+   "x_pct": 69.06,
+   "y_pct": 57.97,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "bet_men",
+   "x_pct": 67.69,
+   "y_pct": 68.72,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "gam_men",
+   "x_pct": 65.3,
+   "y_pct": 59.45,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "del_men",
+   "x_pct": 58.14,
+   "y_pct": 57.79,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "eps_men",
+   "x_pct": 66.41,
+   "y_pct": 47.61,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "pi_men",
+   "x_pct": 61.56,
+   "y_pct": 53.88,
+   "r_pct": 1.0
+  }
+ ],
  "octans": []
 }
