@@ -30,7 +30,7 @@
         return '<a href="constellation.html?c=' + c.id + editQ() + '"' + cur + '>' + esc(c.nome) + '</a>';
       }).join('');
       el.innerHTML = '<div class="wrap">' + brand +
-        '<nav class="nav" aria-label="Costellazioni">' + links + '</nav></div>';
+        '<nav class="nav" aria-label="Costellazioni"><a class="nav-map" href="mappa.html">Mappa del cielo</a>' + links + '</nav></div>';
       return;
     }
     var opts = CONST.map(function (c) {
@@ -39,7 +39,7 @@
     }).join('');
     el.innerHTML = '<div class="wrap">' + brand +
       '<nav class="nav nav-compact" aria-label="Costellazioni">' +
-      '<a href="index.html">Home</a>' +
+      '<a href="index.html">Home</a><a class="nav-map" href="mappa.html">Mappa del cielo</a>' +
       '<label class="nav-jump"><span class="sr-only">Vai a una costellazione</span>' +
       '<select id="nav-jump" aria-label="Scegli una costellazione">' +
       '<option value="">Costellazioni\u2026</option>' + opts + '</select></label></nav></div>';
