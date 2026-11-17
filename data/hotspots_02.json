@@ -141,8 +141,70 @@
    "r_pct": 1.6
   }
  ],
- "cassiopea": [],
- "cefeo": [],
+ "cassiopea": [
+  {
+   "star_id": "schedar",
+   "x_pct": 55.4,
+   "y_pct": 41.5,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "caph",
+   "x_pct": 40.5,
+   "y_pct": 44.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gamma_cas",
+   "x_pct": 45.4,
+   "y_pct": 37.6,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "ruchbah",
+   "x_pct": 47.5,
+   "y_pct": 31.5,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "segin",
+   "x_pct": 39.6,
+   "y_pct": 26.4,
+   "r_pct": 1.3
+  }
+ ],
+ "cefeo": [
+  {
+   "star_id": "alderamin",
+   "x_pct": 34.4,
+   "y_pct": 26.4,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "alfirk",
+   "x_pct": 46.2,
+   "y_pct": 32.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "errai",
+   "x_pct": 57.3,
+   "y_pct": 50.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "delta_cep",
+   "x_pct": 25.5,
+   "y_pct": 41.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "granatina",
+   "x_pct": 27.4,
+   "y_pct": 29.9,
+   "r_pct": 1.2
+  }
+ ],
  "balena": [
   {
    "star_id": "menkar",
@@ -2052,9 +2114,252 @@
    "r_pct": 1.0
   }
  ],
- "eridano": [],
- "fenice": [],
- "tucano": [],
+ "eridano": [
+  {
+   "star_id": "achernar",
+   "x_pct": 26.9,
+   "y_pct": 74.2,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "cursa",
+   "x_pct": 91.2,
+   "y_pct": 40.9,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "acamar",
+   "x_pct": 43.1,
+   "y_pct": 54.6,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "zaurak",
+   "x_pct": 69.4,
+   "y_pct": 32.8,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "rana",
+   "x_pct": 68.3,
+   "y_pct": 26.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "epsilon_eridani",
+   "x_pct": 65.5,
+   "y_pct": 24.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "azha",
+   "x_pct": 55.3,
+   "y_pct": 18.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "lambda_eridani",
+   "x_pct": 88.8,
+   "y_pct": 44.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "pi_eridani",
+   "x_pct": 67.3,
+   "y_pct": 29.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "omicron2_eridani",
+   "x_pct": 77.6,
+   "y_pct": 30.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "82g_eridani",
+   "x_pct": 45.9,
+   "y_pct": 60.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "32_eridani",
+   "x_pct": 75.1,
+   "y_pct": 21.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "tau9_eridani",
+   "x_pct": 63.7,
+   "y_pct": 43.9,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "mu_eridani",
+   "x_pct": 87.5,
+   "y_pct": 33.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "nu_eridani",
+   "x_pct": 85.5,
+   "y_pct": 31.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "omicron1_eridani",
+   "x_pct": 77.2,
+   "y_pct": 29.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zeta_eridani",
+   "x_pct": 60.8,
+   "y_pct": 20.6,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "kappa_eridani",
+   "x_pct": 35.0,
+   "y_pct": 62.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "sigma_eridani",
+   "x_pct": 54.0,
+   "y_pct": 17.7,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "r_eridani",
+   "x_pct": 80.4,
+   "y_pct": 47.5,
+   "r_pct": 1.0
+  }
+ ],
+ "fenice": [
+  {
+   "star_id": "ankaa",
+   "x_pct": 12.6,
+   "y_pct": 58.2,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "beta_phoenicis",
+   "x_pct": 21.1,
+   "y_pct": 61.7,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "gamma_phoenicis",
+   "x_pct": 25.1,
+   "y_pct": 56.5,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "delta_phoenicis",
+   "x_pct": 25.8,
+   "y_pct": 64.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "epsilon_phoenicis",
+   "x_pct": 10.6,
+   "y_pct": 64.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "wurren",
+   "x_pct": 22.4,
+   "y_pct": 72.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_phoenicis",
+   "x_pct": 19.8,
+   "y_pct": 76.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "kappa_phoenicis",
+   "x_pct": 13.0,
+   "y_pct": 61.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "nu_phoenicis",
+   "x_pct": 22.5,
+   "y_pct": 59.7,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "psi_phoenicis",
+   "x_pct": 29.3,
+   "y_pct": 60.2,
+   "r_pct": 1.2
+  }
+ ],
+ "tucano": [
+  {
+   "star_id": "lang_exster",
+   "x_pct": 5.4,
+   "y_pct": 94.4,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "gamma_tucanae",
+   "x_pct": 9.5,
+   "y_pct": 84.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zeta_tucanae",
+   "x_pct": 19.1,
+   "y_pct": 87.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "kappa_tucanae",
+   "x_pct": 25.5,
+   "y_pct": 89.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "beta_tucanae",
+   "x_pct": 19.8,
+   "y_pct": 83.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "delta_tucanae",
+   "x_pct": 9.8,
+   "y_pct": 97.4,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "epsilon_tucanae",
+   "x_pct": 17.6,
+   "y_pct": 89.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "nu_tucanae",
+   "x_pct": 7.9,
+   "y_pct": 93.9,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "theta_tucanae",
+   "x_pct": 22.6,
+   "y_pct": 94.2,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "hd_4308",
+   "x_pct": 22.1,
+   "y_pct": 86.6,
+   "r_pct": 1.0
+  }
+ ],
  "unicorno": [
   {
    "star_id": "beta_monocerotis",
@@ -2177,8 +2482,112 @@
    "r_pct": 1.2
   }
  ],
- "centauro": [],
- "croce_del_sud": [],
+ "centauro": [
+  {
+   "star_id": "alfa_centauri",
+   "x_pct": 59.6,
+   "y_pct": 67.4,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "alpha_centauri_b",
+   "x_pct": 60.7,
+   "y_pct": 67.4,
+   "r_pct": 1.0
+  },
+  {
+   "star_id": "beta_centauri",
+   "x_pct": 54.6,
+   "y_pct": 69.4,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "theta_centauri",
+   "x_pct": 42.0,
+   "y_pct": 29.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gamma_centauri",
+   "x_pct": 33.0,
+   "y_pct": 63.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "epsilon_centauri",
+   "x_pct": 46.4,
+   "y_pct": 60.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_centauri",
+   "x_pct": 51.5,
+   "y_pct": 35.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "iota_centauri",
+   "x_pct": 31.4,
+   "y_pct": 37.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zeta_centauri",
+   "x_pct": 45.5,
+   "y_pct": 48.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "delta_centauri",
+   "x_pct": 29.3,
+   "y_pct": 70.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "omega_centauri",
+   "x_pct": 40.5,
+   "y_pct": 53.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "b_centauri",
+   "x_pct": 51.2,
+   "y_pct": 27.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "3_centauri",
+   "x_pct": 36.4,
+   "y_pct": 25.8,
+   "r_pct": 1.2
+  }
+ ],
+ "croce_del_sud": [
+  {
+   "star_id": "acrux",
+   "x_pct": 43.7,
+   "y_pct": 85.7,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "mimosa",
+   "x_pct": 43.1,
+   "y_pct": 77.6,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gacrux",
+   "x_pct": 38.6,
+   "y_pct": 76.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "imai",
+   "x_pct": 38.2,
+   "y_pct": 81.5,
+   "r_pct": 1.2
+  }
+ ],
  "lupo": [
   {
    "star_id": "alfa_lupi",
@@ -2289,9 +2698,114 @@
    "r_pct": 1.6
   }
  ],
- "altare": [],
- "triangolo_australe": [],
- "pavone": [],
+ "altare": [
+  {
+   "star_id": "alf_ara",
+   "x_pct": 58.6,
+   "y_pct": 26.2,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_ara",
+   "x_pct": 57.2,
+   "y_pct": 39.1,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gam_ara",
+   "x_pct": 57.2,
+   "y_pct": 41.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_ara",
+   "x_pct": 58.7,
+   "y_pct": 50.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps1_ara",
+   "x_pct": 50.6,
+   "y_pct": 34.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_ara",
+   "x_pct": 50.9,
+   "y_pct": 41.0,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "eta_ara",
+   "x_pct": 49.7,
+   "y_pct": 48.2,
+   "r_pct": 1.2
+  }
+ ],
+ "triangolo_australe": [
+  {
+   "star_id": "alf_tra",
+   "x_pct": 52.2,
+   "y_pct": 70.9,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_tra",
+   "x_pct": 42.1,
+   "y_pct": 61.7,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gam_tra",
+   "x_pct": 38.0,
+   "y_pct": 75.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "del_tra",
+   "x_pct": 44.8,
+   "y_pct": 60.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_tra",
+   "x_pct": 39.3,
+   "y_pct": 69.4,
+   "r_pct": 1.2
+  }
+ ],
+ "pavone": [
+  {
+   "star_id": "alf_pav",
+   "x_pct": 97.2,
+   "y_pct": 48.4,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_pav",
+   "x_pct": 91.1,
+   "y_pct": 71.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_pav",
+   "x_pct": 85.4,
+   "y_pct": 67.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "kap_pav",
+   "x_pct": 73.3,
+   "y_pct": 66.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "xi_pav",
+   "x_pct": 69.3,
+   "y_pct": 52.8,
+   "r_pct": 1.2
+  }
+ ],
  "corona_australe": [
   {
    "star_id": "alf_cra",
@@ -2354,12 +2868,386 @@
    "r_pct": 1.0
   }
  ],
- "pesce_australe": [],
- "gru": [],
- "lepre": [],
- "colomba": []
+ "pesce_australe": [
+  {
+   "star_id": "alf_psa",
+   "x_pct": 33.4,
+   "y_pct": 51.6,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_psa",
+   "x_pct": 21.6,
+   "y_pct": 51.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_psa",
+   "x_pct": 20.5,
+   "y_pct": 57.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_psa",
+   "x_pct": 21.9,
+   "y_pct": 57.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_psa",
+   "x_pct": 41.8,
+   "y_pct": 43.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_psa",
+   "x_pct": 40.1,
+   "y_pct": 29.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_psa",
+   "x_pct": 32.3,
+   "y_pct": 37.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "iot_psa",
+   "x_pct": 15.5,
+   "y_pct": 45.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "lam_psa",
+   "x_pct": 36.0,
+   "y_pct": 39.8,
+   "r_pct": 1.2
+  }
+ ],
+ "gru": [
+  {
+   "star_id": "alf_gru",
+   "x_pct": 45.4,
+   "y_pct": 73.5,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_gru",
+   "x_pct": 53.6,
+   "y_pct": 79.0,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gam_gru",
+   "x_pct": 47.7,
+   "y_pct": 52.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_gru",
+   "x_pct": 52.8,
+   "y_pct": 70.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_gru",
+   "x_pct": 51.4,
+   "y_pct": 88.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_gru",
+   "x_pct": 52.9,
+   "y_pct": 92.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "iot_gru",
+   "x_pct": 61.5,
+   "y_pct": 80.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "lam_gru",
+   "x_pct": 49.6,
+   "y_pct": 58.8,
+   "r_pct": 1.2
+  }
+ ],
+ "lepre": [
+  {
+   "star_id": "alf_lep",
+   "x_pct": 53.9,
+   "y_pct": 37.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_lep",
+   "x_pct": 51.4,
+   "y_pct": 44.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_lep",
+   "x_pct": 56.9,
+   "y_pct": 48.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_lep",
+   "x_pct": 60.2,
+   "y_pct": 44.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_lep",
+   "x_pct": 44.2,
+   "y_pct": 46.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_lep",
+   "x_pct": 58.9,
+   "y_pct": 30.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_lep",
+   "x_pct": 62.2,
+   "y_pct": 29.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "mu_lep",
+   "x_pct": 46.6,
+   "y_pct": 32.5,
+   "r_pct": 1.2
+  }
+ ],
+ "colomba": [
+  {
+   "star_id": "alf_col",
+   "x_pct": 55.5,
+   "y_pct": 73.9,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_col",
+   "x_pct": 58.5,
+   "y_pct": 77.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_col",
+   "x_pct": 70.3,
+   "y_pct": 72.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_col",
+   "x_pct": 52.5,
+   "y_pct": 76.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "kap_col",
+   "x_pct": 68.2,
+   "y_pct": 75.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_col",
+   "x_pct": 61.5,
+   "y_pct": 77.1,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "mu_col",
+   "x_pct": 56.8,
+   "y_pct": 70.3,
+   "r_pct": 1.2
+  }
+ ]
 ,
- "carena": [],
- "vele": [],
- "poppa": [],
- "bussola": []
+ "carena": [
+  {
+   "star_id": "alf_care",
+   "x_pct": 37.8,
+   "y_pct": 86.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "bet_care",
+   "x_pct": 67.4,
+   "y_pct": 85.0,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "eps_care",
+   "x_pct": 56.7,
+   "y_pct": 75.1,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "iot_care",
+   "x_pct": 63.8,
+   "y_pct": 70.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "the_care",
+   "x_pct": 77.0,
+   "y_pct": 75.8,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "ups_care",
+   "x_pct": 69.9,
+   "y_pct": 77.1,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "p_care",
+   "x_pct": 75.4,
+   "y_pct": 71.3,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "q_care",
+   "x_pct": 73.3,
+   "y_pct": 71.3,
+   "r_pct": 1.3
+  }
+ ],
+ "vele": [
+  {
+   "star_id": "lam_vel",
+   "x_pct": 54.7,
+   "y_pct": 50.0,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "del_vel",
+   "x_pct": 56.7,
+   "y_pct": 66.9,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gam_vel",
+   "x_pct": 46.7,
+   "y_pct": 62.3,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "kap_vel",
+   "x_pct": 62.9,
+   "y_pct": 63.9,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "mu_vel",
+   "x_pct": 76.9,
+   "y_pct": 54.0,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "o_vel",
+   "x_pct": 55.2,
+   "y_pct": 65.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "psi_vel",
+   "x_pct": 58.5,
+   "y_pct": 44.5,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "c_vel",
+   "x_pct": 56.0,
+   "y_pct": 55.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "n_vel",
+   "x_pct": 65.2,
+   "y_pct": 66.6,
+   "r_pct": 1.3
+  }
+ ],
+ "poppa": [
+  {
+   "star_id": "zeta_pup",
+   "x_pct": 40.0,
+   "y_pct": 54.8,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "rho_pup",
+   "x_pct": 29.1,
+   "y_pct": 37.0,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "tau_pup",
+   "x_pct": 38.2,
+   "y_pct": 79.9,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "nu_pup",
+   "x_pct": 29.5,
+   "y_pct": 76.0,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "kap_pup",
+   "x_pct": 25.1,
+   "y_pct": 47.7,
+   "r_pct": 1.1
+  },
+  {
+   "star_id": "sig_pup",
+   "x_pct": 36.9,
+   "y_pct": 65.1,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "3_pup",
+   "x_pct": 27.7,
+   "y_pct": 47.4,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "xi_pup",
+   "x_pct": 25.4,
+   "y_pct": 41.7,
+   "r_pct": 1.3
+  }
+ ],
+ "bussola": [
+  {
+   "star_id": "alf_pyx",
+   "x_pct": 43.8,
+   "y_pct": 41.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "bet_pyx",
+   "x_pct": 44.1,
+   "y_pct": 44.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_pyx",
+   "x_pct": 42.1,
+   "y_pct": 32.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_pyx",
+   "x_pct": 43.5,
+   "y_pct": 32.3,
+   "r_pct": 1.1
+  }
+ ]
