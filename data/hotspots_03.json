@@ -1,8 +1,249 @@
 ,
- "indiani": [],
- "volatile": [],
- "cidneo": [],
- "camaeleonte": [],
- "mosca": [],
- "pesce_volante": [],
- "doradina": []
+ "indiani": [
+  {
+   "star_id": "alf_ind",
+   "x_pct": 69.2,
+   "y_pct": 18.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "bet_ind",
+   "x_pct": 63.2,
+   "y_pct": 30.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_ind",
+   "x_pct": 71.9,
+   "y_pct": 37.4,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_ind",
+   "x_pct": 70.5,
+   "y_pct": 39.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_ind",
+   "x_pct": 66.6,
+   "y_pct": 23.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "the_ind",
+   "x_pct": 69.5,
+   "y_pct": 29.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "hd207129",
+   "x_pct": 78.2,
+   "y_pct": 31.5,
+   "r_pct": 1.2
+  }
+ ],
+ "volatile": [
+  {
+   "star_id": "alf_aps",
+   "x_pct": 32.7,
+   "y_pct": 50.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_aps",
+   "x_pct": 36.5,
+   "y_pct": 46.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "bet_aps",
+   "x_pct": 36.5,
+   "y_pct": 44.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_aps",
+   "x_pct": 35.8,
+   "y_pct": 46.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_aps",
+   "x_pct": 33.0,
+   "y_pct": 52.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "kap_aps",
+   "x_pct": 30.5,
+   "y_pct": 43.5,
+   "r_pct": 1.2
+  }
+ ],
+ "cidneo": [
+  {
+   "star_id": "bet_hyi",
+   "x_pct": 53.9,
+   "y_pct": 59.9,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "alf_hyi",
+   "x_pct": 66.8,
+   "y_pct": 75.0,
+   "r_pct": 1.4
+  },
+  {
+   "star_id": "gam_hyi",
+   "x_pct": 51.0,
+   "y_pct": 73.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_hyi",
+   "x_pct": 59.3,
+   "y_pct": 72.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "pi1_hyi",
+   "x_pct": 60.4,
+   "y_pct": 72.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_hyi",
+   "x_pct": 58.7,
+   "y_pct": 75.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta2_hyi",
+   "x_pct": 61.4,
+   "y_pct": 70.3,
+   "r_pct": 1.2
+  }
+ ],
+ "camaeleonte": [
+  {
+   "star_id": "alf_cha",
+   "x_pct": 35.2,
+   "y_pct": 71.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "bet_cha",
+   "x_pct": 30.7,
+   "y_pct": 58.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_cha",
+   "x_pct": 31.2,
+   "y_pct": 64.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del2_cha",
+   "x_pct": 32.8,
+   "y_pct": 62.7,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_cha",
+   "x_pct": 29.5,
+   "y_pct": 59.8,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eta_cha",
+   "x_pct": 35.4,
+   "y_pct": 69.2,
+   "r_pct": 1.2
+  }
+ ],
+ "mosca": [
+  {
+   "star_id": "alf_mus",
+   "x_pct": 20.5,
+   "y_pct": 57.7,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "bet_mus",
+   "x_pct": 19.3,
+   "y_pct": 56.6,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "gam_mus",
+   "x_pct": 23.5,
+   "y_pct": 58.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_mus",
+   "x_pct": 23.0,
+   "y_pct": 55.0,
+   "r_pct": 1.2
+  }
+ ],
+ "pesce_volante": [
+  {
+   "star_id": "alf_vol",
+   "x_pct": 26.0,
+   "y_pct": 80.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "bet_vol",
+   "x_pct": 29.4,
+   "y_pct": 82.9,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "gam_vol",
+   "x_pct": 37.3,
+   "y_pct": 81.2,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_vol",
+   "x_pct": 35.9,
+   "y_pct": 84.0,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "eps_vol",
+   "x_pct": 32.1,
+   "y_pct": 81.3,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "zet_vol",
+   "x_pct": 35.5,
+   "y_pct": 78.1,
+   "r_pct": 1.2
+  }
+ ],
+ "doradina": [
+  {
+   "star_id": "alf_dor",
+   "x_pct": 56.5,
+   "y_pct": 96.7,
+   "r_pct": 1.3
+  },
+  {
+   "star_id": "bet_dor",
+   "x_pct": 46.6,
+   "y_pct": 90.6,
+   "r_pct": 1.2
+  },
+  {
+   "star_id": "del_dor",
+   "x_pct": 44.9,
+   "y_pct": 87.2,
+   "r_pct": 1.2
+  }
+ ]
